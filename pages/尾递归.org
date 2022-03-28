@@ -1,0 +1,4 @@
+* Clojure中的尾递归如何书写？#card #clojure
+** 在结尾位置(tail position)使用 recur，重新绑定参数值，递归到最近的函数顶部或者loop
+* 结尾位置tail position是指哪里? #card #clojure
+** 简而言之，出现在表达式结尾位置的form，其值可以作为整个表达式的*返回值*。

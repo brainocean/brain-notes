@@ -1,0 +1,14 @@
+* Clojure中都有哪些是真值？#card #clojure
+** 除了 {{cloze false和nil}} ，其他一切都是true
+* Clojure中空集合是真值吗？#card #clojure
+** 空集合 #{} {} [] () 都是true
+** 但是Common Lisp之类的Lisp方言空集合是false
+* 判断一个集合是否为空的惯用法是？ #card #clojure
+** #+BEGIN_SRC clojure
+(seq [1 2 3])
+;=> (1 2 3)
+
+(seq [])
+;=> nil
+#+END_SRC
+*
