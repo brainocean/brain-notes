@@ -1,0 +1,45 @@
+* Clojure中按照位置解构的语法和含义是怎样的？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-02T05:54:03.075Z
+:card-last-reviewed: 2022-03-29T05:54:03.075Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(let [[a b c & more :as all] (range 10)]
+  [a b c more all])
+;=> [0 1 2 (3 4 5 6 7 8 9) (0 1 2 3 4 5 6 7 8 9)]
+#+END_SRC
+* Clojure常用的map解构的语法和含义是怎样的？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-02T05:56:25.973Z
+:card-last-reviewed: 2022-03-29T05:56:25.973Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(let [guys-name-map {:f-name "Guy" :m-name "Lewis" :l-name "Steele"}
+      {:keys [title f-name m-name]
+       last-name :l-name
+       :or {title "Mr."}} guys-name-map]
+  (str title " " last-name ", " f-name " " m-name))
+;=> "Mr. Steele, Guy Lewis"
+#+END_SRC
+** 当map的key是字符串或者符号的时候，使用strs或syms来取代keys
+** 当map的key具有namespace的时候，可以写成 :myns/keys [key1 key2]的形式
+** 使用 :as all 会把all绑定到整个map的值上
+* Clojure的解构都可以用在什么地方？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-02T06:42:33.760Z
+:card-last-reviewed: 2022-03-29T06:42:33.761Z
+:card-last-score: 5
+:END:
+** 用在let的绑定form
+** 用在函数声明的参数中，用来解析map或者序列类型的参数值，和 [[Clojure关键字参数]]
