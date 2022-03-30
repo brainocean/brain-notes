@@ -1,0 +1,15 @@
+* Clojure中的关键字和namespace的关系是什么？ #card #clojure
+** #+BEGIN_SRC clojure
+user=> (namespace :kw)
+;=> nil
+user=> (namespace ::kw)
+;=> "user"
+user=> (namespace :myns/kw)
+;=> "myns"
+#+END_SRC
+** 实际上keyword的前缀所指向的命名空间可以并不存在
+* Clojure keyword不能持有 [[Clojure元数据]]，因为同名关键字就是相同的对象
+** #+BEGIN_SRC clojure
+(identical? :kw :kw)
+;=> true
+#+END_SRC
