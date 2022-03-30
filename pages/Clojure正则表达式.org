@@ -1,0 +1,17 @@
+* Clojure的[[正则表达式]]字面量的语法是什么？ #card #clojure #regex
+** #+BEGIN_SRC clojure
+#"an example pattern"
+
+(class #"example")
+;=> java.util.regex.Pattern
+#+END_SRC
+* Clojure的正则表达式支持 [[使用修饰符flag进行高级搜索]]，但是语法不太一样
+** 以(?<flag>)开头的Clojure regex字面量会设置修饰符，例如模式#"(?i)yo"会匹配字符串"yo", "yO", "Yo"和 "YO"
+* re-seq函数是Clojure regex的苦力
+** #+BEGIN_SRC clojure
+(re-seq #"\w+" "one-two/three")
+;=> ("one" "two" "three")
+
+(re-seq #"\w*(\w)" "one-two/three")
+;=> (["one" "e"] ["two" "o"] ["three" "e"])
+#+END_SRC
