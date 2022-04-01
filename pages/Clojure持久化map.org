@@ -1,0 +1,30 @@
+* 创建一个map的常用方法有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-04-05T07:18:46.183Z
+:card-last-reviewed: 2022-04-01T07:18:46.186Z
+:card-last-score: 3
+:END:
+** #+BEGIN_SRC clojure
+;=> 直接创建map
+{:a 1, :b 2}
+
+;=> 通过键值对创建map
+(into {} [[:a 1] [:b 2]])
+(hash-map :a 1 :b 2)
+(apply hash-map [:a 1 :b 2])
+;=> {:a 1, :b 2}
+
+; 压缩键值对生成map
+(zipmap [:a :b] [1 2])
+;=> {:b 2, :a 1}
+
+; 创建一个有序map
+(sorted-map "bac" 2 "abc" 9)
+;=> {"abc" 9, "bac" 2}
+
+(sorted-map-by #(compare (subs %1 1) (subs %2 1)) "bac" 2 "abc" 9)
+;=> {"bac" 2, "abc" 9}
+#+END_SRC

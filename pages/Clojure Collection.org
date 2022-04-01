@@ -1,0 +1,40 @@
+* Clojure中的Collection分为哪三类？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-04T01:13:57.224Z
+:card-last-reviewed: 2022-03-31T01:13:57.226Z
+:card-last-score: 5
+:END:
+** Sequential 顺序集合， {{cloze map}} 和 {{cloze set}}
+* Clojure collection中，都有哪些是sequential的？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-04T01:15:29.944Z
+:card-last-reviewed: 2022-03-31T01:15:29.944Z
+:card-last-score: 5
+:END:
+** list, vector, range
+* Clojure collection中，都有哪些是符合seq?的 #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-04T01:14:09.996Z
+:card-last-reviewed: 2022-03-31T01:14:09.997Z
+:card-last-score: 5
+:END:
+** list, range
+* clojure.core/seq 的作用是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-04T01:17:22.237Z
+:card-last-reviewed: 2022-03-31T01:17:22.237Z
+:card-last-score: 5
+:END:
+** 尽量把它的参数转换成一个实现了ISeq的对象，即可以用first, next, rest来遍历元素
