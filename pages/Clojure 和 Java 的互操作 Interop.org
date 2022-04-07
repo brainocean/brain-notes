@@ -1,10 +1,10 @@
 * Clojure 如何 访问 Java 类的静态成员？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:56:43.013Z
-:card-last-reviewed: 2022-03-29T05:56:43.014Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:31:13.570Z
+:card-last-reviewed: 2022-04-07T01:31:13.570Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -17,11 +17,11 @@ java.util.Locale/JAPAN
 ** 注意ClojureScript并无此特性，因为JavaScript没有静态成员的概念
 * Clojure如何创建Java类的实例？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:55:56.802Z
-:card-last-reviewed: 2022-03-29T05:55:56.803Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:29:29.075Z
+:card-last-reviewed: 2022-04-07T01:29:29.075Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -30,11 +30,11 @@ java.util.Locale/JAPAN
 #+END_SRC
 * Clojure如何读取Java实例属性的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:53:39.673Z
-:card-last-reviewed: 2022-03-29T05:53:39.675Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:26:26.192Z
+:card-last-reviewed: 2022-04-07T01:26:26.193Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -46,11 +46,11 @@ java.util.Locale/JAPAN
 #+END_SRC
 * Clojure如何设置Java实例属性的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:55:26.148Z
-:card-last-reviewed: 2022-03-29T05:55:26.149Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:27:18.187Z
+:card-last-reviewed: 2022-04-07T01:27:18.187Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -61,11 +61,11 @@ java.util.Locale/JAPAN
 #+END_SRC
 * Clojure如何访问Java实例的成员方法？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:56:55.691Z
-:card-last-reviewed: 2022-03-29T05:56:55.693Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:31:30.295Z
+:card-last-reviewed: 2022-04-07T01:31:30.295Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -74,11 +74,11 @@ java.util.Locale/JAPAN
 #+END_SRC
 * Clojure如何简化Java中的链式调用？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:55:43.642Z
-:card-last-reviewed: 2022-03-29T05:55:43.643Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:29:07.451Z
+:card-last-reviewed: 2022-04-07T01:29:07.451Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -88,11 +88,11 @@ java.util.Locale/JAPAN
 ** 使用threading macro ->, ->>可以达到类似的效果
 * Clojure中的doto宏如何使用？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:54:46.685Z
-:card-last-reviewed: 2022-03-29T05:54:46.685Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:27:03.951Z
+:card-last-reviewed: 2022-04-07T01:27:03.951Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

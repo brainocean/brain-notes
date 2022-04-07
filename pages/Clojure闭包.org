@@ -1,0 +1,8 @@
+* 闭包也是一个函数，它可以访问定义它的词法上下文中的局部量
+** #+BEGIN_SRC clojure
+(def times-two
+  (let [x 2]
+   (fn [y] (* y x))))
+#+END_SRC
+* 闭包乃贫者对象 Closures are a poor man's object.
+** 可以用来创建轻量级对象

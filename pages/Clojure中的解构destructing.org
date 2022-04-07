@@ -1,11 +1,11 @@
 * Clojure中按照位置解构的语法和含义是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:54:03.075Z
-:card-last-reviewed: 2022-03-29T05:54:03.075Z
-:card-last-score: 5
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-04-17T06:26:47.261Z
+:card-last-reviewed: 2022-04-07T01:26:47.261Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (let [[a b c & more :as all] (range 10)]
@@ -14,12 +14,12 @@
 #+END_SRC
 * Clojure常用的map解构的语法和含义是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T05:56:25.973Z
-:card-last-reviewed: 2022-03-29T05:56:25.973Z
-:card-last-score: 5
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-04-17T06:31:00.410Z
+:card-last-reviewed: 2022-04-07T01:31:00.410Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (let [guys-name-map {:f-name "Guy" :m-name "Lewis" :l-name "Steele"}
@@ -34,11 +34,11 @@
 ** 使用 :as all 会把all绑定到整个map的值上
 * Clojure的解构都可以用在什么地方？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T06:42:33.760Z
-:card-last-reviewed: 2022-03-29T06:42:33.761Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-18T05:26:10.757Z
+:card-last-reviewed: 2022-04-07T01:26:10.757Z
 :card-last-score: 5
 :END:
 ** 用在let的绑定form

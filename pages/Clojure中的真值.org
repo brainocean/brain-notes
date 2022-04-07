@@ -3,14 +3,14 @@
 * Clojure中空集合是真值吗？#card #clojure
 ** 空集合 #{} {} [] () 都是true
 ** 但是Common Lisp之类的Lisp方言空集合是false
-* 判断一个集合是否为空的惯用法是？ #card #clojure
+* 判断一个collection是否为空的惯用法是？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-02T01:23:00.745Z
-:card-last-reviewed: 2022-03-29T01:23:00.746Z
 :card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-04-18T05:25:45.126Z
+:card-last-interval: 11.2
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-04-07T01:25:45.126Z
 :END:
 ** #+BEGIN_SRC clojure
 (seq [1 2 3])

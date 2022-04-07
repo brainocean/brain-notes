@@ -1,5 +1,13 @@
 * 在惰性序列产生表达式的最外层使用lazy-seq宏
 * 惰性序列的每一步的状态是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4.92
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-07T05:36:50.521Z
+:card-last-reviewed: 2022-04-02T07:36:50.521Z
+:card-last-score: 5
+:END:
 ** 如果这一步还没有实现realized，则指向一个函数或者[[thunk]]，等待将来需要求值时调用
 ** 如果这一步已经实现realized，则指向被缓存的[[thunk]]的返回值，而thunk本身被释放掉了
 * 使用iterate, filter, map, reduce等高阶函数，能够很好的处理无限长惰性序列

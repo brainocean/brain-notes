@@ -1,10 +1,10 @@
 * 如何创建一个Clojure的持久化队列？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-04T09:26:16.210Z
-:card-last-reviewed: 2022-03-31T09:26:16.210Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-09T09:34:14.626Z
+:card-last-reviewed: 2022-04-05T09:34:14.626Z
 :card-last-score: 5
 :END:
 ** 不用创建，使用conj向clojure.lang.PersistentQueue/EMPTY添加就行了

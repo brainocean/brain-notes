@@ -1,10 +1,10 @@
 * 创建一个vector的函数有哪些？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-04T09:26:40.192Z
-:card-last-reviewed: 2022-03-31T09:26:40.192Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-09T09:53:11.862Z
+:card-last-reviewed: 2022-04-05T09:53:11.862Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -23,10 +23,10 @@
 * 获取vector元素的值有哪些方法？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-04T09:25:55.741Z
-:card-last-reviewed: 2022-03-31T09:25:55.741Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-09T09:31:18.128Z
+:card-last-reviewed: 2022-04-05T09:31:18.128Z
 :card-last-score: 5
 :END:
 ** |  | nth | get | vector当作函数 |
@@ -37,10 +37,10 @@
 * 修改vector元素值的方法通常有哪些？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-04T09:25:15.366Z
-:card-last-reviewed: 2022-03-31T09:25:15.366Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-10T01:10:44.928Z
+:card-last-reviewed: 2022-04-06T01:10:44.929Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -56,10 +56,10 @@
 * 将vector用作栈stack的相关函数有哪些？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-04T09:24:39.487Z
-:card-last-reviewed: 2022-03-31T09:24:39.487Z
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-09T09:25:50.078Z
+:card-last-reviewed: 2022-04-05T09:25:50.080Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -80,11 +80,11 @@
 * 如何查找某个元素是否在vector中？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-05T07:19:24.544Z
-:card-last-reviewed: 2022-04-01T07:19:24.544Z
-:card-last-score: 5
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-04-09T09:32:07.510Z
+:card-last-reviewed: 2022-04-05T09:32:07.510Z
+:card-last-score: 3
 :END:
 ** 使用some而不是contains?，因为contains?查找的是*键*(对于vector，键就是index)是否存在而不是值
 ** #+BEGIN_SRC clojure
