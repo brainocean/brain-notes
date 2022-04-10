@@ -1,10 +1,10 @@
 * Clojure中的关键字和namespace的关系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-09T09:26:44.956Z
-:card-last-reviewed: 2022-04-05T09:26:44.957Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-21T04:57:56.183Z
+:card-last-reviewed: 2022-04-10T00:57:56.183Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

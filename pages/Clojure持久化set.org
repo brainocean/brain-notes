@@ -1,10 +1,10 @@
 * 怎样获取set的元素？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-09T09:29:48.814Z
-:card-last-reviewed: 2022-04-05T09:29:48.814Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-21T04:59:22.216Z
+:card-last-reviewed: 2022-04-10T00:59:22.217Z
 :card-last-score: 5
 :END:
 ** 使用get或者把set本身作为函数

@@ -1,40 +1,40 @@
 * Clojure中的Collection分为哪三类？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-09T09:25:58.904Z
-:card-last-reviewed: 2022-04-05T09:25:58.904Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-21T04:57:21.798Z
+:card-last-reviewed: 2022-04-10T00:57:21.798Z
 :card-last-score: 5
 :END:
 ** Sequential 顺序集合， {{cloze map}} 和 {{cloze set}}
 * Clojure collection中，都有哪些是sequential的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-09T09:32:15.222Z
-:card-last-reviewed: 2022-04-05T09:32:15.222Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-21T05:01:51.332Z
+:card-last-reviewed: 2022-04-10T01:01:51.332Z
 :card-last-score: 5
 :END:
 ** list, vector, range
 * Clojure collection中，都有哪些是符合seq?的 #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-09T09:26:23.409Z
-:card-last-reviewed: 2022-04-05T09:26:23.409Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-21T04:57:40.141Z
+:card-last-reviewed: 2022-04-10T00:57:40.141Z
 :card-last-score: 5
 :END:
 ** list, range
 * clojure.core/seq 的作用是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-09T09:53:28.975Z
-:card-last-reviewed: 2022-04-05T09:53:28.975Z
-:card-last-score: 5
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-04-20T06:05:32.402Z
+:card-last-reviewed: 2022-04-10T01:05:32.403Z
+:card-last-score: 3
 :END:
 ** 尽量把它的参数转换成一个实现了ISeq的对象，即可以用first, next, rest来遍历元素
