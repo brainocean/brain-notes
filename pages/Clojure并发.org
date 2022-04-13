@@ -1,10 +1,10 @@
 * Clojure中的四个引用类型的主要特点是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-04-12T14:30:01.640Z
-:card-last-reviewed: 2022-04-09T01:30:01.641Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-04-17T01:01:38.504Z
+:card-last-reviewed: 2022-04-13T01:01:38.504Z
 :card-last-score: 3
 :END:
 ** | | Ref | Agent | Atom | Var |

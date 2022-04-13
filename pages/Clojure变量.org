@@ -41,3 +41,19 @@
 (+ x y)
 ;=> 2
 #+END_SRC
+* var可能有的四种状态都是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 5.74
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-18T18:03:04.124Z
+:card-last-reviewed: 2022-04-13T01:03:04.124Z
+:card-last-score: 5
+:END:
+** |初始化| (resolve 'x) | (bound? #' x) | (thread-bound? #' x) |
+| (def x) | 为#'user/x | false | false |
+| (def x 5) | 为#'user/x | true | false |
+| (binding [x 7] ...) | 为#'user/x | true | true |
+| (with-local-vars [x 9] ...) | nil | true (bound? x) | true (thread-bound? x) |
+**
+**
