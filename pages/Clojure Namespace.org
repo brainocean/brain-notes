@@ -1,11 +1,11 @@
 * Namespace就是 [[Clojure符号]]到 [[Clojure变量]]或者Class的映射mapping
 * 如何创建namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 5.59
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-13T14:56:31.314Z
-:card-last-reviewed: 2022-04-08T00:56:31.314Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-18T00:59:12.540Z
+:card-last-reviewed: 2022-04-14T00:59:12.541Z
 :card-last-score: 5
 :END:
 ** | | 函数/宏 | 功能 | 缺省映射 | 应用场景 |
@@ -14,11 +14,11 @@
 | (ns myns) | 宏 | 创建并切换到一个namespace |  java.lang.*  clojure.core/* | clojure 源代码中 |
 * 如何添加namespace中的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 5.59
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-13T14:56:05.739Z
-:card-last-reviewed: 2022-04-08T00:56:05.739Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-18T00:58:55.731Z
+:card-last-reviewed: 2022-04-14T00:58:55.731Z
 :card-last-score: 5
 :END:
 ** 使用intern函数：在namespace中查找符号到变量的映射，如果存在就重用那个变量，否则创建一个映射
@@ -37,11 +37,11 @@ myns/x
 #+END_SRC
 * 如何移除namespace里面的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 5.79
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-13T18:58:29.145Z
-:card-last-reviewed: 2022-04-08T00:58:29.146Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-18T01:00:09.431Z
+:card-last-reviewed: 2022-04-14T01:00:09.431Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -49,11 +49,11 @@ myns/x
 #+END_SRC
 * 如何删除一个namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 5.79
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-13T18:57:52.344Z
-:card-last-reviewed: 2022-04-08T00:57:52.344Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-18T00:59:42.986Z
+:card-last-reviewed: 2022-04-14T00:59:42.986Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -61,11 +61,11 @@ myns/x
 #+END_SRC
 * 如何定义一个私有的变量、函数、宏？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 5.59
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-13T14:56:41.248Z
-:card-last-reviewed: 2022-04-08T00:56:41.248Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-18T00:59:24.284Z
+:card-last-reviewed: 2022-04-14T00:59:24.284Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
