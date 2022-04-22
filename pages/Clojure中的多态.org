@@ -1,17 +1,17 @@
 * Clojure Protocols和Clojure Multimethods的区别和联系是什么？ #card #clojure
 :PROPERTIES:
 :title: Clojure中的多态
-:card-last-interval: 3.45
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-04-19T12:25:30.431Z
-:card-last-reviewed: 2022-04-16T02:25:30.431Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-04-24T02:46:22.296Z
+:card-last-reviewed: 2022-04-20T02:46:22.296Z
+:card-last-score: 5
 :END:
 ** Protocols和Multimethods都是用来实现[[多态]]的
 ** | Mltimethods | Protocols |
 | 定义一个多态方法 | 集合多个多态方法 |
-| 通过一个函数的返回值来确定分发的目标 | 根据类型分发 |
+| 通过一个函数的返回值来确定分发的目标 | 根据 [[Clojure Datatype]] 分发 |
 | 灵活性高 | 效率高 |
 * 怎样实现一个Protocol？ #card #clojure
 :PROPERTIES:

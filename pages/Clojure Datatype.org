@@ -1,0 +1,35 @@
+* A datatype provides the following:
+** A unique class, either named or anonymous
+** Structure, either explicitly as fields or implicitly as a closure
+** Fields that can have type hints and can be primitive
+** Immutability on by default
+** Unification with maps (via records)
+** Optional implementations of abstract methods specified in protocols or interfaces
+* 如何定义一个新的Datatype？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 6.56
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-28T14:24:07.481Z
+:card-last-reviewed: 2022-04-22T01:24:07.482Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(deftype CryptoVault [filename keystore password])
+;=> user.CryptoVault
+#+END_SRC
+* 如何创建一个datatype的实例？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 6.56
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-28T14:21:39.649Z
+:card-last-reviewed: 2022-04-22T01:21:39.649Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def vault (->CryptoVault "vault-file" "keystore" "toomanysecrets"))
+;#'user/vault
+#+END_SRC
+* Record是一个实现了PersistantMap的datatype：可以实现protocol的map
+* The reify macro lets you create an anonymous instance of a datatype that implements either a protocol or an interface.

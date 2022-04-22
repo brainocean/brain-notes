@@ -1,3 +1,6 @@
+* A _state_ is the _value_ of an _identity_ at a point in time.
+** value是一个不可变的数据
+** identity是一个有名字的实体，在某一个时间点上引用reference一个value，一共有四种引用类型
 * Clojure中的四个引用类型的主要特点是什么？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 9.28
@@ -7,8 +10,14 @@
 :card-last-reviewed: 2022-04-17T03:16:10.680Z
 :card-last-score: 5
 :END:
-** | | Ref | Agent | Atom | Var |
+** | | [[Clojure Ref]]  | [[Clojure Agent]] | [[Clojure Atom]] | [[Clojure Var]] |
 | 需要协调 | x |  | | |
 | 异步 | | x | | |
 | 可重试 | x | | x | |
 | 线程局部 | | | | x |
+| 更改函数 | Pure | Any | Pure | Any |
+* Clojure程序模型通常分为两个层次
+** A *functional model* that has no mutable state.
+*** Most of your code will normally be in this layer, which is
+*** easier to read, easier to test, and easier to parallelize.
+** *Reference models* for the parts of the application that you find more convenient to deal with using mutable state (despite its disadvantages).

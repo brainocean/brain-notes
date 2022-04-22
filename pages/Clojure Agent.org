@@ -1,0 +1,65 @@
+* Agent的适用场景是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 6.56
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-28T14:22:27.105Z
+:card-last-reviewed: 2022-04-22T01:22:27.105Z
+:card-last-score: 5
+:END:
+** 对数据的异步访问
+* 如何创建一个Agent并获取它的值？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 6.56
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-28T14:27:07.596Z
+:card-last-reviewed: 2022-04-22T01:27:07.596Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def counter (agent 0))
+;-> #'user/counter
+
+(deref counter)
+;-> 0
+
+@counter
+;-> 0
+#+END_SRC
+* 如何改变一个Agent的值？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 6.56
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-28T14:27:23.188Z
+:card-last-reviewed: 2022-04-22T01:27:23.188Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(send counter inc)
+;-> #object[clojure.lang.Agent 0x7ae288e1 {:status :ready, :val 1}]
+;send并不返回新的值，因为这个值现在可能还没有发生更改，send返回agent对象本身
+#+END_SRC
+* Agent如何处理出错？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 6.56
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-04-28T14:21:25.846Z
+:card-last-reviewed: 2022-04-22T01:21:25.847Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(agent initial-state options*)
+; options include:
+;   :validator validate-fn
+;   :meta metadata-map
+;   :error-handler handler-fn
+;   :error-mode mode-keyword (:continue or :fail)
+
+(agent-error counter)
+
+(restart-agent counter 0)
+;-> nil
+#+END_SRC

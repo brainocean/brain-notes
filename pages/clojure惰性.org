@@ -10,7 +10,7 @@
 :END:
 ** 如果这一步还没有实现realized，则指向一个函数或者[[thunk]]，等待将来需要求值时调用
 ** 如果这一步已经实现realized，则指向被缓存的[[thunk]]的返回值，而thunk本身被释放掉了
-* 使用iterate, filter, map, reduce等高阶函数，能够很好的处理无限长惰性序列
+* 使用iterate, filter, map, reduce等高阶函数，能够很好的处理无限长 [[Clojure惰性序列]]
 * 惰性、尾递归、增量的快速排序
 ** #+BEGIN_SRC clojure
 
@@ -36,4 +36,9 @@
 
 (take 10 (qsort (rand-ints 10000)))
 ;=> (0 0 0 4 4 7 7 8 9 9)
+#+END_SRC
+* 注意[[Clojure REPL]]不是惰性的
+** 可以通过设定print-length来在REPL中打印惰性序列
+** #+BEGIN_SRC clojure
+(set! *print-length* 10)
 #+END_SRC

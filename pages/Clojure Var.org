@@ -1,32 +1,35 @@
 * Clojure变量variable是内存中的一个storage location，可以被绑定到一个值value
+:PROPERTIES:
+:title: Clojure Var
+:END:
 * Clojure变量和[[Clojure符号]]的关系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T01:00:37.119Z
-:card-last-reviewed: 2022-04-14T01:00:37.119Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-30T05:13:20.344Z
+:card-last-reviewed: 2022-04-19T01:13:20.344Z
 :card-last-score: 5
 :END:
 ** 符号就是一个名字，在eval时，会在namespace里面查找(称为resolve)符号，找到对应的变量，然后把变量绑定的值作为符号的求值结果
 * (var symbol)的意义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T00:58:39.477Z
-:card-last-reviewed: 2022-04-14T00:58:39.477Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-30T05:05:05.845Z
+:card-last-reviewed: 2022-04-19T01:05:05.845Z
 :card-last-score: 5
 :END:
 ** 返回symbol绑定的变量本身，也可以用#'symbol来表达
 * 如何做Clojure变量的线程本地绑定？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-04-18T00:59:58.278Z
-:card-last-reviewed: 2022-04-14T00:59:58.278Z
-:card-last-score: 3
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-04-29T06:12:23.908Z
+:card-last-reviewed: 2022-04-19T01:12:23.908Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (def ^:dynamic x 1)
@@ -41,14 +44,15 @@
 (+ x y)
 ;=> 2
 #+END_SRC
+** 作为动态绑定的Var通常被称作特殊变量，命名规范是以*var-name*，可以被用来“远程”改变函数的行为
 * var可能有的四种状态都是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 5.74
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-18T18:03:04.124Z
-:card-last-reviewed: 2022-04-13T01:03:04.124Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-04-23T01:14:06.338Z
+:card-last-reviewed: 2022-04-19T01:14:06.339Z
+:card-last-score: 3
 :END:
 ** |初始化| (resolve 'x) | (bound? #' x) | (thread-bound? #' x) |
 | (def x) | 为#'user/x | false | false |

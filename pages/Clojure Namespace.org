@@ -1,11 +1,11 @@
-* Namespace就是 [[Clojure符号]]到 [[Clojure变量]]或者Class的映射mapping
+* Namespace就是 [[Clojure符号]]到 [[Clojure Var]]或者Class的映射mapping
 * 如何创建namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T00:59:12.540Z
-:card-last-reviewed: 2022-04-14T00:59:12.541Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-30T05:06:01.396Z
+:card-last-reviewed: 2022-04-19T01:06:01.396Z
 :card-last-score: 5
 :END:
 ** | | 函数/宏 | 功能 | 缺省映射 | 应用场景 |
@@ -14,11 +14,11 @@
 | (ns myns) | 宏 | 创建并切换到一个namespace |  java.lang.*  clojure.core/* | clojure 源代码中 |
 * 如何添加namespace中的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T00:58:55.731Z
-:card-last-reviewed: 2022-04-14T00:58:55.731Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-30T05:05:34.843Z
+:card-last-reviewed: 2022-04-19T01:05:34.843Z
 :card-last-score: 5
 :END:
 ** 使用intern函数：在namespace中查找符号到变量的映射，如果存在就重用那个变量，否则创建一个映射
@@ -39,9 +39,9 @@ myns/x
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T01:00:09.431Z
-:card-last-reviewed: 2022-04-14T01:00:09.431Z
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-24T02:46:29.174Z
+:card-last-reviewed: 2022-04-20T02:46:29.174Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -49,23 +49,23 @@ myns/x
 #+END_SRC
 * 如何删除一个namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T00:59:42.986Z
-:card-last-reviewed: 2022-04-14T00:59:42.986Z
-:card-last-score: 5
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-04-29T06:08:01.408Z
+:card-last-reviewed: 2022-04-19T01:08:01.408Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (remove-ns 'myns)
 #+END_SRC
 * 如何定义一个私有的变量、函数、宏？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-04-18T00:59:24.284Z
-:card-last-reviewed: 2022-04-14T00:59:24.284Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-04-30T05:06:26.162Z
+:card-last-reviewed: 2022-04-19T01:06:26.162Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

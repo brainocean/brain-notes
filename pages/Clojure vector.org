@@ -1,10 +1,10 @@
 * 创建一个vector的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-21T05:02:55.924Z
-:card-last-reviewed: 2022-04-10T01:02:55.924Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-05-25T16:26:54.841Z
+:card-last-reviewed: 2022-04-22T01:26:54.841Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -22,11 +22,11 @@
 #+END_SRC
 * 获取vector元素的值有哪些方法？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-21T05:01:06.294Z
-:card-last-reviewed: 2022-04-10T01:01:06.294Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-05-25T16:24:52.753Z
+:card-last-reviewed: 2022-04-22T01:24:52.753Z
 :card-last-score: 5
 :END:
 ** |  | nth | get | vector当作函数 |
@@ -55,11 +55,11 @@
 #+END_SRC
 * 将vector用作栈stack的相关函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-21T04:57:11.752Z
-:card-last-reviewed: 2022-04-10T00:57:11.753Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-05-25T16:19:51.598Z
+:card-last-reviewed: 2022-04-22T01:19:51.599Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -79,11 +79,11 @@
 #+END_SRC
 * 如何查找某个元素是否在vector中？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-04-20T06:01:44.580Z
-:card-last-reviewed: 2022-04-10T01:01:44.618Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-05-18T08:07:11.630Z
+:card-last-reviewed: 2022-04-21T01:07:11.631Z
 :card-last-score: 5
 :END:
 ** 使用some而不是contains?，因为contains?查找的是*键*(对于vector，键就是index)是否存在而不是值

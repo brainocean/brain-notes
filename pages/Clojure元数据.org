@@ -1,11 +1,11 @@
 * 如何为Clojure的函数添加元数据？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.32
-:card-repeats: 3
-:card-ease-factor: 2.08
-:card-next-schedule: 2022-04-20T08:19:27.598Z
-:card-last-reviewed: 2022-04-12T01:19:27.598Z
-:card-last-score: 3
+:card-last-interval: 19.01
+:card-repeats: 4
+:card-ease-factor: 2.18
+:card-next-schedule: 2022-05-10T01:03:05.244Z
+:card-last-reviewed: 2022-04-21T01:03:05.282Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (defn ^:private ^:dynamic sum [nums]
