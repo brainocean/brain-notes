@@ -1,0 +1,5 @@
+* 适用multimethod的场景？
+** If a function branches based on a type, or multiple types, consider a multimethod.
+** Types are whatever you discover them to be. They do not have to be explicit Java classes or data tags.
+** You should be able to interpret the dispatch value of a defmethod without having to refer to the defmulti.
+** Don’t use multimethods merely to handle optional arguments or recursion.

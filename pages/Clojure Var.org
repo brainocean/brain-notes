@@ -47,12 +47,12 @@
 ** 作为动态绑定的Var通常被称作特殊变量，命名规范是以*var-name*，可以被用来“远程”改变函数的行为
 * var可能有的四种状态都是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-04-23T01:14:06.338Z
-:card-last-reviewed: 2022-04-19T01:14:06.339Z
-:card-last-score: 3
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-03T08:20:04.110Z
+:card-last-reviewed: 2022-04-23T03:20:04.110Z
+:card-last-score: 5
 :END:
 ** |初始化| (resolve 'x) | (bound? #' x) | (thread-bound? #' x) |
 | (def x) | 为#'user/x | false | false |

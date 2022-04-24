@@ -1,10 +1,10 @@
 * 正则表达式Unicode Property的句法如何？ #card #regex
 :PROPERTIES:
-:card-last-interval: 7.05
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-23T03:26:32.847Z
-:card-last-reviewed: 2022-04-16T02:26:32.847Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-28T05:21:36.454Z
+:card-last-reviewed: 2022-04-24T02:21:36.454Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript
@@ -22,11 +22,11 @@
 #+END_SRC
 * 匹配字母/字符的Unicode Property是什么？ #card #regex
 :PROPERTIES:
-:card-last-interval: 7.05
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-23T03:26:43.291Z
-:card-last-reviewed: 2022-04-16T02:26:43.292Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-28T05:21:44.553Z
+:card-last-reviewed: 2022-04-24T02:21:44.553Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript
@@ -34,11 +34,11 @@
 #+END_SRC
 * 匹配标点符号的Unicode Property是什么？ #card #regex
 :PROPERTIES:
-:card-last-interval: 7.05
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-23T03:26:57.126Z
-:card-last-reviewed: 2022-04-16T02:26:57.126Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-28T05:22:36.935Z
+:card-last-reviewed: 2022-04-24T02:22:36.935Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript
@@ -46,11 +46,11 @@
 #+END_SRC
 * 匹配数字的Unicode Property是什么？ #card #regex
 :PROPERTIES:
-:card-last-interval: 7.05
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-23T03:27:02.752Z
-:card-last-reviewed: 2022-04-16T02:27:02.752Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-28T05:23:46.321Z
+:card-last-reviewed: 2022-04-24T02:23:46.321Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript
@@ -58,11 +58,11 @@
 #+END_SRC
 * 匹配空白的Unicode Property是什么？ #card #regex
 :PROPERTIES:
-:card-last-interval: 7.05
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-23T03:25:12.908Z
-:card-last-reviewed: 2022-04-16T02:25:12.960Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-28T05:20:08.368Z
+:card-last-reviewed: 2022-04-24T02:20:08.424Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript
@@ -70,11 +70,11 @@
 #+END_SRC
 * 匹配数字、货币符号等的Unicode Property是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 7.05
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-23T03:25:45.525Z
-:card-last-reviewed: 2022-04-16T02:25:45.526Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-04-28T05:20:21.760Z
+:card-last-reviewed: 2022-04-24T02:20:21.760Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript

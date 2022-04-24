@@ -1,9 +1,9 @@
 - 常用修饰符flag都有哪些？ #card
-  card-last-interval:: 28.3
-  card-repeats:: 4
-  card-ease-factor:: 2.66
-  card-next-schedule:: 2022-04-23T08:11:04.972Z
-  card-last-reviewed:: 2022-03-26T01:11:04.972Z
+  card-last-interval:: 84.1
+  card-repeats:: 5
+  card-ease-factor:: 2.76
+  card-next-schedule:: 2022-07-17T04:23:01.661Z
+  card-last-reviewed:: 2022-04-24T02:23:01.661Z
   card-last-score:: 5
   | 修饰符 flag | 含义 |
   | i | {{cloze 不区分大小写}} |
