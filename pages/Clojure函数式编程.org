@@ -1,10 +1,10 @@
 * Clojure函数式编程的注意要点 #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.57
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-04-24T14:06:55.488Z
-:card-last-reviewed: 2022-04-21T01:06:55.488Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-04-29T01:02:37.763Z
+:card-last-reviewed: 2022-04-25T01:02:37.763Z
 :card-last-score: 3
 :END:
 ** 避免直接递归

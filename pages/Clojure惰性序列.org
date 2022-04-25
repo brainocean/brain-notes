@@ -1,10 +1,10 @@
 * 如何生成一个惰性序列？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.57
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-04-24T14:05:36.681Z
-:card-last-reviewed: 2022-04-21T01:05:36.681Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-04-29T01:01:52.957Z
+:card-last-reviewed: 2022-04-25T01:01:52.957Z
 :card-last-score: 3
 :END:
 ** (lazy-seq & body)

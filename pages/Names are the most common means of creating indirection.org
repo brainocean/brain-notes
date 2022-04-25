@@ -1,0 +1,3 @@
+* The act of writing software is the act of naming, repeated over and over again.
+* In philosophers' terminology, the textual representation of a name is its *sign*, and the thing it refers to is its *referent*.
+* A name’s sense is the set of fundamental properties we ascribe to it, whose meaning is shared/defined by the people who use this language
