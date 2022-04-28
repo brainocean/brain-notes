@@ -1,5 +1,13 @@
 * Reduce是最核心和基础的功能，map, filter等等都可以用reduce来完成
-* Reduce使用一个reducing function(rf)做做具体每一步的处理
+* Reduce使用一个reducing function(rf)做每一步的处理，reducing function的结构是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-06T09:17:04.063Z
+:card-last-reviewed: 2022-04-28T01:17:04.070Z
+:card-last-score: 5
+:END:
 ** #+BEGIN_SRC clojure
 ;; reducing function signature
 ;; whatever, input -> whatever
@@ -65,6 +73,23 @@
 ** accumulation -- 这个是由最初的reducing function来负责
 ** transform/processing -- 这个是由transducer来负责
 ** 这三个部分是互相正交的
+* 一个Transducer的代码结构是怎样的？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-05T09:10:30.518Z
+:card-last-reviewed: 2022-04-27T01:10:30.518Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def a-transducer
+  (fn [rf] ; taking a reducing function as argument
+  ; return a new reducing function, which has
+    (fn ([] ...) ; zero arity for initial value
+        ([result] ...) ; one arity for completion
+        ([result input] ...)))) ; 2 arity for step processing
+#+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
 :card-last-interval: 8.34
@@ -81,4 +106,33 @@
 (def iter (eduction xf (range 5)))
 (reduce + 0 iter)
 ;; => 6
+#+END_SRC
+* into怎样使用transducer？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-05T09:11:36.580Z
+:card-last-reviewed: 2022-04-27T01:11:36.580Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(into to xf from)
+;; Into just reduces with conj using from as the collection and to as the initial value.
+;; 约等于 (transduce xf conj to from)
+#+END_SRC
+* sequence怎样使用transducer? #card #clojure
+:PROPERTIES:
+:card-last-interval: 3.33
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-04-30T08:11:08.396Z
+:card-last-reviewed: 2022-04-27T01:11:08.397Z
+:card-last-score: 3
+:END:
+** #+BEGIN_SRC clojure
+(sequence xform coll & colls)
+;; Takes a transducer and a collection, 
+;; returns a lazy sequence of the transducer applied to the elements.
+;; can take multiple collections like 'map' function
 #+END_SRC
