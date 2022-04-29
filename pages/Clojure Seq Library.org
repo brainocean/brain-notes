@@ -54,18 +54,42 @@
 | (interleave c1 c2 & colls) | 逐个取每个coll中的元素，拼接成一个seq |
 | (flatten x) | 把所有嵌套的sequence展平形成一个flat lazy seq |
 * 处理seq的每个元素的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 3.33
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-02T09:05:17.155Z
+:card-last-reviewed: 2022-04-29T02:05:17.157Z
+:card-last-score: 3
+:END:
 ** | 函数 | 功能 |
 | (map f c1 c2 c3 & colls) | 把f应用到c1, c2, c3...的各个元素上，结果形成一个seq |
 | (map-indexed f coll) | 把(f index item)的结果形成新的seq |
 | (replace smap coll) | coll中的元素如果等于smap中的某个key，则它的值被对应的val取代 |
 | (reductions f init coll) | 对每个sub-coll = (take n coll), n从0到(count coll)，计算(reduce f init sub-coll)，结果形成一个seq |
 * 改变seq元素顺序的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-07T10:05:25.572Z
+:card-last-reviewed: 2022-04-29T02:05:25.573Z
+:card-last-score: 5
+:END:
 ** | 函数 | 功能 |
 | (sort comp coll) | 按照comp item的值排序coll元素 |
 | (sort-by keyfn comp coll) | 按comp (keyfn item)的结果排序 |
 | (reverse coll) | 反序 coll，注意结果不是lazy的 |
 | (shuffle coll) | 乱序coll |
 * 分割seq的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 3.33
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-02T09:11:01.858Z
+:card-last-reviewed: 2022-04-29T02:11:01.858Z
+:card-last-score: 3
+:END:
 ** | 函数 | 功能 |
 | (split-at n coll) | 返回vector [(take n coll) (drop n coll)] |
 | (split-with pred coll) | 返回vector [(take-while pred coll) (drop-while pred coll)] |
