@@ -7,11 +7,11 @@
 ** Optional implementations of abstract methods specified in protocols or interfaces
 * 如何定义一个新的Datatype？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-03T05:17:02.099Z
-:card-last-reviewed: 2022-04-29T02:17:02.099Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-05-15T04:49:31.748Z
+:card-last-reviewed: 2022-05-04T00:49:31.748Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -20,12 +20,12 @@
 #+END_SRC
 * 如何创建一个datatype的实例？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-04-29T16:00:00.000Z
-:card-last-reviewed: 2022-04-29T02:16:09.802Z
-:card-last-score: 1
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-15T04:11:49.879Z
+:card-last-reviewed: 2022-05-04T23:11:49.880Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (def vault (->CryptoVault "vault-file" "keystore" "toomanysecrets"))

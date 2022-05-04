@@ -4,31 +4,31 @@
 :END:
 * Clojure变量和[[Clojure符号]]的关系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-30T05:13:20.344Z
-:card-last-reviewed: 2022-04-19T01:13:20.344Z
-:card-last-score: 5
+:card-last-interval: 28.3
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-05-29T10:40:09.449Z
+:card-last-reviewed: 2022-05-01T03:40:09.449Z
+:card-last-score: 3
 :END:
 ** 符号就是一个名字，在eval时，会在namespace里面查找(称为resolve)符号，找到对应的变量，然后把变量绑定的值作为符号的求值结果
 * (var symbol)的意义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-30T05:05:05.845Z
-:card-last-reviewed: 2022-04-19T01:05:05.845Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-03T18:38:40.195Z
+:card-last-reviewed: 2022-05-01T03:38:40.196Z
 :card-last-score: 5
 :END:
 ** 返回symbol绑定的变量本身，也可以用#'symbol来表达
 * 如何做Clojure变量的线程本地绑定？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-04-29T06:12:23.908Z
-:card-last-reviewed: 2022-04-19T01:12:23.908Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-05-27T10:06:19.007Z
+:card-last-reviewed: 2022-04-30T03:06:19.008Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -44,14 +44,14 @@
 (+ x y)
 ;=> 2
 #+END_SRC
-** 作为动态绑定的Var通常被称作特殊变量，命名规范是以*var-name*，可以被用来“远程”改变函数的行为
+** 作为动态绑定的Var通常被称作特殊变量，命名规范是以 *var-name* ，可以被用来“远程”改变函数的行为
 * var可能有的四种状态都是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-05-03T08:20:04.110Z
-:card-last-reviewed: 2022-04-23T03:20:04.110Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-05-31T07:51:08.216Z
+:card-last-reviewed: 2022-05-04T00:51:08.216Z
 :card-last-score: 5
 :END:
 ** |初始化| (resolve 'x) | (bound? #' x) | (thread-bound? #' x) |

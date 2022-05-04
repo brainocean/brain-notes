@@ -1,11 +1,11 @@
 * Namespace就是 [[Clojure符号]]到 [[Clojure Var]]或者Class的映射mapping
 * 如何创建namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-30T05:06:01.396Z
-:card-last-reviewed: 2022-04-19T01:06:01.396Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-03T18:39:21.761Z
+:card-last-reviewed: 2022-05-01T03:39:21.761Z
 :card-last-score: 5
 :END:
 ** | | 函数/宏 | 功能 | 缺省映射 | 应用场景 |
@@ -14,11 +14,11 @@
 | (ns myns) | 宏 | 创建并切换到一个namespace |  java.lang.*  clojure.core/* | clojure 源代码中 |
 * 如何添加namespace中的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-30T05:05:34.843Z
-:card-last-reviewed: 2022-04-19T01:05:34.843Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-03T18:38:53.872Z
+:card-last-reviewed: 2022-05-01T03:38:53.874Z
 :card-last-score: 5
 :END:
 ** 使用intern函数：在namespace中查找符号到变量的映射，如果存在就重用那个变量，否则创建一个映射
@@ -49,23 +49,23 @@ myns/x
 #+END_SRC
 * 如何删除一个namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-04-29T06:08:01.408Z
-:card-last-reviewed: 2022-04-19T01:08:01.408Z
-:card-last-score: 3
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-05-27T10:05:40.846Z
+:card-last-reviewed: 2022-04-30T03:05:40.846Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (remove-ns 'myns)
 #+END_SRC
 * 如何定义一个私有的变量、函数、宏？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-04-30T05:06:26.162Z
-:card-last-reviewed: 2022-04-19T01:06:26.162Z
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-03T18:39:50.357Z
+:card-last-reviewed: 2022-05-01T03:39:50.357Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

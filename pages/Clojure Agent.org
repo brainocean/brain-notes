@@ -1,20 +1,20 @@
 * Agent的适用场景是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-03T05:16:39.923Z
-:card-last-reviewed: 2022-04-29T02:16:39.923Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-05-15T04:48:59.177Z
+:card-last-reviewed: 2022-05-04T00:48:59.178Z
 :card-last-score: 5
 :END:
 ** 对数据的异步访问
 * 如何创建一个Agent并获取它的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-03T05:17:34.644Z
-:card-last-reviewed: 2022-04-29T02:17:34.644Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-05-15T04:50:35.232Z
+:card-last-reviewed: 2022-05-04T00:50:35.232Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -29,11 +29,11 @@
 #+END_SRC
 * 如何改变一个Agent的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-03T05:17:45.503Z
-:card-last-reviewed: 2022-04-29T02:17:45.503Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-05-15T04:50:46.512Z
+:card-last-reviewed: 2022-05-04T00:50:46.513Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -43,12 +43,12 @@
 #+END_SRC
 * Agent如何处理出错？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-03T02:15:31.849Z
-:card-last-reviewed: 2022-04-29T02:15:31.849Z
-:card-last-score: 3
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-14T05:48:16.879Z
+:card-last-reviewed: 2022-05-04T00:48:16.879Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (agent initial-state options*)

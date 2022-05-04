@@ -1,10 +1,10 @@
 * 访问seq里面的某个元素有哪些函数？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.33
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-04-30T08:09:48.327Z
-:card-last-reviewed: 2022-04-27T01:09:48.329Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-05-05T03:41:18.571Z
+:card-last-reviewed: 2022-05-01T03:41:18.571Z
 :card-last-score: 3
 :END:
 ** | 函数 | 功能 |
@@ -39,13 +39,15 @@
 | (drop-last n coll) | 去掉后n个元素 |
 | (drop-while pred coll) | 从头依次去掉元素直到(pred item)是false，保持后面的元素 |
 | (butlast coll) | 去掉最后一个元素 |
+| (rest seq) |  除去第一个元素，如果没有剩余元素，返回'() |
+| (next seq) | 除去第一个元素，如果没有剩余元素，返回nil |
 * 合并多个seq的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.33
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-05-01T08:17:46.965Z
-:card-last-reviewed: 2022-04-28T01:17:46.966Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-05-06T02:29:02.321Z
+:card-last-reviewed: 2022-05-02T02:29:02.322Z
 :card-last-score: 3
 :END:
 ** | 函数 | 功能 |
@@ -55,12 +57,12 @@
 | (flatten x) | 把所有嵌套的sequence展平形成一个flat lazy seq |
 * 处理seq的每个元素的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.33
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-05-02T09:05:17.155Z
-:card-last-reviewed: 2022-04-29T02:05:17.157Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-07T01:09:33.354Z
+:card-last-reviewed: 2022-05-03T01:09:33.354Z
+:card-last-score: 5
 :END:
 ** | 函数 | 功能 |
 | (map f c1 c2 c3 & colls) | 把f应用到c1, c2, c3...的各个元素上，结果形成一个seq |
@@ -83,12 +85,12 @@
 | (shuffle coll) | 乱序coll |
 * 分割seq的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 3.33
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-05-02T09:11:01.858Z
-:card-last-reviewed: 2022-04-29T02:11:01.858Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-07T01:11:22.038Z
+:card-last-reviewed: 2022-05-03T01:11:22.038Z
+:card-last-score: 5
 :END:
 ** | 函数 | 功能 |
 | (split-at n coll) | 返回vector [(take n coll) (drop n coll)] |
@@ -96,3 +98,34 @@
 | (partition n step pad coll) | 把coll分成多个子seq，每step个元素开始分割，每个子seq取n个元素，不足的用pad中的元素补足，如果没提供pad，不足n个的最后一个子seq会被丢弃 |
 | (partition-all n step coll) | 分割成多个子seq，最后一个子seq元素数量可能不足n |
 | (partition-by f coll) | 按照(f item)的返回值对coll进行分组 |
+* 创建lazy seq的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 12.56
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-16T13:53:16.711Z
+:card-last-reviewed: 2022-05-04T00:53:16.712Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (seq coll) | 将coll转换成一个seq |
+| (lazy-seq & body) | 把body的结果组装成一个lazy seq |
+| (range start end step) | 从start到end，每隔step，生成一个lazy seq |
+| (repeat n x) | 生成一个包含n个x的lazy seq |
+| (repeatedly n f) | 生成一个n次对f的调用的结果组成的lazy seq |
+| (iterate f x) | 返回x, (f x), (f (f x)), ...组成的lazy seq |
+* 有哪些函数可以把seq转换成其他类型的collection? #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-08T00:51:49.815Z
+:card-last-reviewed: 2022-05-04T00:51:49.816Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (zipmap keys vals) | 把 keys, vals 一一对应创建一个map |
+| (group-by f coll) | 按照(f item)的结果，把coll分成组，结果是一个map，key是f的返回值，val是vector |
+| (frequencies coll) | 按照coll元素出现的次数将它们分组，返回一个map |
+| (into to xform from) | from里面的各个元素，经过xform的transform，合并进to |
+**

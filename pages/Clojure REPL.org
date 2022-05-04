@@ -1,0 +1,33 @@
+* 标准Clojure REPL的实现
+** #+BEGIN_SRC clojure
+;; *in* ==> clojure.main/repl ==> *out*
+#+END_SRC
+* Socket REPL的实现
+** #+BEGIN_SRC clojure
+;; socket ==> clojure.core.server/repl ==> socket
+#+END_SRC
+* nREPL的特点？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 10.14
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-13T04:06:03.284Z
+:card-last-reviewed: 2022-05-03T01:06:03.285Z
+:card-last-score: 5
+:END:
+** nREPL使用client/server结构，通过网络传输指令
+** 指令的格式大致为
+*** #+BEGIN_SRC clojure
+;; client --> server
+{:id "10"
+ :op "eval"
+ :code "(+ 1 1)"
+ :ns "user"}
+
+;; server --> client
+{:id "10"
+ :value "2"}
+#+END_SRC
+** nREPL支持middleware，增加自定义的op类型
+** nREPL的server支持session，来同时服务多个client
+** nREPL的指令通过 [[https://en.wikipedia.org/wiki/Bencode][BEncode]]协议来传输
