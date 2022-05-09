@@ -1,0 +1,36 @@
+* 完整B1采购流程都有哪些主要步骤？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-15T12:15:33.600Z
+:card-last-reviewed: 2022-05-08T12:15:33.600Z
+:card-last-score: 5
+:END:
+** 协商和签订[[采购订单]]
+** 收货和创建[[采购收货单]]
+** 开具[[应付帐款发票]]
+** 向供应商付款
+* 采购流程中的关键主数据有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 7.04
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-14T01:20:40.259Z
+:card-last-reviewed: 2022-05-07T01:20:40.261Z
+:card-last-score: 5
+:END:
+** 供应商主数据
+** 物料主数据
+* 对于紧急订货的精简采购流程跳过了哪些步骤？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 2.96
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-10T00:21:13.784Z
+:card-last-reviewed: 2022-05-07T01:21:13.785Z
+:card-last-score: 3
+:END:
+** 跳过协商和签订[[采购订单]]
+** 跳过创建[[采购收货单]]
+** 在精简采购流程中，[[应付账款发票]]是唯一必需的凭证。

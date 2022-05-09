@@ -1,11 +1,11 @@
 * Reduce是最核心和基础的功能，map, filter等等都可以用reduce来完成
 * Reduce使用一个reducing function(rf)做每一步的处理，reducing function的结构是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-06T09:17:04.063Z
-:card-last-reviewed: 2022-04-28T01:17:04.070Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-11T04:24:11.561Z
+:card-last-reviewed: 2022-05-07T01:24:11.562Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -41,12 +41,12 @@
 #+END_SRC
 * What is a transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-05T16:00:00.000Z
-:card-last-reviewed: 2022-05-04T23:13:06.748Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-10T01:05:41.287Z
+:card-last-reviewed: 2022-05-06T01:05:41.287Z
+:card-last-score: 3
 :END:
 ** A transducer (sometimes referred to as xform or xf) is a transformation from one reducing function to another
 ** #+BEGIN_SRC clojure
@@ -62,11 +62,11 @@
 #+END_SRC
 * Transduce操作的三个重要组成部分都是哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-08T23:14:04.556Z
-:card-last-reviewed: 2022-05-04T23:14:04.556Z
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-05-18T06:56:38.912Z
+:card-last-reviewed: 2022-05-09T00:56:38.914Z
 :card-last-score: 3
 :END:
 ** iteration -- 这个是由reduce API(由reducible thing实现)来负责
@@ -75,12 +75,12 @@
 ** 这三个部分是互相正交的
 * 一个Transducer的代码结构是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-05T09:10:30.518Z
-:card-last-reviewed: 2022-04-27T01:10:30.518Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-10T00:57:18.525Z
+:card-last-reviewed: 2022-05-06T00:57:18.525Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (def a-transducer
@@ -92,12 +92,12 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-05T16:00:00.000Z
-:card-last-reviewed: 2022-05-04T23:14:39.913Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-10T04:07:28.178Z
+:card-last-reviewed: 2022-05-06T01:07:28.178Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (eduction xform* coll)
@@ -109,12 +109,12 @@
 #+END_SRC
 * into怎样使用transducer？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-05T09:11:36.580Z
-:card-last-reviewed: 2022-04-27T01:11:36.580Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-10T01:05:04.509Z
+:card-last-reviewed: 2022-05-06T01:05:04.509Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (into to xf from)
@@ -123,12 +123,12 @@
 #+END_SRC
 * sequence怎样使用transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-05-06T02:29:38.132Z
-:card-last-reviewed: 2022-05-02T02:29:38.132Z
-:card-last-score: 3
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-05-16T07:22:19.801Z
+:card-last-reviewed: 2022-05-07T01:22:19.802Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (sequence xform coll & colls)

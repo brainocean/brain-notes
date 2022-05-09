@@ -31,3 +31,18 @@
 ** nREPL支持middleware，增加自定义的op类型
 ** nREPL的server支持session，来同时服务多个client
 ** nREPL的指令通过 [[https://en.wikipedia.org/wiki/Bencode][BEncode]]协议来传输
+* ClojureScript的REPL
+** cljs.jar的入口是cljs.main，通过执行它能够编译ClojureScript，然后发给JavaScript Runtime(Node or Browser)执行
+** cljs.jar同时也提供了cljs.repl
+#+BEGIN_SRC clojure
+ (require '[cljs.repl :as repl])
+(require 'cljs.repl.node)
+(cljs.repl/repl (cljs.repl.node/repl-env))
+
+(require 'cljs.repl.browser)
+(cljs.repl/repl (cljs.repl.browser/repl-env))
+#+END_SRC
+** 通过执行cljs.main的命令行参数可以进行编译和REPL
+#+BEGIN_SRC shell
+clj -M --main cljs.main --compile hello-world.core --repl
+#+END_SRC
