@@ -1,0 +1,33 @@
+* 什么是采购收货单？ #card #B1
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-10T16:00:00.000Z
+:card-last-reviewed: 2022-05-10T01:27:20.178Z
+:card-last-score: 1
+:END:
+** 当您收到来自供应商的货物或服务后，将创建采购收货单。
+** 采购收货单中的数据和物料附带的供应商装运凭证（装箱单 packing slips）应保持一致，这是因为供应商凭证中的详细信息具有法律约束力。
+** 公司收到货物后，会在对发票进行付款前将[[采购订单]]与装箱单(packing slips)和供应商发票进行比对
+** 英文是Goods Receipt POs
+* 采购收货单如何影响会计核算？ #card #B1
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-05-10T16:00:00.000Z
+:card-last-reviewed: 2022-05-10T01:26:06.868Z
+:card-last-score: 1
+:END:
+** 在使用永续盘存时，创建采购收货单会触发会计交易
+* 采购收货单如何影响库存？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T01:27:44.659Z
+:card-last-reviewed: 2022-05-10T01:27:44.659Z
+:card-last-score: 5
+:END:
+** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量

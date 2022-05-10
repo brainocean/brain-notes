@@ -1,0 +1,44 @@
+* 什么是采购订单？ #card #B1
+:PROPERTIES:
+:card-last-interval: 2.86
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-12T21:24:23.057Z
+:card-last-reviewed: 2022-05-10T01:24:23.058Z
+:card-last-score: 3
+:END:
+** 采购订单是指买方向卖方发出的一种商业凭证，其中指定了卖方将向买方提供的物料或服务。
+** 采购订单包括双方针对所列*产品*协定的*数量*和*价格*。
+** 采购订单英文为Purchase Order
+* 添加采购订单如何影响会计核算？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T01:24:36.627Z
+:card-last-reviewed: 2022-05-10T01:24:36.628Z
+:card-last-score: 5
+:END:
+** 不影响会计核算，收到货物之后才会影响会计核算
+* 添加采购订单如何影响库存？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T01:29:00.549Z
+:card-last-reviewed: 2022-05-10T01:29:00.550Z
+:card-last-score: 5
+:END:
+** 库存会显示“已订购”状态的物料，即增加订购量
+** 由于我们在库存中有 10 台打印机，在订单中有 5 台打印机，因此，尽管实际库存中只有 10 台，但是我们可以向客户承诺 15 台。
+* 采购订单中有那些重要地址？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T01:23:19.722Z
+:card-last-reviewed: 2022-05-10T01:23:19.723Z
+:card-last-score: 5
+:END:
+** 运达地址 ship-to address 指示您希望供应商将您所采购的物料运达到的地址，通常为仓库地址或公司地址
+** 收款地址 pay-to address 来自于供应商业务伙伴主数据记录，此地址会在签发付款时打印在支票上

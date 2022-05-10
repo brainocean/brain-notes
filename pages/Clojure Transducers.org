@@ -41,12 +41,12 @@
 #+END_SRC
 * What is a transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-10T01:05:41.287Z
-:card-last-reviewed: 2022-05-06T01:05:41.287Z
-:card-last-score: 3
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-20T06:32:27.991Z
+:card-last-reviewed: 2022-05-10T01:32:27.991Z
+:card-last-score: 5
 :END:
 ** A transducer (sometimes referred to as xform or xf) is a transformation from one reducing function to another
 ** #+BEGIN_SRC clojure
@@ -57,7 +57,7 @@
 ;; (whatever, input -> whatever) -> (whatever, input -> whatever)
 
 (transduce xform rf init coll)
-;; xform is transducer which transform rf(which is a reducing function) to another rf', 
+;; xform is transducer which transforms rf(which is a reducing function) to another rf', 
 ;; then transduce call reduces coll with rf'
 #+END_SRC
 * Transduce操作的三个重要组成部分都是哪些？ #card #clojure
@@ -75,12 +75,12 @@
 ** 这三个部分是互相正交的
 * 一个Transducer的代码结构是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-10T00:57:18.525Z
-:card-last-reviewed: 2022-05-06T00:57:18.525Z
-:card-last-score: 3
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-20T06:29:31.493Z
+:card-last-reviewed: 2022-05-10T01:29:31.494Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (def a-transducer
@@ -109,12 +109,12 @@
 #+END_SRC
 * into怎样使用transducer？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-10T01:05:04.509Z
-:card-last-reviewed: 2022-05-06T01:05:04.509Z
-:card-last-score: 3
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-20T06:31:39.662Z
+:card-last-reviewed: 2022-05-10T01:31:39.663Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (into to xf from)

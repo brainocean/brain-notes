@@ -1,0 +1,14 @@
+* 英文是outgoing payments
+* 您可以为下列付款方式创建付款凭证：
+** 现金、支票、信用卡、银行转账或（在某些本地化版本中）汇票
+* 付款怎样影响会计核算？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-17T01:23:33.852Z
+:card-last-reviewed: 2022-05-10T01:23:33.852Z
+:card-last-score: 5
+:END:
+** 添加付款之后，即会创建相应的日记账分录
+*** 该日记账分录将减少现金，并减少应向供应商支付的金额。

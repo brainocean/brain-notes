@@ -1,10 +1,10 @@
 * 如何为Clojure的函数添加元数据？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 19.01
-:card-repeats: 4
-:card-ease-factor: 2.18
-:card-next-schedule: 2022-05-10T01:03:05.244Z
-:card-last-reviewed: 2022-04-21T01:03:05.282Z
+:card-last-interval: 47.41
+:card-repeats: 5
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-06-26T10:31:11.991Z
+:card-last-reviewed: 2022-05-10T01:31:11.991Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
