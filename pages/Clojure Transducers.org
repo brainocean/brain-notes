@@ -92,11 +92,11 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-10T04:07:28.178Z
-:card-last-reviewed: 2022-05-06T01:07:28.178Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-05-22T05:04:53.578Z
+:card-last-reviewed: 2022-05-11T01:04:53.579Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

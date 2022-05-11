@@ -14,11 +14,11 @@
 #+END_SRC
 * Clojure常用的map解构的语法和含义是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 22.61
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-05-10T14:37:24.913Z
-:card-last-reviewed: 2022-04-18T00:37:24.913Z
+:card-last-interval: 49.07
+:card-repeats: 5
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-06-29T02:07:36.338Z
+:card-last-reviewed: 2022-05-11T01:07:36.338Z
 :card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
