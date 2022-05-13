@@ -1,0 +1,24 @@
+* 销售订单是客户或潜在客户以双方议定的数量和价格向您购买产品或服务的一种承诺。
+* 英文：Sales Order
+* 销售订单对于计划生产、创建采购订单和安排资源也非常重要
+* 可以直接从销售订单创建 [[file:./采购订单.org][采购订单]] ，从而简化供应链和物料需求计划流程。
+* 添加销售订单如何影响会计核算？ #card #B1
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-05-17T01:24:36.627Z
+:card-last-interval: 7.03
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-05-10T01:24:36.628Z
+:END:
+** 输入销售订单时，库存事务或基于价值的更改不会过账到总账中
+* 添加销售订单如何影响库存？ #card #B1
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-05-17T01:29:00.549Z
+:card-last-interval: 7.03
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-05-10T01:29:00.550Z
+:END:
+** 可售库存量会随订单中的数量而减少

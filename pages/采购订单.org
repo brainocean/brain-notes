@@ -1,11 +1,11 @@
 * 什么是采购订单？ #card #B1
 :PROPERTIES:
-:card-last-interval: 2.86
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-05-12T21:24:23.057Z
-:card-last-reviewed: 2022-05-10T01:24:23.058Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-17T01:36:01.503Z
+:card-last-reviewed: 2022-05-13T01:36:01.504Z
+:card-last-score: 5
 :END:
 ** 采购订单是指买方向卖方发出的一种商业凭证，其中指定了卖方将向买方提供的物料或服务。
 ** 采购订单包括双方针对所列*产品*协定的*数量*和*价格*。
@@ -42,3 +42,27 @@
 :END:
 ** 运达地址 ship-to address 指示您希望供应商将您所采购的物料运达到的地址，通常为仓库地址或公司地址
 ** 收款地址 pay-to address 来自于供应商业务伙伴主数据记录，此地址会在签发付款时打印在支票上
+* 采购订单什么时候关闭？ #card #B1
+:PROPERTIES:
+:card-last-interval: 2.96
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-16T00:33:59.505Z
+:card-last-reviewed: 2022-05-13T01:33:59.505Z
+:card-last-score: 3
+:END:
+** 当收到所有货物时，系统将*自动关闭*采购订单。
+** 如果已收到采购订单上的部分数量或尚未收到采购订单上的任何数量，则可以*手动关闭*该订单
+** 对于尚未收到的物料数量，如果您不希望再接收任何其他交货，则应*手工关闭*该采购订单，以便减少未清采购订单数量。
+** 您也可以选择关闭特定行，而不是关闭整个凭证。
+* 什么情况下取消采购订单？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-20T01:34:07.413Z
+:card-last-reviewed: 2022-05-13T01:34:07.414Z
+:card-last-score: 5
+:END:
+** 当确定不会收到采购订单上的任何物料时，通常可以选择取消采购订单。
+** 与已关闭的采购订单不同，已取消的采购订单将不会出现在采购分析报表中

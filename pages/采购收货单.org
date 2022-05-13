@@ -31,3 +31,36 @@
 :card-last-score: 5
 :END:
 ** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量
+* 如果供应商交付物料数量过少应该怎么办？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-20T01:34:34.494Z
+:card-last-reviewed: 2022-05-13T01:34:34.494Z
+:card-last-score: 5
+:END:
+** 只为交付那部分物料创建采购收货单
+** 将来继续收到其他物料，创建相应的采购收货单
+* 如果供应商交付物料数量过多应该怎么办？ #card #B1
+:PROPERTIES:
+:card-last-interval: 7.03
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-20T01:31:28.898Z
+:card-last-reviewed: 2022-05-13T01:31:28.899Z
+:card-last-score: 5
+:END:
+** 在采购收货单中反映实际交货数量
+* 如果供应商交付了替代物料应该怎么办？ #card #B1
+:PROPERTIES:
+:card-last-interval: 2.96
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-16T00:33:06.337Z
+:card-last-reviewed: 2022-05-13T01:33:06.338Z
+:card-last-score: 3
+:END:
+** 供应商可能会发送与最初订购物料不同的物料，以替代缺货的物料
+** 发生这种情况时，可以将这一附加物料添加到采购收货单中
+** 如果不再交付最初订购的物料，应关闭原始采购订单，以便这种未交货的物料不会继续作为未清物料显示在采购报表上

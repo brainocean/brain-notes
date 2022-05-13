@@ -1,0 +1,6 @@
+* 交货单记录货物已装运(shipment of goods)，也成为也称为装箱单(packing slip)
+* 英文：Delivery 或 Delivery Note
+* 可以从[[销售订单]]或[[销售报价单]]中创建交货单
+* 可以将多个销售订单交付给同一个客户
+* 添加交货单会降低实际库存水平
+* 过账交货单时，也会过账相应的发货(goods issue)
