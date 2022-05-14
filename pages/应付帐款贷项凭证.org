@@ -1,4 +1,4 @@
-* A/P Credit Memo 简称 Credit Memo
+* A/P Credit Memo
 * Credit memo和Debit memo是对企业向顾客已经交付的货物的价值进行调整的单据类型
 * 贷项凭证的作用是什么？ #card #B1
 :PROPERTIES:

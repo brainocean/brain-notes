@@ -1,0 +1,17 @@
+* 如何生成一个惰性序列？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-05-08T08:21:40.864Z
+:card-last-reviewed: 2022-04-29T02:21:40.864Z
+:card-last-score: 5
+:END:
+** (lazy-seq & body)
+** Takes a body of expressions that returns an ISeq or nil
+** Yields a Seqable object that will invoke the body only the first time seq is called
+** And will cache the result and return it on all subsequent seq calls.
+** General pattern: wrap the recursive part of a function body with lazy-seq to replace recursion with laziness.
+* 怎样强制实现一个惰性序列？
+** 使用doall 或者 dorun
+* 不要hold一个惰性序列的头，否则垃圾收集程序无法回收内存

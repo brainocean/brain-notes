@@ -1,0 +1,138 @@
+* Reduce是最核心和基础的功能，map, filter等等都可以用reduce来完成
+* Reduce使用一个reducing function(rf)做每一步的处理，reducing function的结构是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-05-06T09:17:04.063Z
+:card-last-reviewed: 2022-04-28T01:17:04.070Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+;; reducing function signature
+;; whatever, input -> whatever
+
+(defn rf
+  ([] initial-value)
+  ([accum] (finalize accum))
+  ([accum elem] (combine accum elem)))
+
+#+END_SRC
+** 一个例子
+#+BEGIN_SRC clojure
+(defn rf
+  ([] (transient []))
+  ([v] (persistent! v))
+  ([v x] (conj! v x)))
+
+(defn map-core
+  [f]
+  (fn [rf]
+    (fn [accumulator element]
+      (rf accumulator (f element)))))
+
+(defn -map
+  ([f coll]
+   (-map f (rf) coll))
+  ([f acc coll]
+   (rf (-reduce ((map-core f) rf) acc coll))))
+
+(-map inc [1 2 3 4 5 6 7 8])
+#+END_SRC
+* What is a transducer? #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-10T01:05:41.287Z
+:card-last-reviewed: 2022-05-06T01:05:41.287Z
+:card-last-score: 3
+:END:
+** A transducer (sometimes referred to as xform or xf) is a transformation from one reducing function to another
+** #+BEGIN_SRC clojure
+;; reducing function signature
+;; whatever, input -> whatever
+
+;; transducer signature
+;; (whatever, input -> whatever) -> (whatever, input -> whatever)
+
+(transduce xform rf init coll)
+;; xform is transducer which transform rf(which is a reducing function) to another rf', 
+;; then transduce call reduces coll with rf'
+#+END_SRC
+* Transduce操作的三个重要组成部分都是哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-08T23:14:04.556Z
+:card-last-reviewed: 2022-05-04T23:14:04.556Z
+:card-last-score: 3
+:END:
+** iteration -- 这个是由reduce API(由reducible thing实现)来负责
+** accumulation -- 这个是由最初的reducing function来负责
+** transform/processing -- 这个是由transducer来负责
+** 这三个部分是互相正交的
+* 一个Transducer的代码结构是怎样的？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-10T00:57:18.525Z
+:card-last-reviewed: 2022-05-06T00:57:18.525Z
+:card-last-score: 3
+:END:
+** #+BEGIN_SRC clojure
+(def a-transducer
+  (fn [rf] ; taking a reducing function as argument
+  ; return a new reducing function, which has
+    (fn ([] ...) ; zero arity for initial value
+        ([result] ...) ; one arity for completion
+        ([result input] ...)))) ; 2 arity for step processing
+#+END_SRC
+* eduction的功能是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-10T04:07:28.178Z
+:card-last-reviewed: 2022-05-06T01:07:28.178Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(eduction xform* coll)
+;; eduction创建了一个xform应用在coll上面的promise，当后面的reduce发生的时候，会实际执行xform
+
+(def iter (eduction xf (range 5)))
+(reduce + 0 iter)
+;; => 6
+#+END_SRC
+* into怎样使用transducer？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-10T01:05:04.509Z
+:card-last-reviewed: 2022-05-06T01:05:04.509Z
+:card-last-score: 3
+:END:
+** #+BEGIN_SRC clojure
+(into to xf from)
+;; Into just reduces with conj using from as the collection and to as the initial value.
+;; 约等于 (transduce xf conj to from)
+#+END_SRC
+* sequence怎样使用transducer? #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-05-06T02:29:38.132Z
+:card-last-reviewed: 2022-05-02T02:29:38.132Z
+:card-last-score: 3
+:END:
+** #+BEGIN_SRC clojure
+(sequence xform coll & colls)
+;; Takes a transducer and a collection, 
+;; returns a lazy sequence of the transducer applied to the elements.
+;; can take multiple collections like 'map' function
+#+END_SRC

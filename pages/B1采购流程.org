@@ -14,23 +14,24 @@
 * 采购流程中的关键主数据有哪些？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 1
-:card-next-schedule: 2022-05-14T01:20:40.259Z
-:card-last-interval: 7.04
-:card-ease-factor: 2.6
-:card-last-reviewed: 2022-05-07T01:20:40.261Z
+:card-repeats: 2
+:card-next-schedule: 2022-05-18T04:46:54.678Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.7
+:card-last-reviewed: 2022-05-14T01:46:54.678Z
 :END:
 ** 供应商主数据
 ** 物料主数据
 * 对于紧急订货的精简采购流程跳过了哪些步骤？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-05-14T01:29:15.248Z
-:card-last-interval: 4
-:card-ease-factor: 2.46
-:card-last-reviewed: 2022-05-10T01:29:15.248Z
+:card-repeats: 3
+:card-next-schedule: 2022-05-24T06:47:04.880Z
+:card-last-interval: 10.24
+:card-ease-factor: 2.56
+:card-last-reviewed: 2022-05-14T01:47:04.881Z
 :END:
 ** 跳过协商和签订[[采购订单]]
 ** 跳过创建[[采购收货单]]
 ** 在精简采购流程中，[[应付账款发票]]是唯一必需的凭证。
+* 采购流程中或完成后，可能会[[退换货]]

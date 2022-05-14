@@ -3,12 +3,12 @@
 ** 在收到服务和[[供应商发票]]后，应将 [[file:./应付帐款发票.org][应付帐款发票]] 输入到系统中
 * 服务采购是否需要[[采购订单]]？ #card #B1
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-05-13T16:00:00.000Z
-:card-last-reviewed: 2022-05-13T01:31:22.073Z
-:card-last-score: 1
+:card-last-interval: 3.17
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-05-17T05:42:54.092Z
+:card-last-reviewed: 2022-05-14T01:42:54.092Z
+:card-last-score: 3
 :END:
 ** 对于网站设计等服务，通常使用[[采购订单]]
 ** 对于房屋租赁、水电煤等没有[[采购订单]]，这种服务通常执行[[重复交易]]

@@ -1,0 +1,15 @@
+* Clojure函数式编程的注意要点 #card #clojure
+:PROPERTIES:
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-05-08T08:22:09.203Z
+:card-last-reviewed: 2022-04-29T02:22:09.203Z
+:card-last-score: 5
+:END:
+** 避免直接递归
+** 使用recur生成标量或者很小的定长序列，Clojure会对recur进行优化
+** 生成很大或变长的序列的时候，总是采用[[Clojure惰性序列]]，不要使用recur
+** 小心不要实现(realize)超过需要 [[Clojure惰性序列]]
+** 多多使用Clojure sequence库，能够避免recur和lazy
+** 尽量把问题分解成很小的片断，直到能够使用sequence库解决这些片断，通常能够写出更加通用和可重用的代码

@@ -1,11 +1,11 @@
 * 创建一个map的常用方法有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 22.61
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-05-13T15:04:32.134Z
-:card-last-reviewed: 2022-04-21T01:04:32.134Z
-:card-last-score: 5
+:card-last-interval: 49.07
+:card-repeats: 5
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-07-02T02:39:44.748Z
+:card-last-reviewed: 2022-05-14T01:39:44.748Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 ;=> 直接创建map
