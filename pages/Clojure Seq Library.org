@@ -1,11 +1,11 @@
 * 访问seq里面的某个元素有哪些函数？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.32
-:card-repeats: 3
-:card-ease-factor: 2.08
-:card-next-schedule: 2022-05-14T07:56:37.376Z
-:card-last-reviewed: 2022-05-06T00:56:37.377Z
-:card-last-score: 3
+:card-last-interval: 19.01
+:card-repeats: 4
+:card-ease-factor: 2.18
+:card-next-schedule: 2022-06-03T01:46:21.339Z
+:card-last-reviewed: 2022-05-15T01:46:21.340Z
+:card-last-score: 5
 :END:
 ** | 函数 | 功能 |
 | (first coll) | 第1个 |
