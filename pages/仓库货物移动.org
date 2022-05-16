@@ -1,0 +1,10 @@
+* 收货凭证Good Receipt用于接收非采购或非生产库存。
+** 例如，收到供应商发来供检查的样品。因为该物料与报价或采购分析报表无关，所以选择按收货而不是 [[file:./采购收货单.org][采购收货单]] 将其入库
+* 发货单据Good Issue记录非销售原因出库的物料
+** 如果物料因浸泡等而损坏且导致无法销售，则应将其移出仓库
+* 库存转储Inventory Transfers 用于在仓库间移动库存(stock)
+** 库存转储可用于把物料转储到客户的寄售(consignment)仓库
+** 例如发送仓库(100个物料)向接受仓库(0个物料)转储10个物料
+| Inventory Transfer状态 | 发送仓库 | 接受仓库 |
+| Open | 10个committed(已承诺)，90个In Stock | 10个Ordered(已订购)，0个In Stock |
+| Closed | 90个In Stock | 10个In Stock |
