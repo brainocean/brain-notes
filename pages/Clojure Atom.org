@@ -1,20 +1,20 @@
 * Atom的适用场景是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-05-15T04:48:34.333Z
-:card-last-reviewed: 2022-05-04T00:48:34.334Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-19T19:59:13.282Z
+:card-last-reviewed: 2022-05-16T00:59:13.283Z
 :card-last-score: 5
 :END:
 ** 对单一的孤立的数据的不需要协调的同步访问，和Ref相比更加轻量级
 * 如何创建一个Atom并获取它的值？ #card #Clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-05-15T04:50:26.916Z
-:card-last-reviewed: 2022-05-04T00:50:26.917Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-19T20:01:37.267Z
+:card-last-reviewed: 2022-05-16T01:01:37.267Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -29,11 +29,11 @@
 #+END_SRC
 * 如何改变一个Atom的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-05-15T04:49:54.622Z
-:card-last-reviewed: 2022-05-04T00:49:54.622Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-19T20:01:08.776Z
+:card-last-reviewed: 2022-05-16T01:01:08.776Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

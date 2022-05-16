@@ -2,12 +2,12 @@
 
 * 如何使用core.async中的channel？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-15T02:08:04.156Z
-:card-last-reviewed: 2022-05-04T23:08:04.212Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-20T00:55:25.682Z
+:card-last-reviewed: 2022-05-16T00:55:25.683Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (def echo-chan (chan))             ; 创建一个channel
@@ -18,11 +18,11 @@
 #+END_SRC
 * core.async里面的put/take的parking, blocking的变体的区别是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-15T02:09:32.975Z
-:card-last-reviewed: 2022-05-04T23:09:32.975Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-20T03:56:21.719Z
+:card-last-reviewed: 2022-05-16T00:56:21.719Z
 :card-last-score: 5
 :END:
 ** blocking(两个感叹号)会停止当前线程的运行，等待某个其他任务完成;
@@ -33,12 +33,12 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/thread的用途是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.14
+:card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-05-15T02:11:30.466Z
-:card-last-reviewed: 2022-05-04T23:11:30.466Z
-:card-last-score: 5
+:card-next-schedule: 2022-05-16T16:00:00.000Z
+:card-last-reviewed: 2022-05-16T00:58:28.311Z
+:card-last-score: 1
 :END:
 ** thread会创建一个channel，当thread的处理结束的时候，处理的结果值会被put到thread创建的channel中
 ** thread通常用来处理长时间的IO操作，这样可以不长时间占用go block使用的线程池从而阻塞其他处理
@@ -56,11 +56,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/alt!的主要作用是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-15T02:08:25.650Z
-:card-last-reviewed: 2022-05-04T23:08:25.650Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-20T03:55:50.535Z
+:card-last-reviewed: 2022-05-16T00:55:50.536Z
 :card-last-score: 5
 :END:
 ** alt!和alt!!在一组channel上面take，返回第一个提供消息的channel和它提供的值[value channel]
