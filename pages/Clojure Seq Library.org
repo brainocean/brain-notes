@@ -85,11 +85,11 @@
 | (shuffle coll) | 乱序coll |
 * 分割seq的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-05-17T06:25:40.519Z
-:card-last-reviewed: 2022-05-07T01:25:40.519Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-14T08:17:33.206Z
+:card-last-reviewed: 2022-05-18T01:17:33.206Z
 :card-last-score: 5
 :END:
 ** | 函数 | 功能 |
@@ -116,12 +116,12 @@
 | (iterate f x) | 返回x, (f x), (f (f x)), ...组成的lazy seq |
 * 有哪些函数可以把seq转换成其他类型的collection? #card #clojure
 :PROPERTIES:
-:card-last-interval: 9.28
-:card-repeats: 3
-:card-ease-factor: 2.32
-:card-next-schedule: 2022-05-17T18:21:44.374Z
-:card-last-reviewed: 2022-05-08T12:21:44.374Z
-:card-last-score: 3
+:card-last-interval: 22.61
+:card-repeats: 4
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-06-09T15:18:30.345Z
+:card-last-reviewed: 2022-05-18T01:18:30.345Z
+:card-last-score: 5
 :END:
 ** | 函数 | 功能 |
 | (zipmap keys vals) | 把 keys, vals 一一对应创建一个map |

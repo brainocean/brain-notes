@@ -1,10 +1,10 @@
 * 售前的主要流程有哪些？ #card #B1
 :PROPERTIES:
-:card-last-interval: 3.17
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-05-17T05:09:32.265Z
-:card-last-reviewed: 2022-05-14T01:09:32.265Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-05-22T01:14:47.929Z
+:card-last-reviewed: 2022-05-18T01:14:47.929Z
 :card-last-score: 3
 :END:
 ** [[销售活动]]

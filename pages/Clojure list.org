@@ -10,11 +10,11 @@
 ** 在惯用的Clojure代码中，list几乎只用于 {{cloze  表示代码form}}，而操纵数据更多的使用vector
 * Clojure list添加一个元素的正确方法是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 27.31
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-05-18T08:05:59.825Z
-:card-last-reviewed: 2022-04-21T01:05:59.825Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-11T03:27:35.805Z
+:card-last-reviewed: 2022-05-19T01:27:35.805Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

@@ -13,21 +13,21 @@
 ** 英文是Goods Receipt POs
 * 采购收货单如何影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 7.03
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-19T01:12:15.650Z
-:card-last-reviewed: 2022-05-12T01:12:15.651Z
+:card-last-interval: 67.81
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-25T20:32:57.494Z
+:card-last-reviewed: 2022-05-19T01:32:57.494Z
 :card-last-score: 5
 :END:
 ** 在使用永续盘存时，创建采购收货单会触发会计交易
 * 采购收货单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: 7.03
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-17T01:27:44.659Z
-:card-last-reviewed: 2022-05-10T01:27:44.659Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-22T04:12:08.909Z
+:card-last-reviewed: 2022-05-18T01:12:08.909Z
 :card-last-score: 5
 :END:
 ** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量

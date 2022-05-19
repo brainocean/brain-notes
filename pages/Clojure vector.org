@@ -79,11 +79,11 @@
 #+END_SRC
 * 如何查找某个元素是否在vector中？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 27.31
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-05-18T08:07:11.630Z
-:card-last-reviewed: 2022-04-21T01:07:11.631Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-11T03:29:19.008Z
+:card-last-reviewed: 2022-05-19T01:29:19.008Z
 :card-last-score: 5
 :END:
 ** 使用some而不是contains?，因为contains?查找的是*键*(对于vector，键就是index)是否存在而不是值

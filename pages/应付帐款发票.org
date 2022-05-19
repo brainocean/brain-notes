@@ -1,21 +1,21 @@
 * 什么是应付帐款发票？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-17T01:36:32.034Z
-:card-last-reviewed: 2022-05-13T01:36:32.034Z
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-28T06:13:31.247Z
+:card-last-reviewed: 2022-05-18T01:13:31.247Z
 :card-last-score: 5
 :END:
 ** 当收到[[供应商发票]]时，应付账款发票将在系统中创建，该凭证将用于触发向供应商付款。
 ** 英文是A/P invoices -- Accounts Payable Invoices
 * 应付帐款发票如何影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 7.03
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-18T01:07:58.940Z
-:card-last-reviewed: 2022-05-11T01:07:58.940Z
+:card-last-interval: 59.16
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-16T04:19:53.941Z
+:card-last-reviewed: 2022-05-18T01:19:53.941Z
 :card-last-score: 5
 :END:
 ** 应付账款发票会创建日记账分录以更新供应商余额(欠供应商多少钱)，进而显示到期金额。

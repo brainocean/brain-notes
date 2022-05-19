@@ -16,13 +16,13 @@
 *** 库位管理有助于跟踪仓库中的物料，具体到存储物料的实际库位
 *** 例如仓库/通道/货架/层可表示为 05-A1-S3-L2
 *** 对于供应商直运发货仓没有启用库位的选项
-* 什么是供应商直运发货仓库drop ship warehouse？ #card B1
+* 什么是供应商直运发货仓库drop ship warehouse？ #card #B1
 :PROPERTIES:
-:card-last-interval: 3.17
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-05-18T05:07:05.589Z
-:card-last-reviewed: 2022-05-15T01:07:05.590Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-05-23T01:25:52.628Z
+:card-last-reviewed: 2022-05-19T01:25:52.628Z
 :card-last-score: 3
 :END:
 ** 用来管理货物从您的某家供应商处直接发送给客户的整个业务流程。我们将这类仓库称为“供应商直运发货仓库”。
