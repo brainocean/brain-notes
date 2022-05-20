@@ -44,11 +44,11 @@
 ** 收款地址 pay-to address 来自于供应商业务伙伴主数据记录，此地址会在签发付款时打印在支票上
 * 采购订单什么时候关闭？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-20T01:06:26.905Z
-:card-last-reviewed: 2022-05-16T01:06:26.906Z
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-30T06:09:00.945Z
+:card-last-reviewed: 2022-05-20T01:09:00.945Z
 :card-last-score: 5
 :END:
 ** 当收到所有货物时，系统将*自动关闭*采购订单。

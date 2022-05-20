@@ -1,12 +1,12 @@
 * 采购申请可以用作采购流程中的初始步骤。  在内部使用采购申请以指示需要某物料。
 * 采购申请是什么？  #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-19T01:48:26.962Z
-:card-last-reviewed: 2022-05-15T01:48:26.963Z
-:card-last-score: 5
+:card-last-interval: 9.6
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-05-29T15:04:53.723Z
+:card-last-reviewed: 2022-05-20T01:04:53.724Z
+:card-last-score: 3
 :END:
 ** “采购申请”是由用户生成的凭证，用来通知采购部门所需的
 *** 物料或服务
@@ -15,11 +15,11 @@
 ** 英文是Purchase Request
 * 由于采购申请提供了创建采购订单所需的大部分信息，因此使用采购申请的优点在于？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-19T01:49:07.339Z
-:card-last-reviewed: 2022-05-15T01:49:07.341Z
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-05-30T06:05:08.986Z
+:card-last-reviewed: 2022-05-20T01:05:08.986Z
 :card-last-score: 5
 :END:
 ** 节省采购部门的时间
