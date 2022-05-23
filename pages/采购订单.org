@@ -12,32 +12,32 @@
 ** 采购订单英文为Purchase Order
 * 添加采购订单如何影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-22T04:11:49.303Z
-:card-last-reviewed: 2022-05-18T01:11:49.303Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-03T04:55:12.342Z
+:card-last-reviewed: 2022-05-23T00:55:12.343Z
 :card-last-score: 5
 :END:
 ** 不影响会计核算，收到货物之后才会影响会计核算
 * 添加采购订单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-22T01:12:37.651Z
-:card-last-reviewed: 2022-05-18T01:12:37.652Z
+:card-last-interval: 9.6
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-06-01T14:52:41.269Z
+:card-last-reviewed: 2022-05-23T00:52:41.270Z
 :card-last-score: 3
 :END:
 ** 库存会显示“已订购”状态的物料，即增加订购量
 ** 由于我们在库存中有 10 台打印机，在订单中有 5 台打印机，因此，尽管实际库存中只有 10 台，但是我们可以向客户承诺 15 台。
 * 采购订单中有那些重要地址？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-22T04:10:11.843Z
-:card-last-reviewed: 2022-05-18T01:10:11.843Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-03T04:54:17.979Z
+:card-last-reviewed: 2022-05-23T00:54:17.979Z
 :card-last-score: 5
 :END:
 ** 运达地址 ship-to address 指示您希望供应商将您所采购的物料运达到的地址，通常为仓库地址或公司地址

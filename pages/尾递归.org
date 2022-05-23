@@ -2,11 +2,11 @@
 ** 在结尾位置(tail position)使用 recur，重新绑定参数值，递归到最近的函数顶部或者loop
 * 结尾位置tail position是指哪里? #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-05-22T16:12:46.768Z
-:card-last-reviewed: 2022-04-19T01:12:46.768Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-08T01:04:02.562Z
+:card-last-reviewed: 2022-05-23T01:04:02.563Z
 :card-last-score: 5
 :END:
 ** 简而言之，出现在表达式结尾位置的form，其值可以作为整个表达式的*返回值*。

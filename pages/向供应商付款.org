@@ -3,11 +3,11 @@
 ** 现金、支票、信用卡、银行转账或（在某些本地化版本中）汇票
 * 付款怎样影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-22T04:11:32.283Z
-:card-last-reviewed: 2022-05-18T01:11:32.283Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-03T04:54:54.806Z
+:card-last-reviewed: 2022-05-23T00:54:54.806Z
 :card-last-score: 5
 :END:
 ** 添加付款之后，即会创建相应的日记账分录

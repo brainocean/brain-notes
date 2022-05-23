@@ -23,11 +23,11 @@
 ** 在使用永续盘存时，创建采购收货单会触发会计交易
 * 采购收货单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-22T04:12:08.909Z
-:card-last-reviewed: 2022-05-18T01:12:08.909Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-03T04:55:27.322Z
+:card-last-reviewed: 2022-05-23T00:55:27.322Z
 :card-last-score: 5
 :END:
 ** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量
