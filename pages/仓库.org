@@ -1,10 +1,10 @@
 * 什么是仓库warehouse？ #card #B1
 :PROPERTIES:
-:card-last-interval: 8.63
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-23T16:07:56.056Z
-:card-last-reviewed: 2022-05-15T01:07:56.056Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-28T03:56:36.498Z
+:card-last-reviewed: 2022-05-24T00:56:36.498Z
 :card-last-score: 5
 :END:
 ** 仓库表示一个货物存储的场所
@@ -18,12 +18,12 @@
 *** 对于供应商直运发货仓没有启用库位的选项
 * 什么是供应商直运发货仓库drop ship warehouse？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-05-23T01:25:52.628Z
-:card-last-reviewed: 2022-05-19T01:25:52.628Z
-:card-last-score: 3
+:card-last-interval: 9.28
+:card-repeats: 3
+:card-ease-factor: 2.32
+:card-next-schedule: 2022-06-02T06:52:25.530Z
+:card-last-reviewed: 2022-05-24T00:52:25.531Z
+:card-last-score: 5
 :END:
 ** 用来管理货物从您的某家供应商处直接发送给客户的整个业务流程。我们将这类仓库称为“供应商直运发货仓库”。
 ** 供应商收到采购订单后，直接将产品发给客户。

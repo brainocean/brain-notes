@@ -1,23 +1,23 @@
 * 计价方法 Valuation Methods
 * 永续盘存 Perpetual Inventory 是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 8.63
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-23T16:08:43.517Z
-:card-last-reviewed: 2022-05-15T01:08:43.517Z
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-05-28T03:57:05.560Z
+:card-last-reviewed: 2022-05-24T00:57:05.560Z
 :card-last-score: 5
 :END:
 ** 在会计系统中，通过货币交易反映相关的库存过账的价值
 ** 库存物料在出库或入库时，会执行这些货币交易。
 * 非永续盘存是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 8.63
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-23T16:07:50.975Z
-:card-last-reviewed: 2022-05-15T01:07:50.976Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-05-28T00:56:32.294Z
+:card-last-reviewed: 2022-05-24T00:56:32.294Z
+:card-last-score: 3
 :END:
 ** 非永续盘存系统是一种库存管理系统，其中的库存成本无需经常进行维护。
 ** 库存交易只影响库存，不会实时在总账中直接生成与库存相关的货币条目
