@@ -25,11 +25,11 @@
 * 对于紧急订货的精简采购流程跳过了哪些步骤？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-05-24T06:47:04.880Z
-:card-last-interval: 10.24
-:card-ease-factor: 2.56
-:card-last-reviewed: 2022-05-14T01:47:04.881Z
+:card-repeats: 4
+:card-next-schedule: 2022-06-21T08:50:43.689Z
+:card-last-interval: 27.31
+:card-ease-factor: 2.66
+:card-last-reviewed: 2022-05-25T01:50:43.689Z
 :END:
 ** 跳过协商和签订[[采购订单]]
 ** 跳过创建[[采购收货单]]
