@@ -1,10 +1,10 @@
 * Clojure list通常用来做什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-05-25T16:27:31.579Z
-:card-last-reviewed: 2022-04-22T01:27:31.580Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-11T01:42:00.311Z
+:card-last-reviewed: 2022-05-26T01:42:00.312Z
 :card-last-score: 5
 :END:
 ** 在惯用的Clojure代码中，list几乎只用于 {{cloze  表示代码form}}，而操纵数据更多的使用vector
@@ -28,11 +28,11 @@
 #+END_SRC
 * 更改Clojure list的元素的方法是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-05-25T16:22:10.574Z
-:card-last-reviewed: 2022-04-22T01:22:10.575Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-11T01:38:41.283Z
+:card-last-reviewed: 2022-05-26T01:38:41.283Z
 :card-last-score: 5
 :END:
 ** list中的元素是不可更改的

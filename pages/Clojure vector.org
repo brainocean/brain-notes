@@ -1,10 +1,10 @@
 * 创建一个vector的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-05-25T16:26:54.841Z
-:card-last-reviewed: 2022-04-22T01:26:54.841Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-11T01:41:46.923Z
+:card-last-reviewed: 2022-05-26T01:41:46.923Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -22,11 +22,11 @@
 #+END_SRC
 * 获取vector元素的值有哪些方法？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-05-25T16:24:52.753Z
-:card-last-reviewed: 2022-04-22T01:24:52.753Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-11T01:40:23.560Z
+:card-last-reviewed: 2022-05-26T01:40:23.561Z
 :card-last-score: 5
 :END:
 ** |  | nth | get | vector当作函数 |
@@ -55,11 +55,11 @@
 #+END_SRC
 * 将vector用作栈stack的相关函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-05-25T16:19:51.598Z
-:card-last-reviewed: 2022-04-22T01:19:51.599Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-11T01:38:05.345Z
+:card-last-reviewed: 2022-05-26T01:38:05.345Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
