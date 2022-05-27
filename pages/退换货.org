@@ -8,12 +8,12 @@
 ** 如果 [[应收帐款发票]]已经开具，则需要使用 [[file:./应收账款贷项凭证.org][应收账款贷项凭证]] 来执行基于数量和金额的更正操作
 * 退货单/退货凭证的影响是什么？ #card #B1
 :PROPERTIES:
-:card-last-score: 3
-:card-repeats: 3
-:card-next-schedule: 2022-05-26T22:15:45.953Z
-:card-last-interval: 8.88
-:card-ease-factor: 2.22
-:card-last-reviewed: 2022-05-18T01:15:45.953Z
+:card-last-score: 5
+:card-repeats: 4
+:card-next-schedule: 2022-06-17T12:03:57.710Z
+:card-last-interval: 21.53
+:card-ease-factor: 2.32
+:card-last-reviewed: 2022-05-27T00:03:57.711Z
 :END:
 ** 货物从仓库发出，库存增加或减少
 ** 如果使用永续盘存，则创建相关会计过帐，更新库存价值
