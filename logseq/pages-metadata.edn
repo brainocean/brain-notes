@@ -1,102 +1,6 @@
-[{:block/name "'user",
-  :block/created-at 1649744276126,
-  :block/updated-at 1649744276126}
- {:block/name "'user/x",
-  :block/created-at 1649744276125,
-  :block/updated-at 1649744276125}
- {:block/name "a",
+[{:block/name "a",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
- {:block/name "apr 10th, 2022",
-  :block/created-at 1649520107636,
-  :block/updated-at 1649520107636}
- {:block/name "apr 11th, 2022",
-  :block/created-at 1649606661077,
-  :block/updated-at 1649606661077}
- {:block/name "apr 12th, 2022",
-  :block/created-at 1649692804489,
-  :block/updated-at 1649692804489}
- {:block/name "apr 13th, 2022",
-  :block/created-at 1649779253658,
-  :block/updated-at 1649779253658}
- {:block/name "apr 14th, 2022",
-  :block/created-at 1649865610204,
-  :block/updated-at 1649865610204}
- {:block/name "apr 15th, 2022",
-  :block/created-at 1649952012418,
-  :block/updated-at 1649952012418}
- {:block/name "apr 16th, 2022",
-  :block/created-at 1650038468437,
-  :block/updated-at 1650038468437}
- {:block/name "apr 17th, 2022",
-  :block/created-at 1650124864232,
-  :block/updated-at 1650124864232}
- {:block/name "apr 18th, 2022",
-  :block/created-at 1650211270479,
-  :block/updated-at 1650211270479}
- {:block/name "apr 19th, 2022",
-  :block/created-at 1650297873163,
-  :block/updated-at 1650297873163}
- {:block/name "apr 1st, 2022",
-  :block/created-at 1648742689764,
-  :block/updated-at 1648742689764}
- {:block/name "apr 20th, 2022",
-  :block/created-at 1650384063476,
-  :block/updated-at 1650384063476}
- {:block/name "apr 21st, 2022",
-  :block/created-at 1650470401902,
-  :block/updated-at 1650470401902}
- {:block/name "apr 22nd, 2022",
-  :block/created-at 1650556836065,
-  :block/updated-at 1650556836065}
- {:block/name "apr 23rd, 2022",
-  :block/created-at 1650643203788,
-  :block/updated-at 1650643203788}
- {:block/name "apr 24th, 2022",
-  :block/created-at 1650729602344,
-  :block/updated-at 1650729602344}
- {:block/name "apr 25th, 2022",
-  :block/created-at 1650816001178,
-  :block/updated-at 1650816001178}
- {:block/name "apr 26th, 2022",
-  :block/created-at 1650902405058,
-  :block/updated-at 1650902405058}
- {:block/name "apr 27th, 2022",
-  :block/created-at 1650988800511,
-  :block/updated-at 1650988800511}
- {:block/name "apr 28th, 2022",
-  :block/created-at 1651075450832,
-  :block/updated-at 1651075450832}
- {:block/name "apr 29th, 2022",
-  :block/created-at 1651161603321,
-  :block/updated-at 1651161603321}
- {:block/name "apr 2nd, 2022",
-  :block/created-at 1648828804785,
-  :block/updated-at 1648828804785}
- {:block/name "apr 30th, 2022",
-  :block/created-at 1651248004359,
-  :block/updated-at 1651248004359}
- {:block/name "apr 3rd, 2022",
-  :block/created-at 1648915200918,
-  :block/updated-at 1648915200918}
- {:block/name "apr 4th, 2022",
-  :block/created-at 1649001600289,
-  :block/updated-at 1649001600289}
- {:block/name "apr 5th, 2022",
-  :block/created-at 1649088004061,
-  :block/updated-at 1649088004061}
- {:block/name "apr 6th, 2022",
-  :block/created-at 1649174400956,
-  :block/updated-at 1649174400956}
- {:block/name "apr 7th, 2022",
-  :block/created-at 1649260802779,
-  :block/updated-at 1649260802779}
- {:block/name "apr 8th, 2022",
-  :block/created-at 1649347421304,
-  :block/updated-at 1649347421304}
- {:block/name "apr 9th, 2022",
-  :block/created-at 1649433603230,
-  :block/updated-at 1649433603230}
  {:block/name "b",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -111,22 +15,31 @@
   :block/updated-at 1652434745269}
  {:block/name "b1主要组成模块",
   :block/created-at 1651654529767,
-  :block/updated-at 1652662660080}
+  :block/updated-at 1653141871647}
  {:block/name "b1交货流程",
   :block/created-at 1652413386501,
   :block/updated-at 1652413386501}
+ {:block/name "b1快速配置向导",
+  :block/created-at 1653018733932,
+  :block/updated-at 1653019007159}
+ {:block/name "b1所有科目和",
+  :block/created-at 1652930272400,
+  :block/updated-at 1652930272400}
+ {:block/name "b1所有科目和/或业务伙伴余额的汇总。可包含特定交叉部分。",
+  :block/created-at 1652930272397,
+  :block/updated-at 1652930272397}
  {:block/name "b1整体业务流程",
   :block/created-at 1651654901621,
-  :block/updated-at 1652492431310}
+  :block/updated-at 1652923346607}
  {:block/name "b1配置数据",
   :block/created-at 1651735941615,
   :block/updated-at 1651735941615}
  {:block/name "b1采购流程",
   :block/created-at 1651817567444,
-  :block/updated-at 1652663054240}
+  :block/updated-at 1653443443710}
  {:block/name "b1销售流程",
   :block/created-at 1652413384679,
-  :block/updated-at 1652663071022}
+  :block/updated-at 1653443448563}
  {:block/name "c",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -144,19 +57,19 @@
   :block/updated-at 1652662897291}
  {:block/name "clojure cli",
   :block/created-at 1651479625409,
-  :block/updated-at 1652492342499}
+  :block/updated-at 1652923481332}
  {:block/name "clojure collection",
   :block/created-at 1648647643620,
-  :block/updated-at 1650590697586}
+  :block/updated-at 1653529240213}
  {:block/name "clojure core.async",
   :block/created-at 1651645059637,
-  :block/updated-at 1652749740327}
+  :block/updated-at 1653142120660}
  {:block/name "clojure datatype",
   :block/created-at 1650540986942,
   :block/updated-at 1652662780191}
  {:block/name "clojure list",
   :block/created-at 1648712976320,
-  :block/updated-at 1650590851602}
+  :block/updated-at 1653529320329}
  {:block/name "clojure multimethods",
   :block/created-at 1650629754415,
   :block/updated-at 1650631130630}
@@ -168,31 +81,31 @@
   :block/updated-at 1652662901390}
  {:block/name "clojure repl",
   :block/created-at 1650438306488,
-  :block/updated-at 1652492262368}
+  :block/updated-at 1652923397329}
  {:block/name "clojure seq library",
   :block/created-at 1650961906219,
-  :block/updated-at 1652749708170}
+  :block/updated-at 1653267439703}
  {:block/name "clojure transducers",
   :block/created-at 1650875440857,
-  :block/updated-at 1652749538902}
+  :block/updated-at 1653353685479}
  {:block/name "clojure var",
   :block/created-at 1649304011284,
   :block/updated-at 1651625468286}
  {:block/name "clojure vector",
   :block/created-at 1648691310540,
-  :block/updated-at 1650683959264}
+  :block/updated-at 1653529306943}
  {:block/name "clojure 和 java 的互操作 interop",
   :block/created-at 1648521091084,
-  :block/updated-at 1650330780579}
+  :block/updated-at 1653267860906}
  {:block/name "clojure中的keyword关键字",
   :block/created-at 1648607979825,
-  :block/updated-at 1650590586531}
+  :block/updated-at 1653529168341}
  {:block/name "clojure中的quoting",
   :block/created-at 1648521091670,
-  :block/updated-at 1650330695095}
+  :block/updated-at 1653267806346}
  {:block/name "clojure中的symbol符号",
   :block/created-at 1648609012055,
-  :block/updated-at 1650590793844}
+  :block/updated-at 1653529287130}
  {:block/name "clojure中的多态",
   :block/created-at 1649985696319,
   :block/updated-at 1651706156842}
@@ -201,10 +114,10 @@
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1650330240875}
+  :block/updated-at 1653267487357}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
-  :block/updated-at 1652662946289}
+  :block/updated-at 1653267497277}
  {:block/name "clojure元数据",
   :block/created-at 1648609787956,
   :block/updated-at 1650502985301}
@@ -225,7 +138,7 @@
   :block/updated-at 1651198466249}
  {:block/name "clojure并发",
   :block/created-at 1649381037726,
-  :block/updated-at 1652749509823}
+  :block/updated-at 1653267245026}
  {:block/name "clojure惰性",
   :block/created-at 1648800672097,
   :block/updated-at 1650766869380}
@@ -237,13 +150,13 @@
   :block/updated-at 1652492384769}
  {:block/name "clojure持久化set",
   :block/created-at 1648775576084,
-  :block/updated-at 1650590609296}
+  :block/updated-at 1653529194066}
  {:block/name "clojure正则表达式",
   :block/created-at 1648647644022,
-  :block/updated-at 1650590857327}
+  :block/updated-at 1653529331465}
  {:block/name "clojure的持久化队列",
   :block/created-at 1648716477127,
-  :block/updated-at 1650590768980}
+  :block/updated-at 1653529266387}
  {:block/name "clojure符号",
   :block/created-at 1649310875567,
   :block/updated-at 1649310875567}
@@ -262,21 +175,9 @@
  {:block/name "done",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
- {:block/name "draws",
-  :block/created-at 1651493547792,
-  :block/updated-at 1651493547792}
- {:block/name "draws/2022-05-02-19-57-28.excalidraw",
-  :block/created-at 1651818893564,
-  :block/updated-at 1651818893564}
- {:block/name "draws/2022-05-02-20-04-21.excalidraw",
-  :block/created-at 1651818893563,
-  :block/updated-at 1651818893563}
- {:block/name "draws/2022-05-02-20-12-45.excalidraw",
-  :block/created-at 1651818893563,
-  :block/updated-at 1651818893563}
  {:block/name "egrep",
   :block/created-at 1648611173170,
-  :block/updated-at 1648611173170}
+  :block/updated-at 1652836181165}
  {:block/name "favorites",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -286,54 +187,42 @@
  {:block/name "later",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
- {:block/name "mar 28th, 2022",
-  :block/created-at 1648432031681,
-  :block/updated-at 1648432031681}
- {:block/name "mar 29th, 2022",
-  :block/created-at 1648521091573,
-  :block/updated-at 1648521091573}
- {:block/name "mar 30th, 2022",
-  :block/created-at 1648569604660,
-  :block/updated-at 1648569604660}
- {:block/name "mar 31st, 2022",
-  :block/created-at 1648656003239,
-  :block/updated-at 1648656003239}
  {:block/name "material requirement planning(mrp)",
   :block/created-at 1651655020777,
   :block/updated-at 1651655020777}
- {:block/name "may 13th, 2022",
-  :block/created-at 1652413385044,
-  :block/updated-at 1652413385044}
- {:block/name "may 14th, 2022",
-  :block/created-at 1652457821657,
-  :block/updated-at 1652457821657}
- {:block/name "may 15th, 2022",
-  :block/created-at 1652544001685,
-  :block/updated-at 1652544001685}
- {:block/name "may 16th, 2022",
-  :block/created-at 1652630604898,
-  :block/updated-at 1652630604898}
  {:block/name "may 17th, 2022",
   :block/created-at 1652716929284,
   :block/updated-at 1652716929284}
- {:block/name "may 1st, 2022",
-  :block/created-at 1651334628244,
-  :block/updated-at 1651334628244}
- {:block/name "may 2nd, 2022",
-  :block/created-at 1651420962320,
-  :block/updated-at 1651420962320}
- {:block/name "may 3rd, 2022",
-  :block/created-at 1651507377914,
-  :block/updated-at 1651507377914}
- {:block/name "may 4th, 2022",
-  :block/created-at 1651593604146,
-  :block/updated-at 1651593604146}
- {:block/name "may 5th, 2022",
-  :block/created-at 1651680228820,
-  :block/updated-at 1651680228820}
- {:block/name "may 6th, 2022",
-  :block/created-at 1651767103548,
-  :block/updated-at 1651767103548}
+ {:block/name "may 18th, 2022",
+  :block/created-at 1652803251688,
+  :block/updated-at 1652803251688}
+ {:block/name "may 19th, 2022",
+  :block/created-at 1652889826874,
+  :block/updated-at 1652889826874}
+ {:block/name "may 20th, 2022",
+  :block/created-at 1652976044203,
+  :block/updated-at 1652976044203}
+ {:block/name "may 21st, 2022",
+  :block/created-at 1653062454309,
+  :block/updated-at 1653062454309}
+ {:block/name "may 22nd, 2022",
+  :block/created-at 1653148975682,
+  :block/updated-at 1653148975682}
+ {:block/name "may 23rd, 2022",
+  :block/created-at 1653235250613,
+  :block/updated-at 1653235250613}
+ {:block/name "may 24th, 2022",
+  :block/created-at 1653321603741,
+  :block/updated-at 1653321603741}
+ {:block/name "may 25th, 2022",
+  :block/created-at 1653408004504,
+  :block/updated-at 1653408004504}
+ {:block/name "may 26th, 2022",
+  :block/created-at 1653494404900,
+  :block/updated-at 1653494404900}
+ {:block/name "may 27th, 2022",
+  :block/created-at 1653581013461,
+  :block/updated-at 1653581013461}
  {:block/name
   "names are the most common means of creating indirection",
   :block/created-at 1650806477886,
@@ -346,7 +235,7 @@
   :block/updated-at 1648611187118}
  {:block/name "thomas' to be improved",
   :block/created-at 1650186602038,
-  :block/updated-at 1652497250185}
+  :block/updated-at 1653609927524}
  {:block/name "thunk",
   :block/created-at 1648801098098,
   :block/updated-at 1648801098098}
@@ -362,6 +251,9 @@
  {:block/name "{}",
   :block/created-at 1648521091748,
   :block/updated-at 1648521091748}
+ {:block/name "业务伙伴",
+  :block/created-at 1652942729631,
+  :block/updated-at 1652942729631}
  {:block/name "习惯",
   :block/created-at 1649471811663,
   :block/updated-at 1649471811663}
@@ -370,19 +262,19 @@
   :block/updated-at 1650768679865}
  {:block/name "习惯回路",
   :block/created-at 1649469531017,
-  :block/updated-at 1651376439730}
+  :block/updated-at 1653353969029}
  {:block/name "交货单",
   :block/created-at 1652413385158,
   :block/updated-at 1652413385158}
  {:block/name "仓库",
   :block/created-at 1652520484419,
-  :block/updated-at 1652576876073}
+  :block/updated-at 1653353796524}
  {:block/name "仓库货物移动",
   :block/created-at 1652585844841,
   :block/updated-at 1652587010914}
  {:block/name "价格清单",
   :block/created-at 1652413385156,
-  :block/updated-at 1652749484798}
+  :block/updated-at 1653529045164}
  {:block/name "使用修饰符flag进行高级搜索",
   :block/created-at 1648611187158,
   :block/updated-at 1650766981742}
@@ -394,7 +286,7 @@
   :block/updated-at 1651625538637}
  {:block/name "使用零宽断言来匹配特定的文本位置",
   :block/created-at 1648611187284,
-  :block/updated-at 1651706186141}
+  :block/updated-at 1653443430627}
  {:block/name "供应商",
   :block/created-at 1652413386461,
   :block/updated-at 1652413386461}
@@ -406,10 +298,13 @@
   :block/updated-at 1649993008493}
  {:block/name "借方和贷方",
   :block/created-at 1652695133961,
-  :block/updated-at 1652768917817}
+  :block/updated-at 1653609798337}
+ {:block/name "催款",
+  :block/created-at 1652933011236,
+  :block/updated-at 1652933236369}
  {:block/name "内部对账",
   :block/created-at 1652413385580,
-  :block/updated-at 1652413385580}
+  :block/updated-at 1653353745707}
  {:block/name "凭证生成向导",
   :block/created-at 1652413434018,
   :block/updated-at 1652413595181}
@@ -427,7 +322,10 @@
   :block/updated-at 1649294729569}
  {:block/name "向供应商付款",
   :block/created-at 1652413385625,
-  :block/updated-at 1652413385625}
+  :block/updated-at 1653267294827}
+ {:block/name "固定资产",
+  :block/created-at 1652952104665,
+  :block/updated-at 1652953251603}
  {:block/name "基底核",
   :block/created-at 1649468976463,
   :block/updated-at 1649469702488}
@@ -437,42 +335,45 @@
  {:block/name "多态",
   :block/created-at 1649986395121,
   :block/updated-at 1649986395121}
+ {:block/name "多种货币",
+  :block/created-at 1652940938690,
+  :block/updated-at 1653142044236}
  {:block/name "字符组匹配一组字符的任一个",
   :block/created-at 1648611187280,
   :block/updated-at 1650422760566}
  {:block/name "定价",
   :block/created-at 1652665356328,
-  :block/updated-at 1652749436123}
+  :block/updated-at 1653529005243}
  {:block/name "客户",
   :block/created-at 1652413385921,
   :block/updated-at 1652413385921}
  {:block/name "客户关系管理",
   :block/created-at 1652413385653,
-  :block/updated-at 1652490572282}
+  :block/updated-at 1653267192499}
  {:block/name "尾递归",
   :block/created-at 1648521091819,
-  :block/updated-at 1650330766792}
+  :block/updated-at 1653267842583}
  {:block/name "常用的正则表达式例子",
   :block/created-at 1648611187120,
-  :block/updated-at 1650848458899}
+  :block/updated-at 1653443481963}
  {:block/name "库存盘点",
   :block/created-at 1652587081029,
   :block/updated-at 1652665257578}
  {:block/name "库存计价方法",
   :block/created-at 1652497341746,
-  :block/updated-at 1652576923533}
+  :block/updated-at 1653353825582}
  {:block/name "应付帐款发票",
   :block/created-at 1651818185804,
-  :block/updated-at 1652492629018}
+  :block/updated-at 1653609751233}
  {:block/name "应付帐款贷项凭证",
   :block/created-at 1652413385772,
-  :block/updated-at 1652663140448}
+  :block/updated-at 1653008914357}
  {:block/name "应付账款发票",
   :block/created-at 1652413386561,
   :block/updated-at 1652413386561}
  {:block/name "应收帐款发票",
   :block/created-at 1652413385143,
-  :block/updated-at 1652579213411}
+  :block/updated-at 1652923590887}
  {:block/name "应收账款发票",
   :block/created-at 1651818537568,
   :block/updated-at 1651818537568}
@@ -484,10 +385,13 @@
   :block/updated-at 1649471811664}
  {:block/name "总账科目",
   :block/created-at 1652769106322,
-  :block/updated-at 1652771938652}
+  :block/updated-at 1653609776796}
+ {:block/name "总账科目确定",
+  :block/created-at 1652844054355,
+  :block/updated-at 1652844054355}
  {:block/name "折扣组",
   :block/created-at 1652672862163,
-  :block/updated-at 1652749389575}
+  :block/updated-at 1653528963156}
  {:block/name "拣配包装管理器",
   :block/created-at 1652413385159,
   :block/updated-at 1652413385159}
@@ -495,11 +399,11 @@
   :block/created-at 1652413392413,
   :block/updated-at 1652413392413}
  {:block/name "损益表",
-  :block/created-at 1652772128117,
-  :block/updated-at 1652772128117}
+  :block/created-at 1652772172159,
+  :block/updated-at 1653008316670}
  {:block/name "收付款",
-  :block/created-at 1652767860870,
-  :block/updated-at 1652768895276}
+  :block/created-at 1652954982371,
+  :block/updated-at 1653014156758}
  {:block/name "收款",
   :block/created-at 1652413385144,
   :block/updated-at 1652413385144}
@@ -508,13 +412,16 @@
   :block/updated-at 1650168734803}
  {:block/name "日记账分录",
   :block/created-at 1652769336025,
-  :block/updated-at 1652769336025}
+  :block/updated-at 1652838192509}
  {:block/name "服务采购",
   :block/created-at 1652413385862,
-  :block/updated-at 1652492574117}
+  :block/updated-at 1652836563802}
+ {:block/name "期末关账",
+  :block/created-at 1652846785421,
+  :block/updated-at 1653353707672}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
-  :block/updated-at 1652749418149}
+  :block/updated-at 1653528974877}
  {:block/name "正则表达式",
   :block/created-at 1648611187289,
   :block/updated-at 1648611187289}
@@ -538,10 +445,19 @@
   :block/updated-at 1652435360492}
  {:block/name "物料可用性检查",
   :block/created-at 1652413385157,
-  :block/updated-at 1652492193726}
+  :block/updated-at 1653529385631}
+ {:block/name "物料组",
+  :block/created-at 1652775659718,
+  :block/updated-at 1652775659718}
  {:block/name "特殊字符的含义和它们的位置相关",
   :block/created-at 1648611187198,
   :block/updated-at 1650242095036}
+ {:block/name "现金流报表",
+  :block/created-at 1652932216852,
+  :block/updated-at 1652932357360}
+ {:block/name "现金流量表",
+  :block/created-at 1652929634948,
+  :block/updated-at 1653353726304}
  {:block/name "用圆括号进行捕获和分组",
   :block/created-at 1648611187285,
   :block/updated-at 1651625552070}
@@ -556,40 +472,55 @@
   :block/updated-at 1649488676073}
  {:block/name "科目表",
   :block/created-at 1652768901790,
-  :block/updated-at 1652769599273}
+  :block/updated-at 1653609805848}
+ {:block/name "自动总账科目确定",
+  :block/created-at 1652776077606,
+  :block/updated-at 1652776425665}
+ {:block/name "自动过帐",
+  :block/created-at 1652775585542,
+  :block/updated-at 1652776436079}
  {:block/name "行首和行末",
   :block/created-at 1648611187202,
   :block/updated-at 1651625306384}
  {:block/name "计量单位",
   :block/created-at 1652435360492,
-  :block/updated-at 1652663106662}
+  :block/updated-at 1653443466366}
  {:block/name "试算表",
   :block/created-at 1652772094615,
-  :block/updated-at 1652772107594}
+  :block/updated-at 1653008613324}
+ {:block/name "财务报表",
+  :block/created-at 1652929462014,
+  :block/updated-at 1652930998965}
+ {:block/name "账龄报表",
+  :block/created-at 1652932689770,
+  :block/updated-at 1652932927145}
  {:block/name "资产负债表",
   :block/created-at 1652772061821,
-  :block/updated-at 1652772073047}
+  :block/updated-at 1653008603738}
+ {:block/name "过帐期间",
+  :block/created-at 1652843526072,
+  :block/updated-at 1652844054355}
  {:block/name "退换货",
   :block/created-at 1652413386018,
-  :block/updated-at 1652492522617}
+  :block/updated-at 1653609837734}
  {:block/name "采购报价",
   :block/created-at 1652413386086,
-  :block/updated-at 1652579237187}
+  :block/updated-at 1653353596407}
  {:block/name "采购收货单",
   :block/created-at 1651818180236,
-  :block/updated-at 1652663165358}
+  :block/updated-at 1653609770510}
  {:block/name "采购申请",
   :block/created-at 1652413386177,
-  :block/updated-at 1652579347365}
+  :block/updated-at 1653353560672}
  {:block/name "采购订单",
   :block/created-at 1651818174591,
-  :block/updated-at 1652663186928}
+  :block/updated-at 1653529352835}
  {:block/name "重复交易",
   :block/created-at 1652413385861,
   :block/updated-at 1652413385861}
  {:block/name "针对业务伙伴的特殊价格",
   :block/created-at 1652672872042,
-  :block/updated-at 1652749368571}
+  :block/updated-at 1653528940029}
  {:block/name "销售报价",
   :block/created-at 1652413385652,
   :block/updated-at 1652413385652}
@@ -604,4 +535,4 @@
   :block/updated-at 1652413385649}
  {:block/name "销售订单",
   :block/created-at 1652413385152, 
-  :block/updated-at 1652413385152}]
+  :block/updated-at 1653267338210}]

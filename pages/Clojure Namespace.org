@@ -49,11 +49,11 @@ myns/x
 #+END_SRC
 * 如何删除一个namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 27.31
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-05-27T10:05:40.846Z
-:card-last-reviewed: 2022-04-30T03:05:40.846Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-20T02:54:53.302Z
+:card-last-reviewed: 2022-05-28T00:54:53.302Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
