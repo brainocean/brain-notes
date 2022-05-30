@@ -1,10 +1,10 @@
 * 什么是采购订单？ #card #B1
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-05-28T06:13:08.838Z
-:card-last-reviewed: 2022-05-18T01:13:08.838Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-24T16:14:26.366Z
+:card-last-reviewed: 2022-05-28T09:14:26.366Z
 :card-last-score: 5
 :END:
 ** 采购订单是指买方向卖方发出的一种商业凭证，其中指定了卖方将向买方提供的物料或服务。

@@ -75,7 +75,7 @@
   :block/updated-at 1650631130630}
  {:block/name "clojure namespace",
   :block/created-at 1649312003887,
-  :block/updated-at 1651799258694}
+  :block/updated-at 1653699293337}
  {:block/name "clojure ref",
   :block/created-at 1650527802723,
   :block/updated-at 1652662901390}
@@ -90,7 +90,7 @@
   :block/updated-at 1653353685479}
  {:block/name "clojure var",
   :block/created-at 1649304011284,
-  :block/updated-at 1651625468286}
+  :block/updated-at 1653699309375}
  {:block/name "clojure vector",
   :block/created-at 1648691310540,
   :block/updated-at 1653529306943}
@@ -108,7 +108,7 @@
   :block/updated-at 1653529287130}
  {:block/name "clojure中的多态",
   :block/created-at 1649985696319,
-  :block/updated-at 1651706156842}
+  :block/updated-at 1653699401737}
  {:block/name "clojure中的异常处理",
   :block/created-at 1648521461425,
   :block/updated-at 1648526195757}
@@ -129,7 +129,7 @@
   :block/updated-at 1651198454876}
  {:block/name "clojure函数式编程",
   :block/created-at 1650436648114,
-  :block/updated-at 1651198929266}
+  :block/updated-at 1653699374859}
  {:block/name "clojure函数组合comp",
   :block/created-at 1648952803688,
   :block/updated-at 1648952909963}
@@ -141,10 +141,10 @@
   :block/updated-at 1653267245026}
  {:block/name "clojure惰性",
   :block/created-at 1648800672097,
-  :block/updated-at 1650766869380}
+  :block/updated-at 1653699415868}
  {:block/name "clojure惰性序列",
   :block/created-at 1650437309312,
-  :block/updated-at 1651198900928}
+  :block/updated-at 1653699337085}
  {:block/name "clojure持久化map",
   :block/created-at 1648795267998,
   :block/updated-at 1652492384769}
@@ -223,6 +223,9 @@
  {:block/name "may 27th, 2022",
   :block/created-at 1653581013461,
   :block/updated-at 1653581013461}
+ {:block/name "may 28th, 2022",
+  :block/created-at 1653667200104,
+  :block/updated-at 1653667200104}
  {:block/name
   "names are the most common means of creating indirection",
   :block/created-at 1650806477886,
@@ -298,7 +301,7 @@
   :block/updated-at 1649993008493}
  {:block/name "借方和贷方",
   :block/created-at 1652695133961,
-  :block/updated-at 1653609798337}
+  :block/updated-at 1653699287390}
  {:block/name "催款",
   :block/created-at 1652933011236,
   :block/updated-at 1652933236369}
@@ -361,7 +364,7 @@
   :block/updated-at 1652665257578}
  {:block/name "库存计价方法",
   :block/created-at 1652497341746,
-  :block/updated-at 1653353825582}
+  :block/updated-at 1653699499310}
  {:block/name "应付帐款发票",
   :block/created-at 1651818185804,
   :block/updated-at 1653609751233}
@@ -418,7 +421,7 @@
   :block/updated-at 1652836563802}
  {:block/name "期末关账",
   :block/created-at 1652846785421,
-  :block/updated-at 1653353707672}
+  :block/updated-at 1653699436588}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
   :block/updated-at 1653528974877}
@@ -457,7 +460,7 @@
   :block/updated-at 1652932357360}
  {:block/name "现金流量表",
   :block/created-at 1652929634948,
-  :block/updated-at 1653353726304}
+  :block/updated-at 1653699470165}
  {:block/name "用圆括号进行捕获和分组",
   :block/created-at 1648611187285,
   :block/updated-at 1651625552070}

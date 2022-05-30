@@ -4,12 +4,12 @@
 :END:
 * Clojure变量和[[Clojure符号]]的关系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 28.3
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-05-29T10:40:09.449Z
-:card-last-reviewed: 2022-05-01T03:40:09.449Z
-:card-last-score: 3
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-22T02:59:19.827Z
+:card-last-reviewed: 2022-05-30T00:59:19.827Z
+:card-last-score: 5
 :END:
 ** 符号就是一个名字，在eval时，会在namespace里面查找(称为resolve)符号，找到对应的变量，然后把变量绑定的值作为符号的求值结果
 * (var symbol)的意义是什么？ #card #clojure
