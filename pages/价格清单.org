@@ -1,10 +1,10 @@
 * 什么是价格清单？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-30T04:37:25.144Z
-:card-last-reviewed: 2022-05-26T01:37:25.144Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-11T05:21:34.899Z
+:card-last-reviewed: 2022-05-31T01:21:34.899Z
 :card-last-score: 5
 :END:
 ** 价格清单实际上就是所有物料(以及它们的计量单位)对客户(组)的多对多关系上面的价格属性的计算规则

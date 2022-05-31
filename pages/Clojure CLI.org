@@ -1,10 +1,10 @@
 * 如何用clj执行一个函数？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-05-30T05:24:41.310Z
-:card-last-reviewed: 2022-05-19T01:24:41.310Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-04T20:22:43.550Z
+:card-last-reviewed: 2022-05-31T01:22:43.550Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC shell
@@ -28,11 +28,11 @@ clj -X my.qualified/fn :config 789
 #+END_SRC
 * 如何用clj执行clojure.main？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-05-30T05:24:11.193Z
-:card-last-reviewed: 2022-05-19T01:24:11.194Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-04T20:22:24.335Z
+:card-last-reviewed: 2022-05-31T01:22:24.335Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC shell
@@ -45,11 +45,11 @@ clj -M /path/to/myscript.clj arg1 arg2 arg3
 #+END_SRC
 * 如何用clj执行一个Tool？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-05-30T05:24:18.538Z
-:card-last-reviewed: 2022-05-19T01:24:18.538Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-04T20:22:28.875Z
+:card-last-reviewed: 2022-05-31T01:22:28.875Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC shell

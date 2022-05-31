@@ -12,11 +12,11 @@
 * 采购报价凭证被发送给(通常是多个)供应商，当您从供应商处收到有关价格和交货日期的信息时，便可以将此信息输入到采购报价中。通过这种方式，您可以在系统中存储完整的寻源流程历史记录。
 * 使用采购报价的好处是？ #card #B1
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-05-30T06:04:36.412Z
-:card-last-reviewed: 2022-05-20T01:04:36.412Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-27T08:23:22.047Z
+:card-last-reviewed: 2022-05-31T01:23:22.048Z
 :card-last-score: 5
 :END:
 ** 利用报价中所跟踪的信息可以选择本次采购的最佳供应商。

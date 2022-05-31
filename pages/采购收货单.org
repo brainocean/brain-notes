@@ -54,11 +54,11 @@
 ** 在采购收货单中反映实际交货数量
 * 如果供应商交付了替代物料应该怎么办？ #card #B1
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-05-30T06:08:49.462Z
-:card-last-reviewed: 2022-05-20T01:08:49.463Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-27T08:24:31.423Z
+:card-last-reviewed: 2022-05-31T01:24:31.423Z
 :card-last-score: 5
 :END:
 ** 供应商可能会发送与最初订购物料不同的物料，以替代缺货的物料

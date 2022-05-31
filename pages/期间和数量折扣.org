@@ -1,10 +1,10 @@
 * 什么是期间和数量折扣(Period and volume discounts)？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-30T04:36:14.858Z
-:card-last-reviewed: 2022-05-26T01:36:14.858Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-06-11T05:20:53.801Z
+:card-last-reviewed: 2022-05-31T01:20:53.801Z
 :card-last-score: 5
 :END:
 ** 根据日期和数量为价格清单定义折扣百分比。

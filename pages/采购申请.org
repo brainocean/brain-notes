@@ -15,11 +15,11 @@
 ** 英文是Purchase Request
 * 由于采购申请提供了创建采购订单所需的大部分信息，因此使用采购申请的优点在于？ #card #B1
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-05-30T06:05:08.986Z
-:card-last-reviewed: 2022-05-20T01:05:08.986Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-27T08:23:40.617Z
+:card-last-reviewed: 2022-05-31T01:23:40.617Z
 :card-last-score: 5
 :END:
 ** 节省采购部门的时间
