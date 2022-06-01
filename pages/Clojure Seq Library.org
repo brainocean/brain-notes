@@ -43,11 +43,11 @@
 | (next seq) | 除去第一个元素，如果没有剩余元素，返回nil |
 * 合并多个seq的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 15.05
-:card-repeats: 4
-:card-ease-factor: 1.94
-:card-next-schedule: 2022-05-31T02:03:03.785Z
-:card-last-reviewed: 2022-05-16T01:03:03.785Z
+:card-last-interval: 23.33
+:card-repeats: 5
+:card-ease-factor: 1.8
+:card-next-schedule: 2022-06-24T10:21:52.289Z
+:card-last-reviewed: 2022-06-01T03:21:52.290Z
 :card-last-score: 3
 :END:
 ** | 函数 | 功能 |
