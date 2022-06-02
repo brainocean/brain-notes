@@ -18,11 +18,11 @@
 #+END_SRC
 * core.async里面的put/take的parking, blocking的变体的区别是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-01T18:03:27.049Z
-:card-last-reviewed: 2022-05-21T14:03:27.049Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-06T20:50:18.181Z
+:card-last-reviewed: 2022-06-02T01:50:18.181Z
 :card-last-score: 5
 :END:
 ** blocking(两个感叹号)会停止当前线程的运行，等待某个其他任务完成;
@@ -33,11 +33,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/thread的用途是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-01T18:08:40.640Z
-:card-last-reviewed: 2022-05-21T14:08:40.641Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-06T20:51:38.741Z
+:card-last-reviewed: 2022-06-02T01:51:38.742Z
 :card-last-score: 5
 :END:
 ** thread会创建一个channel，当thread的处理结束的时候，处理的结果值会被put到thread创建的channel中
@@ -56,11 +56,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/alt!的主要作用是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-01T18:02:52.113Z
-:card-last-reviewed: 2022-05-21T14:02:52.113Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-06T20:50:04.083Z
+:card-last-reviewed: 2022-06-02T01:50:04.083Z
 :card-last-score: 5
 :END:
 ** alt!和alt!!在一组channel上面take，返回第一个提供消息的channel和它提供的值[value channel]
