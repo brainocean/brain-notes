@@ -11,11 +11,11 @@
 ** 本币是公司记账时法定要求使用的货币。
 * 什么是系统货币(system currency)？ #card #B1
 :PROPERTIES:
-:card-last-interval: 12.03
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-06-02T14:07:24.197Z
-:card-last-reviewed: 2022-05-21T14:07:24.197Z
+:card-last-interval: 177.56
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-11-27T15:07:47.306Z
+:card-last-reviewed: 2022-06-03T02:07:47.306Z
 :card-last-score: 5
 :END:
 ** 可能是不同于本币的货币，其特别适用于跨国公司的子公司，这些公司的总部使用不同于子公司的货币（例如，子公司使用欧元 (€)，而总部则使用美元 ($)）。
