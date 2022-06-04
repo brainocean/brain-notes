@@ -1,12 +1,12 @@
 * Namespace就是 [[Clojure符号]]到 [[Clojure Var]]或者Class的映射mapping
 * 如何创建namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-03T18:39:21.761Z
-:card-last-reviewed: 2022-05-01T03:39:21.761Z
-:card-last-score: 5
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-27T06:01:19.385Z
+:card-last-reviewed: 2022-06-04T04:01:19.386Z
+:card-last-score: 3
 :END:
 ** | | 函数/宏 | 功能 | 缺省映射 | 应用场景 |
 | (create-ns 'myns) | 函数 | 创建一个clojure.lang.Namespace 对象 |  java.lang.* | 高级namespace场景 |
@@ -14,11 +14,11 @@
 | (ns myns) | 宏 | 创建并切换到一个namespace |  java.lang.*  clojure.core/* | clojure 源代码中 |
 * 如何添加namespace中的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-03T18:38:53.872Z
-:card-last-reviewed: 2022-05-01T03:38:53.874Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-20T04:00:56.188Z
+:card-last-reviewed: 2022-06-04T04:00:56.189Z
 :card-last-score: 5
 :END:
 ** 使用intern函数：在namespace中查找符号到变量的映射，如果存在就重用那个变量，否则创建一个映射
@@ -61,11 +61,11 @@ myns/x
 #+END_SRC
 * 如何定义一个私有的变量、函数、宏？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 33.64
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-03T18:39:50.357Z
-:card-last-reviewed: 2022-05-01T03:39:50.357Z
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-20T04:01:28.080Z
+:card-last-reviewed: 2022-06-04T04:01:28.080Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
