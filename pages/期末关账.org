@@ -13,12 +13,12 @@
 *** 以便下一期间可重新开始收集与之相关的损益数据
 * 期末关账需要执行哪些任务？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-06-04T04:28:11.370Z
-:card-last-reviewed: 2022-05-31T01:28:11.370Z
-:card-last-score: 5
+:card-next-schedule: 2022-06-06T16:00:00.000Z
+:card-last-reviewed: 2022-06-06T01:13:21.490Z
+:card-last-score: 1
 :END:
 ** 首先，将过账期间状态更改为关账期间(Closing Period)
 *** 此状态将限制哪些人能够过帐到这个期间。
@@ -64,12 +64,12 @@
 *** 当您执行期末关账时，系统会生成关账分录的建议列表。您可以分别接受每项建议。
 * 期间的状态有哪些？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-06-04T04:25:06.614Z
-:card-last-reviewed: 2022-05-31T01:25:06.614Z
-:card-last-score: 5
+:card-next-schedule: 2022-06-06T16:00:00.000Z
+:card-last-reviewed: 2022-06-06T01:11:53.002Z
+:card-last-score: 1
 :END:
 ** 已解锁
 ** 除销售外均已解锁
