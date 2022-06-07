@@ -57,11 +57,11 @@
 ** 您也可以选择关闭特定行，而不是关闭整个凭证。
 * 什么情况下取消采购订单？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-06T05:42:32.817Z
-:card-last-reviewed: 2022-05-26T01:42:32.817Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-11T20:06:42.402Z
+:card-last-reviewed: 2022-06-07T01:06:42.403Z
 :card-last-score: 5
 :END:
 ** 当确定不会收到采购订单上的任何物料时，通常可以选择取消采购订单。

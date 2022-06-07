@@ -33,22 +33,22 @@
 ** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量
 * 如果供应商交付物料数量过少应该怎么办？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-06T05:42:42.704Z
-:card-last-reviewed: 2022-05-26T01:42:42.704Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-11T20:06:47.084Z
+:card-last-reviewed: 2022-06-07T01:06:47.085Z
 :card-last-score: 5
 :END:
 ** 只为交付那部分物料创建采购收货单
 ** 将来继续收到其他物料，创建相应的采购收货单
 * 如果供应商交付物料数量过多应该怎么办？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-06T05:42:25.380Z
-:card-last-reviewed: 2022-05-26T01:42:25.381Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-11T20:06:29.866Z
+:card-last-reviewed: 2022-06-07T01:06:29.866Z
 :card-last-score: 5
 :END:
 ** 在采购收货单中反映实际交货数量
