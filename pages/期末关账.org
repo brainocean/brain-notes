@@ -1,11 +1,11 @@
 * 英文：Period-end Closing
 * 期末关账的主要目的是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 10.24
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-06-07T05:57:16.565Z
-:card-last-reviewed: 2022-05-28T00:57:16.565Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-07-05T08:09:55.780Z
+:card-last-reviewed: 2022-06-08T01:09:55.781Z
 :card-last-score: 5
 :END:
 ** 主要目的是准备科目以提交至相关管理部门

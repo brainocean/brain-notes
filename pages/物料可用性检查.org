@@ -17,11 +17,11 @@
 ** 有时，可能会看到另一个选项，即*更改为最早可用日期*。此选项仅在可以计算可用日期时才会出现。选择此选项将会把最早可用日期复制到该行的交货日期。
 * 什么是承诺数量Committed Quantity？ #card #B1
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-06-08T00:00:37.789Z
-:card-last-reviewed: 2022-06-04T04:00:37.789Z
+:card-last-interval: 11.04
+:card-repeats: 3
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-06-19T01:10:37.980Z
+:card-last-reviewed: 2022-06-08T01:10:37.980Z
 :card-last-score: 5
 :END:
 ** 已有客户订购的数量
