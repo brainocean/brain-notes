@@ -1,11 +1,11 @@
 * 计价方法 Valuation Methods
 * 永续盘存 Perpetual Inventory 是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-06-08T13:14:00.566Z
-:card-last-reviewed: 2022-05-28T09:14:00.567Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-07-13T20:30:29.604Z
+:card-last-reviewed: 2022-06-09T01:30:29.604Z
 :card-last-score: 5
 :END:
 ** 在会计系统中，通过货币交易反映相关的库存过账的价值
