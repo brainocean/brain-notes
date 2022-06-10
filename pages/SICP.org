@@ -1,0 +1,12 @@
+* Mathematics provides a framework for dealing precisely with notions of “what is.” Computation provides a framework for dealing precisely with notions of “how to.”
+** 数学为精确处理“是什么”提供了一个框架，而计算则为精确处理“怎么做”提供了一个框架
+* Every powerful language has three mechanisms for accomplishing this:
+** *primitive expressions*, which represent the simplest entities the language is concerned with,
+** *means of combination*, by which compound elements are built from simpler ones, and
+** *means of abstraction*, by which compound elements can be named and manipulated as units.
+* 两种不同的求值方式evaluation method
+** 应用序 applicative-order evaluation
+*** “evaluate the arguments and then apply”
+*** Lisp采用applicative-order，部分原因是可以避免重复求值从而提高效率
+** 正则序 normal-order evaluation
+*** “fully expand and then reduce”

@@ -1,0 +1,31 @@
+* [[Datomic]] is a database of atomic facts, named [[file:./datom.org][Datom]]
+* What is a query? #card #Datalog
+:PROPERTIES:
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-01T08:28:00.322Z
+:card-last-reviewed: 2022-06-09T01:28:00.322Z
+:card-last-score: 5
+:END:
+** A query is a vector, staring with keyword :find
+** and then a one or more pattern variables, which are symbols starting with ?, like ?e, ?title,
+** and then a :while clause, to match [[Datom]] with data patterns
+** example:
+*** #+BEGIN_SRC edn
+[:find ?e
+ :where
+ [?e :person/name "Ridley Scott"]]
+#+END_SRC
+* What are data patterns? #card #Datalog
+:PROPERTIES:
+:id: 62a04fbf-07b3-44f5-ab1f-2bd75f9d92a0
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-01T08:28:24.897Z
+:card-last-reviewed: 2022-06-09T01:28:24.897Z
+:card-last-score: 5
+:END:
+** A data pattern is a datom with some parts replaced with pattern variables.
+** The symbol _ can be used as a wildcard for the parts of the data pattern that you wish to ignore.
