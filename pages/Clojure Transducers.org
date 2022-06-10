@@ -123,12 +123,12 @@
 #+END_SRC
 * sequence怎样使用transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-06-09T16:00:00.000Z
-:card-last-reviewed: 2022-06-09T01:32:17.683Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-06-14T01:12:11.158Z
+:card-last-reviewed: 2022-06-10T01:12:11.158Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (sequence xform coll & colls)

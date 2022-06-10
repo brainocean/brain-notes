@@ -116,12 +116,12 @@
 | (iterate f x) | 返回x, (f x), (f (f x)), ...组成的lazy seq |
 * 有哪些函数可以把seq转换成其他类型的collection? #card #clojure
 :PROPERTIES:
-:card-last-interval: 22.61
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.42
-:card-next-schedule: 2022-06-09T15:18:30.345Z
-:card-last-reviewed: 2022-05-18T01:18:30.345Z
-:card-last-score: 5
+:card-next-schedule: 2022-06-10T16:00:00.000Z
+:card-last-reviewed: 2022-06-10T01:11:43.599Z
+:card-last-score: 1
 :END:
 ** | 函数 | 功能 |
 | (zipmap keys vals) | 把 keys, vals 一一对应创建一个map |
