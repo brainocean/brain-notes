@@ -62,11 +62,11 @@
 #+END_SRC
 * Transduce操作的三个重要组成部分都是哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 22.61
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-06-10T15:27:03.583Z
-:card-last-reviewed: 2022-05-19T01:27:03.583Z
+:card-last-interval: 66.3
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-08-16T07:53:57.190Z
+:card-last-reviewed: 2022-06-11T00:53:57.191Z
 :card-last-score: 5
 :END:
 ** iteration -- 这个是由reduce API(由reducible thing实现)来负责
