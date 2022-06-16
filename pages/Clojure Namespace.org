@@ -37,12 +37,12 @@ myns/x
 #+END_SRC
 * 如何移除namespace里面的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-06-13T16:00:00.000Z
-:card-last-reviewed: 2022-06-13T00:38:04.147Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-06-18T01:18:38.968Z
+:card-last-reviewed: 2022-06-14T01:18:38.969Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (ns-unmap myns 'x)
