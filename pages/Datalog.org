@@ -29,3 +29,102 @@
 :END:
 ** A data pattern is a datom with some parts replaced with pattern variables.
 ** The symbol _ can be used as a wildcard for the parts of the data pattern that you wish to ignore.
+** Data pattern的结构是 [<database> <entity-id> <attribute> <value> <transaction-id>]，通常<database>可以忽略
+* Datalog查询中 in 子句的作用是什么？ #card #Datalog
+:PROPERTIES:
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T08:04:50.587Z
+:card-last-reviewed: 2022-06-17T01:04:50.587Z
+:card-last-score: 5
+:END:
+** 用来为查询提供输入参数 input parameter
+* Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
+:PROPERTIES:
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T07:59:59.595Z
+:card-last-reviewed: 2022-06-17T00:59:59.595Z
+:card-last-score: 5
+:END:
+** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询
+** #+BEGIN_SRC clojure
+[:find ?title
+ :in $ [?director ...]
+ :where
+ [?p :person/name ?director]
+ [?m :movie/director ?p]
+ [?m :movie/title ?title]]
+
+; input is ["James Cameron" "Ridley Scott"]
+#+END_SRC
+* Datalog查询的输入参数如何匹配一个turple? #card #Datalog
+:PROPERTIES:
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T16:39:50.124Z
+:card-last-reviewed: 2022-06-17T09:39:50.125Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+[:find ?title
+ :in $ [?director ?actor]
+ :where
+ [?d :person/name ?director]
+ [?a :person/name ?actor]
+ [?m :movie/director ?d]
+ [?m :movie/cast ?a]
+ [?m :movie/title ?title]]
+
+; input is ["James Cameron" "Arnold Schwarzenegger"]
+#+END_SRC
+* Datalog查询的输入参数如何匹配一个relation #card #Datalog
+:PROPERTIES:
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T16:48:35.501Z
+:card-last-reviewed: 2022-06-17T09:48:35.501Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+[:find ?title ?box-office
+ :in $ ?director [[?title ?box-office]]
+ :where
+ [?p :person/name ?director]
+ [?m :movie/director ?p]
+ [?m :movie/title ?title]]
+
+; input is
+[
+ ...
+ ["Die Hard" 140700000]
+ ["Alien" 104931801]
+ ["Lethal Weapon" 120207127]
+ ["Commando" 57491000]
+ ...
+]
+#+END_SRC
+* Datalog查询如何返回一个vector而不是set of vectors? #card #Datalog
+:PROPERTIES:
+:card-last-interval: 22.32
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-07-09T16:48:54.356Z
+:card-last-reviewed: 2022-06-17T09:48:54.356Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(d/q
+  ;; query
+  '[:find [?prefix ...]
+    :in [?word ...]
+    :where [(subs ?word 0 5) ?prefix]]
+  ;; inputs
+  ["hello" "antidisestablishmentarianism"])
+
+;=> ["hello" "antid"]
+#+END_SRC
