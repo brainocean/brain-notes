@@ -1,20 +1,20 @@
 * Ref的适用场景是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-19T19:59:27.651Z
-:card-last-reviewed: 2022-05-16T00:59:27.651Z
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-28T10:15:47.825Z
+:card-last-reviewed: 2022-06-20T05:15:47.825Z
 :card-last-score: 5
 :END:
 ** 需要同步协调的，对共享状态的并发同步访问
 * 怎样创建一个Ref? #card #clojure
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-19T20:01:29.178Z
-:card-last-reviewed: 2022-05-16T01:01:29.178Z
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-28T10:18:49.492Z
+:card-last-reviewed: 2022-06-20T05:18:49.492Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -23,11 +23,11 @@
 #+END_SRC
 * 怎样读取一个Ref当前的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-19T20:01:41.363Z
-:card-last-reviewed: 2022-05-16T01:01:41.364Z
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-28T10:19:00.152Z
+:card-last-reviewed: 2022-06-20T05:19:00.152Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

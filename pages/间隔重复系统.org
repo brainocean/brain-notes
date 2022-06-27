@@ -127,12 +127,12 @@
 *** 提取练习依赖于从记忆中回忆答案
 ** 有效卡片的属性是 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.03
+:card-last-interval: -1
 :card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-06-21T09:46:10.863Z
-:card-last-reviewed: 2022-06-17T09:46:10.863Z
-:card-last-score: 3
+:card-ease-factor: 2.22
+:card-next-schedule: 2022-06-27T16:00:00.000Z
+:card-last-reviewed: 2022-06-27T01:22:09.607Z
+:card-last-score: 1
 :END:
 *** {{cloze 聚焦的}}、 {{cloze 精确的}}、 {{cloze 一致的}}、 {{cloze 可控的}}和 {{cloze 费功夫的}}
 * 简单事实类的知识
@@ -215,12 +215,12 @@
 :END:
 ** 好的助记词会让人在情感上感觉如何？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.03
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-06-21T09:43:35.745Z
-:card-last-reviewed: 2022-06-17T09:43:35.745Z
-:card-last-score: 3
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-06-27T04:06:59.352Z
+:card-last-reviewed: 2022-06-23T01:06:59.354Z
+:card-last-score: 5
 :END:
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS

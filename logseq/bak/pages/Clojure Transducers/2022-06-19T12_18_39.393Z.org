@@ -41,11 +41,11 @@
 #+END_SRC
 * What is a transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-10T03:14:30.336Z
-:card-last-reviewed: 2022-06-18T01:14:30.336Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-17T21:06:32.708Z
+:card-last-reviewed: 2022-05-21T14:06:32.709Z
 :card-last-score: 5
 :END:
 ** A transducer (sometimes referred to as xform or xf) is a transformation from one reducing function to another
@@ -75,11 +75,11 @@
 ** 这三个部分是互相正交的
 * 一个Transducer的代码结构是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-10T03:13:56.388Z
-:card-last-reviewed: 2022-06-18T01:13:56.388Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-17T21:04:54.826Z
+:card-last-reviewed: 2022-05-21T14:04:54.827Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -92,11 +92,11 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 96.02
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-01T01:24:22.002Z
-:card-last-reviewed: 2022-06-27T01:24:22.003Z
+:card-last-interval: 34.8
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-06-26T19:56:45.550Z
+:card-last-reviewed: 2022-05-23T00:56:45.551Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -109,11 +109,11 @@
 #+END_SRC
 * into怎样使用transducer？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-10T03:14:18.324Z
-:card-last-reviewed: 2022-06-18T01:14:18.324Z
+:card-last-interval: 27.31
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-17T21:05:49.041Z
+:card-last-reviewed: 2022-05-21T14:05:49.041Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -123,11 +123,11 @@
 #+END_SRC
 * sequence怎样使用transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 29.59
-:card-repeats: 4
-:card-ease-factor: 2.72
-:card-next-schedule: 2022-07-26T15:18:17.753Z
-:card-last-reviewed: 2022-06-27T01:18:17.756Z
+:card-last-interval: 10.48
+:card-repeats: 3
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-06-24T12:18:55.647Z
+:card-last-reviewed: 2022-06-14T01:18:55.648Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

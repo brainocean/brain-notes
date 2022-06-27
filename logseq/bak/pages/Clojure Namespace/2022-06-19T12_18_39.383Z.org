@@ -1,0 +1,79 @@
+* Namespace就是 [[Clojure符号]]到 [[Clojure Var]]或者Class的映射mapping
+* 如何创建namespace? #card #clojure
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-27T06:01:19.385Z
+:card-last-reviewed: 2022-06-04T04:01:19.386Z
+:card-last-score: 3
+:END:
+** | | 函数/宏 | 功能 | 缺省映射 | 应用场景 |
+| (create-ns 'myns) | 函数 | 创建一个clojure.lang.Namespace 对象 |  java.lang.* | 高级namespace场景 |
+| (in-ns 'myns) | 函数 |  创建并切换到一个namespace | java.lang.* | REPL |
+| (ns myns) | 宏 | 创建并切换到一个namespace |  java.lang.*  clojure.core/* | clojure 源代码中 |
+* 如何添加namespace中的映射？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-20T04:00:56.188Z
+:card-last-reviewed: 2022-06-04T04:00:56.189Z
+:card-last-score: 5
+:END:
+** 使用intern函数：在namespace中查找符号到变量的映射，如果存在就重用那个变量，否则创建一个映射
+** #+BEGIN_SRC clojure
+(def myns (create-ns 'myns))
+;=> #'user/myns
+; 创建一个namespace myns，并把它绑定到#'user/myns这个变量，并绑定到user/myns这个符号
+
+(intern myns 'x 9)
+;=> #'myns/x
+; 在myns这个namespace中，添加一个映射，从myns/x这个符号映射到变量#'myns/x，绑定到值9
+
+myns/x
+;=> 9
+; 对myns/x这个符号求值eval，在namespace myns中查找符号x的映射，得到变量#'myns/x，返回它的值9
+#+END_SRC
+* 如何移除namespace里面的映射？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-06-18T01:18:38.968Z
+:card-last-reviewed: 2022-06-14T01:18:38.969Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(ns-unmap myns 'x)
+#+END_SRC
+* 如何删除一个namespace? #card #clojure
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-20T02:54:53.302Z
+:card-last-reviewed: 2022-05-28T00:54:53.302Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(remove-ns 'myns)
+#+END_SRC
+* 如何定义一个私有的变量、函数、宏？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-20T04:01:28.080Z
+:card-last-reviewed: 2022-06-04T04:01:28.080Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def ^:private x 1)
+
+(defn ^{:private true} answer [] 42)
+(defn- answer [] 42)
+
+(defmacro ^:private ...)
+
+#+END_SRC

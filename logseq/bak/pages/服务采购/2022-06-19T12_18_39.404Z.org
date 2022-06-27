@@ -1,0 +1,15 @@
+* 相对货物采购，服务采购Purchasing Service有其特殊性
+** 没有[[采购收货单]]
+** 在收到服务和[[供应商发票]]后，应将 [[file:./应付帐款发票.org][应付帐款发票]] 输入到系统中
+* 服务采购是否需要[[采购订单]]？ #card #B1
+:PROPERTIES:
+:card-last-interval: 10.27
+:card-repeats: 3
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-06-17T07:06:21.686Z
+:card-last-reviewed: 2022-06-07T01:06:21.687Z
+:card-last-score: 5
+:END:
+** 对于网站设计等服务，通常使用[[采购订单]]
+** 对于房屋租赁、水电煤等没有[[采购订单]]，这种服务通常执行[[重复交易]]
+**

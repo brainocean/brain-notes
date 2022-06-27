@@ -1,10 +1,10 @@
 * 什么是应付帐款发票？ #card #B1
 :PROPERTIES:
-:card-last-interval: 27.31
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-06-24T16:14:43.992Z
-:card-last-reviewed: 2022-05-28T09:14:43.993Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-19T03:20:33.899Z
+:card-last-reviewed: 2022-06-27T01:20:33.900Z
 :card-last-score: 5
 :END:
 ** 当收到[[供应商发票]]时，应付账款发票将在系统中创建，该凭证将用于触发向供应商付款。

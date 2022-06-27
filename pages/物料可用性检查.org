@@ -17,22 +17,22 @@
 ** 有时，可能会看到另一个选项，即*更改为最早可用日期*。此选项仅在可以计算可用日期时才会出现。选择此选项将会把最早可用日期复制到该行的交货日期。
 * 什么是承诺数量Committed Quantity？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.04
-:card-repeats: 3
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-06-19T01:10:37.980Z
-:card-last-reviewed: 2022-06-08T01:10:37.980Z
+:card-last-interval: 32.72
+:card-repeats: 4
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-07-22T05:19:09.484Z
+:card-last-reviewed: 2022-06-19T12:19:09.484Z
 :card-last-score: 5
 :END:
 ** 已有客户订购的数量
 ** 或准备转储到另一个仓库的数量
 * 什么是订购数量Ordered Quantity？ #card #B1
 :PROPERTIES:
-:card-last-interval: 21.86
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-06-23T21:45:57.316Z
-:card-last-reviewed: 2022-06-02T01:45:57.316Z
+:card-last-interval: 73.4
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-09-08T10:16:56.035Z
+:card-last-reviewed: 2022-06-27T01:16:56.035Z
 :card-last-score: 5
 :END:
 ** 即您的公司已下订单采购但尚未交货的数量，

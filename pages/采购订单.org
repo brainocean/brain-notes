@@ -1,10 +1,10 @@
 * 什么是采购订单？ #card #B1
 :PROPERTIES:
-:card-last-interval: 27.31
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-06-24T16:14:26.366Z
-:card-last-reviewed: 2022-05-28T09:14:26.366Z
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-19T03:20:05.533Z
+:card-last-reviewed: 2022-06-27T01:20:05.534Z
 :card-last-score: 5
 :END:
 ** 采购订单是指买方向卖方发出的一种商业凭证，其中指定了卖方将向买方提供的物料或服务。
@@ -22,11 +22,11 @@
 ** 不影响会计核算，收到货物之后才会影响会计核算
 * 添加采购订单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: 21.86
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-06-23T21:43:57.850Z
-:card-last-reviewed: 2022-06-02T01:43:57.850Z
+:card-last-interval: 73.4
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-09-08T10:16:46.449Z
+:card-last-reviewed: 2022-06-27T01:16:46.450Z
 :card-last-score: 5
 :END:
 ** 库存会显示“已订购”状态的物料，即增加订购量
