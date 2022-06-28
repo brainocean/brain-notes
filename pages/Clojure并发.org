@@ -3,11 +3,11 @@
 ** identity是一个有名字的实体，在某一个时间点上引用reference一个value，一共有四种引用类型
 * Clojure中的四个引用类型的主要特点是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 25.46
-:card-repeats: 4
-:card-ease-factor: 2.48
-:card-next-schedule: 2022-06-27T12:43:37.115Z
-:card-last-reviewed: 2022-06-02T01:43:37.115Z
+:card-last-interval: 71.09
+:card-repeats: 5
+:card-ease-factor: 2.58
+:card-next-schedule: 2022-09-07T03:06:13.861Z
+:card-last-reviewed: 2022-06-28T01:06:13.862Z
 :card-last-score: 5
 :END:
 ** | | [[Clojure Ref]]  | [[Clojure Agent]] | [[Clojure Atom]] | [[Clojure Var]] |

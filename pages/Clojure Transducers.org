@@ -1,11 +1,11 @@
 * Reduce是最核心和基础的功能，map, filter等等都可以用reduce来完成
 * Reduce使用一个reducing function(rf)做每一步的处理，reducing function的结构是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-06-27T19:54:45.447Z
-:card-last-reviewed: 2022-05-24T00:54:45.447Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-02T01:07:27.065Z
+:card-last-reviewed: 2022-06-28T01:07:27.066Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
