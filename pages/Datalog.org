@@ -1,11 +1,11 @@
 * [[Datomic]] is a database of atomic facts, named [[file:./datom.org][Datom]]
 * What is a query? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 22.32
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-01T08:28:00.322Z
-:card-last-reviewed: 2022-06-09T01:28:00.322Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-18T04:52:19.355Z
+:card-last-reviewed: 2022-07-07T00:52:19.355Z
 :card-last-score: 5
 :END:
 ** A query is a vector, staring with keyword :find
@@ -20,11 +20,11 @@
 * What are data patterns? #card #Datalog
 :PROPERTIES:
 :id: 62a04fbf-07b3-44f5-ab1f-2bd75f9d92a0
-:card-last-interval: 22.32
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-01T08:28:24.897Z
-:card-last-reviewed: 2022-06-09T01:28:24.897Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-18T04:52:37.503Z
+:card-last-reviewed: 2022-07-07T00:52:37.504Z
 :card-last-score: 5
 :END:
 ** A data pattern is a datom with some parts replaced with pattern variables.

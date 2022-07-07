@@ -127,12 +127,12 @@
 *** 提取练习依赖于从记忆中回忆答案
 ** 有效卡片的属性是 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.32
-:card-next-schedule: 2022-07-03T01:18:55.469Z
-:card-last-reviewed: 2022-06-29T01:18:55.471Z
-:card-last-score: 5
+:card-last-interval: 8.72
+:card-repeats: 3
+:card-ease-factor: 2.18
+:card-next-schedule: 2022-07-12T18:22:46.162Z
+:card-last-reviewed: 2022-07-04T01:22:46.162Z
+:card-last-score: 3
 :END:
 *** {{cloze 聚焦的}}、 {{cloze 精确的}}、 {{cloze 一致的}}、 {{cloze 可控的}}和 {{cloze 费功夫的}}
 * 简单事实类的知识

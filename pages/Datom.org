@@ -1,10 +1,10 @@
 * What is a datom? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 22.32
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-01T08:26:55.194Z
-:card-last-reviewed: 2022-06-09T01:26:55.195Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-18T04:51:52.529Z
+:card-last-reviewed: 2022-07-07T00:51:52.530Z
 :card-last-score: 5
 :END:
 ** A tuple contains 4 elements:
