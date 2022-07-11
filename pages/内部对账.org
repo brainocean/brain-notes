@@ -1,11 +1,11 @@
 * 英文是Internal Reconciliation
 * 内部对账是指什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-07-10T04:04:43.285Z
-:card-last-reviewed: 2022-07-06T01:04:43.286Z
+:card-last-interval: 11.16
+:card-repeats: 3
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-07-22T04:10:19.237Z
+:card-last-reviewed: 2022-07-11T01:10:19.237Z
 :card-last-score: 5
 :END:
 ** 指的是在科目内，匹配和清账*未清贷方项目*与*未清借方项目*（因此称为内部）

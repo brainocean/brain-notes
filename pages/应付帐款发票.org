@@ -21,12 +21,12 @@
 ** 应付账款发票会创建日记账分录以更新供应商余额(欠供应商多少钱)，进而显示到期金额。
 * 应付帐款发票如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-07T16:00:00.000Z
-:card-last-reviewed: 2022-07-07T00:53:39.054Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-07-12T04:48:41.520Z
+:card-last-reviewed: 2022-07-08T01:48:41.521Z
+:card-last-score: 5
 :END:
 ** 通常库存是由[[采购收货单]]影响的，但是在精简采购流程里面，没有 [[file:./采购收货单.org][采购收货单]]，此时应付帐款发票更新库存价值。
 * 在录入[[供应商发票]]时，会检查是否已经存在同样编号的发票，避免重复付款
