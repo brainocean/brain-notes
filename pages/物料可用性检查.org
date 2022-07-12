@@ -40,22 +40,22 @@
 ** 或是请求从另一个仓库转储过来的数量
 * 什么是可用数量Available Quantity？ #card #B1
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-07-11T20:07:10.180Z
-:card-last-reviewed: 2022-06-07T01:07:10.180Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:09:14.717Z
+:card-last-reviewed: 2022-07-12T02:09:14.717Z
 :card-last-score: 5
 :END:
 ** 即可用于履行销售订单的数量
 * 如何计算可用数量？ #card #B1
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-07-11T20:06:58.954Z
-:card-last-reviewed: 2022-06-07T01:06:58.955Z
-:card-last-score: 5
+:card-last-interval: 93.46
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-10-13T13:09:09.326Z
+:card-last-reviewed: 2022-07-12T02:09:09.326Z
+:card-last-score: 3
 :END:
 ** 可用数量 = 存货数量 - 承诺数量 + 订购数量
 ** Available Quantity = In Stock - Committed + Ordered

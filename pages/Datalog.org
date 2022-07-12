@@ -42,12 +42,12 @@
 ** 用来为查询提供输入参数 input parameter
 * Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-11T16:00:00.000Z
-:card-last-reviewed: 2022-07-11T00:58:47.256Z
-:card-last-score: 1
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-16T11:52:58.477Z
+:card-last-reviewed: 2022-07-12T01:52:58.482Z
+:card-last-score: 5
 :END:
 ** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询
 ** #+BEGIN_SRC clojure
@@ -83,12 +83,12 @@
 #+END_SRC
 * Datalog查询的输入参数如何匹配一个relation #card #Datalog
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-11T16:00:00.000Z
-:card-last-reviewed: 2022-07-11T01:09:11.191Z
-:card-last-score: 1
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-16T11:56:40.309Z
+:card-last-reviewed: 2022-07-12T01:56:40.309Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 [:find ?title ?box-office
@@ -110,12 +110,12 @@
 #+END_SRC
 * Datalog查询如何返回一个vector而不是set of vectors? #card #Datalog
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-07-11T16:00:00.000Z
-:card-last-reviewed: 2022-07-11T01:09:45.085Z
-:card-last-score: 1
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-07-16T11:56:14.858Z
+:card-last-reviewed: 2022-07-12T01:56:14.858Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (d/q
