@@ -32,11 +32,11 @@
 ** Data pattern的结构是 [<database> <entity-id> <attribute> <value> <transaction-id>]，通常<database>可以忽略
 * Datalog查询中 in 子句的作用是什么？ #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-15T10:59:05.562Z
-:card-last-reviewed: 2022-07-11T00:59:05.562Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-27T05:18:39.386Z
+:card-last-reviewed: 2022-07-16T01:18:39.388Z
 :card-last-score: 5
 :END:
 ** 用来为查询提供输入参数 input parameter
@@ -62,12 +62,12 @@
 #+END_SRC
 * Datalog查询的输入参数如何匹配一个turple? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-07-15T11:00:24.247Z
-:card-last-reviewed: 2022-07-11T01:00:24.247Z
-:card-last-score: 5
+:card-next-schedule: 2022-07-16T16:00:00.000Z
+:card-last-reviewed: 2022-07-16T01:19:21.055Z
+:card-last-score: 1
 :END:
 ** #+BEGIN_SRC clojure
 [:find ?title

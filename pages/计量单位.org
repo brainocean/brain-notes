@@ -18,12 +18,12 @@
 ** 无论在凭证中使用哪种采购单位或销售单位，都将始终以库存计量单位进行过账
 * 计量单位组的构成是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 34.8
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-07-13T20:30:56.248Z
-:card-last-reviewed: 2022-06-09T01:30:56.248Z
-:card-last-score: 5
+:card-last-interval: 93.46
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-10-15T11:52:28.379Z
+:card-last-reviewed: 2022-07-14T00:52:28.380Z
+:card-last-score: 3
 :END:
 ** 全局计量单位表列出所有可能计量单位的清单
 ** 挑选全局计量单位表上面的若干计量单位形成一组
