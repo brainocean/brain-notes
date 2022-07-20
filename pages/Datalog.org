@@ -1,11 +1,11 @@
 * [[Datomic]] is a database of atomic facts, named [[file:./datom.org][Datom]]
 * What is a query? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-18T04:52:19.355Z
-:card-last-reviewed: 2022-07-07T00:52:19.355Z
+:card-last-interval: 36.89
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-24T22:05:12.354Z
+:card-last-reviewed: 2022-07-19T01:05:12.354Z
 :card-last-score: 5
 :END:
 ** A query is a vector, staring with keyword :find
@@ -20,11 +20,11 @@
 * What are data patterns? #card #Datalog
 :PROPERTIES:
 :id: 62a04fbf-07b3-44f5-ab1f-2bd75f9d92a0
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-18T04:52:37.503Z
-:card-last-reviewed: 2022-07-07T00:52:37.504Z
+:card-last-interval: 36.89
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-24T22:05:31.845Z
+:card-last-reviewed: 2022-07-19T01:05:31.845Z
 :card-last-score: 5
 :END:
 ** A data pattern is a datom with some parts replaced with pattern variables.
@@ -42,11 +42,11 @@
 ** 用来为查询提供输入参数 input parameter
 * Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-16T11:52:58.477Z
-:card-last-reviewed: 2022-07-12T01:52:58.482Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-29T05:20:01.122Z
+:card-last-reviewed: 2022-07-18T01:20:01.122Z
 :card-last-score: 5
 :END:
 ** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询
@@ -60,14 +60,14 @@
 
 ; input is ["James Cameron" "Ridley Scott"]
 #+END_SRC
-* Datalog查询的输入参数如何匹配一个turple? #card #Datalog
+* Datalog查询的输入参数如何匹配一个tuple? #card #Datalog
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-16T16:00:00.000Z
-:card-last-reviewed: 2022-07-16T01:19:21.055Z
-:card-last-score: 1
+:card-last-score: 5
+:card-repeats: 2
+:card-next-schedule: 2022-07-22T01:25:05.056Z
+:card-last-interval: 4
+:card-ease-factor: 2.8
+:card-last-reviewed: 2022-07-18T01:25:05.056Z
 :END:
 ** #+BEGIN_SRC clojure
 [:find ?title
@@ -83,11 +83,11 @@
 #+END_SRC
 * Datalog查询的输入参数如何匹配一个relation #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-16T11:56:40.309Z
-:card-last-reviewed: 2022-07-12T01:56:40.309Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-29T05:21:10.222Z
+:card-last-reviewed: 2022-07-18T01:21:10.222Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -110,11 +110,11 @@
 #+END_SRC
 * Datalog查询如何返回一个vector而不是set of vectors? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-16T11:56:14.858Z
-:card-last-reviewed: 2022-07-12T01:56:14.858Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-29T05:20:57.661Z
+:card-last-reviewed: 2022-07-18T01:20:57.662Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
