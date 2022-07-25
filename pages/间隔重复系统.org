@@ -3,11 +3,11 @@
 * 如果某张卡片「见效」了，那不是碰巧，而是因为你对该任务的执行，用某种有用的方式「改变」了自己。
 * SR 任务对你产生「改变」的最核心、最常见的机制，被称为什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-23T01:10:26.383Z
-:card-last-reviewed: 2022-07-19T01:10:26.383Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-05T20:13:13.400Z
+:card-last-reviewed: 2022-07-25T01:13:13.401Z
 :card-last-score: 5
 :END:
 ** 「提取练习」（retrieval practice）
@@ -79,11 +79,11 @@
 :END:
 ** 如果卡片产生不一致的答案，未被提取到的记忆将会被 {{cloze 抑制}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-24T00:51:12.194Z
-:card-last-reviewed: 2022-07-20T00:51:12.194Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-05T20:15:57.919Z
+:card-last-reviewed: 2022-07-25T01:15:57.919Z
 :card-last-score: 5
 :END:
 ** SRS期望你在隔上多久之后，依然能在重复时正确回答卡片？ #card #SRS
@@ -177,22 +177,22 @@
 :END:
 ** 线索不应该产生什么效果？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-22T01:23:55.667Z
-:card-last-reviewed: 2022-07-18T01:23:55.667Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-03T18:12:19.727Z
+:card-last-reviewed: 2022-07-22T23:12:19.727Z
 :card-last-score: 5
 :END:
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-20T16:00:00.000Z
-:card-last-reviewed: 2022-07-20T00:50:11.112Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-26T23:11:47.613Z
+:card-last-reviewed: 2022-07-22T23:11:47.613Z
+:card-last-score: 5
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
@@ -225,12 +225,12 @@
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-07-20T16:00:00.000Z
-:card-last-reviewed: 2022-07-20T00:49:12.432Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-07-29T07:15:28.355Z
+:card-last-reviewed: 2022-07-25T01:15:28.356Z
+:card-last-score: 5
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
 ** 应该把助记词放在卡片的哪个部分？ #card #SRS
@@ -245,11 +245,11 @@
 *** 挨着答案(用括号等标注出来)
 ** 如何强化一个难记、生动的助记词？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-23T01:07:20.530Z
-:card-last-reviewed: 2022-07-19T01:07:20.530Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-05T20:11:39.897Z
+:card-last-reviewed: 2022-07-25T01:11:39.898Z
 :card-last-score: 5
 :END:
 *** 为它单独制作一个卡片
@@ -258,11 +258,11 @@
 ** 为了保证聚焦而精确，可以将原材料分解成很多个问答
 ** 好的卡片常常涉及到 {{cloze 解释interpretation}}：摘取没有明确写出来的信息 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-24T00:50:20.223Z
-:card-last-reviewed: 2022-07-20T00:50:20.224Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-05T20:15:35.495Z
+:card-last-reviewed: 2022-07-25T01:15:35.495Z
 :card-last-score: 5
 :END:
 ** 在鸡肉高汤的案例中，如何解读原料的用量？ #card #SRS
@@ -358,21 +358,21 @@
 *** 韦恩图
 ** 使用“辨析异同”的视角，可以写一张概念卡来突出和相似概念的 {{cloze 关系与区别}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-22T01:24:03.606Z
-:card-last-reviewed: 2022-07-18T01:24:03.606Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-03T18:12:34.439Z
+:card-last-reviewed: 2022-07-22T23:12:34.440Z
 :card-last-score: 5
 :END:
 ** 举例说明因果关系卡 #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-20T16:00:00.000Z
-:card-last-reviewed: 2022-07-20T00:49:31.783Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-07-27T05:12:02.938Z
+:card-last-reviewed: 2022-07-22T23:12:02.938Z
+:card-last-score: 3
 :END:
 *** 高汤是「做什么」的？
 *** 什么让它「实现那个效果」？
@@ -380,12 +380,12 @@
 *** 「什么时候」用它？
 ** 重要性和影响：写卡使得概念具有 {{cloze 个人意义}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-07-20T11:22:52.355Z
-:card-last-reviewed: 2022-07-16T01:22:52.355Z
-:card-last-score: 5
+:card-next-schedule: 2022-07-25T16:00:00.000Z
+:card-last-reviewed: 2022-07-25T01:14:41.605Z
+:card-last-score: 1
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
@@ -419,11 +419,11 @@
 ** 对于开放式清单，三种有用的卡片类型？ #card #SRS
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-07-24T00:51:05.074Z
-:card-last-interval: 4
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-07-20T00:51:05.075Z
+:card-repeats: 3
+:card-next-schedule: 2022-08-05T20:15:45.895Z
+:card-last-interval: 11.8
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-07-25T01:15:45.895Z
 :END:
 *** 链结实例到Tag
 *** 链结Tag到实例
@@ -441,11 +441,11 @@
 ** 当你能 {{cloze 产生很多不同反应}} 的时候才可能制作创意卡
 ** 什么样的知识会被创意卡通过提取效应加强？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.75
+:card-last-interval: 4
 :card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-22T19:24:36.584Z
-:card-last-reviewed: 2022-07-18T01:24:36.584Z
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-07-29T01:15:12.694Z
+:card-last-reviewed: 2022-07-25T01:15:12.694Z
 :card-last-score: 5
 :END:
 *** 在生成新答案持续被用到的知识
@@ -470,11 +470,11 @@
 :END:
 ** 为了将新知识融入你的生活，应该将它的显著性保持到什么时候？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-07-20T11:22:41.224Z
-:card-last-reviewed: 2022-07-16T01:22:41.224Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-08-03T03:11:31.886Z
+:card-last-reviewed: 2022-07-22T23:11:31.886Z
 :card-last-score: 5
 :END:
 *** 直到你能够使用它，或者和你的经验建立了有意义的连接
@@ -493,11 +493,11 @@
 ** 当第一次将一段困难的内容制卡的时候，Andy建议你专注在哪些东西上面？ #card #SRS
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-07-23T01:07:48.353Z
-:card-last-interval: 4
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-07-19T01:07:48.353Z
+:card-repeats: 3
+:card-next-schedule: 2022-08-05T20:11:49.098Z
+:card-last-interval: 11.8
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-07-25T01:11:49.098Z
 :END:
 *** 可以在上面搭建内容的基础细节
 ** 如果写卡时感觉到要完整的强迫感，要记住 {{cloze 以后总能写更多的}} #card #SRS

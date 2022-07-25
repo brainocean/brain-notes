@@ -1,11 +1,11 @@
 * 访问seq里面的某个元素有哪些函数？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 47.41
-:card-repeats: 5
-:card-ease-factor: 2.28
-:card-next-schedule: 2022-07-20T11:08:50.270Z
-:card-last-reviewed: 2022-06-03T02:08:50.270Z
-:card-last-score: 5
+:card-last-interval: 83.89
+:card-repeats: 6
+:card-ease-factor: 2.14
+:card-next-schedule: 2022-10-14T20:11:22.585Z
+:card-last-reviewed: 2022-07-22T23:11:22.585Z
+:card-last-score: 3
 :END:
 ** | 函数 | 功能 |
 | (first coll) | 第1个 |
@@ -57,11 +57,11 @@
 | (flatten x) | 把所有嵌套的sequence展平形成一个flat lazy seq |
 * 处理seq的每个元素的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 47.41
-:card-repeats: 5
-:card-ease-factor: 2.28
-:card-next-schedule: 2022-07-23T10:16:04.152Z
-:card-last-reviewed: 2022-06-06T01:16:04.153Z
+:card-last-interval: 147.22
+:card-repeats: 6
+:card-ease-factor: 2.38
+:card-next-schedule: 2022-12-19T06:14:28.358Z
+:card-last-reviewed: 2022-07-25T01:14:28.358Z
 :card-last-score: 5
 :END:
 ** | 函数 | 功能 |
@@ -100,12 +100,12 @@
 | (partition-by f coll) | 按照(f item)的返回值对coll进行分组 |
 * 创建lazy seq的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 48.74
-:card-repeats: 5
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-07-24T18:17:04.544Z
-:card-last-reviewed: 2022-06-06T01:17:04.545Z
-:card-last-score: 5
+:card-last-interval: 137.22
+:card-repeats: 6
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-12-09T06:17:25.812Z
+:card-last-reviewed: 2022-07-25T01:17:25.812Z
+:card-last-score: 3
 :END:
 ** | 函数 | 功能 |
 | (seq coll) | 将coll转换成一个seq |

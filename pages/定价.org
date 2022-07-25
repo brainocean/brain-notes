@@ -1,11 +1,11 @@
 * 定价的四种方法和优先级是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-07-23T01:09:51.505Z
-:card-last-reviewed: 2022-07-19T01:09:51.505Z
-:card-last-score: 3
+:card-last-interval: 11.44
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-05T11:13:00.369Z
+:card-last-reviewed: 2022-07-25T01:13:00.370Z
+:card-last-score: 5
 :END:
 ** [[针对业务伙伴的特殊价格]]
 ** [[折扣组]]

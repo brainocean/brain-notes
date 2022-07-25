@@ -1,10 +1,10 @@
 * 总账科目包含哪些信息？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3
-:card-next-schedule: 2022-07-23T07:09:22.809Z
-:card-last-reviewed: 2022-07-19T01:09:22.809Z
+:card-last-interval: 13.28
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-08-07T07:14:06.880Z
+:card-last-reviewed: 2022-07-25T01:14:06.880Z
 :card-last-score: 5
 :END:
 ** 科目代码

@@ -11,21 +11,21 @@
 ** 英文是A/P invoices -- Accounts Payable Invoices
 * 应付帐款发票如何影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-07-23T01:09:03.215Z
-:card-last-reviewed: 2022-07-19T01:09:03.215Z
+:card-last-interval: 11.8
+:card-repeats: 3
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-08-05T20:12:12.000Z
+:card-last-reviewed: 2022-07-25T01:12:12.000Z
 :card-last-score: 5
 :END:
 ** 应付账款发票会创建日记账分录以更新供应商余额(欠供应商多少钱)，进而显示到期金额。
 * 应付帐款发票如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-07-20T01:22:33.605Z
-:card-last-reviewed: 2022-07-16T01:22:33.605Z
+:card-last-interval: 11.44
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-03T09:09:58.771Z
+:card-last-reviewed: 2022-07-22T23:09:58.772Z
 :card-last-score: 5
 :END:
 ** 通常库存是由[[采购收货单]]影响的，但是在精简采购流程里面，没有 [[file:./采购收货单.org][采购收货单]]，此时应付帐款发票更新库存价值。
