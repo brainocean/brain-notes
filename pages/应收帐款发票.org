@@ -3,11 +3,11 @@
 * 应收账款发票可记录客户订单，启动交货，过账发货，并记录客户的拖欠情况。
 * 应收账款发票怎样影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 53.66
-:card-repeats: 4
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-07-25T16:52:09.357Z
-:card-last-reviewed: 2022-06-02T01:52:09.357Z
+:card-last-interval: 11.04
+:card-repeats: 3
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-12T01:38:06.565Z
+:card-last-reviewed: 2022-08-01T01:38:06.565Z
 :card-last-score: 5
 :END:
 ** 客户欠款的借方和销售收入的贷方

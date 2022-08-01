@@ -1,12 +1,12 @@
 * 英文是Internal Reconciliation
 * 内部对账是指什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.62
-:card-next-schedule: 2022-07-29T04:14:52.216Z
-:card-last-reviewed: 2022-07-25T01:14:52.216Z
-:card-last-score: 5
+:card-next-schedule: 2022-08-01T16:00:00.000Z
+:card-last-reviewed: 2022-08-01T01:28:11.756Z
+:card-last-score: 1
 :END:
 ** 指的是在科目内，匹配和清账*未清贷方项目*与*未清借方项目*（因此称为内部）
 * 有时，只有科目的各贷方金额都有相应的借方金额时，业务流程才被视为全部完成。对于这样的科目十分有必要进行内部对账，例如：

@@ -36,11 +36,11 @@
 | 未找到缺省值 | (nth [] 9 :whoops) | (get [] 9 :whoops) | 不支持 |
 * 修改vector元素值的方法通常有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 66.3
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-07-26T21:09:10.270Z
-:card-last-reviewed: 2022-05-21T14:09:10.270Z
+:card-last-interval: 147.22
+:card-repeats: 6
+:card-ease-factor: 2.38
+:card-next-schedule: 2022-12-21T06:34:00.066Z
+:card-last-reviewed: 2022-07-27T01:34:00.066Z
 :card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure

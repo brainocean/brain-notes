@@ -29,11 +29,11 @@
 ** 有助于制定预算计划或成本降低
 * 采购申请的后续步骤是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 13.28
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-07-31T07:18:16.422Z
-:card-last-reviewed: 2022-07-18T01:18:16.422Z
+:card-last-interval: 43.9
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-13T22:39:21.547Z
+:card-last-reviewed: 2022-08-01T01:39:21.547Z
 :card-last-score: 5
 :END:
 ** 为了获得最佳价格，可以将采购申请复制到[[采购报价]]中，
