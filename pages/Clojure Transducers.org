@@ -123,11 +123,11 @@
 #+END_SRC
 * sequence怎样使用transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.82
-:card-next-schedule: 2022-08-02T01:59:11.254Z
-:card-last-reviewed: 2022-07-29T01:59:11.255Z
+:card-last-interval: 11.68
+:card-repeats: 3
+:card-ease-factor: 2.92
+:card-next-schedule: 2022-08-16T16:31:26.397Z
+:card-last-reviewed: 2022-08-05T00:31:26.397Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

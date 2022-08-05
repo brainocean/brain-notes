@@ -174,7 +174,7 @@
   :block/updated-at 1648432376392}
  {:block/name "datalog",
   :block/created-at 1654672833261,
-  :block/updated-at 1658531578455}
+  :block/updated-at 1659317445308}
  {:block/name "datom",
   :block/created-at 1654672916734,
   :block/updated-at 1658192679745}
@@ -340,7 +340,7 @@
   :block/updated-at 1650768679865}
  {:block/name "习惯回路",
   :block/created-at 1649469531017,
-  :block/updated-at 1653353969029}
+  :block/updated-at 1659317588332}
  {:block/name "交货单",
   :block/created-at 1652413385158,
   :block/updated-at 1652413385158}
@@ -364,7 +364,7 @@
   :block/updated-at 1651625538637}
  {:block/name "使用零宽断言来匹配特定的文本位置",
   :block/created-at 1648611187284,
-  :block/updated-at 1658278138652}
+  :block/updated-at 1659317913665}
  {:block/name "供应商",
   :block/created-at 1652413386461,
   :block/updated-at 1652413386461}
@@ -382,7 +382,7 @@
   :block/updated-at 1652933236369}
  {:block/name "内部对账",
   :block/created-at 1652413385580,
-  :block/updated-at 1658711692285}
+  :block/updated-at 1659317291793}
  {:block/name "凭证生成向导",
   :block/created-at 1652413434018,
   :block/updated-at 1652413595181}
@@ -448,13 +448,13 @@
   :block/updated-at 1658711532065}
  {:block/name "应付帐款贷项凭证",
   :block/created-at 1652413385772,
-  :block/updated-at 1656727008969}
+  :block/updated-at 1659317686160}
  {:block/name "应付账款发票",
   :block/created-at 1652413386561,
   :block/updated-at 1652413386561}
  {:block/name "应收帐款发票",
   :block/created-at 1652413385143,
-  :block/updated-at 1658885610083}
+  :block/updated-at 1659317886583}
  {:block/name "应收账款发票",
   :block/created-at 1651818537568,
   :block/updated-at 1651818537568}
@@ -505,7 +505,7 @@
   :block/updated-at 1658107792299}
  {:block/name "期末关账",
   :block/created-at 1652846785421,
-  :block/updated-at 1657069731104}
+  :block/updated-at 1659317716954}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
   :block/updated-at 1658107624784}
@@ -589,7 +589,7 @@
   :block/updated-at 1652844054355}
  {:block/name "退换货",
   :block/created-at 1652413386018,
-  :block/updated-at 1653609837734}
+  :block/updated-at 1659318027489}
  {:block/name "采购报价",
   :block/created-at 1652413386086,
   :block/updated-at 1657502034037}
@@ -598,7 +598,7 @@
   :block/updated-at 1658800068421}
  {:block/name "采购申请",
   :block/created-at 1652413386177,
-  :block/updated-at 1658107096448}
+  :block/updated-at 1659317961569}
  {:block/name "采购订单",
   :block/created-at 1651818174591,
   :block/updated-at 1657591686197}
@@ -622,7 +622,7 @@
   :block/updated-at 1652413385649}
  {:block/name "销售订单",
   :block/created-at 1652413385152,
-  :block/updated-at 1658107075243}
+  :block/updated-at 1659317949648}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713, 
-  :block/updated-at 1658885650503}]
+  :block/updated-at 1659317974652}]

@@ -14,12 +14,12 @@
 ** 输入销售订单时，库存事务或基于价值的更改不会过账到总账中
 * 添加销售订单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-score: 1
-:card-repeats: 1
-:card-next-schedule: 2022-08-01T16:00:00.000Z
-:card-last-interval: -1
-:card-ease-factor: 3.1
-:card-last-reviewed: 2022-08-01T01:39:09.633Z
+:card-last-score: 5
+:card-repeats: 2
+:card-next-schedule: 2022-08-09T00:28:43.593Z
+:card-last-interval: 4
+:card-ease-factor: 3.2
+:card-last-reviewed: 2022-08-05T00:28:43.593Z
 :END:
 ** 可售库存量会随订单中的数量而减少
 * 为了支持自动化销售流程，在销售订单中输入物料和数量时，即完成了自动[[物料可用性检查]]

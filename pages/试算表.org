@@ -1,11 +1,11 @@
 * 英文：Trial Balance
 * 试算表的用途？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.44
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-08-03T09:12:49.583Z
-:card-last-reviewed: 2022-07-22T23:12:49.583Z
+:card-last-interval: 35.05
+:card-repeats: 4
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-09-09T01:33:57.871Z
+:card-last-reviewed: 2022-08-05T00:33:57.872Z
 :card-last-score: 5
 :END:
 ** 所有科目和/或业务伙伴余额的汇总。可包含特定交叉部分。
