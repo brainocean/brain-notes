@@ -71,12 +71,12 @@
 | (reductions f init coll) | 对每个sub-coll = (take n coll), n从0到(count coll)，计算(reduce f init sub-coll)，结果形成一个seq |
 * 改变seq元素顺序的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.28
-:card-next-schedule: 2022-08-05T16:00:00.000Z
-:card-last-reviewed: 2022-08-05T00:35:30.858Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.38
+:card-next-schedule: 2022-08-13T01:09:27.791Z
+:card-last-reviewed: 2022-08-09T01:09:27.791Z
+:card-last-score: 5
 :END:
 ** | 函数 | 功能 |
 | (sort comp coll) | 按照comp item的值排序coll元素 |
@@ -85,11 +85,11 @@
 | (shuffle coll) | 乱序coll |
 * 分割seq的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 35.05
-:card-repeats: 4
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-08-06T02:57:20.488Z
-:card-last-reviewed: 2022-07-02T01:57:20.488Z
+:card-last-interval: 114.61
+:card-repeats: 5
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-12-01T15:12:06.511Z
+:card-last-reviewed: 2022-08-09T01:12:06.511Z
 :card-last-score: 5
 :END:
 ** | 函数 | 功能 |
