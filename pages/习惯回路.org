@@ -3,11 +3,11 @@
 * 这个过程被称为“组块化”，也就是大脑将一系列行为变成一种自动的惯常行为，而这是习惯形成的基础。
 * 习惯形成的过程是怎样的？ #card #心理学 #习惯
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-08-09T06:30:40.234Z
-:card-last-reviewed: 2022-08-05T00:30:40.235Z
+:card-last-interval: 12.09
+:card-repeats: 3
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-08-22T03:02:12.447Z
+:card-last-reviewed: 2022-08-10T01:02:12.448Z
 :card-last-score: 5
 :END:
 ** 第一步，存在着一个 {{cloze 诱因}} ，能让大脑进入某种自动行为模式，并决定使用哪种习惯。
