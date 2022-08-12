@@ -30,11 +30,11 @@
 ** list, range
 * clojure.core/seq 的作用是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-11T03:29:53.672Z
-:card-last-reviewed: 2022-05-19T01:29:53.672Z
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-06-25T09:28:17.223Z
+:card-last-reviewed: 2022-08-12T00:28:17.223Z
 :card-last-score: 5
 :END:
 ** 尽量把它的参数转换成一个实现了ISeq的对象，即可以用first, next, rest来遍历元素，使用cons来添加元素
