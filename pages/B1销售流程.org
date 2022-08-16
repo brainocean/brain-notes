@@ -1,11 +1,11 @@
 * 完整B1销售流程都有哪些主要步骤？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-08-15T09:10:49.982Z
-:card-last-interval: 31.36
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-07-15T01:10:49.983Z
+:card-repeats: 5
+:card-next-schedule: 2025-01-26T19:10:12.717Z
+:card-last-interval: 894.79
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-08-16T01:10:12.718Z
 :END:
 ** 协商和签订[[销售订单]]
 ** 收货和创建[[交货单]]

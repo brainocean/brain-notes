@@ -71,11 +71,11 @@
 | (reductions f init coll) | 对每个sub-coll = (take n coll), n从0到(count coll)，计算(reduce f init sub-coll)，结果形成一个seq |
 * 改变seq元素顺序的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.38
-:card-next-schedule: 2022-08-13T01:09:27.791Z
-:card-last-reviewed: 2022-08-09T01:09:27.791Z
+:card-last-interval: 9.92
+:card-repeats: 3
+:card-ease-factor: 2.48
+:card-next-schedule: 2022-08-24T23:18:24.309Z
+:card-last-reviewed: 2022-08-15T01:18:24.309Z
 :card-last-score: 5
 :END:
 ** | 函数 | 功能 |

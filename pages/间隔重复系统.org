@@ -140,11 +140,11 @@
 ** 在细节不容易想到，或者事实背后的解释比较有意思的时候，添加一张「解释卡」
 ** 为什么这是一个“聚焦的”卡片？“Q: 高汤采用鸡身上什么类型的部位做原料？” #card #SRS
 :PROPERTIES:
-:card-last-interval: 11.04
-:card-repeats: 3
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-16T00:35:35.416Z
-:card-last-reviewed: 2022-08-05T00:35:35.416Z
+:card-last-interval: 37.53
+:card-repeats: 4
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-09-22T13:14:14.492Z
+:card-last-reviewed: 2022-08-16T01:14:14.493Z
 :card-last-score: 5
 :END:
 *** 因为它只关心一个细节
@@ -187,20 +187,20 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 3
-:card-next-schedule: 2022-08-14T11:29:57.718Z
-:card-last-reviewed: 2022-08-10T01:29:57.719Z
+:card-last-interval: 12.32
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-08-27T08:21:07.172Z
+:card-last-reviewed: 2022-08-15T01:21:07.173Z
 :card-last-score: 5
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-14T01:30:59.536Z
-:card-last-reviewed: 2022-08-10T01:30:59.536Z
+:card-last-interval: 11.44
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-26T11:20:51.613Z
+:card-last-reviewed: 2022-08-15T01:20:51.613Z
 :card-last-score: 5
 :END:
 *** 可以编造一个助记词
@@ -215,21 +215,21 @@
 :END:
 ** 好的助记词会让人在情感上感觉如何？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-15T01:17:01.525Z
-:card-last-reviewed: 2022-08-11T01:17:01.525Z
+:card-last-interval: 11.44
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-27T11:09:09.111Z
+:card-last-reviewed: 2022-08-16T01:09:09.112Z
 :card-last-score: 5
 :END:
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 3.97
-:card-repeats: 2
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-08-14T00:29:49.101Z
-:card-last-reviewed: 2022-08-10T01:29:49.101Z
+:card-last-interval: 11.04
+:card-repeats: 3
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-08-26T01:19:47.412Z
+:card-last-reviewed: 2022-08-15T01:19:47.412Z
 :card-last-score: 5
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
@@ -367,11 +367,11 @@
 :END:
 ** 举例说明因果关系卡 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-14T01:30:06.348Z
-:card-last-reviewed: 2022-08-10T01:30:06.348Z
+:card-last-interval: 11.44
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-26T11:20:01.475Z
+:card-last-reviewed: 2022-08-15T01:20:01.476Z
 :card-last-score: 5
 :END:
 *** 高汤是「做什么」的？
@@ -380,21 +380,21 @@
 *** 「什么时候」用它？
 ** 重要性和影响：写卡使得概念具有 {{cloze 个人意义}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 11.8
-:card-repeats: 3
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-08-12T20:35:22.751Z
-:card-last-reviewed: 2022-08-01T01:35:22.751Z
+:card-last-interval: 45.45
+:card-repeats: 4
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-29T11:18:08.147Z
+:card-last-reviewed: 2022-08-15T01:18:08.148Z
 :card-last-score: 5
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
-:card-ease-factor: 2.28
-:card-next-schedule: 2022-08-14T01:30:31.173Z
-:card-last-reviewed: 2022-08-10T01:30:31.173Z
-:card-last-score: 5
+:card-ease-factor: 2.14
+:card-next-schedule: 2022-08-20T01:12:16.560Z
+:card-last-reviewed: 2022-08-16T01:12:16.561Z
+:card-last-score: 3
 :END:
 * 「开放式清单」和「启明卡」—— 知识的应用
 ** 开放式清单和封闭清单的区别？ #card #SRS
