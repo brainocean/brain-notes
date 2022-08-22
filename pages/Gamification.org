@@ -1,0 +1,8 @@
+* [[Source of motivation]]
+* [[file:./Fun Motivators for Gamification.org][Fun Motivators for Gamification]]
+:LOGBOOK:
+CLOCK: [2022-08-19 Fri 14:57:16]--[2022-08-19 Fri 14:57:17] =>  00:00:01
+:END:
+* [[file:./Game Mechanics.org][Game Mechanics]]
+* [[file:./游戏化机制.org][游戏化机制]]
+*
