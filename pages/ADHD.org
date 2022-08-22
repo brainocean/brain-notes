@@ -1,24 +1,79 @@
-* ADHD是一个发育障碍(developmental disability/disorder of self regulation)
-** self-regulation -- the ability to consciously, willfully choose to inhibit you behavior and then engage in a series of self-directed actions
+* Dr. Russel Barkley
+* ADHD是一个什么障碍？#card #ADHD
+** 发育障碍(developmental disability/disorder of self regulation)
+* self-regulation -- the ability to consciously, willfully choose to inhibit you behavior and then engage in a series of self-directed actions
 ** self-regulation is for your own long term welfare
-** 平均落后正常发育30%的时间，所以12岁的对比年龄是8.4岁
+** Self-regulation -- the action you can do to *yourself* to change your behavior
+* ADHD患者在自我控制方面平均落后正常发育时间 {{cloze 30%}}，所以12岁的对比年龄是8.4岁 #card #ADHD
+:PROPERTIES:
+:card-last-interval: 4.3
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-23T08:10:07.356Z
+:card-last-reviewed: 2022-08-19T01:10:07.356Z
+:card-last-score: 5
+:END:
+* ADHD是由于*基因*造成的神经性紊乱
+* 为什么ADHD患者没有时间感? #card #ADHD
+:PROPERTIES:
+:card-last-interval: 3.84
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-22T21:08:48.365Z
+:card-last-reviewed: 2022-08-19T01:08:48.366Z
+:card-last-score: 3
+:END:
+** 因为缺乏视觉图像能力，造成前瞻、后瞻能力弱，从而主观时间感弱
+** 只能关注当下或者很短时间内的事情，缺少规划和准备，从而只能被动应对事到临头的危机
+* 为什么ADHD患者缺乏坚持努力达成目标的能力？ #card #ADHD
+:PROPERTIES:
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-28T16:50:15.875Z
+:card-last-reviewed: 2022-08-22T00:50:15.875Z
+:card-last-score: 5
+:END:
+** 因为工作记忆缺少或者紊乱，很难记住下一步要做的事情和目标
 * ADHD is a failure of direct behavior forward in time, we cannot persist toward the goals
 * ADHD has working memory disorder, losing the goal and the steps to the goal
 * ADHD is a neural generic caused disorder
 * ADHD is time-blindness, or near sight for the future
 ** can't look back, look forward, can only live at the moment, led by their noses
 ** 所以缺失了做好准备的能力，造成一个接一个的危机
-* 大脑可以分成前后两个部分，后部是学习知识的，而前部是应用知识的，ADHD割裂了这两部分，从而导致执行功能的低下
-** 所以重点不在多学更多的知识和技能，而是如何应用(put more time on point of performance)
-** ^^increase accountability, increase frequency, immediacy, the salience and timing of consequences^^
-** 所以那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
+* 大脑可以分成前后两个部分，后部是 {{cloze 学习知识}}的，而前部是 {{cloze 应用知识}}的，ADHD割裂了这两部分，从而导致 {{cloze 执行功能的低下}}，所以重点不在多学更多的知识和技能，而是 {{cloze 如何应用}}(put more time on point of performance) #card #ADHD
+:PROPERTIES:
+:card-last-interval: 4.3
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-23T08:08:35.027Z
+:card-last-reviewed: 2022-08-19T01:08:35.027Z
+:card-last-score: 5
+:END:
+* increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
+:PROPERTIES:
+:card-last-interval: 3.6
+:card-repeats: 2
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-08-22T15:01:44.096Z
+:card-last-reviewed: 2022-08-19T01:01:44.097Z
+:card-last-score: 3
+:END:
+* 那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
 * 将ADHD和糖尿病做个类比：我们不是要(能)根除糖尿病，而是要管理血糖指标，避免并发症
-* 经过验证的药物是很好的治疗手段(2/3 to 80%)，一到两年之后可能会提高学习成绩
+* 经过验证的药物是很好的治疗手段(60% to 80%)，一到两年之后可能会提高学习成绩
 * 调整食谱没有什么作用
 * 大声对自己说话在青春期和成人期有用，前提是作为药物治疗的补充
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
-* Self-regulation -- the action you can do to *yourself* to change your behavior
-* 五个执行功能的障碍
+* 五个执行功能的障碍 #card #ADHD
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-08-22T16:00:00.000Z
+:card-last-reviewed: 2022-08-22T00:55:03.770Z
+:card-last-score: 1
+:END:
 ** 1. 抑制行为的能力 inhibit your behavior
 2. 使用视觉图像的能力 use visual imagery, non verbal working memory; 前瞻、后瞻、主观时间感 hindsight, foresight, sense of time
 3. 在头脑中与自己交流 talk to yourself, verbal working memory
@@ -27,7 +82,15 @@
 * 虽然和自己说话是不发声的，但是其实和说话使用了同一套系统；正如想象一个动作虽然没有执行这个动作，但是使用了同一套神经系统
 ** 这就是为什么想象一套动作可以帮助运动员训练
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
-* 如何弥补执行功能缺陷？
+* 如何弥补执行功能缺陷？ #card #ADHD
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-08-22T16:00:00.000Z
+:card-last-reviewed: 2022-08-22T00:45:01.561Z
+:card-last-score: 1
+:END:
 ** 外化(externalize)重要的信息
 *** 弥补工作记忆问题
 *** which can be remembered right here right now outside your brain, in visual field
@@ -47,15 +110,23 @@
 *** 比如计算工具
 *** 或者idea/though card，然后重新洗牌，重新组织来帮助写故事、作文、文章
 *** 重点是physical工具
-** 给执行意志力油箱加油
-*** 更多奖励和正面情绪
-*** 自我肯定和自我鼓励
-*** 执行任务之间的10分钟的休息
-*** 3分钟的放松或者正念冥想
-**** 10:3原则——10分钟任务，3分钟休息
-*** 在任务之前和期间，可视化和谈论未来的奖励
-*** 规律化的体育锻炼
-*** 高血糖水平
+* 给执行意志力油箱加油 #card #ADHD
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-08-22T16:00:00.000Z
+:card-last-reviewed: 2022-08-22T00:46:49.863Z
+:card-last-score: 1
+:END:
+** 更多奖励和正面情绪
+** 自我肯定和自我鼓励
+** 执行任务之间的10分钟的休息
+** 3分钟的放松或者正念冥想
+*** 10:3原则——10分钟任务，3分钟休息
+** 在任务之前和期间，可视化和谈论未来的奖励
+** 规律化的体育锻炼
+** 高血糖水平
 ** 在日常生活中练习集成情感控制的方法
 * ADHD不会有长期记忆问题，但是工作记忆有问题
 * Effective treatment's 4 components
@@ -81,13 +152,29 @@
 ** Act, don't Yak, say it once and back it up, these kids listens to only immediate consequences
 ** how to get their attention: to touch them, look in the eye, speak - keep it short, keep it sweet, get to the point and then back it up
 ** small chunks with frequent breaks
-* 怎样开始一个活动-transition planning
+* 怎样开始一个活动-transition planning #card #ADHD
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-08-22T16:00:00.000Z
+:card-last-reviewed: 2022-08-22T00:45:40.165Z
+:card-last-score: 1
+:END:
 ** stop other activities
 ** review 2-3 rules this child need to follow in the next activity
 ** setup the incentive(externalized) and punishment
 ** distribute the consequences through out the tasks, reward often
 ** review the activity: what do you think, how did you do,  how can we do better
-* 如果孩子不在身边
+* 如果孩子不在身边如何管理？ #card #ADHD
+:PROPERTIES:
+:card-last-interval: 4.3
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-23T08:10:14.965Z
+:card-last-reviewed: 2022-08-19T01:10:14.965Z
+:card-last-score: 5
+:END:
 ** behavior monitoring card
 ** 请一个成人帮助打分
 ** 最后回家之后进行统计
@@ -95,3 +182,5 @@
 ** [[file:./Source of motivation.org][Source of motivation]]
 ** [[file:./Game Mechanics.org][Game Mechanics]]
 ** [[file:./Fun Motivators for Gamification.org][Fun Motivators for Gamification]]
+* [[../assets/inhibition-self_1660614595221_0.png]]
+*

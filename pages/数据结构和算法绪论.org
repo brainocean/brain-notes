@@ -1,30 +1,30 @@
 * 什么是计算？ #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-08-16T16:00:00.000Z
-:card-last-reviewed: 2022-08-16T01:12:45.990Z
-:card-last-score: 1
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-25T17:11:44.739Z
+:card-last-reviewed: 2022-08-19T01:11:44.740Z
+:card-last-score: 5
 :END:
 ** 借助某种工具，遵照一定规则，以明确而机械的形式进行的操作
 * 什么是算法？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 3.6
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.36
-:card-next-schedule: 2022-08-19T15:11:12.683Z
-:card-last-reviewed: 2022-08-16T01:11:12.683Z
-:card-last-score: 3
+:card-next-schedule: 2022-08-22T16:00:00.000Z
+:card-last-reviewed: 2022-08-22T00:43:18.158Z
+:card-last-score: 1
 :END:
 ** 在特定计算模型(=计算机=信息处理工具)下，旨在解决特定问题的指令序列
 * 算法的特征要素？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-20T08:13:11.992Z
-:card-last-reviewed: 2022-08-16T01:13:11.992Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-02T04:53:34.912Z
+:card-last-reviewed: 2022-08-22T00:53:34.912Z
 :card-last-score: 5
 :END:
 ** 输入、输出、正确性、确定性、可行性、 {{cloze 有穷性}}
@@ -35,60 +35,60 @@
 * 图灵机
 ** 图灵机的纸带tape的作用是 {{cloze 在每个单元格中存贮一个字符}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-20T08:13:19.328Z
-:card-last-reviewed: 2022-08-16T01:13:19.328Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-02T04:53:41.263Z
+:card-last-reviewed: 2022-08-22T00:53:41.263Z
 :card-last-score: 5
 :END:
 ** 图灵机读写头head的作用是 {{cloze 读写所在位置的单元格的字符}}，每过一个节拍，能够 {{cloze 向左或者向右移动一格}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-20T08:13:28.931Z
-:card-last-reviewed: 2022-08-16T01:13:28.932Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-02T04:53:47.438Z
+:card-last-reviewed: 2022-08-22T00:53:47.439Z
 :card-last-score: 5
 :END:
 ** 图灵机根据状态转移函数(指令)，在每个节拍，根据 {{cloze 当前状态和读写头当前字符}}，执行动作 {{cloze (写、左移、右移)}}，并从当前状态转换到下一状态，直到 {{cloze 停机状态}}  #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-20T08:13:42.810Z
-:card-last-reviewed: 2022-08-16T01:13:42.811Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-02T04:54:00.390Z
+:card-last-reviewed: 2022-08-22T00:54:00.391Z
 :card-last-score: 5
 :END:
 * 大O记号
 ** 大O记号的目的 #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-20T08:13:59.408Z
-:card-last-reviewed: 2022-08-16T01:13:59.409Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-02T04:54:06.368Z
+:card-last-reviewed: 2022-08-22T00:54:06.368Z
 :card-last-score: 5
 :END:
 *** 为了把握时间随问题规模增长的大趋势，而不是细节的起伏
 *** 是对增长趋势的悲观估计(上界)
 ** 大O记号的定义 #card #DSA
 :PROPERTIES:
-:card-last-interval: 0.8
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-16T20:11:43.744Z
-:card-last-reviewed: 2022-08-16T01:11:43.744Z
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-23T17:44:52.741Z
+:card-last-reviewed: 2022-08-17T01:44:52.742Z
 :card-last-score: 5
 :END:
 *** $T(n) = O( f(n) )  \iff \exists c>0, 当 n \gg 2后，有T(n) < c \cdot f(n)$
 ** 大O记号的特点 #card #DSA
 :PROPERTIES:
-:card-last-interval: 0.8
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-16T20:11:56.528Z
-:card-last-reviewed: 2022-08-16T01:11:56.529Z
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-23T17:44:59.240Z
+:card-last-reviewed: 2022-08-17T01:44:59.240Z
 :card-last-score: 5
 :END:
 *** 常数项可以忽略 $O(f(n)) = O(c \times f(n))$
@@ -101,12 +101,12 @@
 * [[../assets/big-o-omega-theta.png]]
 * 算法复杂度的刻度 #card #DSA
 :PROPERTIES:
-:card-last-interval: 3.6
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-08-18T15:17:39.620Z
-:card-last-reviewed: 2022-08-15T01:17:39.620Z
-:card-last-score: 3
+:card-last-interval: 3.84
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-22T21:12:54.213Z
+:card-last-reviewed: 2022-08-19T01:12:54.213Z
+:card-last-score: 5
 :END:
 ** 最高效算法的复杂度：$O(1) 和 O(\log{n})$
 ** 有效算法的复杂度：$多项式复杂度O(n^c)，特别的线性复杂度O(n)$

@@ -326,12 +326,12 @@
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 11.04
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.76
-:card-next-schedule: 2022-08-20T01:14:01.440Z
-:card-last-reviewed: 2022-08-09T01:14:01.440Z
-:card-last-score: 5
+:card-next-schedule: 2022-08-22T16:00:00.000Z
+:card-last-reviewed: 2022-08-22T00:52:32.766Z
+:card-last-score: 1
 :END:
 *** 步骤启动、停止的条件或者启发式
 * 概念性知识
@@ -389,11 +389,11 @@
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.14
-:card-next-schedule: 2022-08-20T01:12:16.560Z
-:card-last-reviewed: 2022-08-16T01:12:16.561Z
+:card-last-interval: 8
+:card-repeats: 3
+:card-ease-factor: 2
+:card-next-schedule: 2022-08-30T00:52:22.981Z
+:card-last-reviewed: 2022-08-22T00:52:22.981Z
 :card-last-score: 3
 :END:
 * 「开放式清单」和「启明卡」—— 知识的应用
@@ -441,12 +441,12 @@
 ** 当你能 {{cloze 产生很多不同反应}} 的时候才可能制作创意卡
 ** 什么样的知识会被创意卡通过提取效应加强？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.43
+:card-last-interval: 4
 :card-repeats: 2
-:card-ease-factor: 3
-:card-next-schedule: 2022-08-16T10:28:32.600Z
-:card-last-reviewed: 2022-08-12T00:28:32.601Z
-:card-last-score: 5
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-23T01:06:43.370Z
+:card-last-reviewed: 2022-08-19T01:06:43.371Z
+:card-last-score: 3
 :END:
 *** 在生成新答案持续被用到的知识
 ** 知道 idea 能解决什么问题，不等于解决问题时知道用什么 idea
