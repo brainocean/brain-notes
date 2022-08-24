@@ -3,7 +3,7 @@
   :block/updated-at 1648432117503}
  {:block/name "adhd",
   :block/created-at 1660288316944,
-  :block/updated-at 1660895499105}
+  :block/updated-at 1661217031313}
  {:block/name "aug 10th, 2022",
   :block/created-at 1660061271774,
   :block/updated-at 1660061271774}
@@ -40,6 +40,12 @@
  {:block/name "aug 21st, 2022",
   :block/created-at 1661034727153,
   :block/updated-at 1661034727153}
+ {:block/name "aug 22nd, 2022",
+  :block/created-at 1661103369569,
+  :block/updated-at 1661103369569}
+ {:block/name "aug 23rd, 2022",
+  :block/created-at 1661184044561,
+  :block/updated-at 1661184044561}
  {:block/name "aug 5th, 2022",
   :block/created-at 1659659285383,
   :block/updated-at 1659659285383}
@@ -69,7 +75,7 @@
   :block/updated-at 1653019007159}
  {:block/name "b1整体业务流程",
   :block/created-at 1651654901621,
-  :block/updated-at 1655715621259}
+  :block/updated-at 1661216802059}
  {:block/name "b1配置数据",
   :block/created-at 1651735941615,
   :block/updated-at 1651735941615}
@@ -120,10 +126,10 @@
   :block/updated-at 1650631130630}
  {:block/name "clojure namespace",
   :block/created-at 1649312003887,
-  :block/updated-at 1660526474768}
+  :block/updated-at 1661129560290}
  {:block/name "clojure ref",
   :block/created-at 1650527802723,
-  :block/updated-at 1660871541133}
+  :block/updated-at 1661129271909}
  {:block/name "clojure repl",
   :block/created-at 1650438306488,
   :block/updated-at 1656292957585}
@@ -135,13 +141,13 @@
   :block/updated-at 1660870961901}
  {:block/name "clojure var",
   :block/created-at 1649304011284,
-  :block/updated-at 1654315246185}
+  :block/updated-at 1661216700191}
  {:block/name "clojure vector",
   :block/created-at 1648691310540,
   :block/updated-at 1660264087436}
  {:block/name "clojure zipper",
   :block/created-at 1660871656667,
-  :block/updated-at 1660888549944}
+  :block/updated-at 1661217021435}
  {:block/name "clojure 和 java 的互操作 interop",
   :block/created-at 1648521091084,
   :block/updated-at 1653267860906}
@@ -156,7 +162,7 @@
   :block/updated-at 1653529287130}
  {:block/name "clojure中的多态",
   :block/created-at 1649985696319,
-  :block/updated-at 1660700638344}
+  :block/updated-at 1661129746896}
  {:block/name "clojure中的异常处理",
   :block/created-at 1648521461425,
   :block/updated-at 1648526195757}
@@ -403,7 +409,7 @@
   :block/updated-at 1650768679865}
  {:block/name "习惯回路",
   :block/created-at 1649469531017,
-  :block/updated-at 1660093332474}
+  :block/updated-at 1661216455375}
  {:block/name "交货单",
   :block/created-at 1652413385158,
   :block/updated-at 1652413385158}
@@ -424,7 +430,7 @@
   :block/updated-at 1660612169391}
  {:block/name "使用量词来匹配重复出现次数",
   :block/created-at 1648611187234,
-  :block/updated-at 1651625538637}
+  :block/updated-at 1661129509496}
  {:block/name "使用零宽断言来匹配特定的文本位置",
   :block/created-at 1648611187284,
   :block/updated-at 1660007153940}
@@ -445,7 +451,7 @@
   :block/updated-at 1652933236369}
  {:block/name "内部对账",
   :block/created-at 1652413385580,
-  :block/updated-at 1660093287277}
+  :block/updated-at 1661129756822}
  {:block/name "凭证生成向导",
   :block/created-at 1652413434018,
   :block/updated-at 1652413595181}
@@ -502,7 +508,7 @@
   :block/updated-at 1653267842583}
  {:block/name "常用的正则表达式例子",
   :block/created-at 1648611187120,
-  :block/updated-at 1657069659132}
+  :block/updated-at 1661216876302}
  {:block/name "库存盘点",
   :block/created-at 1652587081029,
   :block/updated-at 1652665257578}
@@ -565,7 +571,7 @@
   :block/updated-at 1650168734803}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
-  :block/updated-at 1660871574288}
+  :block/updated-at 1661217063198}
  {:block/name "日记账分录",
   :block/created-at 1652769336025,
   :block/updated-at 1652838192509}
@@ -619,7 +625,7 @@
   :block/updated-at 1656465558162}
  {:block/name "用圆括号进行捕获和分组",
   :block/created-at 1648611187285,
-  :block/updated-at 1651625552070}
+  :block/updated-at 1661216503206}
  {:block/name "用管道符描述多选结构",
   :block/created-at 1648611187281,
   :block/updated-at 1659659604587}
@@ -634,7 +640,7 @@
   :block/updated-at 1658107779814}
  {:block/name "算法复杂度分析",
   :block/created-at 1660616751936,
-  :block/updated-at 1660871479560}
+  :block/updated-at 1661216965695}
  {:block/name "自动总账科目确定",
   :block/created-at 1652776077606,
   :block/updated-at 1652776425665}
@@ -643,7 +649,7 @@
   :block/updated-at 1652776436079}
  {:block/name "行首和行末",
   :block/created-at 1648611187202,
-  :block/updated-at 1660700615756}
+  :block/updated-at 1661129723475}
  {:block/name "计量单位",
   :block/created-at 1652435360492,
   :block/updated-at 1657759948400}
@@ -697,7 +703,7 @@
   :block/updated-at 1652413385649}
  {:block/name "销售订单",
   :block/created-at 1652413385152,
-  :block/updated-at 1660007632383}
+  :block/updated-at 1661216463873}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713, 
-  :block/updated-at 1660871203394}]
+  :block/updated-at 1661216837760}]

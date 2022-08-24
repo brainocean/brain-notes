@@ -4,11 +4,11 @@
 :END:
 * Clojure变量和[[Clojure符号]]的关系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-22T02:59:19.827Z
-:card-last-reviewed: 2022-05-30T00:59:19.827Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-28T01:09:55.276Z
+:card-last-reviewed: 2022-08-24T01:09:55.276Z
 :card-last-score: 5
 :END:
 ** 符号就是一个名字，在eval时，会在namespace里面查找(称为resolve)符号，找到对应的变量，然后把变量绑定的值作为符号的求值结果
@@ -24,12 +24,12 @@
 ** 返回symbol绑定的变量本身，也可以用#'symbol来表达
 * 如何做Clojure变量的线程本地绑定？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:53:21.127Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-08-27T01:05:00.125Z
+:card-last-reviewed: 2022-08-23T01:05:00.125Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (def ^:dynamic x 1)

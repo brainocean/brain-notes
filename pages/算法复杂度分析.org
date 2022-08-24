@@ -15,22 +15,22 @@
 * 级数求和
 ** 算术级数:  {{cloze 与末项平方同阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-23T08:10:45.187Z
-:card-last-reviewed: 2022-08-19T01:10:45.187Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-04T05:08:37.456Z
+:card-last-reviewed: 2022-08-24T01:08:37.456Z
 :card-last-score: 5
 :END:
 *** $$T(n) = 1+2+3+ \dots + n = n(n+1)/2 = O(n^2)$$
 ** 幂方级数： {{cloze 比幂次高出一阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:48:10.719Z
-:card-last-score: 1
+:card-last-interval: 4.3
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-28T08:10:58.217Z
+:card-last-reviewed: 2022-08-24T01:10:58.217Z
+:card-last-score: 5
 :END:
 *** $$ T_2(n) = 1^2 + 2^2 + \dots + n^2 = n(n+1)(2n+1)/6 = O(n^3)$$
 *** $$T_3(n) = 1^3 + 2^3 + \dots + n^3 = n^2(n+1)^2/4 = O(n^4)$$
@@ -38,52 +38,52 @@
 *** 推而广之，$T_d(n)=O(n^{d+1})$
 ** 几何级数： {{cloze 与末项同阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:49:53.636Z
-:card-last-score: 1
+:card-last-interval: 4.3
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-27T08:02:09.150Z
+:card-last-reviewed: 2022-08-23T01:02:09.151Z
+:card-last-score: 5
 :END:
 *** $$T_a(n)=a^0 + a^1 + a^2 + \dots + a^n = (a^{n+1}-1)/(a-1) = O(a^n)$$
 ** 收敛级数： {{cloze O(1)}} #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:54:22.018Z
-:card-last-score: 1
+:card-last-interval: 3.84
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-27T21:09:21.978Z
+:card-last-reviewed: 2022-08-24T01:09:21.978Z
+:card-last-score: 5
 :END:
 *** $$1/1/2 + 1/2/3 + 1/3/4 + \dots + 1/(n-1)/n = 1-1/n = O(1)$$
 ** 调和级数: #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:55:20.570Z
-:card-last-score: 1
+:card-last-interval: 3.84
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-08-27T21:09:30.175Z
+:card-last-reviewed: 2022-08-24T01:09:30.175Z
+:card-last-score: 5
 :END:
 *** $$h(n) = 1+1/2+1/3+ \dots + 1/n = \Theta(logn)$$
 ** 对数级数 #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:50:09.859Z
-:card-last-score: 1
+:card-last-interval: 4.3
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-08-27T08:05:45.711Z
+:card-last-reviewed: 2022-08-23T01:05:45.712Z
+:card-last-score: 5
 :END:
 *** $$log1 + log2 + \dots + logn = log(n!) = \Theta(nlogn)$$
 * 常见循环算法复杂度
 ** n*n循环复杂度 #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-23T08:08:57.044Z
-:card-last-reviewed: 2022-08-19T01:08:57.045Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-04T05:08:00.974Z
+:card-last-reviewed: 2022-08-24T01:08:00.974Z
 :card-last-score: 5
 :END:
 *** #+BEGIN_SRC c++
@@ -95,11 +95,11 @@ for(int i=0; i<n; i++)
 *** [[../assets/n-square_1660619697242_0.png]]
 ** n*(n-1)/2循环复杂度  #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-23T08:10:04.077Z
-:card-last-reviewed: 2022-08-19T01:10:04.077Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-04T05:08:04.276Z
+:card-last-reviewed: 2022-08-24T01:08:04.276Z
 :card-last-score: 5
 :END:
 *** #+BEGIN_SRC c++
@@ -111,11 +111,11 @@ for(int i=0; i<n; i++)
 *** [[../assets/n-square-2_1660619719466_0.png]]
 ** 步长加倍循环复杂度  #card #DSA
 :PROPERTIES:
-:card-last-interval: 0.75
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-08-22T18:46:08.764Z
-:card-last-reviewed: 2022-08-22T00:46:08.764Z
+:card-last-interval: 152.82
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-01-22T20:09:25.621Z
+:card-last-reviewed: 2022-08-23T01:09:25.675Z
 :card-last-score: 5
 :END:
 *** #+BEGIN_SRC c++
@@ -129,11 +129,11 @@ for(int i=0; i<n; i<<1)
 ** 递归跟踪——罗列所有递归实例，单个递归实例的复杂度(包括递归函数调用的O(1))，累积起来即为算法的复杂度
 ** 减而治之和分而治之的比较 #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-23T08:11:19.485Z
-:card-last-reviewed: 2022-08-19T01:11:19.485Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-04T05:08:50.546Z
+:card-last-reviewed: 2022-08-24T01:08:50.547Z
 :card-last-score: 5
 :END:
 *** 都是分为两部分，再合并结果

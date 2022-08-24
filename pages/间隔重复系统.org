@@ -98,12 +98,12 @@
 *** 几乎永久
 ** 问题涉及的范围如何影响间隔重复的效率？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 25.09
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-08-23T03:59:36.683Z
-:card-last-reviewed: 2022-07-29T01:59:36.683Z
-:card-last-score: 5
+:card-last-interval: 48.64
+:card-repeats: 5
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-10-11T16:07:23.644Z
+:card-last-reviewed: 2022-08-24T01:07:23.644Z
+:card-last-score: 3
 :END:
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
@@ -326,12 +326,12 @@
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:52:32.766Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-08-27T01:07:17.738Z
+:card-last-reviewed: 2022-08-23T01:07:17.739Z
+:card-last-score: 5
 :END:
 *** 步骤启动、停止的条件或者启发式
 * 概念性知识
@@ -441,12 +441,12 @@
 ** 当你能 {{cloze 产生很多不同反应}} 的时候才可能制作创意卡
 ** 什么样的知识会被创意卡通过提取效应加强？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-08-23T01:06:43.370Z
-:card-last-reviewed: 2022-08-19T01:06:43.371Z
-:card-last-score: 3
+:card-last-interval: 12.67
+:card-repeats: 3
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-09-05T17:07:12.797Z
+:card-last-reviewed: 2022-08-24T01:07:12.799Z
+:card-last-score: 5
 :END:
 *** 在生成新答案持续被用到的知识
 ** 知道 idea 能解决什么问题，不等于解决问题时知道用什么 idea

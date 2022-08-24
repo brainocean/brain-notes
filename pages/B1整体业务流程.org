@@ -1,11 +1,11 @@
 * B1的整体业务流程都有哪些部分？ #card #B1
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.38
-:card-next-schedule: 2022-08-22T16:00:00.000Z
-:card-last-reviewed: 2022-08-22T00:43:01.205Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.24
+:card-next-schedule: 2022-08-27T01:06:42.039Z
+:card-last-reviewed: 2022-08-23T01:06:42.039Z
+:card-last-score: 3
 :END:
 ** 销售流程
 *** 客户订购一台定制的个人计算机

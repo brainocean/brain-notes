@@ -15,11 +15,11 @@
 * 添加销售订单如何影响库存？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-08-22T05:13:52.370Z
-:card-last-interval: 13.2
-:card-ease-factor: 3.3
-:card-last-reviewed: 2022-08-09T01:13:52.371Z
+:card-repeats: 4
+:card-next-schedule: 2022-10-08T06:01:03.849Z
+:card-last-interval: 46.24
+:card-ease-factor: 3.4
+:card-last-reviewed: 2022-08-23T01:01:03.849Z
 :END:
 ** 可售库存量会随订单中的数量而减少
 * 为了支持自动化销售流程，在销售订单中输入物料和数量时，即完成了自动[[物料可用性检查]]
