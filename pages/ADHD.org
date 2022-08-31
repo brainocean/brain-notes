@@ -67,11 +67,11 @@
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
 * 五个执行功能的障碍 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-08-27T01:04:19.449Z
-:card-last-reviewed: 2022-08-23T01:04:19.449Z
+:card-last-interval: 8.32
+:card-repeats: 3
+:card-ease-factor: 2.08
+:card-next-schedule: 2022-09-08T08:46:21.676Z
+:card-last-reviewed: 2022-08-31T01:46:21.677Z
 :card-last-score: 3
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
@@ -84,12 +84,12 @@
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
 * 如何弥补执行功能缺陷？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-08-24T16:00:00.000Z
-:card-last-reviewed: 2022-08-24T01:10:43.910Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-04T01:44:29.356Z
+:card-last-reviewed: 2022-08-31T01:44:29.356Z
+:card-last-score: 5
 :END:
 ** 外化(externalize)重要的信息
 *** 弥补工作记忆问题
@@ -104,6 +104,7 @@
 *** 我们可能把解数学题的步骤拆解并外化(至少可视化)吗？
 ** 外化和动力相关的信息
 *** 创造外部动机 ((62f60da4-20bf-4870-b6ee-7a56290edb7b))
+*** [[file:./游戏化机制.org][游戏化机制]]
 *** 外部动机需要短期反馈、立即兑现(每天)
 ** 外化问题解决步骤(externalize mental problem-solving)
 *** 外化解决问题的工具、设施
@@ -112,12 +113,12 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 2.14
-:card-repeats: 2
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-08-25T04:07:02.721Z
-:card-last-reviewed: 2022-08-23T01:07:02.722Z
-:card-last-score: 3
+:card-last-interval: 16.09
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-11T01:20:49.582Z
+:card-last-reviewed: 2022-08-25T23:20:49.583Z
+:card-last-score: 5
 :END:
 ** 更多奖励和正面情绪
 ** 自我肯定和自我鼓励
@@ -154,12 +155,12 @@
 ** small chunks with frequent breaks
 * 怎样开始一个活动-transition planning #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4.3
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-08-27T08:06:16.513Z
-:card-last-reviewed: 2022-08-23T01:06:16.513Z
-:card-last-score: 5
+:card-next-schedule: 2022-08-31T16:00:00.000Z
+:card-last-reviewed: 2022-08-31T01:48:55.368Z
+:card-last-score: 1
 :END:
 ** stop other activities
 ** review 2-3 rules this child need to follow in the next activity

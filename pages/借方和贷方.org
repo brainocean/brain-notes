@@ -1,10 +1,10 @@
 * 会计中的借方(debit)和贷方(credit)是什么意思？ #card #B1
 :PROPERTIES:
-:card-last-interval: 35.05
-:card-repeats: 4
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-08-27T00:14:30.670Z
-:card-last-reviewed: 2022-07-22T23:14:30.671Z
+:card-last-interval: 114.61
+:card-repeats: 5
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-12-23T15:45:20.374Z
+:card-last-reviewed: 2022-08-31T01:45:20.375Z
 :card-last-score: 5
 :END:
 ** 借是指本次资金运动的终点(结果)，贷是本次资金运动的起点(来源)，加起来就是一个资金运动的轨迹。

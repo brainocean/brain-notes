@@ -10,11 +10,11 @@
 ** 借助某种工具，遵照一定规则，以明确而机械的形式进行的操作
 * 什么是算法？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 3.84
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-08-26T21:01:51.750Z
-:card-last-reviewed: 2022-08-23T01:01:51.750Z
+:card-last-interval: 10.24
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-10T06:44:51.694Z
+:card-last-reviewed: 2022-08-31T01:44:51.694Z
 :card-last-score: 5
 :END:
 ** 在特定计算模型(=计算机=信息处理工具)下，旨在解决特定问题的指令序列

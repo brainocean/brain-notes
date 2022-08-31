@@ -1,11 +1,11 @@
 * Namespace就是 [[Clojure符号]]到 [[Clojure Var]]或者Class的映射mapping
 * 如何创建namespace? #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-08-27T06:01:19.385Z
-:card-last-reviewed: 2022-06-04T04:01:19.386Z
+:card-last-interval: 188.48
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-03-07T12:47:59.158Z
+:card-last-reviewed: 2022-08-31T01:47:59.158Z
 :card-last-score: 3
 :END:
 ** | | 函数/宏 | 功能 | 缺省映射 | 应用场景 |

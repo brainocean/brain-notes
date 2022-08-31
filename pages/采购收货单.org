@@ -13,11 +13,11 @@
 ** 英文是Goods Receipt POs
 * 采购收货单如何影响会计核算？ #card #B1
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-08-26T09:47:48.385Z
-:card-last-reviewed: 2022-07-26T01:47:48.386Z
+:card-last-interval: 97.56
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-06T14:41:00.504Z
+:card-last-reviewed: 2022-08-31T01:41:00.505Z
 :card-last-score: 5
 :END:
 ** 在使用永续盘存时，创建采购收货单会触发会计交易

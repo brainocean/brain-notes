@@ -1,11 +1,11 @@
 * 什么是折扣组(Discount groups)？ #card #B1
 :PROPERTIES:
-:card-last-interval: 12.24
-:card-repeats: 3
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-08-28T06:09:03.061Z
-:card-last-reviewed: 2022-08-16T01:09:03.062Z
-:card-last-score: 5
+:card-last-interval: 35.27
+:card-repeats: 4
+:card-ease-factor: 2.92
+:card-next-schedule: 2022-10-05T07:52:21.100Z
+:card-last-reviewed: 2022-08-31T01:52:21.100Z
+:card-last-score: 3
 :END:
 ** 根据物料、物料组、物料属性或制造商，定义百分比折扣或可变数量设置折扣(如：买二送一)
 ** 覆盖期间和数量折扣

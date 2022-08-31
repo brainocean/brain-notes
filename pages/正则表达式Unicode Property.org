@@ -58,12 +58,12 @@
 #+END_SRC
 * 匹配空白的Unicode Property是什么？ #card #regex
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-08-24T16:00:00.000Z
-:card-last-reviewed: 2022-08-24T01:09:15.485Z
-:card-last-score: 1
+:card-last-interval: 14
+:card-repeats: 3
+:card-ease-factor: 3.5
+:card-next-schedule: 2022-09-14T01:53:27.925Z
+:card-last-reviewed: 2022-08-31T01:53:27.925Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript
 \p{Z} or \p{Seperator}

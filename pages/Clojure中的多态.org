@@ -1,11 +1,11 @@
 * Clojure Protocols和Clojure Multimethods的区别和联系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 12.09
-:card-repeats: 3
-:card-ease-factor: 2.72
-:card-next-schedule: 2022-08-27T03:19:34.444Z
-:card-last-reviewed: 2022-08-15T01:19:34.444Z
-:card-last-score: 5
+:card-last-interval: 26.63
+:card-repeats: 4
+:card-ease-factor: 2.58
+:card-next-schedule: 2022-09-26T16:47:37.334Z
+:card-last-reviewed: 2022-08-31T01:47:37.334Z
+:card-last-score: 3
 :END:
 ** Protocols和Multimethods都是用来实现[[多态]]的
 ** | Mltimethods | Protocols |
