@@ -6,21 +6,21 @@
 ** Self-regulation -- the action you can do to *yourself* to change your behavior
 * ADHD患者在自我控制方面平均落后正常发育时间 {{cloze 30%}}，所以12岁的对比年龄是8.4岁 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-04T05:08:07.590Z
-:card-last-reviewed: 2022-08-24T01:08:07.591Z
+:card-last-interval: 35.99
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-11T00:06:37.851Z
+:card-last-reviewed: 2022-09-05T01:06:37.851Z
 :card-last-score: 5
 :END:
 * ADHD是由于*基因*造成的神经性紊乱
 * 为什么ADHD患者没有时间感? #card #ADHD
 :PROPERTIES:
-:card-last-interval: 9.63
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-01T16:10:31.294Z
-:card-last-reviewed: 2022-08-23T01:10:31.295Z
+:card-last-interval: 31.34
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-03T08:37:46.645Z
+:card-last-reviewed: 2022-09-02T00:37:46.646Z
 :card-last-score: 5
 :END:
 ** 因为缺乏视觉图像能力，造成前瞻、后瞻能力弱，从而主观时间感弱
@@ -43,21 +43,21 @@
 ** 所以缺失了做好准备的能力，造成一个接一个的危机
 * 大脑可以分成前后两个部分，后部是 {{cloze 学习知识}}的，而前部是 {{cloze 应用知识}}的，ADHD割裂了这两部分，从而导致 {{cloze 执行功能的低下}}，所以重点不在多学更多的知识和技能，而是 {{cloze 如何应用}}(put more time on point of performance) #card #ADHD
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-04T05:07:56.272Z
-:card-last-reviewed: 2022-08-24T01:07:56.272Z
+:card-last-interval: 35.99
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-11T00:05:55.581Z
+:card-last-reviewed: 2022-09-05T01:05:55.582Z
 :card-last-score: 5
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
-:card-last-interval: 8.88
+:card-last-interval: 9.68
 :card-repeats: 3
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-08-31T22:01:27.186Z
-:card-last-reviewed: 2022-08-23T01:01:27.186Z
-:card-last-score: 3
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-09-16T23:01:02.641Z
+:card-last-reviewed: 2022-09-07T07:01:02.641Z
+:card-last-score: 5
 :END:
 * 那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
 * 将ADHD和糖尿病做个类比：我们不是要(能)根除糖尿病，而是要管理血糖指标，避免并发症
@@ -84,12 +84,12 @@
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
 * 如何弥补执行功能缺陷？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-09-04T01:44:29.356Z
-:card-last-reviewed: 2022-08-31T01:44:29.356Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-07T16:00:00.000Z
+:card-last-reviewed: 2022-09-07T07:00:42.282Z
+:card-last-score: 1
 :END:
 ** 外化(externalize)重要的信息
 *** 弥补工作记忆问题
@@ -157,9 +157,9 @@
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-08-31T16:00:00.000Z
-:card-last-reviewed: 2022-08-31T01:48:55.368Z
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-07T16:00:00.000Z
+:card-last-reviewed: 2022-09-07T06:44:49.063Z
 :card-last-score: 1
 :END:
 ** stop other activities
@@ -169,11 +169,11 @@
 ** review the activity: what do you think, how did you do,  how can we do better
 * 如果孩子不在身边如何管理？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-04T05:08:11.983Z
-:card-last-reviewed: 2022-08-24T01:08:11.983Z
+:card-last-interval: 35.99
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-11T00:06:44.100Z
+:card-last-reviewed: 2022-09-05T01:06:44.101Z
 :card-last-score: 5
 :END:
 ** behavior monitoring card

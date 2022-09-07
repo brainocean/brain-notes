@@ -32,21 +32,21 @@
 ** Data pattern的结构是 [<database> <entity-id> <attribute> <value> <transaction-id>]，通常<database>可以忽略
 * Datalog查询中 in 子句的作用是什么？ #card #Datalog
 :PROPERTIES:
-:card-last-interval: 35.41
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-02T10:56:20.889Z
-:card-last-reviewed: 2022-07-29T01:56:20.889Z
+:card-last-interval: 115.56
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-12-27T14:16:31.307Z
+:card-last-reviewed: 2022-09-03T01:16:31.308Z
 :card-last-score: 5
 :END:
 ** 用来为查询提供输入参数 input parameter
 * Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-09-04T01:44:38.021Z
-:card-last-reviewed: 2022-08-31T01:44:38.021Z
+:card-last-interval: 12.8
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-17T20:05:44.184Z
+:card-last-reviewed: 2022-09-05T01:05:44.184Z
 :card-last-score: 5
 :END:
 ** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询
@@ -83,11 +83,11 @@
 #+END_SRC
 * Datalog查询的输入参数如何匹配一个relation #card #Datalog
 :PROPERTIES:
-:card-last-interval: 35.41
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-05T10:30:45.285Z
-:card-last-reviewed: 2022-08-01T01:30:45.285Z
+:card-last-interval: 115.56
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-12-31T19:49:24.802Z
+:card-last-reviewed: 2022-09-07T06:49:24.803Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -110,12 +110,12 @@
 #+END_SRC
 * Datalog查询如何返回一个vector而不是set of vectors? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 35.41
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-09-05T10:30:35.540Z
-:card-last-reviewed: 2022-08-01T01:30:35.540Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-07T16:00:00.000Z
+:card-last-reviewed: 2022-09-07T06:49:11.697Z
+:card-last-score: 1
 :END:
 ** #+BEGIN_SRC clojure
 (d/q

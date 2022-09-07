@@ -1,11 +1,11 @@
 * 采购申请可以用作采购流程中的初始步骤。  在内部使用采购申请以指示需要某物料。
 * 采购申请是什么？  #card #B1
 :PROPERTIES:
-:card-last-interval: 73.4
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-09-02T10:15:55.159Z
-:card-last-reviewed: 2022-06-21T01:15:55.160Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-09-08T01:01:59.300Z
+:card-last-reviewed: 2022-09-04T01:01:59.300Z
 :card-last-score: 5
 :END:
 ** “采购申请”是由用户生成的凭证，用来通知采购部门所需的
