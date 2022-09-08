@@ -43,12 +43,12 @@
 #+END_SRC
 * Agent如何处理出错？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-07T16:00:00.000Z
-:card-last-reviewed: 2022-09-07T06:47:28.721Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-09-12T00:15:05.882Z
+:card-last-reviewed: 2022-09-08T00:15:05.882Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (agent initial-state options*)

@@ -8,8 +8,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.7
-:card-next-schedule: 2022-09-07T16:00:00.000Z
-:card-last-reviewed: 2022-09-07T06:59:41.262Z
+:card-next-schedule: 2022-09-08T16:00:00.000Z
+:card-last-reviewed: 2022-09-08T00:13:51.446Z
 :card-last-score: 1
 :END:
 ** 库存计量单位只能有一个，销售和采购计量单位可以有多个

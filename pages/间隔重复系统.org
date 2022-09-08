@@ -108,12 +108,12 @@
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-07T16:00:00.000Z
-:card-last-reviewed: 2022-09-07T06:50:51.117Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-12T06:11:53.962Z
+:card-last-reviewed: 2022-09-08T00:11:53.963Z
+:card-last-score: 5
 :END:
 ** 为何不能让你从卡面直接推导出答案？ #card #SRS
 :PROPERTIES:
@@ -316,12 +316,12 @@
 :END:
 ** 为了强调程序中散装的细节，应该辨识什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-07T16:00:00.000Z
-:card-last-reviewed: 2022-09-07T06:44:02.507Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-09-12T00:12:26.103Z
+:card-last-reviewed: 2022-09-08T00:12:26.104Z
+:card-last-score: 5
 :END:
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
