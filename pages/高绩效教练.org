@@ -56,22 +56,22 @@
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-08T16:00:00.000Z
-:card-last-reviewed: 2022-09-08T00:10:11.288Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-13T04:36:23.334Z
+:card-last-reviewed: 2022-09-09T01:36:23.334Z
+:card-last-score: 5
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
-** 如何判断一个问题的哪些方面是重要的呢？ #card #教练
+** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-08T16:00:00.000Z
-:card-last-reviewed: 2022-09-08T00:20:22.912Z
 :card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-interval: -1
+:card-ease-factor: 2.5
+:card-last-reviewed: 2022-09-09T01:39:19.192Z
 :END:
 *** 总体原则是应该跟随^^教练对象的兴趣和思路^^而不是教练的来提出问
 题。
@@ -176,12 +176,12 @@
 **** 过程目标 —— 达到绩效所需的工作，100%由你掌握
 *** 如何进行目标的设定能够怎样促进责任感的确立？ #card #教练
 :PROPERTIES:
-:card-last-score: 1
-:card-repeats: 1
-:card-next-schedule: 2022-09-08T16:00:00.000Z
-:card-last-interval: -1
-:card-ease-factor: 2.5
-:card-last-reviewed: 2022-09-08T00:18:52.367Z
+:card-last-score: 5
+:card-repeats: 2
+:card-next-schedule: 2022-09-13T04:37:51.767Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-09-09T01:37:51.768Z
 :END:
 **** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 *** 目标的SMART原则包括什么？ #card #教练
@@ -242,12 +242,12 @@
 **** 给予的答案必须有 {{cloze 足够的品质以及完备性}}，能提供给教练一个 {{cloze 反馈回路}}。
 *** 一个很少失败的有价值的现状问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-08T16:00:00.000Z
-:card-last-reviewed: 2022-09-08T00:10:36.358Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-13T04:36:29.139Z
+:card-last-reviewed: 2022-09-09T01:36:29.139Z
+:card-last-score: 5
 :END:
 **** “到目前为止你已经采取了哪些行动?”
 **** “那个行动的结果怎样?”
@@ -323,12 +323,12 @@
 **** 将对话转化为在完成目标日期内的具体的决定和行动步骤
 *** 建立责任担当的关键问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-08T16:00:00.000Z
-:card-last-reviewed: 2022-09-08T00:14:29.290Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-13T04:37:42.711Z
+:card-last-reviewed: 2022-09-09T01:37:42.711Z
+:card-last-score: 5
 :END:
 **** 你将要做什么? —— 明确的方案
 **** 什么时候做? —— 具体的日期和时间

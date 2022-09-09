@@ -1,10 +1,10 @@
 * Clojure中的普通Quoting如何书写？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-08T00:58:56.136Z
-:card-last-reviewed: 2022-05-23T00:58:56.136Z
+:card-last-interval: 439.28
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-11-22T07:25:22.798Z
+:card-last-reviewed: 2022-09-09T01:25:22.799Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -16,11 +16,11 @@
 #+END_SRC
 * syntax-quote (语法Quote) 的含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-08T00:59:13.046Z
-:card-last-reviewed: 2022-05-23T00:59:13.047Z
+:card-last-interval: 439.28
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-11-22T07:25:39.685Z
+:card-last-reviewed: 2022-09-09T01:25:39.686Z
 :card-last-score: 5
 :END:
 ** syntax-quote会把符号替换成namespace-qualified的符号，例如
@@ -33,12 +33,12 @@
 #+END_SRC
 * unquote的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-09-08T00:59:47.325Z
-:card-last-reviewed: 2022-05-23T00:59:47.326Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-reviewed: 2022-09-09T01:26:10.652Z
+:card-last-score: 1
 :END:
 ** unquote的语法是~，是在*syntax-quote*体之内，强制对它修饰的form进行求值，例如
 ** #+BEGIN_SRC clojure
@@ -50,12 +50,12 @@
 #+END_SRC
 * splicing unquote的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-09-08T01:03:26.320Z
-:card-last-reviewed: 2022-05-23T01:03:26.320Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-reviewed: 2022-09-09T01:29:58.695Z
+:card-last-score: 1
 :END:
 ** splicing unquote的语法是 ~@，是指把被unquote的list form(即被求值的list form)进行in-place展开，例如
 ** #+BEGIN_SRC clojure
@@ -67,12 +67,12 @@
 #+END_SRC
 * auto-gensym的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-09-08T00:57:57.249Z
-:card-last-reviewed: 2022-05-23T00:57:57.250Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-reviewed: 2022-09-09T01:20:19.795Z
+:card-last-score: 1
 :END:
 ** auto-gensym的语法是foo#，在syntax-quote之中，自动生成一个新的符号，例如
 ** #+BEGIN_SRC clojure

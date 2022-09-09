@@ -67,12 +67,12 @@
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
 * 五个执行功能的障碍 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 8.32
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.08
-:card-next-schedule: 2022-09-08T08:46:21.676Z
-:card-last-reviewed: 2022-08-31T01:46:21.677Z
-:card-last-score: 3
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-reviewed: 2022-09-09T01:33:36.575Z
+:card-last-score: 1
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
 2. 使用视觉图像的能力 use visual imagery, non verbal working memory; 前瞻、后瞻、主观时间感 hindsight, foresight, sense of time

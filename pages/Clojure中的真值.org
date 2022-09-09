@@ -5,12 +5,12 @@
 ** 但是Common Lisp之类的Lisp方言空集合是false
 * 判断一个collection是否为空的惯用法是？ #card #clojure
 :PROPERTIES:
-:card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-09-08T00:58:07.334Z
-:card-last-interval: 108
+:card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-09-09T16:00:00.000Z
+:card-last-interval: -1
 :card-ease-factor: 3
-:card-last-reviewed: 2022-05-23T00:58:07.334Z
+:card-last-reviewed: 2022-09-09T01:22:18.140Z
 :END:
 ** #+BEGIN_SRC clojure
 (seq [1 2 3])

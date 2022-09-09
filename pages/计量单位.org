@@ -5,12 +5,12 @@
 ** 当设置物料时，您将分配包含常用于此类型物料的计量单位组
 * 库存计量单位的特点和作用？ #card #B1
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-09-08T16:00:00.000Z
-:card-last-reviewed: 2022-09-08T00:13:51.446Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-13T01:37:28.792Z
+:card-last-reviewed: 2022-09-09T01:37:28.792Z
+:card-last-score: 5
 :END:
 ** 库存计量单位只能有一个，销售和采购计量单位可以有多个
 ** 对该物料进行交易后，此库存计量单位代码便无法更改。

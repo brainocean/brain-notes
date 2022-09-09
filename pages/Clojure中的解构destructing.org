@@ -34,11 +34,11 @@
 ** 使用 :as all 会把all绑定到整个map的值上
 * Clojure的解构都可以用在什么地方？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-08T00:58:17.253Z
-:card-last-reviewed: 2022-05-23T00:58:17.253Z
+:card-last-interval: 439.28
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-11-22T07:22:35.208Z
+:card-last-reviewed: 2022-09-09T01:22:35.209Z
 :card-last-score: 5
 :END:
 ** 用在let的绑定form

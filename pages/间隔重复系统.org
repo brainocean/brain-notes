@@ -206,11 +206,11 @@
 *** 可以编造一个助记词
 ** 给卡片中的文本增加 {{cloze 图片}}，可以引发精细编码 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-08T07:01:48.183Z
-:card-last-reviewed: 2022-09-04T01:01:48.183Z
+:card-last-interval: 14.24
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-09-23T06:32:52.305Z
+:card-last-reviewed: 2022-09-09T01:32:52.305Z
 :card-last-score: 5
 :END:
 ** 好的助记词会让人在情感上感觉如何？ #card #SRS
@@ -235,11 +235,11 @@
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
 ** 应该把助记词放在卡片的哪个部分？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-08T07:02:04.833Z
-:card-last-reviewed: 2022-09-04T01:02:04.833Z
+:card-last-interval: 14.24
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-09-23T06:32:56.185Z
+:card-last-reviewed: 2022-09-09T01:32:56.185Z
 :card-last-score: 5
 :END:
 *** 挨着答案(用括号等标注出来)
