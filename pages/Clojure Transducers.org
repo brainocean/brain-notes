@@ -41,11 +41,11 @@
 #+END_SRC
 * What is a transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-10T03:14:30.336Z
-:card-last-reviewed: 2022-06-18T01:14:30.336Z
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-07-25T11:00:18.630Z
+:card-last-reviewed: 2022-09-11T02:00:18.630Z
 :card-last-score: 5
 :END:
 ** A transducer (sometimes referred to as xform or xf) is a transformation from one reducing function to another
@@ -62,12 +62,12 @@
 #+END_SRC
 * Transduce操作的三个重要组成部分都是哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.58
-:card-next-schedule: 2022-09-12T00:12:54.262Z
-:card-last-reviewed: 2022-09-08T00:12:54.263Z
-:card-last-score: 3
+:card-last-interval: 10.72
+:card-repeats: 3
+:card-ease-factor: 2.68
+:card-next-schedule: 2022-09-22T18:24:18.154Z
+:card-last-reviewed: 2022-09-12T01:24:18.154Z
+:card-last-score: 5
 :END:
 ** iteration -- 这个是由reduce API(由reducible thing实现)来负责
 ** accumulation -- 这个是由最初的reducing function来负责
@@ -75,11 +75,11 @@
 ** 这三个部分是互相正交的
 * 一个Transducer的代码结构是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-10T03:13:56.388Z
-:card-last-reviewed: 2022-06-18T01:13:56.388Z
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-07-25T10:58:58.565Z
+:card-last-reviewed: 2022-09-11T01:58:58.565Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -109,11 +109,11 @@
 #+END_SRC
 * into怎样使用transducer？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-10T03:14:18.324Z
-:card-last-reviewed: 2022-06-18T01:14:18.324Z
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-07-25T10:59:23.008Z
+:card-last-reviewed: 2022-09-11T01:59:23.008Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

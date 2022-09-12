@@ -26,31 +26,31 @@
 *** 寻求量化或收集事实的词语开始，比 如“什么”“何时”“谁”“多少”。
 ** 为什么不建议使用“为什么”，“如何”来开始问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:37:35.224Z
-:card-last-reviewed: 2022-09-07T06:37:35.224Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:17:11.032Z
+:card-last-reviewed: 2022-09-12T01:17:11.032Z
 :card-last-score: 5
 :END:
 *** 因为它经常意味着批评并会引发防御心理。
 ** 什么词语可以替换必要的“为什么”问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:33:49.237Z
-:card-last-reviewed: 2022-09-07T06:33:49.237Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:16:59.596Z
+:card-last-reviewed: 2022-09-12T01:16:59.596Z
 :card-last-score: 5
 :END:
 *** 最好表达成“是什么原因......”
 ** 什么词语可以替换必要的“如何”问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:33:22.078Z
-:card-last-reviewed: 2022-09-07T06:33:22.078Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:16:50.298Z
+:card-last-reviewed: 2022-09-12T01:16:50.298Z
 :card-last-score: 5
 :END:
 *** 用“做这件事情的步骤是......”来替代。
@@ -66,46 +66,46 @@
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
 :PROPERTIES:
-:card-last-score: 1
-:card-repeats: 1
-:card-next-schedule: 2022-09-09T16:00:00.000Z
-:card-last-interval: -1
-:card-ease-factor: 2.5
-:card-last-reviewed: 2022-09-09T01:39:19.192Z
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-09-14T21:57:17.998Z
+:card-last-interval: 3.86
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-09-11T01:57:17.998Z
 :END:
 *** 总体原则是应该跟随^^教练对象的兴趣和思路^^而不是教练的来提出问
 题。
 *** 如果教练引导问题的方向，这会削弱教练对象的责任感
 ** 为什么要避免引导性问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-11T02:39:27.511Z
-:card-last-reviewed: 2022-09-07T06:39:27.512Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T01:10:37.926Z
+:card-last-reviewed: 2022-09-12T01:10:37.926Z
+:card-last-score: 5
 :END:
 *** 因为教练对象会迅速意识到这一点，从而导致其对教练的信任度降低。
 *** 教练宁可给教练对象直接建议，也不要试图操控他的前进方向。
 * 积极倾听
 ** 为什么要对教练对象的回答保持关注？ #card #教练
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-11T02:31:53.932Z
-:card-last-reviewed: 2022-09-07T06:31:53.932Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T01:10:05.968Z
+:card-last-reviewed: 2022-09-12T01:10:05.969Z
+:card-last-score: 5
 :END:
 *** 如果这种关注不发生，信任就会消失，教练也就不会知道接下来的好问题是什么。
 ** 除了回答的内容，还要关注哪些方面？ #card #教练
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-11T02:39:12.494Z
-:card-last-reviewed: 2022-09-07T06:39:12.495Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T01:10:16.136Z
+:card-last-reviewed: 2022-09-12T01:10:16.136Z
+:card-last-score: 5
 :END:
 *** 措辞(负面/正面，幼稚/成熟，拘谨/开放)
 *** 语气语调
@@ -137,12 +137,12 @@
 *** {{cloze 澄清}} —— 简要说明重点和核心，并添加有价值的内容，例如体现在表情、姿势、情绪里面的内容：“听上去好像……”，“我感觉你……”
 ** 怎样让教练对象乐于保持沟通？ #card #教练
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.36
-:card-next-schedule: 2022-09-11T20:17:43.319Z
-:card-last-reviewed: 2022-09-08T00:17:43.319Z
-:card-last-score: 3
+:card-next-schedule: 2022-09-12T16:00:00.000Z
+:card-last-reviewed: 2022-09-12T01:23:13.112Z
+:card-last-score: 1
 :END:
 *** {{cloze 不评判、不批评}} —— 保持开放的心态，评判和批评会让人产生防御心理，不愿交流
 *** {{cloze 倾听潜能}} —— 关注对象的能力和优势，而不是过去的表现或将其视为问题。如果没有限制，他会释放怎样的潜能？
@@ -163,12 +163,12 @@
 ** 关于目标设定
 *** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 3.86
+:card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.36
-:card-next-schedule: 2022-09-11T02:27:03.528Z
-:card-last-reviewed: 2022-09-07T06:27:03.528Z
-:card-last-score: 3
+:card-next-schedule: 2022-09-12T16:00:00.000Z
+:card-last-reviewed: 2022-09-12T01:07:47.810Z
+:card-last-score: 1
 :END:
 **** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
 **** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？
@@ -210,11 +210,11 @@
 :END:
 *** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:42:30.078Z
-:card-last-reviewed: 2022-09-07T06:42:30.078Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:17:42.390Z
+:card-last-reviewed: 2022-09-12T01:17:42.390Z
 :card-last-score: 5
 :END:
 *** 什么是跟随教练对象议程？ #card #教练
@@ -254,11 +254,11 @@
 ** 关于你有什么选择
 *** 选择阶段的目的是什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:30:01.980Z
-:card-last-reviewed: 2022-09-07T06:30:01.980Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:15:47.998Z
+:card-last-reviewed: 2022-09-12T01:15:47.998Z
 :card-last-score: 5
 :END:
 **** 不是为了找到“对的”答案，而是要创造出和罗列出 {{cloze 尽可能多的}}可供选择的方案。
@@ -289,23 +289,23 @@
 **** “超级某某会如何做呢?”
 *** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:32:51.754Z
-:card-last-reviewed: 2022-09-07T06:32:51.754Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T01:16:34.456Z
+:card-last-reviewed: 2022-09-12T01:16:34.457Z
+:card-last-score: 3
 :END:
 **** 随机罗列，避免过早的划分优先级
 **** 得到完整列表后，可以根据喜爱程度、成本、收益等，从1~10打分
 ** 你将会做什么
 *** 意愿阶段分哪两步？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:25:51.994Z
-:card-last-reviewed: 2022-09-07T06:25:51.995Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:15:33.836Z
+:card-last-reviewed: 2022-09-12T01:15:33.836Z
 :card-last-score: 5
 :END:
 **** 第一步:责任担当的建立。定义行动计划、时间表和衡量任务的完成机制。

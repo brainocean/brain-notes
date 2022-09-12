@@ -20,11 +20,11 @@
 #+END_SRC
 * 如何创建一个datatype的实例？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-09-12T00:18:05.473Z
-:card-last-reviewed: 2022-09-08T00:18:05.474Z
+:card-last-interval: 12.25
+:card-repeats: 3
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-09-24T07:25:01.635Z
+:card-last-reviewed: 2022-09-12T01:25:01.635Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

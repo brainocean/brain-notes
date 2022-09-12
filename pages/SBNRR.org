@@ -1,22 +1,22 @@
 * SBNRR是用来做什么的？ #card #正念
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-11T09:31:40.381Z
-:card-last-reviewed: 2022-09-07T06:31:40.381Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-15T07:16:09.660Z
+:card-last-reviewed: 2022-09-12T01:16:09.661Z
 :card-last-score: 5
 :END:
 ** Use The ‘SBNRR’ Technique To Handle Stressful Moments Mindfully
 *** 助记词：傻笨难容人
 * SBNRR的步骤是什么？ #card #正念
 :PROPERTIES:
-:card-last-interval: 3.86
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-11T02:29:41.803Z
-:card-last-reviewed: 2022-09-07T06:29:41.803Z
-:card-last-score: 3
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T01:09:42.097Z
+:card-last-reviewed: 2022-09-12T01:09:42.097Z
+:card-last-score: 5
 :END:
 ** Stop
 *** This is the most important step. Instead of becoming wrapped up in the emotion or making an impulse decision, ^^just stop^^. Decide to take a moment.
