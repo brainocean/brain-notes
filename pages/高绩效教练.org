@@ -1,10 +1,10 @@
 * 教练的最重要的工作和关注点 #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:11:28.931Z
-:card-last-reviewed: 2022-09-08T00:11:28.932Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:47:57.521Z
+:card-last-reviewed: 2022-09-13T00:47:57.522Z
 :card-last-score: 5
 :END:
 ** 创建和提高不带评判的觉察
@@ -16,11 +16,11 @@
 ** 开放式问题要求描述性的答案，从而提升觉察
 ** 创建觉察和责任感最有效的问题应以什么词语开始？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:11:47.165Z
-:card-last-reviewed: 2022-09-08T00:11:47.165Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:48:18.233Z
+:card-last-reviewed: 2022-09-13T00:48:18.233Z
 :card-last-score: 5
 :END:
 *** 寻求量化或收集事实的词语开始，比 如“什么”“何时”“谁”“多少”。
@@ -56,22 +56,22 @@
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
+:card-last-interval: 3.28
 :card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-13T04:36:23.334Z
-:card-last-reviewed: 2022-09-09T01:36:23.334Z
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-18T06:01:40.668Z
+:card-last-reviewed: 2022-09-15T00:01:40.669Z
 :card-last-score: 5
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
 :PROPERTIES:
-:card-last-score: 3
-:card-repeats: 2
-:card-next-schedule: 2022-09-14T21:57:17.998Z
-:card-last-interval: 3.86
-:card-ease-factor: 2.36
-:card-last-reviewed: 2022-09-11T01:57:17.998Z
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-09-24T00:06:29.191Z
+:card-last-interval: 9.04
+:card-ease-factor: 2.46
+:card-last-reviewed: 2022-09-15T00:06:29.191Z
 :END:
 *** 总体原则是应该跟随^^教练对象的兴趣和思路^^而不是教练的来提出问
 题。
@@ -112,11 +112,11 @@
 *** 身体语言
 ** 为什么总结谈话的要点很重要？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
+:card-last-interval: 3.28
 :card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:11:01.249Z
-:card-last-reviewed: 2022-09-08T00:11:01.250Z
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-18T06:06:05.185Z
+:card-last-reviewed: 2022-09-15T00:06:05.186Z
 :card-last-score: 5
 :END:
 *** 保证正确的理解
@@ -124,12 +124,12 @@
 *** 让教练对象有第2次机会核实他所说的真实性
 ** 哪些技巧可以表明你正在专心倾听并建立觉察？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:16:36.287Z
-:card-last-reviewed: 2022-09-08T00:16:36.288Z
-:card-last-score: 5
+:card-last-interval: 9.77
+:card-repeats: 3
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-22T18:49:51.073Z
+:card-last-reviewed: 2022-09-13T00:49:51.074Z
+:card-last-score: 3
 :END:
 *** {{cloze 重述/镜像}} —— 重述对方的原话
 *** {{cloze 复述}} —— 不改变内容或意思，用略微不同的词语进行复述
@@ -137,23 +137,23 @@
 *** {{cloze 澄清}} —— 简要说明重点和核心，并添加有价值的内容，例如体现在表情、姿势、情绪里面的内容：“听上去好像……”，“我感觉你……”
 ** 怎样让教练对象乐于保持沟通？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-12T16:00:00.000Z
-:card-last-reviewed: 2022-09-12T01:23:13.112Z
-:card-last-score: 1
+:card-last-interval: 3.2
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T04:55:51.204Z
+:card-last-reviewed: 2022-09-13T00:55:51.205Z
+:card-last-score: 5
 :END:
 *** {{cloze 不评判、不批评}} —— 保持开放的心态，评判和批评会让人产生防御心理，不愿交流
 *** {{cloze 倾听潜能}} —— 关注对象的能力和优势，而不是过去的表现或将其视为问题。如果没有限制，他会释放怎样的潜能？
 * GROW模型
 ** GROW模型包含哪些内容？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:15:39.259Z
-:card-last-reviewed: 2022-09-08T00:15:39.260Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:48:43.826Z
+:card-last-reviewed: 2022-09-13T00:48:43.827Z
 :card-last-score: 5
 :END:
 *** Goal —— 设定教练对话的目标，以及设定教练的短期、长期目标。“你想要什么？”
@@ -163,12 +163,12 @@
 ** 关于目标设定
 *** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-09-12T16:00:00.000Z
-:card-last-reviewed: 2022-09-12T01:07:47.810Z
-:card-last-score: 1
+:card-last-interval: 3.2
+:card-repeats: 2
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-16T04:55:32.596Z
+:card-last-reviewed: 2022-09-13T00:55:32.596Z
+:card-last-score: 5
 :END:
 **** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
 **** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？
@@ -177,20 +177,20 @@
 *** 如何进行目标的设定能够怎样促进责任感的确立？ #card #教练
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-09-13T04:37:51.767Z
-:card-last-interval: 4.14
-:card-ease-factor: 2.6
-:card-last-reviewed: 2022-09-09T01:37:51.768Z
+:card-repeats: 3
+:card-next-schedule: 2022-09-20T00:16:42.751Z
+:card-last-interval: 6
+:card-ease-factor: 2.7
+:card-last-reviewed: 2022-09-14T00:16:42.752Z
 :END:
 **** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 *** 目标的SMART原则包括什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:20:05.663Z
-:card-last-reviewed: 2022-09-08T00:20:05.664Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:53:16.043Z
+:card-last-reviewed: 2022-09-13T00:53:16.043Z
 :card-last-score: 5
 :END:
 **** Specific —— 具体的
@@ -201,11 +201,11 @@
 ** 关于探索现状
 *** 检查现状最重要的一个标准就是 {{cloze 客观性}} #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:12:34.910Z
-:card-last-reviewed: 2022-09-08T00:12:34.911Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:48:21.674Z
+:card-last-reviewed: 2022-09-13T00:48:21.674Z
 :card-last-score: 5
 :END:
 *** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
@@ -219,22 +219,22 @@
 :END:
 *** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:18:20.263Z
-:card-last-reviewed: 2022-09-08T00:18:20.264Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:51:14.795Z
+:card-last-reviewed: 2022-09-13T00:51:14.795Z
 :card-last-score: 5
 :END:
 **** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 *** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
+:card-last-interval: 3.31
 :card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:19:26.554Z
-:card-last-reviewed: 2022-09-08T00:19:26.555Z
-:card-last-score: 5
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-17T07:18:28.123Z
+:card-last-reviewed: 2022-09-14T00:18:28.123Z
+:card-last-score: 3
 :END:
 **** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
 **** 这些提出的问题要求有 {{cloze 高度的专注}}，才能获得高质量的细节输入。
@@ -242,11 +242,11 @@
 **** 给予的答案必须有 {{cloze 足够的品质以及完备性}}，能提供给教练一个 {{cloze 反馈回路}}。
 *** 一个很少失败的有价值的现状问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-13T04:36:29.139Z
-:card-last-reviewed: 2022-09-09T01:36:29.139Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-20T00:15:04.999Z
+:card-last-reviewed: 2022-09-14T00:15:04.999Z
 :card-last-score: 5
 :END:
 **** “到目前为止你已经采取了哪些行动?”
@@ -265,11 +265,11 @@
 **** 在此阶段，选项的 {{cloze 数量}}比每个选项的 {{cloze 质量和可行性}}要重要得多。
 *** 如何遇到负面假设怎么办？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:15:20.696Z
-:card-last-reviewed: 2022-09-08T00:15:20.696Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:48:28.442Z
+:card-last-reviewed: 2022-09-13T00:48:28.442Z
 :card-last-score: 5
 :END:
 **** 提出这样的问题：
@@ -277,11 +277,11 @@
 ***** “如果你知道答案/拥有足够资源?事情会怎样?”
 *** 跳出熟悉视角的拓展创造力的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:19:46.716Z
-:card-last-reviewed: 2022-09-08T00:19:46.717Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:52:47.900Z
+:card-last-reviewed: 2022-09-13T00:52:47.900Z
 :card-last-score: 5
 :END:
 **** “如果你是领导者，你会怎么做?”
@@ -312,22 +312,22 @@
 **** 第二步:跟进与反馈。回顾任务进展，探讨学习反馈。
 *** 建立责任担当意味着什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:17:24.666Z
-:card-last-reviewed: 2022-09-08T00:17:24.666Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:50:57.091Z
+:card-last-reviewed: 2022-09-13T00:50:57.091Z
 :card-last-score: 5
 :END:
 **** 要求^^教练对象^^具体定义他们将要^^做什么^^，^^什么时候^^会做，然后^^信任^^他们会那样做。
 **** 将对话转化为在完成目标日期内的具体的决定和行动步骤
 *** 建立责任担当的关键问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-13T04:37:42.711Z
-:card-last-reviewed: 2022-09-09T01:37:42.711Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-20T00:16:27.755Z
+:card-last-reviewed: 2022-09-14T00:16:27.755Z
 :card-last-score: 5
 :END:
 **** 你将要做什么? —— 明确的方案
@@ -335,11 +335,11 @@
 **** 我们怎么才能知道你做了？ 谁需要知道？
 *** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
+:card-last-interval: 3.28
 :card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:15:59.590Z
-:card-last-reviewed: 2022-09-08T00:15:59.591Z
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-17T06:17:46.560Z
+:card-last-reviewed: 2022-09-14T00:17:46.560Z
 :card-last-score: 5
 :END:
 **** 删除不愿做的事情
@@ -349,11 +349,11 @@
 *** 跟进核对而不是督查
 *** 为了把反馈当作一次学习的机会，可以问的关键问题是哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-09-12T03:17:06.630Z
-:card-last-reviewed: 2022-09-08T00:17:06.630Z
+:card-last-interval: 6
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-19T00:50:32.468Z
+:card-last-reviewed: 2022-09-13T00:50:32.468Z
 :card-last-score: 5
 :END:
 **** 发生了什么?
@@ -419,7 +419,7 @@
 *** 6. 还有呢?(在结束时使用这句话能唤起更多的思考。之后，短暂的沉默 也可以给教练对象更多的空间去思考。)
 *** 7. 下一步你想探索什么?
 *** 8. 我不知道下一步该讨论什么，你想讨论哪个方向的话题?
-*** 9. 真正的问题是什么?(有时用来帮助教练对象摆脱表面故事，直击事情 核心。)
+*** 9. 真正的问题是什么?(有时用来帮助教练对象摆脱表面故事，直击事情核心。)
 *** 10. 1~10分，你的承诺度是多少?做什么能使承诺度达到10分?
 ** 问题包5:GROW模型
 此处包含了每一个阶段的问题，必要时，可以根据需要适度深入探讨。

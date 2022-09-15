@@ -25,11 +25,11 @@
 * 精简销售流程跳过了哪些步骤？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-09-14T04:41:42.011Z
-:card-last-interval: 84.1
-:card-ease-factor: 2.76
-:card-last-reviewed: 2022-06-22T02:41:42.011Z
+:card-repeats: 6
+:card-next-schedule: 2023-09-01T14:01:25.758Z
+:card-last-interval: 351.6
+:card-ease-factor: 2.86
+:card-last-reviewed: 2022-09-15T00:01:25.759Z
 :END:
 ** 跳过协商和签订[[销售订单]]
 ** 跳过创建[[交货单]]
