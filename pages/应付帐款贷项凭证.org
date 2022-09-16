@@ -2,11 +2,11 @@
 * Credit memo和Debit memo是对企业向顾客已经交付的货物的价值进行调整的单据类型
 * 贷项凭证的作用是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 10.96
-:card-repeats: 3
-:card-ease-factor: 2.74
-:card-next-schedule: 2022-09-16T00:04:17.908Z
-:card-last-reviewed: 2022-09-05T01:04:17.908Z
+:card-last-interval: 32.26
+:card-repeats: 4
+:card-ease-factor: 2.84
+:card-next-schedule: 2022-10-18T07:20:31.491Z
+:card-last-reviewed: 2022-09-16T01:20:31.491Z
 :card-last-score: 5
 :END:
 ** 将更新库存数量，并更正会计核算中的价值。
