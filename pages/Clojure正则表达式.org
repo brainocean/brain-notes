@@ -1,10 +1,10 @@
 * Clojure的[[正则表达式]]字面量的语法是什么？ #card #clojure #regex
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-09-16T01:21:44.875Z
-:card-last-reviewed: 2022-09-12T01:21:44.875Z
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-30T13:48:32.521Z
+:card-last-reviewed: 2022-09-17T07:48:32.521Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

@@ -17,11 +17,11 @@
 | (peek coll) | queue的第一个，vector的最后一个元素 |
 * 选择seq的一部分元素有哪些函数？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.4
-:card-repeats: 3
-:card-ease-factor: 2.1
-:card-next-schedule: 2022-09-17T10:27:42.558Z
-:card-last-reviewed: 2022-09-09T01:27:42.558Z
+:card-last-interval: 20.06
+:card-repeats: 4
+:card-ease-factor: 2.2
+:card-next-schedule: 2022-10-08T02:37:28.661Z
+:card-last-reviewed: 2022-09-18T01:37:28.662Z
 :card-last-score: 5
 :END:
 ** | 函数 | 功能 |

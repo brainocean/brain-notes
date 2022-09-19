@@ -1,22 +1,22 @@
 * Macros provide a layer of indirection so that you can automate the common parts of any recurring pattern.
 * Clojure程序的不同时期都有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-18T01:49:04.730Z
-:card-last-reviewed: 2022-06-02T01:49:04.732Z
+:card-last-interval: 618.2
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-05-29T05:29:15.060Z
+:card-last-reviewed: 2022-09-19T01:29:15.061Z
 :card-last-score: 5
 :END:
 ** 读入期、 {{cloze 宏展开期}}、编译期、执行期
 * macroexpand-1, macroexpand和clojure.walk/macroexpand-all的区别是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-18T01:47:31.364Z
-:card-last-reviewed: 2022-06-02T01:47:31.364Z
-:card-last-score: 5
+:card-last-interval: 351.6
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-09-05T15:28:16.042Z
+:card-last-reviewed: 2022-09-19T01:28:16.042Z
+:card-last-score: 3
 :END:
 ** macroexpand-1 只展开一层，展开后可能还有其他宏的调用，对递归调用自己的宏不展开
 ** macroexpand 一直展开，直到没有其他宏调用，对递归调用自己的宏不展开

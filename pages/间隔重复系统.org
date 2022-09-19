@@ -177,11 +177,11 @@
 :END:
 ** 线索不应该产生什么效果？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 43.91
-:card-repeats: 4
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-17T21:34:13.544Z
-:card-last-reviewed: 2022-08-05T00:34:13.544Z
+:card-last-interval: 199.42
+:card-repeats: 5
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-04-05T11:39:52.894Z
+:card-last-reviewed: 2022-09-18T01:39:52.894Z
 :card-last-score: 5
 :END:
 *** 允许你不加回忆的推断出答案
@@ -358,11 +358,11 @@
 *** 韦恩图
 ** 使用“辨析异同”的视角，可以写一张概念卡来突出和相似概念的 {{cloze 关系与区别}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 43.91
-:card-repeats: 4
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-17T21:34:26.872Z
-:card-last-reviewed: 2022-08-05T00:34:26.872Z
+:card-last-interval: 199.42
+:card-repeats: 5
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-04-05T11:40:02.075Z
+:card-last-reviewed: 2022-09-18T01:40:02.075Z
 :card-last-score: 5
 :END:
 ** 举例说明因果关系卡 #card #SRS
@@ -389,11 +389,11 @@
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 17.64
-:card-repeats: 4
-:card-ease-factor: 2.1
-:card-next-schedule: 2022-09-17T16:54:19.210Z
-:card-last-reviewed: 2022-08-31T01:54:19.210Z
+:card-last-interval: 44.14
+:card-repeats: 5
+:card-ease-factor: 2.2
+:card-next-schedule: 2022-11-01T04:38:50.147Z
+:card-last-reviewed: 2022-09-18T01:38:50.147Z
 :card-last-score: 5
 :END:
 * 「开放式清单」和「启明卡」—— 知识的应用

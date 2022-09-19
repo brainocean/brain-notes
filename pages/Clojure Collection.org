@@ -20,11 +20,11 @@
 ** list, vector, range
 * Clojure collection中，都有哪些是符合seq?的 #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-09-16T01:20:55.648Z
-:card-last-reviewed: 2022-09-12T01:20:55.648Z
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-30T13:47:58.486Z
+:card-last-reviewed: 2022-09-17T07:47:58.486Z
 :card-last-score: 5
 :END:
 ** list, range

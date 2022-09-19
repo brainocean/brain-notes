@@ -1,11 +1,11 @@
 * 怎样定义函数的前置后置约束条件？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-09-18T01:47:57.416Z
-:card-last-reviewed: 2022-06-02T01:47:57.417Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-19T16:00:00.000Z
+:card-last-reviewed: 2022-09-19T01:29:02.221Z
+:card-last-score: 1
 :END:
 ** 使用:pre :post两个键值添加函数，注意出现的位置和 [[Clojure元数据]]不一样
 ** #+BEGIN_SRC clojure

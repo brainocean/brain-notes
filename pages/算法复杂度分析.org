@@ -38,11 +38,11 @@
 *** 推而广之，$T_d(n)=O(n^{d+1})$
 ** 几何级数： {{cloze 与末项同阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-17T14:56:07.628Z
-:card-last-reviewed: 2022-09-13T00:56:07.628Z
+:card-last-interval: 19.29
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-07T07:37:47.863Z
+:card-last-reviewed: 2022-09-18T01:37:47.863Z
 :card-last-score: 5
 :END:
 *** $$T_a(n)=a^0 + a^1 + a^2 + \dots + a^n = (a^{n+1}-1)/(a-1) = O(a^n)$$

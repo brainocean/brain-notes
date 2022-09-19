@@ -52,11 +52,11 @@
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
-:card-last-interval: 9.68
-:card-repeats: 3
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-09-16T23:01:02.641Z
-:card-last-reviewed: 2022-09-07T07:01:02.641Z
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-09-22T11:38:30.974Z
+:card-last-reviewed: 2022-09-18T01:38:30.974Z
 :card-last-score: 5
 :END:
 * 那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
@@ -113,12 +113,12 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-18T00:16:48.251Z
-:card-last-reviewed: 2022-09-14T00:16:48.252Z
-:card-last-score: 5
+:card-last-interval: 10.02
+:card-repeats: 3
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-09-28T01:41:32.248Z
+:card-last-reviewed: 2022-09-18T01:41:32.248Z
+:card-last-score: 3
 :END:
 ** 更多奖励和正面情绪
 ** 自我肯定和自我鼓励

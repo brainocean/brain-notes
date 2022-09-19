@@ -1,0 +1,44 @@
+* 在惰性序列产生表达式的最外层使用lazy-seq宏
+* 惰性序列的每一步的状态是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-14T16:00:00.000Z
+:card-last-reviewed: 2022-09-14T00:14:19.934Z
+:card-last-score: 1
+:END:
+** 如果这一步还没有实现realized，则指向一个函数或者[[thunk]]，等待将来需要求值时调用
+** 如果这一步已经实现realized，则指向被缓存的[[thunk]]的返回值，而thunk本身被释放掉了
+* 使用iterate, filter, map, reduce等高阶函数，能够很好的处理无限长 [[Clojure惰性序列]]
+* 惰性、尾递归、增量的快速排序
+** #+BEGIN_SRC clojure
+
+(defn rand-ints [n]
+  (take n (repeatedly #(rand-int n))))
+
+(defn sort-parts [work]
+  (lazy-seq
+   (loop [[part & parts] work]
+     (if-let [[pivot & xs] (seq part)]
+       (let [smaller? #(< % pivot)]
+         (recur (list*
+                 (filter smaller? xs) 
+                 pivot
+                 (remove smaller? xs) ; 如果只取排序结果的少数前面几项，很多remove操作实际上不会发生realized
+                 parts)))
+       (when-let [[x & parts] parts]
+         (cons x (sort-parts parts)))))))
+
+
+(defn qsort [xs]
+  (sort-parts (list xs)))
+
+(take 10 (qsort (rand-ints 10000)))
+;=> (0 0 0 4 4 7 7 8 9 9)
+#+END_SRC
+* 注意[[Clojure REPL]]不是惰性的
+** 可以通过设定print-length来在REPL中打印惰性序列
+** #+BEGIN_SRC clojure
+(set! *print-length* 10)
+#+END_SRC

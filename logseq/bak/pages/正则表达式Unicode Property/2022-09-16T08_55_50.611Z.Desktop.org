@@ -1,0 +1,82 @@
+* 正则表达式Unicode Property的句法如何？ #card #regex
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-23T05:16:42.087Z
+:card-last-reviewed: 2022-06-15T00:16:42.087Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC javascript
+// Non-binary 属性
+\p{Unicode属性值}
+\p{Unicode属性名=Unicode属性值}
+
+// Binary and non-binary 属性
+\p{UnicodeBinary属性名}
+
+// \P 为 \p 取反
+\P{Unicode属性值}
+\P{UnicodeBinary属性名}
+
+#+END_SRC
+* 匹配字母/字符的Unicode Property是什么？ #card #regex
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-23T05:16:52.359Z
+:card-last-reviewed: 2022-06-15T00:16:52.360Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC javascript
+\p{L} or \p{Letter}
+#+END_SRC
+* 匹配标点符号的Unicode Property是什么？ #card #regex
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-23T05:16:59.519Z
+:card-last-reviewed: 2022-06-15T00:16:59.519Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC javascript
+\p{P} or \p{Punctuation}
+#+END_SRC
+* 匹配数字的Unicode Property是什么？ #card #regex
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-23T05:17:05.315Z
+:card-last-reviewed: 2022-06-15T00:17:05.315Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC javascript
+\p{N} or \p{Number}
+#+END_SRC
+* 匹配空白的Unicode Property是什么？ #card #regex
+:PROPERTIES:
+:card-last-interval: 14
+:card-repeats: 3
+:card-ease-factor: 3.5
+:card-next-schedule: 2022-09-14T01:53:27.925Z
+:card-last-reviewed: 2022-08-31T01:53:27.925Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC javascript
+\p{Z} or \p{Seperator}
+#+END_SRC
+* 匹配数字、货币符号等的Unicode Property是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-23T05:15:09.298Z
+:card-last-reviewed: 2022-06-15T00:15:09.299Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC javascript
+\p{S} or \p{Symbol}
+#+END_SRC

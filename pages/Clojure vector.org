@@ -55,11 +55,11 @@
 #+END_SRC
 * 将vector用作栈stack的相关函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-09-16T01:18:10.237Z
-:card-last-reviewed: 2022-09-12T01:18:10.237Z
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-30T13:47:25.436Z
+:card-last-reviewed: 2022-09-17T07:47:25.436Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

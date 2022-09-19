@@ -1,0 +1,68 @@
+* 什么是采购订单？ #card #B1
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-19T03:20:05.533Z
+:card-last-reviewed: 2022-06-27T01:20:05.534Z
+:card-last-score: 5
+:END:
+** 采购订单是指买方向卖方发出的一种商业凭证，其中指定了卖方将向买方提供的物料或服务。
+** 采购订单包括双方针对所列*产品*协定的*数量*和*价格*。
+** 采购订单英文为Purchase Order
+* 添加采购订单如何影响会计核算？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-13T02:14:03.176Z
+:card-last-reviewed: 2022-07-09T02:14:03.177Z
+:card-last-score: 5
+:END:
+** 不影响会计核算，收到货物之后才会影响会计核算
+* 添加采购订单如何影响库存？ #card #B1
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-09-15T01:56:33.431Z
+:card-last-reviewed: 2022-09-11T01:56:33.431Z
+:card-last-score: 5
+:END:
+** 库存会显示“已订购”状态的物料，即增加订购量
+** 由于我们在库存中有 10 台打印机，在订单中有 5 台打印机，因此，尽管实际库存中只有 10 台，但是我们可以向客户承诺 15 台。
+* 采购订单中有那些重要地址？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-13T02:12:37.000Z
+:card-last-reviewed: 2022-07-09T02:12:37.001Z
+:card-last-score: 5
+:END:
+** 运达地址 ship-to address 指示您希望供应商将您所采购的物料运达到的地址，通常为仓库地址或公司地址
+** 收款地址 pay-to address 来自于供应商业务伙伴主数据记录，此地址会在签发付款时打印在支票上
+* 采购订单什么时候关闭？ #card #B1
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-20T03:05:34.852Z
+:card-last-reviewed: 2022-06-28T01:05:34.853Z
+:card-last-score: 5
+:END:
+** 当收到所有货物时，系统将*自动关闭*采购订单。
+** 如果已收到采购订单上的部分数量或尚未收到采购订单上的任何数量，则可以*手动关闭*该订单
+** 对于尚未收到的物料数量，如果您不希望再接收任何其他交货，则应*手工关闭*该采购订单，以便减少未清采购订单数量。
+** 您也可以选择关闭特定行，而不是关闭整个凭证。
+* 什么情况下取消采购订单？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:08:06.168Z
+:card-last-reviewed: 2022-07-12T02:08:06.169Z
+:card-last-score: 5
+:END:
+** 当确定不会收到采购订单上的任何物料时，通常可以选择取消采购订单。
+** 与已关闭的采购订单不同，已取消的采购订单将不会出现在采购分析报表中

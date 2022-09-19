@@ -42,11 +42,11 @@
 ** 用来为查询提供输入参数 input parameter
 * Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 12.8
-:card-repeats: 3
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-09-17T20:05:44.184Z
-:card-last-reviewed: 2022-09-05T01:05:44.184Z
+:card-last-interval: 43.56
+:card-repeats: 4
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-10-31T14:39:41.797Z
+:card-last-reviewed: 2022-09-18T01:39:41.798Z
 :card-last-score: 5
 :END:
 ** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询
@@ -63,11 +63,11 @@
 * Datalog查询的输入参数如何匹配一个tuple? #card #Datalog
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-09-17T21:34:36.177Z
-:card-last-interval: 43.91
-:card-ease-factor: 3
-:card-last-reviewed: 2022-08-05T00:34:36.177Z
+:card-repeats: 5
+:card-next-schedule: 2023-04-05T11:40:21.245Z
+:card-last-interval: 199.42
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-09-18T01:40:21.245Z
 :END:
 ** #+BEGIN_SRC clojure
 [:find ?title
