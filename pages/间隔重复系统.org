@@ -150,11 +150,11 @@
 *** 因为它只关心一个细节
 ** 对于事实性卡片，经常可以添加 {{cloze 为什么它是真的}}的卡片，可以强化和增加它的内涵 #card #SRS
 :PROPERTIES:
-:card-last-interval: 12.24
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-09-19T11:45:16.054Z
-:card-last-reviewed: 2022-09-07T06:45:16.055Z
+:card-last-interval: 41.54
+:card-repeats: 4
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-10-31T12:54:35.524Z
+:card-last-reviewed: 2022-09-20T00:54:35.525Z
 :card-last-score: 5
 :END:
 * 「清单」类知识
@@ -521,11 +521,11 @@
 *** 有意义的事情激发你回头来写卡片，例如新的连接、一个问题、一个缺失
 * 我相信最重要的、可以「优化」SR 练习的方面，莫过于 {{cloze 复习环节本身}} 与 {{cloze 复习内容}} 之间产生的 {{cloze 情绪联系}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 12.24
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-09-19T11:43:04.444Z
-:card-last-reviewed: 2022-09-07T06:43:04.444Z
+:card-last-interval: 41.54
+:card-repeats: 4
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-10-31T12:54:30.269Z
+:card-last-reviewed: 2022-09-20T00:54:30.269Z
 :card-last-score: 5
 :END:
 * 如果发现自己在复习已经不再关心的内容，应该怎么做？ #card #SRS

@@ -8,11 +8,11 @@
 #+END_SRC
 * nREPL的特点？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-19T03:22:37.547Z
-:card-last-reviewed: 2022-06-27T01:22:37.548Z
+:card-last-interval: 351.6
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-09-06T14:54:24.822Z
+:card-last-reviewed: 2022-09-20T00:54:24.822Z
 :card-last-score: 5
 :END:
 ** nREPL使用client/server结构，通过网络传输指令
