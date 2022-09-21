@@ -1,0 +1,48 @@
+* 标准Clojure REPL的实现
+** #+BEGIN_SRC clojure
+;; *in* ==> clojure.main/repl ==> *out*
+#+END_SRC
+* Socket REPL的实现
+** #+BEGIN_SRC clojure
+;; socket ==> clojure.core.server/repl ==> socket
+#+END_SRC
+* nREPL的特点？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-19T03:22:37.547Z
+:card-last-reviewed: 2022-06-27T01:22:37.548Z
+:card-last-score: 5
+:END:
+** nREPL使用client/server结构，通过网络传输指令
+** 指令的格式大致为
+*** #+BEGIN_SRC clojure
+;; client --> server
+{:id "10"
+ :op "eval"
+ :code "(+ 1 1)"
+ :ns "user"}
+
+;; server --> client
+{:id "10"
+ :value "2"}
+#+END_SRC
+** nREPL支持middleware，增加自定义的op类型
+** nREPL的server支持session，来同时服务多个client
+** nREPL的指令通过 [[https://en.wikipedia.org/wiki/Bencode][BEncode]]协议来传输
+* ClojureScript的REPL
+** cljs.jar的入口是cljs.main，通过执行它能够编译ClojureScript，然后发给JavaScript Runtime(Node or Browser)执行
+** cljs.jar同时也提供了cljs.repl
+#+BEGIN_SRC clojure
+ (require '[cljs.repl :as repl])
+(require 'cljs.repl.node)
+(cljs.repl/repl (cljs.repl.node/repl-env))
+
+(require 'cljs.repl.browser)
+(cljs.repl/repl (cljs.repl.browser/repl-env))
+#+END_SRC
+** 通过执行cljs.main的命令行参数可以进行编译和REPL
+#+BEGIN_SRC shell
+clj -M --main cljs.main --compile hello-world.core --repl
+#+END_SRC

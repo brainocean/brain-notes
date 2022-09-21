@@ -2,12 +2,12 @@
 
 * 如何使用core.async中的channel？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-20T03:04:43.270Z
-:card-last-reviewed: 2022-06-28T01:04:43.271Z
-:card-last-score: 5
+:card-last-interval: 188.48
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-03-28T11:21:18.765Z
+:card-last-reviewed: 2022-09-21T00:21:18.765Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (def echo-chan (chan))             ; 创建一个channel

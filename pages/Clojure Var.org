@@ -14,12 +14,12 @@
 ** 符号就是一个名字，在eval时，会在namespace里面查找(称为resolve)符号，找到对应的变量，然后把变量绑定的值作为符号的求值结果
 * (var symbol)的意义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 108
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-20T04:00:46.164Z
-:card-last-reviewed: 2022-06-04T04:00:46.164Z
-:card-last-score: 5
+:card-last-interval: 376
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-10-02T00:22:24.312Z
+:card-last-reviewed: 2022-09-21T00:22:24.312Z
+:card-last-score: 3
 :END:
 ** 返回symbol绑定的变量本身，也可以用#'symbol来表达
 * 如何做Clojure变量的线程本地绑定？ #card #clojure
