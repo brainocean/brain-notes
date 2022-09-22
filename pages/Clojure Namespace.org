@@ -14,12 +14,12 @@
 | (ns myns) | 宏 | 创建并切换到一个namespace |  java.lang.*  clojure.core/* | clojure 源代码中 |
 * 如何添加namespace中的映射？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-21T16:00:00.000Z
-:card-last-reviewed: 2022-09-21T00:22:55.790Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-09-26T01:01:12.881Z
+:card-last-reviewed: 2022-09-22T01:01:12.882Z
+:card-last-score: 5
 :END:
 ** 使用intern函数：在namespace中查找符号到变量的映射，如果存在就重用那个变量，否则创建一个映射
 ** #+BEGIN_SRC clojure

@@ -63,11 +63,11 @@
 * 大O记号
 ** 大O记号的目的 #card #DSA
 :PROPERTIES:
-:card-last-interval: 12.84
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-21T21:27:15.200Z
-:card-last-reviewed: 2022-09-09T01:27:15.200Z
+:card-last-interval: 66.64
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-11-27T16:01:20.759Z
+:card-last-reviewed: 2022-09-22T01:01:20.759Z
 :card-last-score: 5
 :END:
 *** 为了把握时间随问题规模增长的大趋势，而不是细节的起伏
