@@ -1,0 +1,79 @@
+* 微习惯策略的基本做法就是：选择你想要做到的行为，把它拆解成微习惯并融入生活，然后促进它的成长。如果你想做出持久的改变，那么最好从小改变着手。
+* “毛伊习惯”（Maui Habit） #card #习惯 #行为设计
+:PROPERTIES:
+:card-last-interval: 4.87
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-25T20:18:11.505Z
+:card-last-reviewed: 2022-09-21T00:18:11.505Z
+:card-last-score: 5
+:END:
+** 请你每天早晨一起床就立刻说出这句话：“今天又是美好的一天！”并在说出这句话的同时，尽量去感受乐观和积极的心态。
+* 福格行为模型的ABC三步骤 #card #习惯 #行为设计
+:PROPERTIES:
+:card-last-interval: 4.87
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-25T20:19:09.424Z
+:card-last-reviewed: 2022-09-21T00:19:09.425Z
+:card-last-score: 5
+:END:
+** 1．Anchor 锚点 —— 锚点时刻提醒你去执行新的微行为的关键时点。例如，某个日常习惯（刷牙）或某件必然发生的事情（电话铃声响起）。
+** 2．Behavior 行为 —— 新的微行为锚点出现后立刻去执行的微行为。这是新习惯的简化版，比如用牙线清洁一颗牙齿或做两个俯卧撑。
+** 3．Celebration 庆祝 —— 即时庆祝完成新的微行为后要立刻庆祝。任何能带来积极情绪的事情都可以，比如说出“我很棒”之类的话。
+* 福格行为模型三要素 B=MAP #card #习惯 #行为设计
+:PROPERTIES:
+:card-last-interval: 4.87
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-25T20:17:55.319Z
+:card-last-reviewed: 2022-09-21T00:17:55.320Z
+:card-last-score: 5
+:END:
+** ^^B^^ehavior = ^^M^^otivation ^^A^^bility ^^P^^rompt
+* 解决行为问题的顺序是什么？ #card #习惯 #行为设计
+:PROPERTIES:
+:card-last-interval: 4.87
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-25T20:19:29.202Z
+:card-last-reviewed: 2022-09-21T00:19:29.202Z
+:card-last-score: 5
+:END:
+** 1．检查有没有行为提示。
+** 2．检查有没有行为能力。
+** 3．检查有没有行为动机。
+* 动机的问题是什么？ #card #习惯 #行为设计
+:PROPERTIES:
+:card-last-interval: 4.23
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-09-26T05:59:36.008Z
+:card-last-reviewed: 2022-09-22T00:59:36.009Z
+:card-last-score: 3
+:END:
+** 不够稳定可靠——复杂、易失、易变、模糊难以量化
+** 无法单独起作用
+* 行为设计的步骤？ #card #习惯 #行为设计
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-22T16:00:00.000Z
+:card-last-reviewed: 2022-09-22T00:59:20.873Z
+:card-last-score: 1
+:END:
+** 明确愿望或成果
+** 列出行为集群，探索行为选项
+** 为自己匹配具体可执行的行为(黄金行为)
+** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
+* 行为的焦点地图的两个维度是什么？
+** 对愿望的影响程度的高低
+** 做到这个行为的难易程度
+* 黄金行为的标准
+** 这个行为能让你实现愿望（影响）
+** 你想做出这个行为（动机）
+** 你可以做到这个行为（能力）
+* 行为设计强调了这样一个事实：持久改变的关键，在于为自己匹配真心想做的行为。
+* 福格原则1，即帮助人们做他们已经想做的事。
+* 重复，让执行更容易

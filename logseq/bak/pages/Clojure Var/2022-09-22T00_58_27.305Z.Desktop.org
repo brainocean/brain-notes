@@ -1,0 +1,63 @@
+* Clojure变量variable是内存中的一个storage location，可以被绑定到一个值value
+:PROPERTIES:
+:title: Clojure Var
+:END:
+* Clojure变量和[[Clojure符号]]的关系是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 36.11
+:card-repeats: 4
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-10-18T03:23:33.733Z
+:card-last-reviewed: 2022-09-12T01:23:33.733Z
+:card-last-score: 5
+:END:
+** 符号就是一个名字，在eval时，会在namespace里面查找(称为resolve)符号，找到对应的变量，然后把变量绑定的值作为符号的求值结果
+* (var symbol)的意义是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-20T04:00:46.164Z
+:card-last-reviewed: 2022-06-04T04:00:46.164Z
+:card-last-score: 5
+:END:
+** 返回symbol绑定的变量本身，也可以用#'symbol来表达
+* 如何做Clojure变量的线程本地绑定？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 12.08
+:card-repeats: 3
+:card-ease-factor: 2.92
+:card-next-schedule: 2022-09-29T08:49:21.309Z
+:card-last-reviewed: 2022-09-17T07:49:21.309Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def ^:dynamic x 1)
+(def ^:dynamic y 1)
+(+ x y)
+;=> 2
+
+(binding [x 2 y 3]
+  (+ x y))
+;=> 5
+
+(+ x y)
+;=> 2
+#+END_SRC
+** 作为动态绑定的Var通常被称作特殊变量，命名规范是以 *var-name* ，可以被用来“远程”改变函数的行为
+* var可能有的四种状态都是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 188.48
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-03-01T11:36:34.636Z
+:card-last-reviewed: 2022-08-25T00:36:34.637Z
+:card-last-score: 3
+:END:
+** |初始化| (resolve 'x) | (bound? #' x) | (thread-bound? #' x) |
+| (def x) | 为#'user/x | false | false |
+| (def x 5) | 为#'user/x | true | false |
+| (binding [x 7] ...) | 为#'user/x | true | true |
+| (with-local-vars [x 9] ...) | nil | true (bound? x) | true (thread-bound? x) |
+**
+**

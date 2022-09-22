@@ -1,0 +1,66 @@
+* 什么是采购收货单？ #card #B1
+:PROPERTIES:
+:card-last-interval: 140.58
+:card-repeats: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-11-24T13:53:57.057Z
+:card-last-reviewed: 2022-07-07T00:53:57.057Z
+:card-last-score: 5
+:END:
+** 当您收到来自供应商的货物或服务后，将创建采购收货单。
+** 采购收货单中的数据和物料附带的供应商装运凭证（装箱单 packing slips）应保持一致，这是因为供应商凭证中的详细信息具有法律约束力。
+** 公司收到货物后，会在对发票进行付款前将[[采购订单]]与装箱单(packing slips)和供应商发票进行比对
+** 英文是Goods Receipt POs
+* 采购收货单如何影响会计核算？ #card #B1
+:PROPERTIES:
+:card-last-interval: 97.56
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-06T14:41:00.504Z
+:card-last-reviewed: 2022-08-31T01:41:00.505Z
+:card-last-score: 5
+:END:
+** 在使用永续盘存时，创建采购收货单会触发会计交易
+* 采购收货单如何影响库存？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-13T02:14:44.563Z
+:card-last-reviewed: 2022-07-09T02:14:44.564Z
+:card-last-score: 5
+:END:
+** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量
+* 如果供应商交付物料数量过少应该怎么办？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:08:42.108Z
+:card-last-reviewed: 2022-07-12T02:08:42.108Z
+:card-last-score: 5
+:END:
+** 只为交付那部分物料创建采购收货单
+** 将来继续收到其他物料，创建相应的采购收货单
+* 如果供应商交付物料数量过多应该怎么办？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:07:54.531Z
+:card-last-reviewed: 2022-07-12T02:07:54.531Z
+:card-last-score: 5
+:END:
+** 在采购收货单中反映实际交货数量
+* 如果供应商交付了替代物料应该怎么办？ #card #B1
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-20T03:05:10.402Z
+:card-last-reviewed: 2022-06-28T01:05:10.403Z
+:card-last-score: 5
+:END:
+** 供应商可能会发送与最初订购物料不同的物料，以替代缺货的物料
+** 发生这种情况时，可以将这一附加物料添加到采购收货单中
+** 如果不再交付最初订购的物料，应关闭原始采购订单，以便这种未交货的物料不会继续作为未清物料显示在采购报表上

@@ -1,0 +1,40 @@
+* 采购申请可以用作采购流程中的初始步骤。  在内部使用采购申请以指示需要某物料。
+* 采购申请是什么？  #card #B1
+:PROPERTIES:
+:card-last-interval: 10.5
+:card-repeats: 3
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-09-19T13:27:32.624Z
+:card-last-reviewed: 2022-09-09T01:27:32.625Z
+:card-last-score: 5
+:END:
+** “采购申请”是由用户生成的凭证，用来通知采购部门所需的
+*** 物料或服务
+*** 指定所申请物料的数量和时限
+*** 它可能也包含用以执行采购的权限信息
+** 英文是Purchase Request
+* 由于采购申请提供了创建采购订单所需的大部分信息，因此使用采购申请的优点在于？ #card #B1
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-20T03:04:09.222Z
+:card-last-reviewed: 2022-06-28T01:04:09.222Z
+:card-last-score: 5
+:END:
+** 节省采购部门的时间
+** 减少了退回物料的相关费用
+** 在采购之前跟踪费用
+** 帮助部门维护预算
+** 有助于制定预算计划或成本降低
+* 采购申请的后续步骤是什么？ #card #B1
+:PROPERTIES:
+:card-last-interval: 143.75
+:card-repeats: 5
+:card-ease-factor: 3.3
+:card-next-schedule: 2023-02-04T18:18:43.183Z
+:card-last-reviewed: 2022-09-14T00:18:43.183Z
+:card-last-score: 5
+:END:
+** 为了获得最佳价格，可以将采购申请复制到[[采购报价]]中，
+** 或者在知道供应商的情况下，可以将采购申请直接复制到 [[file:./采购订单.org][采购订单]] 中。

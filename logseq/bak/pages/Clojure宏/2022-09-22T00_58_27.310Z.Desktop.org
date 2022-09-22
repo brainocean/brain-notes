@@ -1,0 +1,65 @@
+* Macros provide a layer of indirection so that you can automate the common parts of any recurring pattern.
+* Clojure程序的不同时期都有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-18T01:49:04.730Z
+:card-last-reviewed: 2022-06-02T01:49:04.732Z
+:card-last-score: 5
+:END:
+** 读入期、 {{cloze 宏展开期}}、编译期、执行期
+* macroexpand-1, macroexpand和clojure.walk/macroexpand-all的区别是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 108
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-18T01:47:31.364Z
+:card-last-reviewed: 2022-06-02T01:47:31.364Z
+:card-last-score: 5
+:END:
+** macroexpand-1 只展开一层，展开后可能还有其他宏的调用，对递归调用自己的宏不展开
+** macroexpand 一直展开，直到没有其他宏调用，对递归调用自己的宏不展开
+** clojure.walk/macroexpand-all 一直展开，直到没有其他宏调用，对递归调用自己的宏也一直展开
+* Clojure宏体中常见的~'foo是什么意思？
+** 在宏的syntax-quote中，Clojure会尝试resolve一个symbol，添加它的namespace，但是当我们需要一个local symbol的时候，~'会避免这种解析
+** #+BEGIN_SRC clojure
+`(println sym)
+;=> (clojure.core/println user/sym)
+
+`(println ~'~sym)
+;=> (clojure.core/println sym)
+#+END_SRC
+* 宏的一个重要用途是管理资源，进行自动的资源关闭，例如with-open
+** #+BEGIN_SRC clojure
+(clojure.walk/macroexpand-all
+ '(with-open [page stream]
+    (println (.readLine page))))
+
+;; => (let*
+;;     [page stream]
+;;     (try (do (println (. page readLine))) (finally (. page clojure.core/close))))
+
+#+END_SRC
+* Many macros follow the pattern of chain, aka Clojure ..
+** 1. Begin the macro body with a syntax quote (`) to treat the entire thing as a template.
+2. Insert individual arguments with an unquote (~).
+3. Splice in more arguments with splicing unquote (~@).
+** #+BEGIN_SRC clojure
+(defmacro chain
+	([x form] `(. ~x ~form))
+	([x form & more] `(chain (. ~x ~form) ~@more)))
+
+(macroexpand '(chain arm getHand getFinger))
+;-> (. (. arm getHand) getFinger)
+#+END_SRC
+* gensym的目的是什么？
+** 在syntax-quote中，所有的symbol都会resolve成fully qualified symbol，这样有助于避免 [[变量捕获captured variable]] ，但是在let等需要局部符号绑定的form中，需要gensym来生成局部符号
+** #+BEGIN_SRC clojure
+(gensym "ab")
+;=> ab253
+
+;auto gensym
+`foo#              
+;=> foo__255__auto__
+#+END_SRC

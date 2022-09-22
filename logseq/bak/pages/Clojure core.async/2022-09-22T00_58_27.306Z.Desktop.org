@@ -1,0 +1,66 @@
+#+title: Clojure core.async
+
+* 如何使用core.async中的channel？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-09-20T03:04:43.270Z
+:card-last-reviewed: 2022-06-28T01:04:43.271Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def echo-chan (chan))             ; 创建一个channel
+(go (println (<! echo-chan)))      ; go block在线程池中的某个线程中运行，读取echo-chan中的消息
+(>!! echo-chan "ketchup")          ; REPL的线程向echo-chan中写入一个消息
+; => true
+; => ketchup
+#+END_SRC
+* core.async里面的put/take的parking, blocking的变体的区别是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-11T00:55:29.569Z
+:card-last-reviewed: 2022-07-07T00:55:29.569Z
+:card-last-score: 5
+:END:
+** blocking(两个感叹号)会停止当前线程的运行，等待某个其他任务完成;
+parking(一个感叹号)不会停止当前线程运行，而是允许调度另一个process在当前线程上继续运行
+** #+BEGIN_SRC clojure
+; put  >! 可以用在go block内部，>!!只能用在go block外部
+; take <! 可以用在go block内部，<!!只能用在go block外部
+#+END_SRC
+* core.async/thread的用途是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 14.08
+:card-repeats: 3
+:card-ease-factor: 3.4
+:card-next-schedule: 2022-10-01T08:47:40.003Z
+:card-last-reviewed: 2022-09-17T07:47:40.003Z
+:card-last-score: 5
+:END:
+** thread会创建一个channel，当thread的处理结束的时候，处理的结果值会被put到thread创建的channel中
+** thread通常用来处理长时间的IO操作，这样可以不长时间占用go block使用的线程池从而阻塞其他处理
+** #+BEGIN_SRC clojure
+(let [t (thread "chili")]
+  (<!! t))
+; => "chili"
+
+(thread 
+ (println 
+  (<!! echo-chan)))       ; 此时使用blocking take因为我们不在go block，而是在一个thread中 
+(>!! echo-chan "mustard")
+; => true
+; => mustard
+#+END_SRC
+* core.async/alt!的主要作用是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-11T00:55:14.669Z
+:card-last-reviewed: 2022-07-07T00:55:14.669Z
+:card-last-score: 5
+:END:
+** alt!和alt!!在一组channel上面take，返回第一个提供消息的channel和它提供的值[value channel]
