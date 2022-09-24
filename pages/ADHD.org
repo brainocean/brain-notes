@@ -52,12 +52,12 @@
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.52
-:card-next-schedule: 2022-09-22T11:38:30.974Z
-:card-last-reviewed: 2022-09-18T01:38:30.974Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-24T16:00:00.000Z
+:card-last-reviewed: 2022-09-24T07:43:48.563Z
+:card-last-score: 1
 :END:
 * 那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
 * 将ADHD和糖尿病做个类比：我们不是要(能)根除糖尿病，而是要管理血糖指标，避免并发症
@@ -67,12 +67,12 @@
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
 * 五个执行功能的障碍 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 8.16
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.04
-:card-next-schedule: 2022-09-24T04:17:58.778Z
-:card-last-reviewed: 2022-09-16T01:17:58.778Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-24T16:00:00.000Z
+:card-last-reviewed: 2022-09-24T08:06:29.898Z
+:card-last-score: 1
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
 2. 使用视觉图像的能力 use visual imagery, non verbal working memory; 前瞻、后瞻、主观时间感 hindsight, foresight, sense of time
@@ -84,12 +84,12 @@
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
 * 如何弥补执行功能缺陷？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 11.78
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.66
-:card-next-schedule: 2022-09-23T19:24:53.630Z
-:card-last-reviewed: 2022-09-12T01:24:53.631Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-24T16:00:00.000Z
+:card-last-reviewed: 2022-09-24T08:03:52.342Z
+:card-last-score: 1
 :END:
 ** 外化(externalize)重要的信息
 *** 弥补工作记忆问题

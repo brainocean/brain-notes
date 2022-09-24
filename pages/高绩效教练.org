@@ -67,11 +67,11 @@
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-09-24T00:06:29.191Z
-:card-last-interval: 9.04
-:card-ease-factor: 2.46
-:card-last-reviewed: 2022-09-15T00:06:29.191Z
+:card-repeats: 4
+:card-next-schedule: 2022-10-21T07:04:55.235Z
+:card-last-interval: 26.97
+:card-ease-factor: 2.56
+:card-last-reviewed: 2022-09-24T08:04:55.236Z
 :END:
 *** 总体原则是应该跟随^^教练对象的兴趣和思路^^而不是教练的来提出问
 题。
@@ -124,12 +124,12 @@
 *** 让教练对象有第2次机会核实他所说的真实性
 ** 哪些技巧可以表明你正在专心倾听并建立觉察？ #card #教练
 :PROPERTIES:
-:card-last-interval: 9.77
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.46
-:card-next-schedule: 2022-09-22T18:49:51.073Z
-:card-last-reviewed: 2022-09-13T00:49:51.074Z
-:card-last-score: 3
+:card-next-schedule: 2022-09-24T16:00:00.000Z
+:card-last-reviewed: 2022-09-24T07:59:22.187Z
+:card-last-score: 1
 :END:
 *** {{cloze 重述/镜像}} —— 重述对方的原话
 *** {{cloze 复述}} —— 不改变内容或意思，用略微不同的词语进行复述

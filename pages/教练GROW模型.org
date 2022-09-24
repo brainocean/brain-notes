@@ -164,12 +164,12 @@
 *** 第二步:跟进与反馈。回顾任务进展，探讨学习反馈。
 ** 建立责任担当意味着什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-09-24T00:55:43.060Z
-:card-last-reviewed: 2022-09-20T00:55:43.061Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-24T16:00:00.000Z
+:card-last-reviewed: 2022-09-24T08:05:14.436Z
+:card-last-score: 1
 :END:
 *** 要求^^教练对象^^具体定义他们将要^^做什么^^，^^什么时候^^会做，然后^^信任^^他们会那样做。
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤

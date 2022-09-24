@@ -4,9 +4,6 @@
  {:block/name "adhd",
   :block/created-at 1660288316944,
   :block/updated-at 1663465292262}
- {:block/name "aug 31st, 2022",
-  :block/created-at 1661909887751,
-  :block/updated-at 1661909887751}
  {:block/name "b",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -230,9 +227,6 @@
   "names are the most common means of creating indirection",
   :block/created-at 1650806477886,
   :block/updated-at 1650809529511}
- {:block/name "noi",
-  :block/created-at 1663469620706,
-  :block/updated-at 1663469620706}
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -242,54 +236,9 @@
  {:block/name "sbnrr",
   :block/created-at 1662442949110,
   :block/updated-at 1662945369681}
- {:block/name "sep 10th, 2022",
-  :block/created-at 1662746230917,
-  :block/updated-at 1662746230917}
- {:block/name "sep 11th, 2022",
-  :block/created-at 1662825914474,
-  :block/updated-at 1662825914474}
- {:block/name "sep 12th, 2022",
-  :block/created-at 1662912001462,
-  :block/updated-at 1662912001462}
- {:block/name "sep 13th, 2022",
-  :block/created-at 1662999073731,
-  :block/updated-at 1662999073731}
- {:block/name "sep 14th, 2022",
-  :block/created-at 1663085978004,
-  :block/updated-at 1663085978004}
- {:block/name "sep 16th, 2022",
-  :block/created-at 1663318550559,
-  :block/updated-at 1663318550559}
- {:block/name "sep 17th, 2022",
-  :block/created-at 1663344001190,
-  :block/updated-at 1663344001190}
- {:block/name "sep 18th, 2022",
-  :block/created-at 1663465028378,
-  :block/updated-at 1663465028378}
- {:block/name "sep 1st, 2022",
-  :block/created-at 1661961601624,
-  :block/updated-at 1661961601624}
- {:block/name "sep 2nd, 2022",
-  :block/created-at 1662049297792,
-  :block/updated-at 1662049297792}
- {:block/name "sep 3rd, 2022",
-  :block/created-at 1662135883562,
-  :block/updated-at 1662135883562}
- {:block/name "sep 4th, 2022",
-  :block/created-at 1662221115486,
-  :block/updated-at 1662221115486}
- {:block/name "sep 5th, 2022",
-  :block/created-at 1662307641535,
-  :block/updated-at 1662307641535}
- {:block/name "sep 7th, 2022",
-  :block/created-at 1662481575724,
-  :block/updated-at 1662481575724}
- {:block/name "sep 8th, 2022",
-  :block/created-at 1662580185117,
-  :block/updated-at 1662580185117}
- {:block/name "sep 9th, 2022",
-  :block/created-at 1662652863875,
-  :block/updated-at 1662652863875}
+ {:block/name "sep 22nd, 2022",
+  :block/created-at 1663840952144,
+  :block/updated-at 1663840952144}
  {:block/name "sicp",
   :block/created-at 1654651732077,
   :block/updated-at 1654739481111}
@@ -458,6 +407,9 @@
  {:block/name "应收账款贷项凭证",
   :block/created-at 1652421368968,
   :block/updated-at 1652427141934}
+ {:block/name "建立题库",
+  :block/created-at 1663840955210,
+  :block/updated-at 1663840955210}
  {:block/name "心理学",
   :block/created-at 1649471811664,
   :block/updated-at 1649471811664}
@@ -497,12 +449,15 @@
  {:block/name "教练",
   :block/created-at 1662444680215,
   :block/updated-at 1662444680215}
+ {:block/name "教练grow模型",
+  :block/created-at 1663840956152,
+  :block/updated-at 1663840956152}
+ {:block/name "教练问题工具包",
+  :block/created-at 1663840955599,
+  :block/updated-at 1663840955599}
  {:block/name "数学学习",
   :block/created-at 1662341698348,
   :block/updated-at 1663115953971}
- {:block/name "数据结构-图",
-  :block/created-at 1663469615777,
-  :block/updated-at 1663469615777}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
   :block/updated-at 1662861629399}
@@ -542,6 +497,9 @@
  {:block/name "点号用来匹配任意一个字符",
   :block/created-at 1648611187281,
   :block/updated-at 1648611187281}
+ {:block/name "焦点地图",
+  :block/created-at 1663840955488,
+  :block/updated-at 1663840955488}
  {:block/name "物料",
   :block/created-at 1652434671007,
   :block/updated-at 1652435360492}
@@ -572,6 +530,9 @@
  {:block/name "神经可塑性",
   :block/created-at 1649488676073,
   :block/updated-at 1649488676073}
+ {:block/name "福格行为模型",
+  :block/created-at 1663840956153,
+  :block/updated-at 1663840956153}
  {:block/name "科目表",
   :block/created-at 1652768901790,
   :block/updated-at 1658107779814}
@@ -584,6 +545,9 @@
  {:block/name "自动过帐",
   :block/created-at 1652775585542,
   :block/updated-at 1652776436079}
+ {:block/name "行为设计",
+  :block/created-at 1663840956150,
+  :block/updated-at 1663840956150}
  {:block/name "行首和行末",
   :block/created-at 1648611187202,
   :block/updated-at 1662253238164}

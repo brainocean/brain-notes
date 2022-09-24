@@ -56,12 +56,12 @@
 ** 无法单独起作用
 * 行为设计的步骤？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-09-22T16:00:00.000Z
-:card-last-reviewed: 2022-09-22T00:59:20.873Z
-:card-last-score: 1
+:card-last-interval: 4.87
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-29T03:50:12.860Z
+:card-last-reviewed: 2022-09-24T07:50:12.860Z
+:card-last-score: 5
 :END:
 ** 明确愿望或成果
 ** 列出行为集群，探索行为选项
