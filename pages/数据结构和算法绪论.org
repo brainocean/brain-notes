@@ -101,12 +101,12 @@
 * [[../assets/big-o-omega-theta.png]]
 * 算法复杂度的刻度 #card #DSA
 :PROPERTIES:
-:card-last-interval: 23.43
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-09-25T10:38:07.550Z
-:card-last-reviewed: 2022-09-02T00:38:07.550Z
-:card-last-score: 3
+:card-last-interval: 65.88
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-11-30T22:24:10.722Z
+:card-last-reviewed: 2022-09-26T01:24:10.722Z
+:card-last-score: 5
 :END:
 ** 最高效算法的复杂度：$O(1) 和 O(\log{n})$
 ** 有效算法的复杂度：$多项式复杂度O(n^c)，特别的线性复杂度O(n)$

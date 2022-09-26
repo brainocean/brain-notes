@@ -124,12 +124,12 @@
 *** 让教练对象有第2次机会核实他所说的真实性
 ** 哪些技巧可以表明你正在专心倾听并建立觉察？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-09-24T16:00:00.000Z
-:card-last-reviewed: 2022-09-24T07:59:22.187Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-30T01:23:09.810Z
+:card-last-reviewed: 2022-09-26T01:23:09.810Z
+:card-last-score: 5
 :END:
 *** {{cloze 重述/镜像}} —— 重述对方的原话
 *** {{cloze 复述}} —— 不改变内容或意思，用略微不同的词语进行复述

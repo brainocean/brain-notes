@@ -28,11 +28,11 @@
 ** 如何进行目标的设定能够怎样促进责任感的确立？ #card #教练
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-09-25T00:29:14.683Z
-:card-last-interval: 4
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-09-21T00:29:14.683Z
+:card-repeats: 3
+:card-next-schedule: 2022-10-08T06:23:42.544Z
+:card-last-interval: 12.24
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-09-26T01:23:42.544Z
 :END:
 *** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 ** 目标的SMART原则包括什么？ #card #教练
@@ -164,12 +164,12 @@
 *** 第二步:跟进与反馈。回顾任务进展，探讨学习反馈。
 ** 建立责任担当意味着什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-24T16:00:00.000Z
-:card-last-reviewed: 2022-09-24T08:05:14.436Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-30T01:21:49.641Z
+:card-last-reviewed: 2022-09-26T01:21:49.641Z
+:card-last-score: 3
 :END:
 *** 要求^^教练对象^^具体定义他们将要^^做什么^^，^^什么时候^^会做，然后^^信任^^他们会那样做。
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤

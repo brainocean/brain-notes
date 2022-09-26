@@ -79,12 +79,12 @@
 :END:
 ** 如果卡片产生不一致的答案，未被提取到的记忆将会被 {{cloze 抑制}} #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-24T16:00:00.000Z
-:card-last-reviewed: 2022-09-24T08:03:06.280Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-09-30T01:20:51.529Z
+:card-last-reviewed: 2022-09-26T01:20:51.530Z
+:card-last-score: 5
 :END:
 ** SRS期望你在隔上多久之后，依然能在重复时正确回答卡片？ #card #SRS
 :PROPERTIES:
@@ -316,12 +316,12 @@
 :END:
 ** 为了强调程序中散装的细节，应该辨识什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-09-24T16:00:00.000Z
-:card-last-reviewed: 2022-09-24T08:06:41.289Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-09-30T01:21:23.170Z
+:card-last-reviewed: 2022-09-26T01:21:23.170Z
+:card-last-score: 5
 :END:
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
@@ -492,12 +492,12 @@
 *** 迭代制卡：每次阅读文本的时候只写一小部分卡片
 ** 当第一次将一段困难的内容制卡的时候，Andy建议你专注在哪些东西上面？ #card #SRS
 :PROPERTIES:
-:card-last-score: 1
-:card-repeats: 1
-:card-next-schedule: 2022-09-24T16:00:00.000Z
-:card-last-interval: -1
-:card-ease-factor: 3
-:card-last-reviewed: 2022-09-24T08:01:31.210Z
+:card-last-score: 5
+:card-repeats: 2
+:card-next-schedule: 2022-09-30T01:20:36.546Z
+:card-last-interval: 4
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-09-26T01:20:36.546Z
 :END:
 *** 可以在上面搭建内容的基础细节
 ** 如果写卡时感觉到要完整的强迫感，要记住 {{cloze 以后总能写更多的}} #card #SRS
