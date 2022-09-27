@@ -11,11 +11,11 @@
 *** 助记词：傻笨难容人
 * SBNRR的步骤是什么？ #card #正念
 :PROPERTIES:
-:card-last-interval: 10.6
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-26T15:21:00.338Z
-:card-last-reviewed: 2022-09-16T01:21:00.339Z
+:card-last-interval: 25.07
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-22T01:33:35.123Z
+:card-last-reviewed: 2022-09-27T00:33:35.123Z
 :card-last-score: 5
 :END:
 ** Stop

@@ -173,7 +173,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :preferred-format :org
- :favorites ["建立题库" "动作分解与反馈" "Thomas' to be improved"]
+ :favorites ["高绩效教练" "建立题库" "动作分解与反馈" "Thomas' to be improved"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

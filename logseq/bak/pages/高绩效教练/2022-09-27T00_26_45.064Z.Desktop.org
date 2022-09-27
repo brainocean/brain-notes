@@ -78,11 +78,11 @@
 *** 如果教练引导问题的方向，这会削弱教练对象的责任感
 ** 为什么要避免引导性问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 25.07
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-22T01:35:13.644Z
-:card-last-reviewed: 2022-09-27T00:35:13.645Z
+:card-last-interval: 10.6
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-26T15:21:23.882Z
+:card-last-reviewed: 2022-09-16T01:21:23.883Z
 :card-last-score: 5
 :END:
 *** 因为教练对象会迅速意识到这一点，从而导致其对教练的信任度降低。
@@ -90,21 +90,21 @@
 * 积极倾听
 ** 为什么要对教练对象的回答保持关注？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
+:card-last-interval: 10.6
+:card-repeats: 3
 :card-ease-factor: 2.56
-:card-next-schedule: 2022-09-27T16:00:00.000Z
-:card-last-reviewed: 2022-09-27T00:34:11.338Z
-:card-last-score: 1
+:card-next-schedule: 2022-09-26T15:21:07.249Z
+:card-last-reviewed: 2022-09-16T01:21:07.250Z
+:card-last-score: 5
 :END:
 *** 如果这种关注不发生，信任就会消失，教练也就不会知道接下来的好问题是什么。
 ** 除了回答的内容，还要关注哪些方面？ #card #教练
 :PROPERTIES:
-:card-last-interval: 25.07
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-22T01:34:51.665Z
-:card-last-reviewed: 2022-09-27T00:34:51.665Z
+:card-last-interval: 10.6
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-26T15:21:15.122Z
+:card-last-reviewed: 2022-09-16T01:21:15.122Z
 :card-last-score: 5
 :END:
 *** 措辞(负面/正面，幼稚/成熟，拘谨/开放)
@@ -124,12 +124,12 @@
 *** 让教练对象有第2次机会核实他所说的真实性
 ** 哪些技巧可以表明你正在专心倾听并建立觉察？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-30T01:23:09.810Z
-:card-last-reviewed: 2022-09-26T01:23:09.810Z
-:card-last-score: 5
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-24T16:00:00.000Z
+:card-last-reviewed: 2022-09-24T07:59:22.187Z
+:card-last-score: 1
 :END:
 *** {{cloze 重述/镜像}} —— 重述对方的原话
 *** {{cloze 复述}} —— 不改变内容或意思，用略微不同的词语进行复述
@@ -146,5 +146,5 @@
 :END:
 *** {{cloze 不评判、不批评}} —— 保持开放的心态，评判和批评会让人产生防御心理，不愿交流
 *** {{cloze 倾听潜能}} —— 关注对象的能力和优势，而不是过去的表现或将其视为问题。如果没有限制，他会释放怎样的潜能？
-* [[file:./教练GROW模型.org][教练GROW模型]]
-* [[file:./教练问题工具包.org][教练问题工具包]]
+*
+*

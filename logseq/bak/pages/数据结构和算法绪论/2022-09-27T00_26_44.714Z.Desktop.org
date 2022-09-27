@@ -1,0 +1,114 @@
+* 什么是计算？ #card #DSA
+:PROPERTIES:
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-25T17:11:44.739Z
+:card-last-reviewed: 2022-08-19T01:11:44.740Z
+:card-last-score: 5
+:END:
+** 借助某种工具，遵照一定规则，以明确而机械的形式进行的操作
+* 什么是算法？ #card #DSA
+:PROPERTIES:
+:card-last-interval: 31.34
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-12T10:00:29.344Z
+:card-last-reviewed: 2022-09-11T02:00:29.344Z
+:card-last-score: 5
+:END:
+** 在特定计算模型(=计算机=信息处理工具)下，旨在解决特定问题的指令序列
+* 算法的特征要素？ #card #DSA
+:PROPERTIES:
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-06T16:13:44.168Z
+:card-last-reviewed: 2022-09-03T01:13:44.169Z
+:card-last-score: 5
+:END:
+** 输入、输出、正确性、确定性、可行性、 {{cloze 有穷性}}
+* 算法复杂度的度量
+** 通常更关注 {{cloze 时间复杂度}}
+** 在同等问题规模下，关注 {{cloze 最差实例}}的时间
+** 需要理想计算模型，才能进行不同算法优劣的比较
+* 图灵机
+** 图灵机的纸带tape的作用是 {{cloze 在每个单元格中存贮一个字符}} #card #DSA
+:PROPERTIES:
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-06T16:13:52.517Z
+:card-last-reviewed: 2022-09-03T01:13:52.517Z
+:card-last-score: 5
+:END:
+** 图灵机读写头head的作用是 {{cloze 读写所在位置的单元格的字符}}，每过一个节拍，能够 {{cloze 向左或者向右移动一格}} #card #DSA
+:PROPERTIES:
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-06T16:13:56.612Z
+:card-last-reviewed: 2022-09-03T01:13:56.613Z
+:card-last-score: 5
+:END:
+** 图灵机根据状态转移函数(指令)，在每个节拍，根据 {{cloze 当前状态和读写头当前字符}}，执行动作 {{cloze (写、左移、右移)}}，并从当前状态转换到下一状态，直到 {{cloze 停机状态}}  #card #DSA
+:PROPERTIES:
+:card-last-interval: 33.64
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-06T16:14:44.505Z
+:card-last-reviewed: 2022-09-03T01:14:44.505Z
+:card-last-score: 5
+:END:
+* 大O记号
+** 大O记号的目的 #card #DSA
+:PROPERTIES:
+:card-last-interval: 66.64
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-11-27T16:01:20.759Z
+:card-last-reviewed: 2022-09-22T01:01:20.759Z
+:card-last-score: 5
+:END:
+*** 为了把握时间随问题规模增长的大趋势，而不是细节的起伏
+*** 是对增长趋势的悲观估计(上界)
+** 大O记号的定义 #card #DSA
+:PROPERTIES:
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-23T17:44:52.741Z
+:card-last-reviewed: 2022-08-17T01:44:52.742Z
+:card-last-score: 5
+:END:
+*** $T(n) = O( f(n) )  \iff \exists c>0, 当 n \gg 2后，有T(n) < c \cdot f(n)$
+** 大O记号的特点 #card #DSA
+:PROPERTIES:
+:card-last-interval: 128.7
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-12-23T17:44:59.240Z
+:card-last-reviewed: 2022-08-17T01:44:59.240Z
+:card-last-score: 5
+:END:
+*** 常数项可以忽略 $O(f(n)) = O(c \times f(n))$
+*** 低次项可以忽略 $O(n^a + n^b) = O(n^a), a>b>0$
+* 其他趋势记号
+** 大$\Omega$记号，增长趋势的下界
+*** $T(n) = \Omega( f(n) )  \iff \exists c>0, 当 n \gg 2后，有T(n) > c \cdot f(n)$
+** 大$\Theta$记号
+*** $T(n) = \Theta( f(n) )  \iff \exists c_1, c_2>0, 当 n \gg 2后，有c_1 \cdot f(n) >T(n) > c_2 \cdot f(n)$
+* [[../assets/big-o-omega-theta.png]]
+* 算法复杂度的刻度 #card #DSA
+:PROPERTIES:
+:card-last-interval: 23.43
+:card-repeats: 4
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-09-25T10:38:07.550Z
+:card-last-reviewed: 2022-09-02T00:38:07.550Z
+:card-last-score: 3
+:END:
+** 最高效算法的复杂度：$O(1) 和 O(\log{n})$
+** 有效算法的复杂度：$多项式复杂度O(n^c)，特别的线性复杂度O(n)$
+** 无效算法/难解的复杂度：$指数复杂度O(2^n)$
+*
