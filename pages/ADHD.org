@@ -87,8 +87,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.66
-:card-next-schedule: 2022-09-27T16:00:00.000Z
-:card-last-reviewed: 2022-09-27T00:38:02.929Z
+:card-next-schedule: 2022-09-28T16:00:00.000Z
+:card-last-reviewed: 2022-09-28T00:20:48.352Z
 :card-last-score: 1
 :END:
 ** 外化(externalize)重要的信息

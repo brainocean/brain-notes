@@ -14,12 +14,12 @@
 * 关于目标设定
 ** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 10.6
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-27T21:50:23.752Z
-:card-last-reviewed: 2022-09-17T07:50:23.753Z
-:card-last-score: 5
+:card-last-interval: 21.74
+:card-repeats: 4
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-10-19T17:22:11.610Z
+:card-last-reviewed: 2022-09-28T00:22:11.610Z
+:card-last-score: 3
 :END:
 *** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
 *** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？
@@ -80,12 +80,12 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: 10.6
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.56
-:card-next-schedule: 2022-09-27T21:53:40.509Z
-:card-last-reviewed: 2022-09-17T07:53:40.509Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-28T16:00:00.000Z
+:card-last-reviewed: 2022-09-28T00:23:22.847Z
+:card-last-score: 1
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
 *** 这些提出的问题要求有 {{cloze 高度的专注}}，才能获得高质量的细节输入。
@@ -105,11 +105,11 @@
 * 关于你有什么选择
 ** 选择阶段的目的是什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-27T05:18:28.715Z
-:card-last-reviewed: 2022-09-16T01:18:28.716Z
+:card-last-interval: 39.41
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-06T09:18:43.211Z
+:card-last-reviewed: 2022-09-28T00:18:43.212Z
 :card-last-score: 5
 :END:
 *** 不是为了找到“对的”答案，而是要创造出和罗列出 {{cloze 尽可能多的}}可供选择的方案。
@@ -140,12 +140,12 @@
 *** “超级某某会如何做呢?”
 ** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: 10.6
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.56
-:card-next-schedule: 2022-09-27T21:47:05.831Z
-:card-last-reviewed: 2022-09-17T07:47:05.833Z
-:card-last-score: 5
+:card-next-schedule: 2022-09-28T16:00:00.000Z
+:card-last-reviewed: 2022-09-28T00:21:41.396Z
+:card-last-score: 1
 :END:
 *** 随机罗列，避免过早的划分优先级
 *** 得到完整列表后，可以根据喜爱程度、成本、收益等，从1~10打分
@@ -153,12 +153,12 @@
 * 你将会做什么
 ** 意愿阶段分哪两步？ #card #教练
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-27T05:18:13.243Z
-:card-last-reviewed: 2022-09-16T01:18:13.243Z
-:card-last-score: 5
+:card-last-interval: 28.3
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-26T07:18:27.314Z
+:card-last-reviewed: 2022-09-28T00:18:27.314Z
+:card-last-score: 3
 :END:
 *** 第一步:责任担当的建立。定义行动计划、时间表和衡量任务的完成机制。
 *** 第二步:跟进与反馈。回顾任务进展，探讨学习反馈。
