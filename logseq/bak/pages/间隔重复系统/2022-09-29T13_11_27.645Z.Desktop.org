@@ -108,11 +108,11 @@
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-03T03:31:12.361Z
-:card-last-reviewed: 2022-09-29T00:31:12.362Z
+:card-last-interval: 14.24
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-09-27T05:53:54.373Z
+:card-last-reviewed: 2022-09-13T00:53:54.373Z
 :card-last-score: 5
 :END:
 ** 为何不能让你从卡面直接推导出答案？ #card #SRS
@@ -380,12 +380,12 @@
 *** 「什么时候」用它？
 ** 重要性和影响：写卡使得概念具有 {{cloze 个人意义}} #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
+:card-last-interval: 45.45
+:card-repeats: 4
 :card-ease-factor: 3
-:card-next-schedule: 2022-09-30T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T23:33:57.035Z
-:card-last-score: 1
+:card-next-schedule: 2022-09-29T11:18:08.147Z
+:card-last-reviewed: 2022-08-15T01:18:08.148Z
+:card-last-score: 5
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:

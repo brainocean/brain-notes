@@ -24,11 +24,11 @@
 ** 返回symbol绑定的变量本身，也可以用#'symbol来表达
 * 如何做Clojure变量的线程本地绑定？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 12.08
-:card-repeats: 3
-:card-ease-factor: 2.92
-:card-next-schedule: 2022-09-29T08:49:21.309Z
-:card-last-reviewed: 2022-09-17T07:49:21.309Z
+:card-last-interval: 37.81
+:card-repeats: 4
+:card-ease-factor: 3.02
+:card-next-schedule: 2022-11-06T18:32:54.931Z
+:card-last-reviewed: 2022-09-29T23:32:54.932Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

@@ -1,0 +1,66 @@
+* Ref的适用场景是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-28T10:15:47.825Z
+:card-last-reviewed: 2022-06-20T05:15:47.825Z
+:card-last-score: 5
+:END:
+** 需要同步协调的，对共享状态的并发同步访问
+* 怎样创建一个Ref? #card #clojure
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-28T10:18:49.492Z
+:card-last-reviewed: 2022-06-20T05:18:49.492Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(def current-track (ref "Mars, the Bringer of War")) 
+;=> #'user/current-track
+#+END_SRC
+* 怎样读取一个Ref当前的值？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 100.23
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-09-28T10:19:00.152Z
+:card-last-reviewed: 2022-06-20T05:19:00.152Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(deref current-track)
+;-> "Mars, the Bringer of War"
+
+@current-track
+;-> "Mars, the Bringer of War"
+#+END_SRC
+* 怎样改变一个Ref的值？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 21.15
+:card-repeats: 4
+:card-ease-factor: 2.34
+:card-next-schedule: 2022-10-02T04:58:06.925Z
+:card-last-reviewed: 2022-09-11T01:58:06.925Z
+:card-last-score: 3
+:END:
+** ref-set不是常用的手段
+#+BEGIN_SRC clojure
+(dosync ; wrap a transaction
+ ; change current-track's value in a transaction
+  (ref-set current-track "Venus, the Bringer of Peace")) 
+;-> "Venus, the Bringer of Peace"
+#+END_SRC
+** alter是最常用的手段
+#+BEGIN_SRC clojure
+(def messages (ref ()))
+; alter returns the new value of the ref within the transaction,
+; performs the read and update in a single step
+(dosync (alter messages conj msg))
+#+END_SRC
+** 如果改变的顺序不重要，commute可以提供更高的并发度，因为在竞争发生时，STM只是简单的重新执行commute而不是重试整个transaction
+#+BEGIN_SRC clojure
+(dosync (commute messages conj msg))
+#+END_SRC

@@ -1,0 +1,213 @@
+* GROW模型包含哪些内容？ #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T09:32:03.074Z
+:card-last-reviewed: 2022-09-19T01:32:03.075Z
+:card-last-score: 5
+:END:
+** Goal —— 设定教练对话的目标，以及设定教练的短期、长期目标。“你想要什么？”
+** Reality —— 探索当前的状况。 “你现在在哪？”
+** Options —— 可供选择的策略或行动方案。 “你能做什么？”
+** Will —— 该做什么What，何时When，谁做Who以及这样做的意愿Will。 “你将要做什么？”
+* 关于目标设定
+** 目标的层级有哪些？ #card #教练
+:PROPERTIES:
+:card-last-interval: 10.6
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-27T21:50:23.752Z
+:card-last-reviewed: 2022-09-17T07:50:23.753Z
+:card-last-score: 5
+:END:
+*** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
+*** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？
+*** 绩效目标 —— 有形的里程碑节点，99%由你掌握
+*** 过程目标 —— 达到绩效所需的工作，100%由你掌握
+** 如何进行目标的设定能够怎样促进责任感的确立？ #card #教练
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-10-08T06:23:42.544Z
+:card-last-interval: 12.24
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-09-26T01:23:42.544Z
+:END:
+*** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
+** 目标的SMART原则包括什么？ #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T09:33:28.511Z
+:card-last-reviewed: 2022-09-19T01:33:28.511Z
+:card-last-score: 5
+:END:
+*** Specific —— 具体的
+*** Measurable —— 可衡量的
+*** Agreed —— 一致同意的
+*** Realistic —— 现实的
+*** Time-framed —— 有时限的
+* 关于探索现状
+** 检查现状最重要的一个标准就是 {{cloze 客观性}} #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T09:31:35.195Z
+:card-last-reviewed: 2022-09-19T01:31:35.195Z
+:card-last-score: 5
+:END:
+** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
+:PROPERTIES:
+:card-last-interval: 10.02
+:card-repeats: 3
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-10-02T00:59:56.788Z
+:card-last-reviewed: 2022-09-22T00:59:56.788Z
+:card-last-score: 3
+:END:
+** 什么是跟随教练对象议程？ #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T09:32:54.303Z
+:card-last-reviewed: 2022-09-19T01:32:54.304Z
+:card-last-score: 5
+:END:
+*** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
+** 探索现状问题的原则？ #card #教练
+:PROPERTIES:
+:card-last-interval: 10.6
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-27T21:53:40.509Z
+:card-last-reviewed: 2022-09-17T07:53:40.509Z
+:card-last-score: 5
+:END:
+*** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
+*** 这些提出的问题要求有 {{cloze 高度的专注}}，才能获得高质量的细节输入。
+*** 寻求的现状答案应该是 {{cloze 描述性的}}而不是 {{cloze 评判性的}}，以确保诚实和精确
+*** 给予的答案必须有 {{cloze 足够的品质以及完备性}}，能提供给教练一个 {{cloze 反馈回路}}。
+** 一个很少失败的有价值的现状问题是？ #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-21T08:56:11.453Z
+:card-last-reviewed: 2022-09-20T00:56:11.453Z
+:card-last-score: 5
+:END:
+*** “到目前为止你已经采取了哪些行动?”
+*** “那个行动的结果怎样?”
+* 关于你有什么选择
+** 选择阶段的目的是什么？ #card #教练
+:PROPERTIES:
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-27T05:18:28.715Z
+:card-last-reviewed: 2022-09-16T01:18:28.716Z
+:card-last-score: 5
+:END:
+*** 不是为了找到“对的”答案，而是要创造出和罗列出 {{cloze 尽可能多的}}可供选择的方案。
+*** 在此阶段，选项的 {{cloze 数量}}比每个选项的 {{cloze 质量和可行性}}要重要得多。
+** 如何遇到负面假设怎么办？ #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T09:31:42.730Z
+:card-last-reviewed: 2022-09-19T01:31:42.730Z
+:card-last-score: 5
+:END:
+*** 提出这样的问题：
+**** “如果没有这些障碍，你会怎么做?”
+**** “如果你知道答案/拥有足够资源?事情会怎样?”
+** 跳出熟悉视角的拓展创造力的问题？ #card #教练
+:PROPERTIES:
+:card-last-interval: 27.96
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-17T00:33:13.243Z
+:card-last-reviewed: 2022-09-19T01:33:13.244Z
+:card-last-score: 3
+:END:
+*** “如果你是领导者，你会怎么做?”
+*** “想想你最敬佩的领导者，他们会怎么做?”
+*** “超级某某会如何做呢?”
+** 怎样处理选项的列表？ #card #教练
+:PROPERTIES:
+:card-last-interval: 10.6
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-27T21:47:05.831Z
+:card-last-reviewed: 2022-09-17T07:47:05.833Z
+:card-last-score: 5
+:END:
+*** 随机罗列，避免过早的划分优先级
+*** 得到完整列表后，可以根据喜爱程度、成本、收益等，从1~10打分
+*** 或者使用[[焦点地图]]
+* 你将会做什么
+** 意愿阶段分哪两步？ #card #教练
+:PROPERTIES:
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-27T05:18:13.243Z
+:card-last-reviewed: 2022-09-16T01:18:13.243Z
+:card-last-score: 5
+:END:
+*** 第一步:责任担当的建立。定义行动计划、时间表和衡量任务的完成机制。
+*** 第二步:跟进与反馈。回顾任务进展，探讨学习反馈。
+** 建立责任担当意味着什么？ #card #教练
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-30T01:21:49.641Z
+:card-last-reviewed: 2022-09-26T01:21:49.641Z
+:card-last-score: 3
+:END:
+*** 要求^^教练对象^^具体定义他们将要^^做什么^^，^^什么时候^^会做，然后^^信任^^他们会那样做。
+*** 将对话转化为在完成目标日期内的具体的决定和行动步骤
+** 建立责任担当的关键问题是？ #card #教练
+:PROPERTIES:
+:card-last-interval: 27.96
+:card-repeats: 4
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-17T23:56:27.980Z
+:card-last-reviewed: 2022-09-20T00:56:27.980Z
+:card-last-score: 3
+:END:
+*** 你将要做什么? —— 明确的方案
+*** 什么时候做? —— 具体的日期和时间
+*** 我们怎么才能知道你做了？ 谁需要知道？
+** 如何增强教练对象对行动计划的承诺？ #card #教练
+:PROPERTIES:
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-28T11:53:08.153Z
+:card-last-reviewed: 2022-09-17T07:53:08.154Z
+:card-last-score: 5
+:END:
+*** 删除不愿做的事情
+*** 书面记录并分享
+*** 定期跟进和反馈
+**** 确保每一方清楚接下来会发生什么，并就在过程中^^何时^^以及^^如何^^进行进度跟进是确保责任担当的关键
+** 跟进核对而不是督查
+** 为了把反馈当作一次学习的机会，可以问的关键问题是哪些？ #card #教练
+:PROPERTIES:
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T09:32:18.818Z
+:card-last-reviewed: 2022-09-19T01:32:18.819Z
+:card-last-score: 5
+:END:
+*** 发生了什么?
+*** 你从中学到了什么?
+*** 未来你将怎样应用它?

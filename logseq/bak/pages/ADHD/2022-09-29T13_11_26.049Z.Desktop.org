@@ -84,12 +84,12 @@
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
 * 如何弥补执行功能缺陷？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-10-03T00:29:56.579Z
-:card-last-reviewed: 2022-09-29T00:29:56.579Z
-:card-last-score: 5
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-27T16:00:00.000Z
+:card-last-reviewed: 2022-09-27T00:38:02.929Z
+:card-last-score: 1
 :END:
 ** 外化(externalize)重要的信息
 *** 弥补工作记忆问题
@@ -113,12 +113,12 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
+:card-last-interval: 10.02
+:card-repeats: 3
 :card-ease-factor: 2.42
-:card-next-schedule: 2022-09-30T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T23:34:16.224Z
-:card-last-score: 1
+:card-next-schedule: 2022-09-28T01:41:32.248Z
+:card-last-reviewed: 2022-09-18T01:41:32.248Z
+:card-last-score: 3
 :END:
 ** 更多奖励和正面情绪
 ** 自我肯定和自我鼓励
