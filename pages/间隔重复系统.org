@@ -108,12 +108,12 @@
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:19:50.947Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-10-03T03:31:12.361Z
+:card-last-reviewed: 2022-09-29T00:31:12.362Z
+:card-last-score: 5
 :END:
 ** 为何不能让你从卡面直接推导出答案？ #card #SRS
 :PROPERTIES:

@@ -129,8 +129,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:17:29.896Z
+:card-next-schedule: 2022-09-29T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T00:31:32.281Z
 :card-last-score: 1
 :END:
 ** 步骤1，确定你的锚点
@@ -152,8 +152,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.5
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:17:48.538Z
+:card-next-schedule: 2022-09-29T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T00:31:46.113Z
 :card-last-score: 1
 :END:
 ** 精确才能让最后动作形成一个明确、清晰的信号

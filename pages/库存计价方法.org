@@ -12,12 +12,12 @@
 ** 库存物料在出库或入库时，会执行这些货币交易。
 * 非永续盘存是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-09-28T03:09:18.460Z
-:card-last-reviewed: 2022-07-06T01:09:18.460Z
-:card-last-score: 5
+:card-last-interval: 188.48
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-04-05T11:26:49.298Z
+:card-last-reviewed: 2022-09-29T00:26:49.301Z
+:card-last-score: 3
 :END:
 ** 非永续盘存系统是一种库存管理系统，其中的库存成本无需经常进行维护。
 ** 库存交易只影响库存，不会实时在总账中直接生成与库存相关的货币条目

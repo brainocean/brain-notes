@@ -7,11 +7,11 @@
 ** Optional implementations of abstract methods specified in protocols or interfaces
 * 如何定义一个新的Datatype？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 100.23
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-28T10:18:32.481Z
-:card-last-reviewed: 2022-06-20T05:18:32.482Z
+:card-last-interval: 681.79
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-08-10T18:27:44.169Z
+:card-last-reviewed: 2022-09-29T00:27:44.169Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

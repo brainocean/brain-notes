@@ -46,12 +46,12 @@
 *** 最好表达成“是什么原因......”
 ** 什么词语可以替换必要的“如何”问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:19:18.840Z
-:card-last-score: 1
+:card-last-interval: 4.25
+:card-repeats: 2
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-03T06:30:17.377Z
+:card-last-reviewed: 2022-09-29T00:30:17.377Z
+:card-last-score: 5
 :END:
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
@@ -90,12 +90,12 @@
 * 积极倾听
 ** 为什么要对教练对象的回答保持关注？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:21:05.993Z
-:card-last-score: 1
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:30:09.680Z
+:card-last-reviewed: 2022-09-29T00:30:09.680Z
+:card-last-score: 5
 :END:
 *** 如果这种关注不发生，信任就会消失，教练也就不会知道接下来的好问题是什么。
 ** 除了回答的内容，还要关注哪些方面？ #card #教练

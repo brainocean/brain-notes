@@ -80,12 +80,12 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:23:22.847Z
-:card-last-score: 1
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:30:53.064Z
+:card-last-reviewed: 2022-09-29T00:30:53.064Z
+:card-last-score: 5
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
 *** 这些提出的问题要求有 {{cloze 高度的专注}}，才能获得高质量的细节输入。
@@ -140,12 +140,12 @@
 *** “超级某某会如何做呢?”
 ** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-09-28T16:00:00.000Z
-:card-last-reviewed: 2022-09-28T00:21:41.396Z
-:card-last-score: 1
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:31:07.954Z
+:card-last-reviewed: 2022-09-29T00:31:07.954Z
+:card-last-score: 5
 :END:
 *** 随机罗列，避免过早的划分优先级
 *** 得到完整列表后，可以根据喜爱程度、成本、收益等，从1~10打分
@@ -187,11 +187,11 @@
 *** 我们怎么才能知道你做了？ 谁需要知道？
 ** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-09-28T11:53:08.153Z
-:card-last-reviewed: 2022-09-17T07:53:08.154Z
+:card-last-interval: 39.41
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-07T09:29:52.698Z
+:card-last-reviewed: 2022-09-29T00:29:52.698Z
 :card-last-score: 5
 :END:
 *** 删除不愿做的事情
