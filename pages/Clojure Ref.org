@@ -39,12 +39,12 @@
 #+END_SRC
 * 怎样改变一个Ref的值？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 21.15
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.34
-:card-next-schedule: 2022-10-02T04:58:06.925Z
-:card-last-reviewed: 2022-09-11T01:58:06.925Z
-:card-last-score: 3
+:card-next-schedule: 2022-10-05T16:00:00.000Z
+:card-last-reviewed: 2022-10-05T00:44:25.538Z
+:card-last-score: 1
 :END:
 ** ref-set不是常用的手段
 #+BEGIN_SRC clojure

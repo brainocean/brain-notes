@@ -10,10 +10,10 @@
 :PROPERTIES:
 :card-last-score: 1
 :card-repeats: 1
-:card-next-schedule: 2022-09-30T16:00:00.000Z
+:card-next-schedule: 2022-10-05T16:00:00.000Z
 :card-last-interval: -1
 :card-ease-factor: 2.72
-:card-last-reviewed: 2022-09-29T23:28:40.836Z
+:card-last-reviewed: 2022-10-05T00:24:46.122Z
 :END:
 ** 货物从仓库发出，库存增加或减少
 ** 如果使用永续盘存，则创建相关会计过帐，更新库存价值

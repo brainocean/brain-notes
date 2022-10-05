@@ -1,11 +1,11 @@
 * Reduce是最核心和基础的功能，map, filter等等都可以用reduce来完成
 * Reduce使用一个reducing function(rf)做每一步的处理，reducing function的结构是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 96.02
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-02T01:07:27.065Z
-:card-last-reviewed: 2022-06-28T01:07:27.066Z
+:card-last-interval: 748.47
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2024-10-22T11:44:06.917Z
+:card-last-reviewed: 2022-10-05T00:44:06.918Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -92,12 +92,12 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 96.02
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-10-01T01:24:22.002Z
-:card-last-reviewed: 2022-06-27T01:24:22.003Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-05T16:00:00.000Z
+:card-last-reviewed: 2022-10-05T00:26:47.893Z
+:card-last-score: 1
 :END:
 ** #+BEGIN_SRC clojure
 (eduction xform* coll)

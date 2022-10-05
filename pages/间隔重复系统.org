@@ -79,11 +79,11 @@
 :END:
 ** 如果卡片产生不一致的答案，未被提取到的记忆将会被 {{cloze 抑制}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-09-30T01:20:51.529Z
-:card-last-reviewed: 2022-09-26T01:20:51.530Z
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-10-18T06:16:17.933Z
+:card-last-reviewed: 2022-10-05T00:16:17.933Z
 :card-last-score: 5
 :END:
 ** SRS期望你在隔上多久之后，依然能在重复时正确回答卡片？ #card #SRS
@@ -108,11 +108,11 @@
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-03T03:31:12.361Z
-:card-last-reviewed: 2022-09-29T00:31:12.362Z
+:card-last-interval: 13.2
+:card-repeats: 3
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-10-18T04:54:34.659Z
+:card-last-reviewed: 2022-10-05T00:54:34.659Z
 :card-last-score: 5
 :END:
 ** 为何不能让你从卡面直接推导出答案？ #card #SRS
@@ -168,11 +168,11 @@
 ** 图像和声音等多媒体也可以挖空
 ** 如果一个聚焦的卡片让你觉得难以处理，你可以为它添加一个辅助性的 {{cloze 线索}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 36.33
-:card-repeats: 4
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-01T06:20:28.120Z
-:card-last-reviewed: 2022-08-25T23:20:28.121Z
+:card-last-interval: 195.7
+:card-repeats: 5
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-04-18T16:28:13.469Z
+:card-last-reviewed: 2022-10-05T00:28:13.470Z
 :card-last-score: 5
 :END:
 ** 线索不应该产生什么效果？ #card #SRS
@@ -225,12 +225,12 @@
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 32.72
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.86
-:card-next-schedule: 2022-10-02T18:40:21.715Z
-:card-last-reviewed: 2022-08-31T01:40:21.715Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-05T16:00:00.000Z
+:card-last-reviewed: 2022-10-05T00:46:47.563Z
+:card-last-score: 1
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
 ** 应该把助记词放在卡片的哪个部分？ #card #SRS
@@ -316,11 +316,11 @@
 :END:
 ** 为了强调程序中散装的细节，应该辨识什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-09-30T01:21:23.170Z
-:card-last-reviewed: 2022-09-26T01:21:23.170Z
+:card-last-interval: 12.64
+:card-repeats: 3
+:card-ease-factor: 3.16
+:card-next-schedule: 2022-10-17T15:16:39.053Z
+:card-last-reviewed: 2022-10-05T00:16:39.054Z
 :card-last-score: 5
 :END:
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
@@ -338,12 +338,12 @@
 ** 知道一个「概念」所指何物，与高中闪卡式的知识（例如「意大利语 “correre” 等于 “跑步” 」）不同。想要内化它，你需要了解组成概念的*元素*以及元素之间形成的*结构*。因此对于这类知识，你的目标是设计一套卡片，联合起来，一起框定「高汤」这个概念。
 ** 要写关于概念的特征与趋向的卡片，应该识别什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 36.33
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.1
-:card-next-schedule: 2022-10-01T06:20:09.159Z
-:card-last-reviewed: 2022-08-25T23:20:09.161Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-05T16:00:00.000Z
+:card-last-reviewed: 2022-10-05T00:28:07.093Z
+:card-last-score: 1
 :END:
 *** 哪些断言或描述「永远」/「有时」/ 「永不」为真？
 ** 用部分/整体的视角写一张概念卡，什么图表有助于可视化？ #card #SRS
@@ -383,8 +383,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-09-30T16:00:00.000Z
-:card-last-reviewed: 2022-09-29T23:33:57.035Z
+:card-next-schedule: 2022-10-05T16:00:00.000Z
+:card-last-reviewed: 2022-10-05T00:22:56.260Z
 :card-last-score: 1
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
@@ -492,12 +492,12 @@
 *** 迭代制卡：每次阅读文本的时候只写一小部分卡片
 ** 当第一次将一段困难的内容制卡的时候，Andy建议你专注在哪些东西上面？ #card #SRS
 :PROPERTIES:
-:card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-09-30T01:20:36.546Z
-:card-last-interval: 4
-:card-ease-factor: 3.1
-:card-last-reviewed: 2022-09-26T01:20:36.546Z
+:card-last-score: 3
+:card-repeats: 3
+:card-next-schedule: 2022-10-17T16:16:11.778Z
+:card-last-interval: 12.67
+:card-ease-factor: 2.96
+:card-last-reviewed: 2022-10-05T00:16:11.778Z
 :END:
 *** 可以在上面搭建内容的基础细节
 ** 如果写卡时感觉到要完整的强迫感，要记住 {{cloze 以后总能写更多的}} #card #SRS
