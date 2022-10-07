@@ -127,12 +127,12 @@
 *** 提取练习依赖于从记忆中回忆答案
 ** 有效卡片的属性是 #card #SRS
 :PROPERTIES:
-:card-last-interval: 19.36
-:card-repeats: 4
-:card-ease-factor: 2.2
-:card-next-schedule: 2022-10-05T09:20:19.619Z
-:card-last-reviewed: 2022-09-16T01:20:19.619Z
-:card-last-score: 5
+:card-last-interval: 34.97
+:card-repeats: 5
+:card-ease-factor: 2.06
+:card-next-schedule: 2022-11-11T01:16:29.572Z
+:card-last-reviewed: 2022-10-07T02:16:29.573Z
+:card-last-score: 3
 :END:
 *** {{cloze 聚焦的}}、 {{cloze 精确的}}、 {{cloze 一致的}}、 {{cloze 可控的}}和 {{cloze 费功夫的}}
 * 简单事实类的知识
@@ -196,12 +196,12 @@
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 35.05
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.96
-:card-next-schedule: 2022-10-05T02:41:29.397Z
-:card-last-reviewed: 2022-08-31T01:41:29.397Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-07T16:00:00.000Z
+:card-last-reviewed: 2022-10-07T02:15:36.277Z
+:card-last-score: 1
 :END:
 *** 可以编造一个助记词
 ** 给卡片中的文本增加 {{cloze 图片}}，可以引发精细编码 #card #SRS
@@ -215,22 +215,22 @@
 :END:
 ** 好的助记词会让人在情感上感觉如何？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 35.05
-:card-repeats: 4
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-10-05T02:50:32.582Z
-:card-last-reviewed: 2022-08-31T01:50:32.582Z
+:card-last-interval: 118.43
+:card-repeats: 5
+:card-ease-factor: 3.06
+:card-next-schedule: 2023-02-02T12:15:45.810Z
+:card-last-reviewed: 2022-10-07T02:15:45.811Z
 :card-last-score: 5
 :END:
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-05T16:00:00.000Z
-:card-last-reviewed: 2022-10-05T00:46:47.563Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-10-11T08:47:07.816Z
+:card-last-reviewed: 2022-10-07T02:47:07.816Z
+:card-last-score: 5
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
 ** 应该把助记词放在卡片的哪个部分？ #card #SRS
@@ -338,12 +338,12 @@
 ** 知道一个「概念」所指何物，与高中闪卡式的知识（例如「意大利语 “correre” 等于 “跑步” 」）不同。想要内化它，你需要了解组成概念的*元素*以及元素之间形成的*结构*。因此对于这类知识，你的目标是设计一套卡片，联合起来，一起框定「高汤」这个概念。
 ** 要写关于概念的特征与趋向的卡片，应该识别什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-05T16:00:00.000Z
-:card-last-reviewed: 2022-10-05T00:28:07.093Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-10-11T05:45:23.322Z
+:card-last-reviewed: 2022-10-07T02:45:23.323Z
+:card-last-score: 5
 :END:
 *** 哪些断言或描述「永远」/「有时」/ 「永不」为真？
 ** 用部分/整体的视角写一张概念卡，什么图表有助于可视化？ #card #SRS
@@ -367,12 +367,12 @@
 :END:
 ** 举例说明因果关系卡 #card #SRS
 :PROPERTIES:
-:card-last-interval: 35.05
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.96
-:card-next-schedule: 2022-10-05T02:41:23.156Z
-:card-last-reviewed: 2022-08-31T01:41:23.156Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-07T16:00:00.000Z
+:card-last-reviewed: 2022-10-07T02:15:29.560Z
+:card-last-score: 1
 :END:
 *** 高汤是「做什么」的？
 *** 什么让它「实现那个效果」？
@@ -380,12 +380,12 @@
 *** 「什么时候」用它？
 ** 重要性和影响：写卡使得概念具有 {{cloze 个人意义}} #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-05T16:00:00.000Z
-:card-last-reviewed: 2022-10-05T00:22:56.260Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-10-11T05:17:38.285Z
+:card-last-reviewed: 2022-10-07T02:17:38.285Z
+:card-last-score: 5
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:

@@ -33,11 +33,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/thread的用途是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.5
-:card-next-schedule: 2022-10-11T02:46:41.443Z
-:card-last-reviewed: 2022-10-07T02:46:41.443Z
+:card-last-interval: 14.08
+:card-repeats: 3
+:card-ease-factor: 3.4
+:card-next-schedule: 2022-10-01T08:47:40.003Z
+:card-last-reviewed: 2022-09-17T07:47:40.003Z
 :card-last-score: 5
 :END:
 ** thread会创建一个channel，当thread的处理结束的时候，处理的结果值会被put到thread创建的channel中

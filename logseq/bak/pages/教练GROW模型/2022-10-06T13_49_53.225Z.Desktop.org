@@ -61,12 +61,12 @@
 :END:
 ** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
 :PROPERTIES:
-:card-last-interval: 26.14
-:card-repeats: 4
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-31T03:39:02.636Z
-:card-last-reviewed: 2022-10-05T00:39:02.636Z
-:card-last-score: 5
+:card-last-interval: 10.02
+:card-repeats: 3
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-10-02T00:59:56.788Z
+:card-last-reviewed: 2022-09-22T00:59:56.788Z
+:card-last-score: 3
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
@@ -80,11 +80,11 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4
+:card-last-interval: 3.28
 :card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-10-11T02:48:33.758Z
-:card-last-reviewed: 2022-10-07T02:48:33.758Z
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:30:53.064Z
+:card-last-reviewed: 2022-09-29T00:30:53.064Z
 :card-last-score: 5
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
@@ -140,11 +140,11 @@
 *** “超级某某会如何做呢?”
 ** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4
+:card-last-interval: 3.28
 :card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-10-11T02:16:44.305Z
-:card-last-reviewed: 2022-10-07T02:16:44.305Z
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:31:07.954Z
+:card-last-reviewed: 2022-09-29T00:31:07.954Z
 :card-last-score: 5
 :END:
 *** 随机罗列，避免过早的划分优先级
@@ -166,10 +166,10 @@
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-10-11T02:17:49.130Z
-:card-last-reviewed: 2022-10-07T02:17:49.130Z
-:card-last-score: 5
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-30T01:21:49.641Z
+:card-last-reviewed: 2022-09-26T01:21:49.641Z
+:card-last-score: 3
 :END:
 *** 要求^^教练对象^^具体定义他们将要^^做什么^^，^^什么时候^^会做，然后^^信任^^他们会那样做。
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤

@@ -1,0 +1,131 @@
+* 访问seq里面的某个元素有哪些函数？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 83.89
+:card-repeats: 6
+:card-ease-factor: 2.14
+:card-next-schedule: 2022-10-14T20:11:22.585Z
+:card-last-reviewed: 2022-07-22T23:11:22.585Z
+:card-last-score: 3
+:END:
+** | 函数 | 功能 |
+| (first coll) | 第1个 |
+| (second coll) | 第2个 |
+| (ffirst coll) | (first (first coll)) |
+| (last coll) | 最后一个 |
+| (nth coll n not-found) | 第n个 |
+| (rand-nth coll) | 随机选择一个元素 |
+| (peek coll) | queue的第一个，vector的最后一个元素 |
+* 选择seq的一部分元素有哪些函数？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 20.06
+:card-repeats: 4
+:card-ease-factor: 2.2
+:card-next-schedule: 2022-10-08T02:37:28.661Z
+:card-last-reviewed: 2022-09-18T01:37:28.662Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (filter pred coll) | 过滤出(pred item)为true的元素 |
+| (keep f coll) | 保留(f item)为non-nil的元素 |
+| (keep-indexed f coll) | 保留(f index item)为non-nil的元素 |
+| (remove pred coll) | 删除(pred item)为true的元素 |
+| (distinct coll) | 去掉*所有*重复元素 |
+| (dedupe coll) | 去掉*连续*重复的元素 |
+| (take n coll) | 取前n个元素 |
+| (take-nth n coll) | 每n个元素取一个 |
+| (take-last n coll) | 取后n个元素 |
+| (take-while pred coll) | 从头依次取元素直到(pred item)为false，舍弃后面的元素 |
+| (drop n coll) | 去掉前n个元素 |
+| (drop-last n coll) | 去掉后n个元素 |
+| (drop-while pred coll) | 从头依次去掉元素直到(pred item)是false，保持后面的元素 |
+| (butlast coll) | 去掉最后一个元素 |
+| (rest seq) |  除去第一个元素，如果没有剩余元素，返回'() |
+| (next seq) | 除去第一个元素，如果没有剩余元素，返回nil |
+* 合并多个seq的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 67.55
+:card-repeats: 7
+:card-ease-factor: 1.76
+:card-next-schedule: 2022-10-04T14:58:11.839Z
+:card-last-reviewed: 2022-07-29T01:58:11.839Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (concat x y & zs) | 依顺序连接 |
+| (mapcat f & colls) | 先对colls中的每个coll执行(map f)，然后concat结果 |
+| (interleave c1 c2 & colls) | 逐个取每个coll中的元素，拼接成一个seq |
+| (flatten x) | 把所有嵌套的sequence展平形成一个flat lazy seq |
+* 处理seq的每个元素的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 147.22
+:card-repeats: 6
+:card-ease-factor: 2.38
+:card-next-schedule: 2022-12-19T06:14:28.358Z
+:card-last-reviewed: 2022-07-25T01:14:28.358Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (map f c1 c2 c3 & colls) | 把f应用到c1, c2, c3...的各个元素上，结果形成一个seq |
+| (map-indexed f coll) | 把(f index item)的结果形成新的seq |
+| (replace smap coll) | coll中的元素如果等于smap中的某个key，则它的值被对应的val取代 |
+| (reductions f init coll) | 对每个sub-coll = (take n coll), n从0到(count coll)，计算(reduce f init sub-coll)，结果形成一个seq |
+* 改变seq元素顺序的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 79.58
+:card-repeats: 5
+:card-ease-factor: 2.68
+:card-next-schedule: 2022-12-12T20:45:29.836Z
+:card-last-reviewed: 2022-09-24T07:45:29.836Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (sort comp coll) | 按照comp item的值排序coll元素 |
+| (sort-by keyfn comp coll) | 按comp (keyfn item)的结果排序 |
+| (reverse coll) | 反序 coll，注意结果不是lazy的 |
+| (shuffle coll) | 乱序coll |
+* 分割seq的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 114.61
+:card-repeats: 5
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-12-01T15:12:06.511Z
+:card-last-reviewed: 2022-08-09T01:12:06.511Z
+:card-last-score: 5
+:END:
+** | 函数 | 功能 |
+| (split-at n coll) | 返回vector [(take n coll) (drop n coll)] |
+| (split-with pred coll) | 返回vector [(take-while pred coll) (drop-while pred coll)] |
+| (partition n step pad coll) | 把coll分成多个子seq，每step个元素开始分割，每个子seq取n个元素，不足的用pad中的元素补足，如果没提供pad，不足n个的最后一个子seq会被丢弃 |
+| (partition-all n step coll) | 分割成多个子seq，最后一个子seq元素数量可能不足n |
+| (partition-by f coll) | 按照(f item)的返回值对coll进行分组 |
+* 创建lazy seq的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 137.22
+:card-repeats: 6
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-12-09T06:17:25.812Z
+:card-last-reviewed: 2022-07-25T01:17:25.812Z
+:card-last-score: 3
+:END:
+** | 函数 | 功能 |
+| (seq coll) | 将coll转换成一个seq |
+| (lazy-seq & body) | 把body的结果组装成一个lazy seq |
+| (range start end step) | 从start到end，每隔step，生成一个lazy seq |
+| (repeat n x) | 生成一个包含n个x的lazy seq |
+| (repeatedly n f) | 生成一个n次对f的调用的结果组成的lazy seq |
+| (iterate f x) | 返回x, (f x), (f (f x)), ...组成的lazy seq |
+* 有哪些函数可以把seq转换成其他类型的collection? #card #clojure
+:PROPERTIES:
+:card-last-interval: 73.58
+:card-repeats: 5
+:card-ease-factor: 2.58
+:card-next-schedule: 2022-10-08T14:33:06.722Z
+:card-last-reviewed: 2022-07-27T01:33:06.723Z
+:card-last-score: 3
+:END:
+** | 函数 | 功能 |
+| (zipmap keys vals) | 把 keys, vals 一一对应创建一个map |
+| (group-by f coll) | 按照(f item)的结果，把coll分成组，结果是一个map，key是f的返回值，val是vector |
+| (frequencies coll) | 按照coll元素出现的次数将它们分组，返回一个map |
+| (into to xform from) | from里面的各个元素，经过xform的transform，合并进to |
+**

@@ -16,11 +16,11 @@
 * ADHD是由于*基因*造成的神经性紊乱
 * 为什么ADHD患者没有时间感? #card #ADHD
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-12-28T02:55:24.844Z
-:card-last-reviewed: 2022-10-05T00:55:24.844Z
+:card-last-interval: 31.34
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-03T08:37:46.645Z
+:card-last-reviewed: 2022-09-02T00:37:46.646Z
 :card-last-score: 5
 :END:
 ** 因为缺乏视觉图像能力，造成前瞻、后瞻能力弱，从而主观时间感弱
@@ -52,11 +52,11 @@
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
-:card-last-interval: 10.88
-:card-repeats: 3
-:card-ease-factor: 2.72
-:card-next-schedule: 2022-10-15T21:17:36.737Z
-:card-last-reviewed: 2022-10-05T00:17:36.737Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-09-30T01:23:22.304Z
+:card-last-reviewed: 2022-09-26T01:23:22.304Z
 :card-last-score: 5
 :END:
 * 那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
@@ -67,12 +67,12 @@
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
 * 五个执行功能的障碍 #card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
+:card-last-interval: 4
+:card-repeats: 2
 :card-ease-factor: 2.14
-:card-next-schedule: 2022-10-07T16:00:00.000Z
-:card-last-reviewed: 2022-10-07T02:19:55.330Z
-:card-last-score: 1
+:card-next-schedule: 2022-09-30T01:20:12.643Z
+:card-last-reviewed: 2022-09-26T01:20:12.644Z
+:card-last-score: 5
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
 2. 使用视觉图像的能力 use visual imagery, non verbal working memory; 前瞻、后瞻、主观时间感 hindsight, foresight, sense of time
@@ -84,11 +84,11 @@
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
 * 如何弥补执行功能缺陷？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 14.04
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-19T00:54:28.171Z
-:card-last-reviewed: 2022-10-05T00:54:28.171Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-10-03T00:29:56.579Z
+:card-last-reviewed: 2022-09-29T00:29:56.579Z
 :card-last-score: 5
 :END:
 ** 外化(externalize)重要的信息
@@ -113,12 +113,12 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-09T14:23:08.963Z
-:card-last-reviewed: 2022-10-05T00:23:08.963Z
-:card-last-score: 5
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-09-30T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T23:34:16.224Z
+:card-last-score: 1
 :END:
 ** 更多奖励和正面情绪
 ** 自我肯定和自我鼓励
@@ -155,11 +155,11 @@
 ** small chunks with frequent breaks
 * 怎样开始一个活动-transition planning #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-11T08:48:14.581Z
-:card-last-reviewed: 2022-10-07T02:48:14.581Z
+:card-last-interval: 18.63
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-01T15:55:02.825Z
+:card-last-reviewed: 2022-09-13T00:55:02.825Z
 :card-last-score: 5
 :END:
 ** stop other activities

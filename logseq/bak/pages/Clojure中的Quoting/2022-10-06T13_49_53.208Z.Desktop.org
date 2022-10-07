@@ -1,0 +1,82 @@
+* Clojure中的普通Quoting如何书写？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 439.28
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-11-22T07:25:22.798Z
+:card-last-reviewed: 2022-09-09T01:25:22.799Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(quote (1 (+ 2 3))) 
+;=> (1 (+ 2 3))
+
+'(1 (+ 2 3)) 
+;=> (1 (+ 2 3))
+#+END_SRC
+* syntax-quote (语法Quote) 的含义是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 439.28
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-11-22T07:25:39.685Z
+:card-last-reviewed: 2022-09-09T01:25:39.686Z
+:card-last-score: 5
+:END:
+** syntax-quote会把符号替换成namespace-qualified的符号，例如
+** #+BEGIN_SRC clojure
+`(map even? [1 2 3])
+;=> (clojure.core/map clojure.core/even? [1 2 3])
+
+`is-always-right
+;=> user/is-always-right
+#+END_SRC
+* unquote的语法和含义是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 43.56
+:card-repeats: 4
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-11-12T12:32:17.537Z
+:card-last-reviewed: 2022-09-29T23:32:17.537Z
+:card-last-score: 5
+:END:
+** unquote的语法是~，是在*syntax-quote*体之内，强制对它修饰的form进行求值，例如
+** #+BEGIN_SRC clojure
+`(+ 10 ~(* 3 2))
+;=> (clojure.core/+ 10 6)
+
+`(+ 10 (* 3 2))
+;=> (clojure.core/+ 10 (clojure.core/* 3 2))
+#+END_SRC
+* splicing unquote的语法和含义是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-30T13:49:40.794Z
+:card-last-reviewed: 2022-09-17T07:49:40.794Z
+:card-last-score: 5
+:END:
+** splicing unquote的语法是 ~@，是指把被unquote的list form(即被求值的list form)进行in-place展开，例如
+** #+BEGIN_SRC clojure
+(let [x '(2 3)] `(1 ~@x))
+;=> (1 2 3)
+
+(let [x '(2 3)] `(1 ~x))
+;=> (1 (2 3))
+#+END_SRC
+* auto-gensym的语法和含义是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 43.56
+:card-repeats: 4
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-11-12T12:31:56.600Z
+:card-last-reviewed: 2022-09-29T23:31:56.601Z
+:card-last-score: 5
+:END:
+** auto-gensym的语法是foo#，在syntax-quote之中，自动生成一个新的符号，例如
+** #+BEGIN_SRC clojure
+`(let [foo# 1] (+ foo# 2))
+;=> (clojure.core/let [foo__1310__auto__ 1] (clojure.core/+ foo__1310__auto__ 2))
+#+END_SRC
+** 这个功能在编写宏的时候，对参数或let的局部名非常方便，能够帮助避免 [[变量捕获captured variable]]

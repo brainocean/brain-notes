@@ -1,0 +1,38 @@
+* Clojure list通常用来做什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 439.28
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-11-24T08:07:25.633Z
+:card-last-reviewed: 2022-09-11T02:07:25.633Z
+:card-last-score: 5
+:END:
+** 在惯用的Clojure代码中，list几乎只用于 {{cloze  表示代码form}}，而操纵数据更多的使用vector
+* Clojure list添加一个元素的正确方法是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-06-25T09:27:31.908Z
+:card-last-reviewed: 2022-08-12T00:27:31.911Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+; "正确"的方法是conj，效率高而且保证结果一定是list
+(conj '(2 3) 1)
+;=> (1 2 3)
+
+; cons更多的用在lazy-seq, range, etc., 只保证结果是一个seq
+(cons 1 '(2 3))
+;=> (1 2 3)
+#+END_SRC
+* 更改Clojure list的元素的方法是什么？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-09-30T13:48:37.622Z
+:card-last-reviewed: 2022-09-17T07:48:37.622Z
+:card-last-score: 5
+:END:
+** list中的元素是不可更改的
