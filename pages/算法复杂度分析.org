@@ -38,11 +38,11 @@
 *** 推而广之，$T_d(n)=O(n^{d+1})$
 ** 几何级数： {{cloze 与末项同阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 19.29
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-07T07:37:47.863Z
-:card-last-reviewed: 2022-09-18T01:37:47.863Z
+:card-last-interval: 86.97
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-01-02T23:03:39.030Z
+:card-last-reviewed: 2022-10-08T00:03:39.031Z
 :card-last-score: 5
 :END:
 *** $$T_a(n)=a^0 + a^1 + a^2 + \dots + a^n = (a^{n+1}-1)/(a-1) = O(a^n)$$
@@ -144,12 +144,12 @@ for(int i=0; i<n; i<<1)
 *** 一般性求解得出[[Master Theorem]]
 *** 常见递推式和复杂度的解 #card #DSA
 :PROPERTIES:
-:card-last-interval: 16.65
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.04
-:card-next-schedule: 2022-10-07T15:33:01.809Z
-:card-last-reviewed: 2022-09-21T00:33:01.810Z
-:card-last-score: 3
+:card-next-schedule: 2022-10-08T16:00:00.000Z
+:card-last-reviewed: 2022-10-08T00:04:47.247Z
+:card-last-score: 1
 :END:
 **** | 递推式 | 解 | 实例 |
 | $T(n)=T(n-1)+1$ | $O(n)$ | 向量求和的线性递归版 |

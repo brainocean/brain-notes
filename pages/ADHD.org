@@ -70,8 +70,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.14
-:card-next-schedule: 2022-10-07T16:00:00.000Z
-:card-last-reviewed: 2022-10-07T02:19:55.330Z
+:card-next-schedule: 2022-10-08T16:00:00.000Z
+:card-last-reviewed: 2022-10-08T00:06:58.689Z
 :card-last-score: 1
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
