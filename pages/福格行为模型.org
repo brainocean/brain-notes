@@ -59,8 +59,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.6
-:card-next-schedule: 2022-10-08T16:00:00.000Z
-:card-last-reviewed: 2022-10-08T00:05:24.884Z
+:card-next-schedule: 2022-10-09T16:00:00.000Z
+:card-last-reviewed: 2022-10-09T00:33:36.132Z
 :card-last-score: 1
 :END:
 ** 选择
@@ -138,11 +138,11 @@
 ** 步骤3，利用“最后动作”优化锚点
 * 确定锚点需要考虑的三个方面 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.43
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-10-08T10:46:30.910Z
-:card-last-reviewed: 2022-10-05T00:46:30.910Z
+:card-last-interval: 9.45
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-18T10:25:53.289Z
+:card-last-reviewed: 2022-10-09T00:25:53.289Z
 :card-last-score: 5
 :END:
 ** 匹配物理位置、匹配频率、匹配主题/目的
@@ -184,11 +184,11 @@
 ** 想要让神经化学反应在培养习惯时发挥作用，不仅要控制好时间，而且要因人而异做出安排。
 * 庆祝的3个时机 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.03
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-08T00:47:02.449Z
-:card-last-reviewed: 2022-10-05T00:47:02.450Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-20T04:23:55.831Z
+:card-last-reviewed: 2022-10-09T00:23:55.832Z
 :card-last-score: 5
 :END:
 ** 你想起要执行新习惯的时刻

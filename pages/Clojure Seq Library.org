@@ -17,12 +17,12 @@
 | (peek coll) | queue的第一个，vector的最后一个元素 |
 * 选择seq的一部分元素有哪些函数？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 20.06
-:card-repeats: 4
-:card-ease-factor: 2.2
-:card-next-schedule: 2022-10-08T02:37:28.661Z
-:card-last-reviewed: 2022-09-18T01:37:28.662Z
-:card-last-score: 5
+:card-last-interval: 34.97
+:card-repeats: 5
+:card-ease-factor: 2.06
+:card-next-schedule: 2022-11-12T23:24:49.770Z
+:card-last-reviewed: 2022-10-09T00:24:49.770Z
+:card-last-score: 3
 :END:
 ** | 函数 | 功能 |
 | (filter pred coll) | 过滤出(pred item)为true的元素 |
@@ -116,12 +116,12 @@
 | (iterate f x) | 返回x, (f x), (f (f x)), ...组成的lazy seq |
 * 有哪些函数可以把seq转换成其他类型的collection? #card #clojure
 :PROPERTIES:
-:card-last-interval: 73.58
-:card-repeats: 5
-:card-ease-factor: 2.58
-:card-next-schedule: 2022-10-08T14:33:06.722Z
-:card-last-reviewed: 2022-07-27T01:33:06.723Z
-:card-last-score: 3
+:card-last-interval: 220.44
+:card-repeats: 6
+:card-ease-factor: 2.68
+:card-next-schedule: 2023-05-17T10:26:30.745Z
+:card-last-reviewed: 2022-10-09T00:26:30.746Z
+:card-last-score: 5
 :END:
 ** | 函数 | 功能 |
 | (zipmap keys vals) | 把 keys, vals 一一对应创建一个map |
