@@ -14,11 +14,11 @@
 * 采购流程中的关键主数据有哪些？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-10-10T01:07:18.539Z
-:card-last-interval: 96.02
-:card-ease-factor: 3
-:card-last-reviewed: 2022-07-06T01:07:18.540Z
+:card-repeats: 6
+:card-next-schedule: 2024-11-21T23:37:06.610Z
+:card-last-interval: 773.78
+:card-ease-factor: 3.1
+:card-last-reviewed: 2022-10-10T05:37:06.611Z
 :END:
 ** 供应商主数据
 ** 物料主数据

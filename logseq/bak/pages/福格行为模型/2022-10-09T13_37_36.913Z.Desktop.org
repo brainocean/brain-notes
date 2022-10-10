@@ -11,12 +11,12 @@
 ** 请你每天早晨一起床就立刻说出这句话：“今天又是美好的一天！”并在说出这句话的同时，尽量去感受乐观和积极的心态。
 * 福格行为模型的ABC三步骤 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-12T00:05:53.187Z
-:card-last-reviewed: 2022-10-08T00:05:53.187Z
-:card-last-score: 5
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-30T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T23:33:51.217Z
+:card-last-score: 1
 :END:
 ** 1．Anchor 锚点 —— 锚点时刻提醒你去执行新的微行为的关键时点。例如，某个日常习惯（刷牙）或某件必然发生的事情（电话铃声响起）。
 ** 2．Behavior 行为 —— 新的微行为锚点出现后立刻去执行的微行为。这是新习惯的简化版，比如用牙线清洁一颗牙齿或做两个俯卧撑。
@@ -33,11 +33,11 @@
 ** ^^B^^ehavior = ^^M^^otivation ^^A^^bility ^^P^^rompt
 * 解决行为问题的顺序是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-16T04:20:56.317Z
-:card-last-reviewed: 2022-10-05T00:20:56.317Z
+:card-last-interval: 3.39
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-09-30T09:37:08.142Z
+:card-last-reviewed: 2022-09-27T00:37:08.142Z
 :card-last-score: 5
 :END:
 ** 1．检查有没有行为提示。
@@ -45,23 +45,23 @@
 ** 3．检查有没有行为动机。
 * 动机的问题是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.97
+:card-last-interval: 3.43
 :card-repeats: 2
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-11T01:18:40.686Z
-:card-last-reviewed: 2022-10-07T02:18:40.686Z
+:card-ease-factor: 2.46
+:card-next-schedule: 2022-09-30T10:32:47.083Z
+:card-last-reviewed: 2022-09-27T00:32:47.084Z
 :card-last-score: 5
 :END:
 ** 不够稳定可靠——复杂、易失、易变、模糊难以量化
 ** 无法单独起作用
 * 行为设计的步骤？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 2.8
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-13T00:34:50.578Z
-:card-last-reviewed: 2022-10-10T05:34:50.579Z
-:card-last-score: 5
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-30T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T23:29:42.123Z
+:card-last-score: 1
 :END:
 ** 选择
 *** 明确愿望或成果
@@ -76,22 +76,22 @@
 ** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
 * 行为的焦点地图的两个维度是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.55
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-10-10T15:19:33.540Z
-:card-last-reviewed: 2022-10-07T02:19:33.540Z
-:card-last-score: 5
+:card-last-interval: 4.23
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-09-30T06:18:02.621Z
+:card-last-reviewed: 2022-09-26T01:18:02.621Z
+:card-last-score: 3
 :END:
 ** 对愿望的影响程度的高低
 ** 做到这个行为的难易程度
 * 黄金行为的标准 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 6.7
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-11T16:54:19.311Z
-:card-last-reviewed: 2022-10-05T00:54:19.312Z
+:card-last-interval: 5
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-03T00:20:42.076Z
+:card-last-reviewed: 2022-09-28T00:20:42.077Z
 :card-last-score: 5
 :END:
 ** 这个行为能让你实现愿望（影响）
@@ -101,59 +101,59 @@
 * 重复，让执行更容易
 * 福格原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 9.28
-:card-repeats: 3
-:card-ease-factor: 2.32
-:card-next-schedule: 2022-10-19T11:32:38.057Z
-:card-last-reviewed: 2022-10-10T05:32:38.057Z
-:card-last-score: 5
+:card-last-interval: 4.38
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-02T09:16:23.051Z
+:card-last-reviewed: 2022-09-28T00:16:23.055Z
+:card-last-score: 3
 :END:
-** 福格原则1，即帮助人们做他们已经想做的事。
+** 福格原则1，即帮助人们做他们已经想做的l事。
 ** 福格原则2：帮助人们感受成功
 * 常见的提示类型？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-21T09:35:20.841Z
-:card-last-reviewed: 2022-10-10T05:35:20.842Z
+:card-last-interval: 4.87
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-09-30T21:17:33.468Z
+:card-last-reviewed: 2022-09-26T01:17:33.468Z
 :card-last-score: 5
 :END:
-** 人体提示 —— 靠身体的本能、记忆作为提示，不可靠，应避免
+** 人物提示 —— 靠身体的本能、记忆作为提示，不可靠，应避免
 ** 情景提示 —— 周围环境中的任何事物都可以作为采取行动的提示，可能会失效，容易过载
 ** 行动提示 —— 行动提示就是将你已经在做的行为当作提示，以此来提醒你为培养新习惯采取必要的行动。
 *** 效果最好，“锚点”，能够较方便、可靠的挂靠新的微习惯
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计对的提示的步骤 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.84
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-10-10T22:46:22.994Z
-:card-last-reviewed: 2022-10-07T02:46:22.994Z
-:card-last-score: 5
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-09-30T16:00:00.000Z
+:card-last-reviewed: 2022-09-29T23:35:50.923Z
+:card-last-score: 1
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来
 ** 步骤3，利用“最后动作”优化锚点
 * 确定锚点需要考虑的三个方面 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 9.45
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-18T10:25:53.289Z
-:card-last-reviewed: 2022-10-09T00:25:53.289Z
-:card-last-score: 5
+:card-last-interval: 4.38
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-02T09:16:49.455Z
+:card-last-reviewed: 2022-09-28T00:16:49.456Z
+:card-last-score: 3
 :END:
 ** 匹配物理位置、匹配频率、匹配主题/目的
 ** 重点是“匹配”二字，让新习惯的嵌入摩擦力更低、更自然
 * 为什么锚点必须要精确？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 6.7
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-11T16:56:44.348Z
-:card-last-reviewed: 2022-10-05T00:56:44.348Z
+:card-last-interval: 5
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-04T23:35:20.237Z
+:card-last-reviewed: 2022-09-29T23:35:20.238Z
 :card-last-score: 5
 :END:
 ** 精确才能让最后动作形成一个明确、清晰的信号
@@ -184,11 +184,11 @@
 ** 想要让神经化学反应在培养习惯时发挥作用，不仅要控制好时间，而且要因人而异做出安排。
 * 庆祝的3个时机 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T04:23:55.831Z
-:card-last-reviewed: 2022-10-09T00:23:55.832Z
+:card-last-interval: 5
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-03T00:16:32.555Z
+:card-last-reviewed: 2022-09-28T00:16:32.556Z
 :card-last-score: 5
 :END:
 ** 你想起要执行新习惯的时刻
@@ -196,11 +196,11 @@
 ** 以及你刚刚完成新习惯的时刻
 * 庆祝的原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 6.7
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-11T16:38:49.095Z
-:card-last-reviewed: 2022-10-05T00:38:49.095Z
+:card-last-interval: 4.83
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-01T19:36:53.942Z
+:card-last-reviewed: 2022-09-27T00:36:53.942Z
 :card-last-score: 5
 :END:
 ** “及时又简单”

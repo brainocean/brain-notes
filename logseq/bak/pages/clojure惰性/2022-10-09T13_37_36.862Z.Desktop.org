@@ -1,12 +1,12 @@
 * 在惰性序列产生表达式的最外层使用lazy-seq宏
 * 惰性序列的每一步的状态是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-09-14T16:00:00.000Z
-:card-last-reviewed: 2022-09-14T00:14:19.934Z
-:card-last-score: 1
+:card-last-interval: 13.25
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-10-02T07:30:33.019Z
+:card-last-reviewed: 2022-09-19T01:30:33.019Z
+:card-last-score: 5
 :END:
 ** 如果这一步还没有实现realized，则指向一个函数或者[[thunk]]，等待将来需要求值时调用
 ** 如果这一步已经实现realized，则指向被缓存的[[thunk]]的返回值，而thunk本身被释放掉了
