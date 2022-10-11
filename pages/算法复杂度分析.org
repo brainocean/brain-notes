@@ -25,11 +25,11 @@
 *** $$T(n) = 1+2+3+ \dots + n = n(n+1)/2 = O(n^2)$$
 ** 幂方级数： {{cloze 比幂次高出一阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 20.76
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-11T18:26:15.365Z
-:card-last-reviewed: 2022-09-21T00:26:15.366Z
+:card-last-interval: 73.27
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-12-24T05:51:45.627Z
+:card-last-reviewed: 2022-10-11T23:51:45.627Z
 :card-last-score: 5
 :END:
 *** $$ T_2(n) = 1^2 + 2^2 + \dots + n^2 = n(n+1)(2n+1)/6 = O(n^3)$$

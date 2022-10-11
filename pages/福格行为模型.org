@@ -1,11 +1,11 @@
 * 微习惯策略的基本做法就是：选择你想要做到的行为，把它拆解成微习惯并融入生活，然后促进它的成长。如果你想做出持久的改变，那么最好从小改变着手。
 * “毛伊习惯”（Maui Habit） #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-11T03:33:22.475Z
-:card-last-reviewed: 2022-09-29T23:33:22.475Z
+:card-last-interval: 43.66
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-24T14:48:59.457Z
+:card-last-reviewed: 2022-10-11T23:48:59.457Z
 :card-last-score: 5
 :END:
 ** 请你每天早晨一起床就立刻说出这句话：“今天又是美好的一天！”并在说出这句话的同时，尽量去感受乐观和积极的心态。
@@ -23,11 +23,11 @@
 ** 3．Celebration 庆祝 —— 即时庆祝完成新的微行为后要立刻庆祝。任何能带来积极情绪的事情都可以，比如说出“我很棒”之类的话。
 * 福格行为模型三要素 B=MAP #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-11T03:33:06.127Z
-:card-last-reviewed: 2022-09-29T23:33:06.128Z
+:card-last-interval: 43.66
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-11-24T14:48:53.967Z
+:card-last-reviewed: 2022-10-11T23:48:53.967Z
 :card-last-score: 5
 :END:
 ** ^^B^^ehavior = ^^M^^otivation ^^A^^bility ^^P^^rompt
@@ -45,11 +45,11 @@
 ** 3．检查有没有行为动机。
 * 动机的问题是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.97
-:card-repeats: 2
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-11T01:18:40.686Z
-:card-last-reviewed: 2022-10-07T02:18:40.686Z
+:card-last-interval: 7.15
+:card-repeats: 3
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-19T02:46:23.523Z
+:card-last-reviewed: 2022-10-11T23:46:23.523Z
 :card-last-score: 5
 :END:
 ** 不够稳定可靠——复杂、易失、易变、模糊难以量化
@@ -76,22 +76,22 @@
 ** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
 * 行为的焦点地图的两个维度是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-10-11T16:00:00.000Z
-:card-last-reviewed: 2022-10-11T00:35:22.065Z
-:card-last-score: 1
+:card-last-interval: 3.97
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-15T22:50:38.253Z
+:card-last-reviewed: 2022-10-11T23:50:38.253Z
+:card-last-score: 5
 :END:
 ** 对愿望的影响程度的高低
 ** 做到这个行为的难易程度
 * 黄金行为的标准 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 6.7
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-11T16:54:19.311Z
-:card-last-reviewed: 2022-10-05T00:54:19.312Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-11-12T07:51:30.993Z
+:card-last-reviewed: 2022-10-11T23:51:30.993Z
 :card-last-score: 5
 :END:
 ** 这个行为能让你实现愿望（影响）
@@ -149,11 +149,11 @@
 ** 重点是“匹配”二字，让新习惯的嵌入摩擦力更低、更自然
 * 为什么锚点必须要精确？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 6.7
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-11T16:56:44.348Z
-:card-last-reviewed: 2022-10-05T00:56:44.348Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-11-12T07:51:36.772Z
+:card-last-reviewed: 2022-10-11T23:51:36.772Z
 :card-last-score: 5
 :END:
 ** 精确才能让最后动作形成一个明确、清晰的信号
@@ -196,11 +196,11 @@
 ** 以及你刚刚完成新习惯的时刻
 * 庆祝的原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 6.7
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-11T16:38:49.095Z
-:card-last-reviewed: 2022-10-05T00:38:49.095Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-11-12T07:51:18.500Z
+:card-last-reviewed: 2022-10-11T23:51:18.500Z
 :card-last-score: 5
 :END:
 ** “及时又简单”

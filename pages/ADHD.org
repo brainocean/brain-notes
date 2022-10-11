@@ -43,12 +43,12 @@
 ** 所以缺失了做好准备的能力，造成一个接一个的危机
 * 大脑可以分成前后两个部分，后部是 {{cloze 学习知识}}的，而前部是 {{cloze 应用知识}}的，ADHD割裂了这两部分，从而导致 {{cloze 执行功能的低下}}，所以重点不在多学更多的知识和技能，而是 {{cloze 如何应用}}(put more time on point of performance) #card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T16:00:00.000Z
-:card-last-reviewed: 2022-10-11T00:36:20.168Z
-:card-last-score: 1
+:card-last-interval: 7.31
+:card-repeats: 2
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-19T06:50:19.422Z
+:card-last-reviewed: 2022-10-11T23:50:19.422Z
+:card-last-score: 5
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
@@ -155,12 +155,12 @@
 ** small chunks with frequent breaks
 * 怎样开始一个活动-transition planning #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.1
-:card-next-schedule: 2022-10-11T08:48:14.581Z
-:card-last-reviewed: 2022-10-07T02:48:14.581Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-12T16:00:00.000Z
+:card-last-reviewed: 2022-10-11T23:50:02.348Z
+:card-last-score: 1
 :END:
 ** stop other activities
 ** review 2-3 rules this child need to follow in the next activity
@@ -169,12 +169,12 @@
 ** review the activity: what do you think, how did you do,  how can we do better
 * 如果孩子不在身边如何管理？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T16:00:00.000Z
-:card-last-reviewed: 2022-10-11T00:37:18.350Z
-:card-last-score: 1
+:card-last-interval: 7.31
+:card-repeats: 2
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-19T06:50:43.107Z
+:card-last-reviewed: 2022-10-11T23:50:43.107Z
+:card-last-score: 5
 :END:
 ** behavior monitoring card
 ** 请一个成人帮助打分

@@ -98,12 +98,12 @@
 *** 几乎永久
 ** 问题涉及的范围如何影响间隔重复的效率？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 48.64
-:card-repeats: 5
-:card-ease-factor: 2.28
-:card-next-schedule: 2022-10-11T16:07:23.644Z
-:card-last-reviewed: 2022-08-24T01:07:23.644Z
-:card-last-score: 3
+:card-last-interval: 132.66
+:card-repeats: 6
+:card-ease-factor: 2.38
+:card-next-schedule: 2023-02-21T14:51:02.291Z
+:card-last-reviewed: 2022-10-11T23:51:02.291Z
+:card-last-score: 5
 :END:
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
@@ -187,12 +187,12 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: 40.96
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.2
-:card-next-schedule: 2022-10-11T00:50:28.469Z
-:card-last-reviewed: 2022-08-31T01:50:28.469Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-12T16:00:00.000Z
+:card-last-reviewed: 2022-10-11T23:44:40.472Z
+:card-last-score: 1
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
@@ -225,11 +225,11 @@
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-10-11T08:47:07.816Z
-:card-last-reviewed: 2022-10-07T02:47:07.816Z
+:card-last-interval: 13.12
+:card-repeats: 3
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-10-25T01:49:54.725Z
+:card-last-reviewed: 2022-10-11T23:49:54.725Z
 :card-last-score: 5
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
@@ -338,11 +338,11 @@
 ** 知道一个「概念」所指何物，与高中闪卡式的知识（例如「意大利语 “correre” 等于 “跑步” 」）不同。想要内化它，你需要了解组成概念的*元素*以及元素之间形成的*结构*。因此对于这类知识，你的目标是设计一套卡片，联合起来，一起框定「高汤」这个概念。
 ** 要写关于概念的特征与趋向的卡片，应该识别什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-11T05:45:23.322Z
-:card-last-reviewed: 2022-10-07T02:45:23.323Z
+:card-last-interval: 13.2
+:card-repeats: 3
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-10-25T03:49:33.431Z
+:card-last-reviewed: 2022-10-11T23:49:33.431Z
 :card-last-score: 5
 :END:
 *** 哪些断言或描述「永远」/「有时」/ 「永不」为真？
@@ -380,11 +380,11 @@
 *** 「什么时候」用它？
 ** 重要性和影响：写卡使得概念具有 {{cloze 个人意义}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-10-11T05:17:38.285Z
-:card-last-reviewed: 2022-10-07T02:17:38.285Z
+:card-last-interval: 13.7
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-10-25T15:49:07.345Z
+:card-last-reviewed: 2022-10-11T23:49:07.345Z
 :card-last-score: 5
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS

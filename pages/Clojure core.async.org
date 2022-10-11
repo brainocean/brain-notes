@@ -18,12 +18,12 @@
 #+END_SRC
 * core.async里面的put/take的parking, blocking的变体的区别是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 96.02
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-11T00:55:29.569Z
-:card-last-reviewed: 2022-07-07T00:55:29.569Z
-:card-last-score: 5
+:card-last-interval: 373
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-10-19T23:45:39.501Z
+:card-last-reviewed: 2022-10-11T23:45:39.501Z
+:card-last-score: 3
 :END:
 ** blocking(两个感叹号)会停止当前线程的运行，等待某个其他任务完成;
 parking(一个感叹号)不会停止当前线程运行，而是允许调度另一个process在当前线程上继续运行
@@ -33,11 +33,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/thread的用途是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.5
-:card-next-schedule: 2022-10-11T02:46:41.443Z
-:card-last-reviewed: 2022-10-07T02:46:41.443Z
+:card-last-interval: 14.4
+:card-repeats: 3
+:card-ease-factor: 3.6
+:card-next-schedule: 2022-10-26T08:48:01.518Z
+:card-last-reviewed: 2022-10-11T23:48:01.518Z
 :card-last-score: 5
 :END:
 ** thread会创建一个channel，当thread的处理结束的时候，处理的结果值会被put到thread创建的channel中
@@ -56,11 +56,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/alt!的主要作用是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 96.02
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-10-11T00:55:14.669Z
-:card-last-reviewed: 2022-07-07T00:55:14.669Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-12T16:00:00.000Z
+:card-last-reviewed: 2022-10-11T23:45:12.073Z
+:card-last-score: 1
 :END:
 ** alt!和alt!!在一组channel上面take，返回第一个提供消息的channel和它提供的值[value channel]
