@@ -6,11 +6,11 @@
 ** Self-regulation -- the action you can do to *yourself* to change your behavior
 * ADHD患者在自我控制方面平均落后正常发育时间 {{cloze 30%}}，所以12岁的对比年龄是8.4岁 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:06:37.851Z
-:card-last-reviewed: 2022-09-05T01:06:37.851Z
+:card-last-interval: 172.86
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-04-01T20:37:10.504Z
+:card-last-reviewed: 2022-10-11T00:37:10.505Z
 :card-last-score: 5
 :END:
 * ADHD是由于*基因*造成的神经性紊乱
@@ -43,12 +43,12 @@
 ** 所以缺失了做好准备的能力，造成一个接一个的危机
 * 大脑可以分成前后两个部分，后部是 {{cloze 学习知识}}的，而前部是 {{cloze 应用知识}}的，ADHD割裂了这两部分，从而导致 {{cloze 执行功能的低下}}，所以重点不在多学更多的知识和技能，而是 {{cloze 如何应用}}(put more time on point of performance) #card #ADHD
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:05:55.581Z
-:card-last-reviewed: 2022-09-05T01:05:55.582Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-11T16:00:00.000Z
+:card-last-reviewed: 2022-10-11T00:36:20.168Z
+:card-last-score: 1
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
@@ -169,12 +169,12 @@
 ** review the activity: what do you think, how did you do,  how can we do better
 * 如果孩子不在身边如何管理？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:06:44.100Z
-:card-last-reviewed: 2022-09-05T01:06:44.101Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-11T16:00:00.000Z
+:card-last-reviewed: 2022-10-11T00:37:18.350Z
+:card-last-score: 1
 :END:
 ** behavior monitoring card
 ** 请一个成人帮助打分

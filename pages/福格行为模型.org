@@ -76,12 +76,12 @@
 ** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
 * 行为的焦点地图的两个维度是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.55
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.46
-:card-next-schedule: 2022-10-10T15:19:33.540Z
-:card-last-reviewed: 2022-10-07T02:19:33.540Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-11T16:00:00.000Z
+:card-last-reviewed: 2022-10-11T00:35:22.065Z
+:card-last-score: 1
 :END:
 ** 对愿望的影响程度的高低
 ** 做到这个行为的难易程度
@@ -126,11 +126,11 @@
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计对的提示的步骤 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.84
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-10-10T22:46:22.994Z
-:card-last-reviewed: 2022-10-07T02:46:22.994Z
+:card-last-interval: 6.64
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-10-17T15:35:58.272Z
+:card-last-reviewed: 2022-10-11T00:35:58.272Z
 :card-last-score: 5
 :END:
 ** 步骤1，确定你的锚点

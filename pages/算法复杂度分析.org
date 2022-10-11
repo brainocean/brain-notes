@@ -15,11 +15,11 @@
 * 级数求和
 ** 算术级数:  {{cloze 与末项平方同阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:06:52.524Z
-:card-last-reviewed: 2022-09-05T01:06:52.525Z
+:card-last-interval: 172.86
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-04-01T20:37:27.567Z
+:card-last-reviewed: 2022-10-11T00:37:27.567Z
 :card-last-score: 5
 :END:
 *** $$T(n) = 1+2+3+ \dots + n = n(n+1)/2 = O(n^2)$$
@@ -79,11 +79,11 @@
 * 常见循环算法复杂度
 ** n*n循环复杂度 #card #DSA
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:06:05.149Z
-:card-last-reviewed: 2022-09-05T01:06:05.150Z
+:card-last-interval: 172.86
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-04-01T20:36:34.926Z
+:card-last-reviewed: 2022-10-11T00:36:34.926Z
 :card-last-score: 5
 :END:
 *** #+BEGIN_SRC c++
@@ -95,11 +95,11 @@ for(int i=0; i<n; i++)
 *** [[../assets/n-square_1660619697242_0.png]]
 ** n*(n-1)/2循环复杂度  #card #DSA
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:06:30.934Z
-:card-last-reviewed: 2022-09-05T01:06:30.935Z
+:card-last-interval: 172.86
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-04-01T20:37:02.367Z
+:card-last-reviewed: 2022-10-11T00:37:02.367Z
 :card-last-score: 5
 :END:
 *** #+BEGIN_SRC c++
@@ -129,11 +129,11 @@ for(int i=0; i<n; i<<1)
 ** 递归跟踪——罗列所有递归实例，单个递归实例的复杂度(包括递归函数调用的O(1))，累积起来即为算法的复杂度
 ** 减而治之和分而治之的比较 #card #DSA
 :PROPERTIES:
-:card-last-interval: 35.99
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-11T00:07:02.869Z
-:card-last-reviewed: 2022-09-05T01:07:02.870Z
+:card-last-interval: 172.86
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-04-01T20:37:35.842Z
+:card-last-reviewed: 2022-10-11T00:37:35.842Z
 :card-last-score: 5
 :END:
 *** 都是分为两部分，再合并结果
