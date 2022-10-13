@@ -56,11 +56,11 @@ parking(一个感叹号)不会停止当前线程运行，而是允许调度另�
 #+END_SRC
 * core.async/alt!的主要作用是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-12T16:00:00.000Z
-:card-last-reviewed: 2022-10-11T23:45:12.073Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-10-17T06:51:41.504Z
+:card-last-reviewed: 2022-10-13T00:51:41.504Z
+:card-last-score: 5
 :END:
 ** alt!和alt!!在一组channel上面take，返回第一个提供消息的channel和它提供的值[value channel]

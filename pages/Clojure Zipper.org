@@ -36,12 +36,12 @@
 ** Anything that has nodes and child nodes  (z/zipper ... root)
 * 在Zipper中访问节点的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 31.34
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-12T10:00:43.804Z
-:card-last-reviewed: 2022-09-11T02:00:43.804Z
-:card-last-score: 5
+:card-last-interval: 68.21
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-12-20T05:51:18.704Z
+:card-last-reviewed: 2022-10-13T00:51:18.704Z
+:card-last-score: 3
 :END:
 ** root, node, children, lefts, rights, branch?, path
 * 在Zipper中在树中移动的函数有哪些？ #card #clojure
