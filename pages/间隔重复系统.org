@@ -442,12 +442,12 @@
 ** 当你能 {{cloze 产生很多不同反应}} 的时候才可能制作创意卡
 ** 什么样的知识会被创意卡通过提取效应加强？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 36.11
-:card-repeats: 4
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-10-13T09:00:48.327Z
-:card-last-reviewed: 2022-09-07T07:00:48.327Z
-:card-last-score: 5
+:card-last-interval: 114.19
+:card-repeats: 5
+:card-ease-factor: 2.92
+:card-next-schedule: 2023-02-05T04:37:29.454Z
+:card-last-reviewed: 2022-10-14T00:37:29.455Z
+:card-last-score: 3
 :END:
 *** 在生成新答案持续被用到的知识
 ** 知道 idea 能解决什么问题，不等于解决问题时知道用什么 idea
