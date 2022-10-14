@@ -6,6 +6,7 @@
 :card-next-schedule: 2022-10-15T03:38:44.817Z
 :card-last-reviewed: 2022-10-11T23:38:44.817Z
 :card-last-score: 5
+:title: 数据结构-树
 :END:
 ** $$e = \sum_{r \in V} degree(r) = n - 1 = \Theta(n) $$
 * 什么是有序树？ #card #DSA
