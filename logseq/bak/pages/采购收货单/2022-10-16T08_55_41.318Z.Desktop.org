@@ -23,32 +23,32 @@
 ** 在使用永续盘存时，创建采购收货单会触发会计交易
 * 采购收货单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: 793.4
-:card-repeats: 6
-:card-ease-factor: 3.1
-:card-next-schedule: 2024-12-15T09:36:36.973Z
-:card-last-reviewed: 2022-10-14T00:36:36.973Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-13T02:14:44.563Z
+:card-last-reviewed: 2022-07-09T02:14:44.564Z
 :card-last-score: 5
 :END:
 ** 采购收货单在添加之后便无法修改，它会同时触发库存交易，增加存货量，减少订购量
 * 如果供应商交付物料数量过少应该怎么办？ #card #B1
 :PROPERTIES:
-:card-last-interval: 793.4
-:card-repeats: 6
-:card-ease-factor: 3.1
-:card-next-schedule: 2024-12-18T09:59:10.101Z
-:card-last-reviewed: 2022-10-17T00:59:10.101Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:08:42.108Z
+:card-last-reviewed: 2022-07-12T02:08:42.108Z
 :card-last-score: 5
 :END:
 ** 只为交付那部分物料创建采购收货单
 ** 将来继续收到其他物料，创建相应的采购收货单
 * 如果供应商交付物料数量过多应该怎么办？ #card #B1
 :PROPERTIES:
-:card-last-interval: 793.4
-:card-repeats: 6
-:card-ease-factor: 3.1
-:card-next-schedule: 2024-12-18T09:58:45.085Z
-:card-last-reviewed: 2022-10-17T00:58:45.085Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:07:54.531Z
+:card-last-reviewed: 2022-07-12T02:07:54.531Z
 :card-last-score: 5
 :END:
 ** 在采购收货单中反映实际交货数量

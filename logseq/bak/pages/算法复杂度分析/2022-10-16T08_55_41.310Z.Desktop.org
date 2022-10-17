@@ -1,10 +1,10 @@
 * 算法复杂度分析的常用方法 #card #DSA
 :PROPERTIES:
-:card-last-interval: 12.41
-:card-repeats: 3
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-19T15:45:54.654Z
-:card-last-reviewed: 2022-09-07T06:45:54.655Z
+:card-last-interval: 57.86
+:card-repeats: 4
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-16T20:55:19.228Z
+:card-last-reviewed: 2022-09-20T00:55:19.229Z
 :card-last-score: 5
 :END:
 ** 迭代/循环算法——级数求和
@@ -25,12 +25,12 @@
 *** $$T(n) = 1+2+3+ \dots + n = n(n+1)/2 = O(n^2)$$
 ** 幂方级数： {{cloze 比幂次高出一阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-14T16:00:00.000Z
-:card-last-reviewed: 2022-09-14T00:17:09.719Z
-:card-last-score: 1
+:card-last-interval: 20.76
+:card-repeats: 3
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-10-11T18:26:15.365Z
+:card-last-reviewed: 2022-09-21T00:26:15.366Z
+:card-last-score: 5
 :END:
 *** $$ T_2(n) = 1^2 + 2^2 + \dots + n^2 = n(n+1)(2n+1)/6 = O(n^3)$$
 *** $$T_3(n) = 1^3 + 2^3 + \dots + n^3 = n^2(n+1)^2/4 = O(n^4)$$
@@ -38,11 +38,11 @@
 *** 推而广之，$T_d(n)=O(n^{d+1})$
 ** 几何级数： {{cloze 与末项同阶}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-17T14:56:07.628Z
-:card-last-reviewed: 2022-09-13T00:56:07.628Z
+:card-last-interval: 19.29
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-07T07:37:47.863Z
+:card-last-reviewed: 2022-09-18T01:37:47.863Z
 :card-last-score: 5
 :END:
 *** $$T_a(n)=a^0 + a^1 + a^2 + \dots + a^n = (a^{n+1}-1)/(a-1) = O(a^n)$$
@@ -68,11 +68,11 @@
 *** $$h(n) = 1+1/2+1/3+ \dots + 1/n = \Theta(logn)$$
 ** 对数级数 #card #DSA
 :PROPERTIES:
-:card-last-interval: 12.41
-:card-repeats: 3
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-09-19T15:45:30.020Z
-:card-last-reviewed: 2022-09-07T06:45:30.020Z
+:card-last-interval: 57.86
+:card-repeats: 4
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-16T20:54:58.741Z
+:card-last-reviewed: 2022-09-20T00:54:58.741Z
 :card-last-score: 5
 :END:
 *** $$log1 + log2 + \dots + logn = log(n!) = \Theta(nlogn)$$
@@ -144,11 +144,11 @@ for(int i=0; i<n; i<<1)
 *** 一般性求解得出[[Master Theorem]]
 *** 常见递推式和复杂度的解 #card #DSA
 :PROPERTIES:
-:card-last-interval: 8.72
-:card-repeats: 3
-:card-ease-factor: 2.18
-:card-next-schedule: 2022-09-20T18:14:03.378Z
-:card-last-reviewed: 2022-09-12T01:14:03.379Z
+:card-last-interval: 16.65
+:card-repeats: 4
+:card-ease-factor: 2.04
+:card-next-schedule: 2022-10-07T15:33:01.809Z
+:card-last-reviewed: 2022-09-21T00:33:01.810Z
 :card-last-score: 3
 :END:
 **** | 递推式 | 解 | 实例 |

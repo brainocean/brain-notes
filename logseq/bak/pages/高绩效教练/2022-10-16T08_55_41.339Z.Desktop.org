@@ -46,21 +46,21 @@
 *** 最好表达成“是什么原因......”
 ** 什么词语可以替换必要的“如何”问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 23.53
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-28T12:54:57.616Z
-:card-last-reviewed: 2022-10-05T00:54:57.616Z
+:card-last-interval: 4.25
+:card-repeats: 2
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-03T06:30:17.377Z
+:card-last-reviewed: 2022-09-29T00:30:17.377Z
 :card-last-score: 5
 :END:
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 26.1
+:card-last-interval: 11.2
 :card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-07T01:49:47.769Z
-:card-last-reviewed: 2022-10-11T23:49:47.769Z
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-30T05:29:27.933Z
+:card-last-reviewed: 2022-09-19T01:29:27.933Z
 :card-last-score: 5
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
@@ -90,11 +90,11 @@
 * 积极倾听
 ** 为什么要对教练对象的回答保持关注？ #card #教练
 :PROPERTIES:
-:card-last-interval: 50.95
-:card-repeats: 4
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-12-06T22:58:35.957Z
-:card-last-reviewed: 2022-10-17T00:58:35.957Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:30:09.680Z
+:card-last-reviewed: 2022-09-29T00:30:09.680Z
 :card-last-score: 5
 :END:
 *** 如果这种关注不发生，信任就会消失，教练也就不会知道接下来的好问题是什么。
@@ -112,23 +112,23 @@
 *** 身体语言
 ** 为什么总结谈话的要点很重要？ #card #教练
 :PROPERTIES:
-:card-last-interval: 28.3
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-11-02T07:18:15.467Z
-:card-last-reviewed: 2022-10-05T00:18:15.467Z
-:card-last-score: 3
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-09-30T05:30:13.339Z
+:card-last-reviewed: 2022-09-19T01:30:13.340Z
+:card-last-score: 5
 :END:
 *** 保证正确的理解
 *** 让教练对象放心地知道，他被完全地听到和理解了
 *** 让教练对象有第2次机会核实他所说的真实性
 ** 哪些技巧可以表明你正在专心倾听并建立觉察？ #card #教练
 :PROPERTIES:
-:card-last-interval: 27.07
-:card-repeats: 4
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-10T01:40:03.243Z
-:card-last-reviewed: 2022-10-14T00:40:03.244Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-09-30T01:23:09.810Z
+:card-last-reviewed: 2022-09-26T01:23:09.810Z
 :card-last-score: 5
 :END:
 *** {{cloze 重述/镜像}} —— 重述对方的原话

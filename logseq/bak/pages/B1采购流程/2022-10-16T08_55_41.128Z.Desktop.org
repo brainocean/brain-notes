@@ -1,0 +1,37 @@
+* 完整B1采购流程都有哪些主要步骤？ #card #B1
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 5
+:card-next-schedule: 2025-01-26T19:09:55.159Z
+:card-last-interval: 894.79
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-08-16T01:09:55.160Z
+:END:
+** 协商和签订[[采购订单]]
+** 收货和创建[[采购收货单]]
+** 开具[[应付帐款发票]]
+** [[file:./向供应商付款.org][向供应商付款]]
+* 采购流程中的关键主数据有哪些？ #card #B1
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 5
+:card-next-schedule: 2022-10-10T01:07:18.539Z
+:card-last-interval: 96.02
+:card-ease-factor: 3
+:card-last-reviewed: 2022-07-06T01:07:18.540Z
+:END:
+** 供应商主数据
+** 物料主数据
+* 对于紧急订货的精简采购流程跳过了哪些步骤？ #card #B1
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 6
+:card-next-schedule: 2023-03-17T23:00:30.439Z
+:card-last-interval: 194.95
+:card-ease-factor: 2.62
+:card-last-reviewed: 2022-09-04T01:00:30.440Z
+:END:
+** 跳过协商和签订[[采购订单]]
+** 跳过创建[[采购收货单]]
+** 在精简采购流程中，[[应付账款发票]]是唯一必需的凭证。
+* 采购流程中或完成后，可能会[[退换货]]

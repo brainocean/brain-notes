@@ -28,11 +28,11 @@
 ** 如何进行目标的设定能够怎样促进责任感的确立？ #card #教练
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-12-23T03:25:17.957Z
-:card-last-interval: 75.16
-:card-ease-factor: 3
-:card-last-reviewed: 2022-10-09T00:25:17.957Z
+:card-repeats: 3
+:card-next-schedule: 2022-10-08T06:23:42.544Z
+:card-last-interval: 12.24
+:card-ease-factor: 2.9
+:card-last-reviewed: 2022-09-26T01:23:42.544Z
 :END:
 *** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 ** 目标的SMART原则包括什么？ #card #教练
@@ -61,12 +61,12 @@
 :END:
 ** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
 :PROPERTIES:
-:card-last-interval: 26.14
-:card-repeats: 4
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-10-31T03:39:02.636Z
-:card-last-reviewed: 2022-10-05T00:39:02.636Z
-:card-last-score: 5
+:card-last-interval: 10.02
+:card-repeats: 3
+:card-ease-factor: 2.42
+:card-next-schedule: 2022-10-02T00:59:56.788Z
+:card-last-reviewed: 2022-09-22T00:59:56.788Z
+:card-last-score: 3
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
@@ -80,11 +80,11 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: 15.03
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-26T23:48:37.063Z
-:card-last-reviewed: 2022-10-11T23:48:37.063Z
+:card-last-interval: 3.28
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:30:53.064Z
+:card-last-reviewed: 2022-09-29T00:30:53.064Z
 :card-last-score: 5
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
@@ -128,23 +128,23 @@
 **** “如果你知道答案/拥有足够资源?事情会怎样?”
 ** 跳出熟悉视角的拓展创造力的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
+:card-last-interval: 27.96
+:card-repeats: 4
 :card-ease-factor: 2.56
-:card-next-schedule: 2022-10-17T16:00:00.000Z
-:card-last-reviewed: 2022-10-17T01:00:29.382Z
-:card-last-score: 1
+:card-next-schedule: 2022-10-17T00:33:13.243Z
+:card-last-reviewed: 2022-09-19T01:33:13.244Z
+:card-last-score: 3
 :END:
 *** “如果你是领导者，你会怎么做?”
 *** “想想你最敬佩的领导者，他们会怎么做?”
 *** “超级某某会如何做呢?”
 ** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
+:card-last-interval: 3.28
 :card-repeats: 2
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-18T03:39:05.876Z
-:card-last-reviewed: 2022-10-14T00:39:05.876Z
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-02T06:31:07.954Z
+:card-last-reviewed: 2022-09-29T00:31:07.954Z
 :card-last-score: 5
 :END:
 *** 随机罗列，避免过早的划分优先级
@@ -164,12 +164,12 @@
 *** 第二步:跟进与反馈。回顾任务进展，探讨学习反馈。
 ** 建立责任担当意味着什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 15.03
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-26T23:47:24.824Z
-:card-last-reviewed: 2022-10-11T23:47:24.825Z
-:card-last-score: 5
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-09-30T01:21:49.641Z
+:card-last-reviewed: 2022-09-26T01:21:49.641Z
+:card-last-score: 3
 :END:
 *** 要求^^教练对象^^具体定义他们将要^^做什么^^，^^什么时候^^会做，然后^^信任^^他们会那样做。
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤

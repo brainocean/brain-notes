@@ -1,11 +1,11 @@
 * 英文：Period-end Closing
 * 期末关账的主要目的是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 12.67
-:card-repeats: 3
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-10-17T16:55:40.713Z
-:card-last-reviewed: 2022-10-05T00:55:40.714Z
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-10-03T23:34:28.705Z
+:card-last-reviewed: 2022-09-29T23:34:28.706Z
 :card-last-score: 5
 :END:
 ** 主要目的是准备科目以提交至相关管理部门
@@ -13,11 +13,11 @@
 *** 以便下一期间可重新开始收集与之相关的损益数据
 * 期末关账需要执行哪些任务？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3.4
-:card-next-schedule: 2022-10-21T06:54:57.657Z
-:card-last-reviewed: 2022-10-17T00:54:57.658Z
+:card-last-interval: 43.56
+:card-repeats: 4
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-10-13T14:52:35.148Z
+:card-last-reviewed: 2022-08-31T01:52:35.149Z
 :card-last-score: 5
 :END:
 ** 首先，将过账期间状态更改为关账期间(Closing Period)
@@ -64,12 +64,12 @@
 *** 当您执行期末关账时，系统会生成关账分录的建议列表。您可以分别接受每项建议。
 * 期间的状态有哪些？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.28
-:card-repeats: 3
-:card-ease-factor: 2.82
-:card-next-schedule: 2022-10-28T07:00:07.261Z
-:card-last-reviewed: 2022-10-17T01:00:07.261Z
-:card-last-score: 5
+:card-last-interval: 71.94
+:card-repeats: 5
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-10-11T23:35:16.934Z
+:card-last-reviewed: 2022-08-01T01:35:16.935Z
+:card-last-score: 3
 :END:
 ** 已解锁
 ** 除销售外均已解锁
