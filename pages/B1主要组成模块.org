@@ -1,10 +1,10 @@
 * B1的主要组成模块有哪些？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-17T03:52:56.072Z
-:card-last-reviewed: 2022-10-13T00:52:56.073Z
+:card-last-interval: 10.88
+:card-repeats: 3
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-10-28T21:33:39.824Z
+:card-last-reviewed: 2022-10-18T00:33:39.824Z
 :card-last-score: 3
 :END:
 ** 财务控制 Financial Controlling

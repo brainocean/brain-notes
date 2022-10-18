@@ -131,8 +131,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.56
-:card-next-schedule: 2022-10-17T16:00:00.000Z
-:card-last-reviewed: 2022-10-17T01:00:29.382Z
+:card-next-schedule: 2022-10-18T16:00:00.000Z
+:card-last-reviewed: 2022-10-18T00:36:54.925Z
 :card-last-score: 1
 :END:
 *** “如果你是领导者，你会怎么做?”
@@ -175,12 +175,12 @@
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤
 ** 建立责任担当的关键问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 27.96
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.56
-:card-next-schedule: 2022-10-17T23:56:27.980Z
-:card-last-reviewed: 2022-09-20T00:56:27.980Z
-:card-last-score: 3
+:card-next-schedule: 2022-10-18T16:00:00.000Z
+:card-last-reviewed: 2022-10-18T00:38:23.109Z
+:card-last-score: 1
 :END:
 *** 你将要做什么? —— 明确的方案
 *** 什么时候做? —— 具体的日期和时间

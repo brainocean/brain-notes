@@ -16,10 +16,10 @@
 :PROPERTIES:
 :card-last-score: 1
 :card-repeats: 1
-:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-next-schedule: 2022-10-18T16:00:00.000Z
 :card-last-interval: -1
 :card-ease-factor: 3.5
-:card-last-reviewed: 2022-10-17T00:53:28.315Z
+:card-last-reviewed: 2022-10-18T00:36:14.822Z
 :END:
 ** 可售库存量会随订单中的数量而减少
 * 为了支持自动化销售流程，在销售订单中输入物料和数量时，即完成了自动[[物料可用性检查]]

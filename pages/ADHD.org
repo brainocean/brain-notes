@@ -155,11 +155,11 @@
 ** small chunks with frequent breaks
 * 怎样开始一个活动-transition planning #card #ADHD
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-17T06:53:43.854Z
-:card-last-reviewed: 2022-10-13T00:53:43.854Z
+:card-last-interval: 13.2
+:card-repeats: 3
+:card-ease-factor: 3.3
+:card-next-schedule: 2022-10-31T04:33:57.870Z
+:card-last-reviewed: 2022-10-18T00:33:57.870Z
 :card-last-score: 5
 :END:
 ** stop other activities
