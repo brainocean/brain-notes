@@ -126,23 +126,23 @@
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计对的提示的步骤 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-10-18T16:00:00.000Z
-:card-last-reviewed: 2022-10-18T00:35:24.567Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-10-23T00:47:44.614Z
+:card-last-reviewed: 2022-10-19T00:47:44.614Z
+:card-last-score: 5
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来
 ** 步骤3，利用“最后动作”优化锚点
 * 确定锚点需要考虑的三个方面 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 9.45
-:card-repeats: 3
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-18T10:25:53.289Z
-:card-last-reviewed: 2022-10-09T00:25:53.289Z
+:card-last-interval: 18.9
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-11-06T21:46:42.122Z
+:card-last-reviewed: 2022-10-19T00:46:42.122Z
 :card-last-score: 5
 :END:
 ** 匹配物理位置、匹配频率、匹配主题/目的

@@ -128,23 +128,23 @@
 **** “如果你知道答案/拥有足够资源?事情会怎样?”
 ** 跳出熟悉视角的拓展创造力的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-18T16:00:00.000Z
-:card-last-reviewed: 2022-10-18T00:36:54.925Z
-:card-last-score: 1
+:card-last-interval: 4.03
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-23T00:48:15.103Z
+:card-last-reviewed: 2022-10-19T00:48:15.103Z
+:card-last-score: 5
 :END:
 *** “如果你是领导者，你会怎么做?”
 *** “想想你最敬佩的领导者，他们会怎么做?”
 *** “超级某某会如何做呢?”
 ** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-10-18T03:39:05.876Z
-:card-last-reviewed: 2022-10-14T00:39:05.876Z
+:card-last-interval: 14.05
+:card-repeats: 3
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-11-02T01:45:06.570Z
+:card-last-reviewed: 2022-10-19T00:45:06.571Z
 :card-last-score: 5
 :END:
 *** 随机罗列，避免过早的划分优先级
@@ -175,16 +175,16 @@
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤
 ** 建立责任担当的关键问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.56
-:card-next-schedule: 2022-10-18T16:00:00.000Z
-:card-last-reviewed: 2022-10-18T00:38:23.109Z
-:card-last-score: 1
+:card-last-interval: 4.03
+:card-repeats: 2
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-23T00:47:24.537Z
+:card-last-reviewed: 2022-10-19T00:47:24.538Z
+:card-last-score: 5
 :END:
 *** 你将要做什么? —— 明确的方案
 *** 什么时候做? —— 具体的日期和时间
-*** 我们怎么才能知道你做了？ 谁需要知道？
+*** 如何验证做的结果？我们怎么才能知道你做了？ 谁需要知道？
 ** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
 :card-last-interval: 39.41

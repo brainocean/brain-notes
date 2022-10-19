@@ -79,12 +79,12 @@
 :END:
 ** 如果卡片产生不一致的答案，未被提取到的记忆将会被 {{cloze 抑制}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.25
-:card-repeats: 3
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-18T06:16:17.933Z
-:card-last-reviewed: 2022-10-05T00:16:17.933Z
-:card-last-score: 5
+:card-last-interval: 38.7
+:card-repeats: 4
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-11-26T16:45:37.273Z
+:card-last-reviewed: 2022-10-19T00:45:37.273Z
+:card-last-score: 3
 :END:
 ** SRS期望你在隔上多久之后，依然能在重复时正确回答卡片？ #card #SRS
 :PROPERTIES:
@@ -108,11 +108,11 @@
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.2
-:card-repeats: 3
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-10-18T04:54:34.659Z
-:card-last-reviewed: 2022-10-05T00:54:34.659Z
+:card-last-interval: 47.46
+:card-repeats: 4
+:card-ease-factor: 3.4
+:card-next-schedule: 2022-12-05T11:45:10.337Z
+:card-last-reviewed: 2022-10-19T00:45:10.337Z
 :card-last-score: 5
 :END:
 ** 为何不能让你从卡面直接推导出答案？ #card #SRS
@@ -316,22 +316,22 @@
 :END:
 ** 为了强调程序中散装的细节，应该辨识什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.16
-:card-next-schedule: 2022-10-18T16:00:00.000Z
-:card-last-reviewed: 2022-10-18T00:34:21.318Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.26
+:card-next-schedule: 2022-10-23T00:46:50.239Z
+:card-last-reviewed: 2022-10-19T00:46:50.240Z
+:card-last-score: 5
 :END:
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 36.11
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.06
-:card-next-schedule: 2022-10-18T03:23:19.497Z
-:card-last-reviewed: 2022-09-12T01:23:19.498Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-19T16:00:00.000Z
+:card-last-reviewed: 2022-10-19T00:44:32.699Z
+:card-last-score: 1
 :END:
 *** 步骤启动、停止的条件或者启发式
 * 概念性知识
