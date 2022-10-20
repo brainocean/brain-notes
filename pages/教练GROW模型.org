@@ -14,12 +14,12 @@
 * 关于目标设定
 ** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 21.74
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.42
-:card-next-schedule: 2022-10-19T17:22:11.610Z
-:card-last-reviewed: 2022-09-28T00:22:11.610Z
-:card-last-score: 3
+:card-next-schedule: 2022-10-20T16:00:00.000Z
+:card-last-reviewed: 2022-10-20T00:08:10.442Z
+:card-last-score: 1
 :END:
 *** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
 *** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？

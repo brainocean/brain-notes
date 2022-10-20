@@ -326,12 +326,12 @@
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-10-19T16:00:00.000Z
-:card-last-reviewed: 2022-10-19T00:44:32.699Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 3.16
+:card-next-schedule: 2022-10-24T06:05:47.644Z
+:card-last-reviewed: 2022-10-20T00:05:47.644Z
+:card-last-score: 5
 :END:
 *** 步骤启动、停止的条件或者启发式
 * 概念性知识

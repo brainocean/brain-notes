@@ -137,12 +137,12 @@
 *** {{cloze 澄清}} —— 简要说明重点和核心，并添加有价值的内容，例如体现在表情、姿势、情绪里面的内容：“听上去好像……”，“我感觉你……”
 ** 怎样让教练对象乐于保持沟通？ #card #教练
 :PROPERTIES:
-:card-last-interval: 21.74
-:card-repeats: 4
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-10-19T17:22:43.774Z
-:card-last-reviewed: 2022-09-28T00:22:43.774Z
-:card-last-score: 3
+:card-last-interval: 68.21
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-12-27T05:08:46.385Z
+:card-last-reviewed: 2022-10-20T00:08:46.386Z
+:card-last-score: 5
 :END:
 *** {{cloze 不评判、不批评}} —— 保持开放的心态，评判和批评会让人产生防御心理，不愿交流
 *** {{cloze 倾听潜能}} —— 关注对象的能力和优势，而不是过去的表现或将其视为问题。如果没有限制，他会释放怎样的潜能？
