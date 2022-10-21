@@ -10,12 +10,12 @@
 ** $$e = \sum_{r \in V} degree(r) = n - 1 = \Theta(n) $$
 * 什么是有序树？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 3.67
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-10-20T16:55:53.724Z
-:card-last-reviewed: 2022-10-17T00:55:53.724Z
-:card-last-score: 3
+:card-last-interval: 9.35
+:card-repeats: 3
+:card-ease-factor: 2.56
+:card-next-schedule: 2022-10-30T08:37:12.066Z
+:card-last-reviewed: 2022-10-21T00:37:12.066Z
+:card-last-score: 5
 :END:
 ** 兄弟节点之间定义了次序的树
 * 什么是真二叉树？ #card #DSA

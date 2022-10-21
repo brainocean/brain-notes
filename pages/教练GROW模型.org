@@ -1,10 +1,10 @@
 * GROW模型包含哪些内容？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:32:03.074Z
-:card-last-reviewed: 2022-09-19T01:32:03.075Z
+:card-last-interval: 187.43
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-04-26T10:33:45.917Z
+:card-last-reviewed: 2022-10-21T00:33:45.918Z
 :card-last-score: 5
 :END:
 ** Goal —— 设定教练对话的目标，以及设定教练的短期、长期目标。“你想要什么？”
@@ -14,12 +14,12 @@
 * 关于目标设定
 ** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-10-20T16:00:00.000Z
-:card-last-reviewed: 2022-10-20T00:08:10.442Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.28
+:card-next-schedule: 2022-10-25T00:36:05.155Z
+:card-last-reviewed: 2022-10-21T00:36:05.155Z
+:card-last-score: 3
 :END:
 *** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
 *** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？
@@ -37,12 +37,12 @@
 *** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 ** 目标的SMART原则包括什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:33:28.511Z
-:card-last-reviewed: 2022-09-19T01:33:28.511Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-21T16:00:00.000Z
+:card-last-reviewed: 2022-10-21T00:35:08.144Z
+:card-last-score: 1
 :END:
 *** Specific —— 具体的
 *** Measurable —— 可衡量的
@@ -52,11 +52,11 @@
 * 关于探索现状
 ** 检查现状最重要的一个标准就是 {{cloze 客观性}} #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:31:35.195Z
-:card-last-reviewed: 2022-09-19T01:31:35.195Z
+:card-last-interval: 187.43
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-04-26T10:33:15.622Z
+:card-last-reviewed: 2022-10-21T00:33:15.622Z
 :card-last-score: 5
 :END:
 ** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
@@ -70,12 +70,12 @@
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:32:54.303Z
-:card-last-reviewed: 2022-09-19T01:32:54.304Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-21T16:00:00.000Z
+:card-last-reviewed: 2022-10-21T00:34:35.592Z
+:card-last-score: 1
 :END:
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
@@ -116,11 +116,11 @@
 *** 在此阶段，选项的 {{cloze 数量}}比每个选项的 {{cloze 质量和可行性}}要重要得多。
 ** 如何遇到负面假设怎么办？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:31:42.730Z
-:card-last-reviewed: 2022-09-19T01:31:42.730Z
+:card-last-interval: 187.43
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-04-26T10:33:28.424Z
+:card-last-reviewed: 2022-10-21T00:33:28.424Z
 :card-last-score: 5
 :END:
 *** 提出这样的问题：
@@ -201,11 +201,11 @@
 ** 跟进核对而不是督查
 ** 为了把反馈当作一次学习的机会，可以问的关键问题是哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:32:18.818Z
-:card-last-reviewed: 2022-09-19T01:32:18.819Z
+:card-last-interval: 187.43
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-04-26T10:34:04.301Z
+:card-last-reviewed: 2022-10-21T00:34:04.301Z
 :card-last-score: 5
 :END:
 *** 发生了什么?

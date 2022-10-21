@@ -1,10 +1,10 @@
 * 教练的最重要的工作和关注点 #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:31:03.820Z
-:card-last-reviewed: 2022-09-19T01:31:03.820Z
+:card-last-interval: 187.43
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-04-26T10:32:56.208Z
+:card-last-reviewed: 2022-10-21T00:32:56.208Z
 :card-last-score: 5
 :END:
 ** 创建和提高不带评判的觉察
@@ -16,12 +16,12 @@
 ** 开放式问题要求描述性的答案，从而提升觉察
 ** 创建觉察和责任感最有效的问题应以什么词语开始？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-10-20T09:31:28.522Z
-:card-last-reviewed: 2022-09-19T01:31:28.523Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-21T16:00:00.000Z
+:card-last-reviewed: 2022-10-21T00:33:10.494Z
+:card-last-score: 1
 :END:
 *** 寻求量化或收集事实的词语开始，比 如“什么”“何时”“谁”“多少”。
 ** 为什么不建议使用“为什么”，“如何”来开始问题？ #card #教练
