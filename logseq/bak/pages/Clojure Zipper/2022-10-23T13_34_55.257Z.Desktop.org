@@ -1,0 +1,106 @@
+* 什么是Zipper? #card #clojure
+:PROPERTIES:
+:card-last-interval: 194.45
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-03-06T11:11:17.777Z
+:card-last-reviewed: 2022-08-24T01:11:17.778Z
+:card-last-score: 5
+:END:
+** zipper = tree + path
+*** some kind of tree-shaped data structure
+*** a pointer to a node within the tree
+* Zipper有什么用？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 39.93
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-21T23:13:10.723Z
+:card-last-reviewed: 2022-09-12T01:13:10.723Z
+:card-last-score: 5
+:END:
+** Move around in the tree
+** Modify the tree at your current location
+* Zipper tree的表现形式？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 194.45
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2023-03-06T11:11:13.451Z
+:card-last-reviewed: 2022-08-24T01:11:13.451Z
+:card-last-score: 5
+:END:
+** 嵌套vector (z/vector-zip v)
+** 嵌套sequence (z/seq-zip s)
+** XML文档 (z/xml-zip doc)
+** Anything that has nodes and child nodes  (z/zipper ... root)
+* 在Zipper中访问节点的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 31.34
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-12T10:00:43.804Z
+:card-last-reviewed: 2022-09-11T02:00:43.804Z
+:card-last-score: 5
+:END:
+** root, node, children, lefts, rights, branch?, path
+* 在Zipper中在树中移动的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 28.3
+:card-repeats: 4
+:card-ease-factor: 2.66
+:card-next-schedule: 2022-10-10T08:11:20.895Z
+:card-last-reviewed: 2022-09-12T01:11:20.895Z
+:card-last-score: 3
+:END:
+** down, up, left, right, leftmost, rightmost, root
+* 在Zipper中修改当前节点的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 39.93
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-21T23:11:39.440Z
+:card-last-reviewed: 2022-09-12T01:11:39.440Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+(replace loc "new value")  
+(edit loc assoc-in [:attrs :price] 2.9)  
+(remove loc) ;; 注意删除节点之后，回到深度优先遍历序的前一个节点位置  
+#+END_SRC
+* 在Zipper中添加节点的函数有哪些？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 39.93
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-21T23:11:55.023Z
+:card-last-reviewed: 2022-09-12T01:11:55.023Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+insert-left, insert-right  
+append-child ;;rightmost
+insert-child ;;leftmost
+#+END_SRC
+* 在Zipper中如何深度优先遍历一棵树？ #card #clojure
+:PROPERTIES:
+:card-last-interval: 39.93
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-21T23:13:03.392Z
+:card-last-reviewed: 2022-09-12T01:13:03.393Z
+:card-last-score: 5
+:END:
+** #+BEGIN_SRC clojure
+;; prev, next, end?  
+
+(def vz (z/vector-zip [[1 2] [3 [4 5] 6]]))
+(iterate z/next vz)  
+(z/end? (nth (iterate z/next vz) 9))
+;=> false
+(z/end? (nth (iterate z/next vz) 10))
+;=> true
+
+;; 注意，当遇到:end之后，调用prev不起作用，返回nil
+#+END_SRC
+* 请参考这个slides: [[https://arnebrasseur.net/talks/2018-clojure-zip-denver/][The Art of Tree Shaping with Zippers]]

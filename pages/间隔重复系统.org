@@ -316,12 +316,12 @@
 :END:
 ** 为了强调程序中散装的细节，应该辨识什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.26
-:card-next-schedule: 2022-10-23T00:46:50.239Z
-:card-last-reviewed: 2022-10-19T00:46:50.240Z
-:card-last-score: 5
+:card-last-interval: 12.48
+:card-repeats: 3
+:card-ease-factor: 3.12
+:card-next-schedule: 2022-11-05T11:51:04.803Z
+:card-last-reviewed: 2022-10-24T00:51:04.803Z
+:card-last-score: 3
 :END:
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS

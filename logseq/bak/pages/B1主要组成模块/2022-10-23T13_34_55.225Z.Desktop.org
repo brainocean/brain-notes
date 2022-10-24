@@ -1,0 +1,21 @@
+* B1的主要组成模块有哪些？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-11T00:56:26.894Z
+:card-last-reviewed: 2022-07-07T00:56:26.894Z
+:card-last-score: 5
+:END:
+** 财务控制 Financial Controlling
+** 采购 Purchasing
+** 收货物流 Inbound Logistics
+** 仓库管理 Warehouse Management
+** 生产 Production
+** 发货物流 Outbound Logistics
+** 营销和销售 Marketing and Sales
+** 服务 Service
+** 主数据 Master Data
+** 系统配置 System Configuration
+** [[../assets/b1-modules.gif]]
+** Analytics?

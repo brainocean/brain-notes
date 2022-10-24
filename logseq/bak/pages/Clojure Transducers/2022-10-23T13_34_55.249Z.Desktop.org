@@ -1,11 +1,11 @@
 * Reduce是最核心和基础的功能，map, filter等等都可以用reduce来完成
 * Reduce使用一个reducing function(rf)做每一步的处理，reducing function的结构是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-05-06T09:17:04.063Z
-:card-last-reviewed: 2022-04-28T01:17:04.070Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-02T01:07:27.065Z
+:card-last-reviewed: 2022-06-28T01:07:27.066Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -41,12 +41,12 @@
 #+END_SRC
 * What is a transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-10T01:05:41.287Z
-:card-last-reviewed: 2022-05-06T01:05:41.287Z
-:card-last-score: 3
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-07-25T11:00:18.630Z
+:card-last-reviewed: 2022-09-11T02:00:18.630Z
+:card-last-score: 5
 :END:
 ** A transducer (sometimes referred to as xform or xf) is a transformation from one reducing function to another
 ** #+BEGIN_SRC clojure
@@ -57,17 +57,17 @@
 ;; (whatever, input -> whatever) -> (whatever, input -> whatever)
 
 (transduce xform rf init coll)
-;; xform is transducer which transform rf(which is a reducing function) to another rf', 
+;; xform is transducer which transforms rf(which is a reducing function) to another rf', 
 ;; then transduce call reduces coll with rf'
 #+END_SRC
 * Transduce操作的三个重要组成部分都是哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-08T23:14:04.556Z
-:card-last-reviewed: 2022-05-04T23:14:04.556Z
-:card-last-score: 3
+:card-last-interval: 30.91
+:card-repeats: 4
+:card-ease-factor: 2.78
+:card-next-schedule: 2022-10-25T04:57:49.633Z
+:card-last-reviewed: 2022-09-24T07:57:49.634Z
+:card-last-score: 5
 :END:
 ** iteration -- 这个是由reduce API(由reducible thing实现)来负责
 ** accumulation -- 这个是由最初的reducing function来负责
@@ -75,12 +75,12 @@
 ** 这三个部分是互相正交的
 * 一个Transducer的代码结构是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-10T00:57:18.525Z
-:card-last-reviewed: 2022-05-06T00:57:18.525Z
-:card-last-score: 3
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-07-25T10:58:58.565Z
+:card-last-reviewed: 2022-09-11T01:58:58.565Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (def a-transducer
@@ -92,16 +92,16 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4.14
-:card-repeats: 2
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-05-10T04:07:28.178Z
-:card-last-reviewed: 2022-05-06T01:07:28.178Z
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-01T01:24:22.002Z
+:card-last-reviewed: 2022-06-27T01:24:22.003Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (eduction xform* coll)
-;; eduction创建了一个xform应用在coll上面的promise，当后面的reduce发生的时候，会实际执行xform
+;; eduction创建了多个xform应用在coll上面的promise，当后面的reduce发生的时候，会实际执行xform
 
 (def iter (eduction xf (range 5)))
 (reduce + 0 iter)
@@ -109,12 +109,12 @@
 #+END_SRC
 * into怎样使用transducer？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.46
-:card-next-schedule: 2022-05-10T01:05:04.509Z
-:card-last-reviewed: 2022-05-06T01:05:04.509Z
-:card-last-score: 3
+:card-last-interval: 317.38
+:card-repeats: 6
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-07-25T10:59:23.008Z
+:card-last-reviewed: 2022-09-11T01:59:23.008Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (into to xf from)
@@ -123,12 +123,12 @@
 #+END_SRC
 * sequence怎样使用transducer? #card #clojure
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.22
-:card-next-schedule: 2022-05-06T02:29:38.132Z
-:card-last-reviewed: 2022-05-02T02:29:38.132Z
-:card-last-score: 3
+:card-last-interval: 121.49
+:card-repeats: 5
+:card-ease-factor: 3.12
+:card-next-schedule: 2023-01-23T18:46:35.501Z
+:card-last-reviewed: 2022-09-24T07:46:35.502Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (sequence xform coll & colls)

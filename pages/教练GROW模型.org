@@ -37,12 +37,12 @@
 *** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 ** 目标的SMART原则包括什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-21T16:00:00.000Z
-:card-last-reviewed: 2022-10-21T00:35:08.144Z
-:card-last-score: 1
+:card-last-interval: 4.71
+:card-repeats: 2
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-28T17:47:40.519Z
+:card-last-reviewed: 2022-10-24T00:47:40.520Z
+:card-last-score: 5
 :END:
 *** Specific —— 具体的
 *** Measurable —— 可衡量的
@@ -70,12 +70,12 @@
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-21T16:00:00.000Z
-:card-last-reviewed: 2022-10-21T00:34:35.592Z
-:card-last-score: 1
+:card-last-interval: 4.71
+:card-repeats: 2
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-10-28T17:48:57.580Z
+:card-last-reviewed: 2022-10-24T00:48:57.580Z
+:card-last-score: 5
 :END:
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
@@ -93,12 +93,12 @@
 *** 给予的答案必须有 {{cloze 足够的品质以及完备性}}，能提供给教练一个 {{cloze 反馈回路}}。
 ** 一个很少失败的有价值的现状问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-10-21T08:56:11.453Z
-:card-last-reviewed: 2022-09-20T00:56:11.453Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-24T16:00:00.000Z
+:card-last-reviewed: 2022-10-24T00:46:52.159Z
+:card-last-score: 1
 :END:
 *** “到目前为止你已经采取了哪些行动?”
 *** “那个行动的结果怎样?”
@@ -128,12 +128,12 @@
 **** “如果你知道答案/拥有足够资源?事情会怎样?”
 ** 跳出熟悉视角的拓展创造力的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.03
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.66
-:card-next-schedule: 2022-10-23T00:48:15.103Z
-:card-last-reviewed: 2022-10-19T00:48:15.103Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-24T16:00:00.000Z
+:card-last-reviewed: 2022-10-24T00:53:16.189Z
+:card-last-score: 1
 :END:
 *** “如果你是领导者，你会怎么做?”
 *** “想想你最敬佩的领导者，他们会怎么做?”
@@ -175,12 +175,12 @@
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤
 ** 建立责任担当的关键问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.03
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.66
-:card-next-schedule: 2022-10-23T00:47:24.537Z
-:card-last-reviewed: 2022-10-19T00:47:24.538Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-24T16:00:00.000Z
+:card-last-reviewed: 2022-10-24T00:51:52.352Z
+:card-last-score: 1
 :END:
 *** 你将要做什么? —— 明确的方案
 *** 什么时候做? —— 具体的日期和时间

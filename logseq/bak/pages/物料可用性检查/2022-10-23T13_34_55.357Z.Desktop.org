@@ -1,0 +1,61 @@
+* 物料可用性检查可设置为在销售订单中自动执行。
+* 物料可用性检查可确定物料是否满足以下要求：
+** 能为销售订单提供足够的数量
+** 位于与您的销售订单行相关的特定仓库中
+** 符合客户要求的交货日期
+** 如果未满足上述任一条件，将出现物料可用性窗口，向您发出警报。
+* 如果销售订单输入的物料数量大于此物料的可用数量减去交货当天最小库存水平的差值，即会自动出现物料可用性检查窗口。
+* 物料可用性检查警报的处理
+** 第一个选项是*继续*。它允许您接受信息，并在不更改销售订单的情况下继续操作。在这种情况下，物料将会*延期交付*。
+** 第二个选项是*更改*销售订单行项目中的数量，以使其与可用数量一致。这将使订单*数量减少*到可用数量。
+** 如果在确定解决方案之前需要更多信息，则可以选择显示可承诺量报表。
+*** 称作Available-to-Promise Report，简称ATP
+*** 此操作将为您提供有关包括预测的库存流入和流出的直观报表。也可以直接在上下文菜单中访问该报表。
+** 还可以查看*其他仓库中的数量*。通过此报表，可以查看和选择（如果允许）另一个仓库中的数量。
+** 有时已通过*替代物料*设置了某物料。选择此选项后，可以查看是否存在替代物料，如果有，则可以从替代物料中选择数量。
+** 如果该物料不可用，且没有其他选项可保证按时交货，则客户可能会决定不订购该物料。其中可采取的一种操作是从销售订单中*删除该物料的行*。
+** 有时，可能会看到另一个选项，即*更改为最早可用日期*。此选项仅在可以计算可用日期时才会出现。选择此选项将会把最早可用日期复制到该行的交货日期。
+* 什么是承诺数量Committed Quantity？ #card #B1
+:PROPERTIES:
+:card-last-interval: 103.74
+:card-repeats: 5
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-11-03T16:13:40.671Z
+:card-last-reviewed: 2022-07-22T23:13:40.671Z
+:card-last-score: 5
+:END:
+** 已有客户订购的数量
+** 或准备转储到另一个仓库的数量
+* 什么是订购数量Ordered Quantity？ #card #B1
+:PROPERTIES:
+:card-last-interval: 31.81
+:card-repeats: 4
+:card-ease-factor: 2.82
+:card-next-schedule: 2022-10-28T19:39:03.950Z
+:card-last-reviewed: 2022-09-27T00:39:03.951Z
+:card-last-score: 5
+:END:
+** 即您的公司已下订单采购但尚未交货的数量，
+** 或是生产订单上订购内部生产物料的数量，
+** 或是请求从另一个仓库转储过来的数量
+* 什么是可用数量Available Quantity？ #card #B1
+:PROPERTIES:
+:card-last-interval: 96.02
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2022-10-16T02:09:14.717Z
+:card-last-reviewed: 2022-07-12T02:09:14.717Z
+:card-last-score: 5
+:END:
+** 即可用于履行销售订单的数量
+* 如何计算可用数量？ #card #B1
+:PROPERTIES:
+:card-last-interval: 93.46
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-10-13T13:09:09.326Z
+:card-last-reviewed: 2022-07-12T02:09:09.326Z
+:card-last-score: 3
+:END:
+** 可用数量 = 存货数量 - 承诺数量 + 订购数量
+** Available Quantity = In Stock - Committed + Ordered

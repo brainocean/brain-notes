@@ -1,10 +1,10 @@
 * 什么是仓库warehouse？ #card #B1
 :PROPERTIES:
-:card-last-interval: 99.47
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-21T11:51:15.465Z
-:card-last-reviewed: 2022-07-14T00:51:15.466Z
+:card-last-interval: 820.71
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2025-01-21T17:47:25.083Z
+:card-last-reviewed: 2022-10-24T00:47:25.083Z
 :card-last-score: 5
 :END:
 ** 仓库表示一个货物存储的场所
