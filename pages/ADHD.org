@@ -67,11 +67,11 @@
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
 * 五个执行功能的障碍 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 8.4
-:card-repeats: 3
-:card-ease-factor: 2.1
-:card-next-schedule: 2022-10-22T09:37:09.349Z
-:card-last-reviewed: 2022-10-14T00:37:09.350Z
+:card-last-interval: 15.37
+:card-repeats: 4
+:card-ease-factor: 1.96
+:card-next-schedule: 2022-11-09T08:58:06.952Z
+:card-last-reviewed: 2022-10-25T00:58:06.952Z
 :card-last-score: 3
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
@@ -113,12 +113,12 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-reviewed: 2022-10-24T00:50:55.476Z
-:card-last-score: 1
+:card-last-interval: 3.71
+:card-repeats: 2
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-10-28T18:00:04.397Z
+:card-last-reviewed: 2022-10-25T01:00:04.397Z
+:card-last-score: 5
 :END:
 ** 更多奖励和正面情绪
 ** 自我肯定和自我鼓励

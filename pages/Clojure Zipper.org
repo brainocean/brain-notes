@@ -12,11 +12,11 @@
 *** a pointer to a node within the tree
 * Zipper有什么用？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 39.93
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-21T23:13:10.723Z
-:card-last-reviewed: 2022-09-12T01:13:10.723Z
+:card-last-interval: 191.26
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-04T06:53:40.360Z
+:card-last-reviewed: 2022-10-25T00:53:40.360Z
 :card-last-score: 5
 :END:
 ** Move around in the tree
@@ -56,11 +56,11 @@
 ** down, up, left, right, leftmost, rightmost, root
 * 在Zipper中修改当前节点的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 39.93
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-21T23:11:39.440Z
-:card-last-reviewed: 2022-09-12T01:11:39.440Z
+:card-last-interval: 191.26
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-05-04T06:52:08.271Z
+:card-last-reviewed: 2022-10-25T00:52:08.272Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
@@ -70,12 +70,12 @@
 #+END_SRC
 * 在Zipper中添加节点的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 39.93
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-21T23:11:55.023Z
-:card-last-reviewed: 2022-09-12T01:11:55.023Z
-:card-last-score: 5
+:card-last-interval: 108.54
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-02-10T12:52:33.391Z
+:card-last-reviewed: 2022-10-25T00:52:33.392Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 insert-left, insert-right  
@@ -84,12 +84,12 @@ insert-child ;;leftmost
 #+END_SRC
 * 在Zipper中如何深度优先遍历一棵树？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 39.93
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-10-21T23:13:03.392Z
-:card-last-reviewed: 2022-09-12T01:13:03.393Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T00:53:31.202Z
+:card-last-score: 1
 :END:
 ** #+BEGIN_SRC clojure
 ;; prev, next, end?  

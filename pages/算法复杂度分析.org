@@ -144,11 +144,11 @@ for(int i=0; i<n; i<<1)
 *** 一般性求解得出[[Master Theorem]]
 *** 常见递推式和复杂度的解 #card #DSA
 :PROPERTIES:
-:card-last-interval: 7.04
-:card-repeats: 3
-:card-ease-factor: 1.76
-:card-next-schedule: 2022-10-24T00:53:17.363Z
-:card-last-reviewed: 2022-10-17T00:53:17.364Z
+:card-last-interval: 10.5
+:card-repeats: 4
+:card-ease-factor: 1.62
+:card-next-schedule: 2022-11-04T12:59:12.643Z
+:card-last-reviewed: 2022-10-25T00:59:12.644Z
 :card-last-score: 3
 :END:
 **** | 递推式 | 解 | 实例 |

@@ -78,12 +78,12 @@
 *** 如果教练引导问题的方向，这会削弱教练对象的责任感
 ** 为什么要避免引导性问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 25.07
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-22T01:35:13.644Z
-:card-last-reviewed: 2022-09-27T00:35:13.645Z
-:card-last-score: 5
+:card-last-interval: 68.21
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2023-01-01T05:57:03.900Z
+:card-last-reviewed: 2022-10-25T00:57:03.900Z
+:card-last-score: 3
 :END:
 *** 因为教练对象会迅速意识到这一点，从而导致其对教练的信任度降低。
 *** 教练宁可给教练对象直接建议，也不要试图操控他的前进方向。
@@ -100,12 +100,12 @@
 *** 如果这种关注不发生，信任就会消失，教练也就不会知道接下来的好问题是什么。
 ** 除了回答的内容，还要关注哪些方面？ #card #教练
 :PROPERTIES:
-:card-last-interval: 25.07
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-22T01:34:51.665Z
-:card-last-reviewed: 2022-09-27T00:34:51.665Z
-:card-last-score: 5
+:card-last-interval: 68.21
+:card-repeats: 5
+:card-ease-factor: 2.52
+:card-next-schedule: 2023-01-01T05:56:44.282Z
+:card-last-reviewed: 2022-10-25T00:56:44.283Z
+:card-last-score: 3
 :END:
 *** 措辞(负面/正面，幼稚/成熟，拘谨/开放)
 *** 语气语调

@@ -76,12 +76,12 @@
 ** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
 * 行为的焦点地图的两个维度是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 7.94
-:card-repeats: 3
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-24T22:58:13.179Z
-:card-last-reviewed: 2022-10-17T00:58:13.179Z
-:card-last-score: 5
+:card-last-interval: 27.07
+:card-repeats: 4
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-11-21T02:01:26.348Z
+:card-last-reviewed: 2022-10-25T01:01:26.349Z
+:card-last-score: 3
 :END:
 ** 对愿望的影响程度的高低
 ** 做到这个行为的难易程度
@@ -101,11 +101,11 @@
 * 重复，让执行更容易
 * 福格原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 3.71
-:card-repeats: 2
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-10-24T17:36:22.047Z
-:card-last-reviewed: 2022-10-21T00:36:22.047Z
+:card-last-interval: 10.74
+:card-repeats: 3
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-11-04T18:01:16.228Z
+:card-last-reviewed: 2022-10-25T01:01:16.228Z
 :card-last-score: 5
 :END:
 ** 福格原则1，即帮助人们做他们已经想做的事。
@@ -126,12 +126,12 @@
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计正确提示的步骤有哪些？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-score: 1
-:card-repeats: 1
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-interval: -1
-:card-ease-factor: 2.8
-:card-last-reviewed: 2022-10-24T00:52:44.576Z
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-29T00:59:58.792Z
+:card-last-interval: 4
+:card-ease-factor: 2.66
+:card-last-reviewed: 2022-10-25T00:59:58.792Z
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来
