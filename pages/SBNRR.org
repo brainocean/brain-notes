@@ -11,12 +11,12 @@
 *** 助记词：傻笨难容人
 * SBNRR的步骤是什么？ #card #正念
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-10-25T16:00:00.000Z
-:card-last-reviewed: 2022-10-25T00:56:31.897Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-10-31T01:07:48.409Z
+:card-last-reviewed: 2022-10-27T01:07:48.409Z
+:card-last-score: 5
 :END:
 ** Stop
 *** This is the most important step. Instead of becoming wrapped up in the emotion or making an impulse decision, ^^just stop^^. Decide to take a moment.

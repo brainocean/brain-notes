@@ -84,12 +84,12 @@ insert-child ;;leftmost
 #+END_SRC
 * 在Zipper中如何深度优先遍历一棵树？ #card #clojure
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-25T16:00:00.000Z
-:card-last-reviewed: 2022-10-25T00:53:31.202Z
-:card-last-score: 1
+:card-last-interval: 7.31
+:card-repeats: 2
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-03T08:07:59.889Z
+:card-last-reviewed: 2022-10-27T01:07:59.889Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 ;; prev, next, end?  

@@ -196,12 +196,12 @@
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.08
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.16
-:card-next-schedule: 2022-10-26T01:50:41.320Z
-:card-last-reviewed: 2022-10-13T00:50:41.320Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T01:08:08.657Z
+:card-last-score: 1
 :END:
 *** 可以编造一个助记词
 ** 给卡片中的文本增加 {{cloze 图片}}，可以引发精细编码 #card #SRS
@@ -225,12 +225,12 @@
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.12
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.06
-:card-next-schedule: 2022-10-25T01:49:54.725Z
-:card-last-reviewed: 2022-10-11T23:49:54.725Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T00:47:06.070Z
+:card-last-score: 1
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
 ** 应该把助记词放在卡片的哪个部分？ #card #SRS
@@ -338,11 +338,11 @@
 ** 知道一个「概念」所指何物，与高中闪卡式的知识（例如「意大利语 “correre” 等于 “跑步” 」）不同。想要内化它，你需要了解组成概念的*元素*以及元素之间形成的*结构*。因此对于这类知识，你的目标是设计一套卡片，联合起来，一起框定「高汤」这个概念。
 ** 要写关于概念的特征与趋向的卡片，应该识别什么？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.2
-:card-repeats: 3
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-10-25T03:49:33.431Z
-:card-last-reviewed: 2022-10-11T23:49:33.431Z
+:card-last-interval: 45.84
+:card-repeats: 4
+:card-ease-factor: 3.4
+:card-next-schedule: 2022-12-11T21:04:54.043Z
+:card-last-reviewed: 2022-10-27T01:04:54.043Z
 :card-last-score: 5
 :END:
 *** 哪些断言或描述「永远」/「有时」/ 「永不」为真？
@@ -367,12 +367,12 @@
 :END:
 ** 举例说明因果关系卡 #card #SRS
 :PROPERTIES:
-:card-last-interval: 12.08
-:card-repeats: 3
-:card-ease-factor: 2.92
-:card-next-schedule: 2022-10-25T01:50:34.087Z
-:card-last-reviewed: 2022-10-13T00:50:34.087Z
-:card-last-score: 3
+:card-last-interval: 37.81
+:card-repeats: 4
+:card-ease-factor: 3.02
+:card-next-schedule: 2022-12-03T20:04:44.553Z
+:card-last-reviewed: 2022-10-27T01:04:44.554Z
+:card-last-score: 5
 :END:
 *** 高汤是「做什么」的？
 *** 什么让它「实现那个效果」？
@@ -381,12 +381,12 @@
 *** 也许可以参考[[5W方法]]
 ** 重要性和影响：写卡使得概念具有 {{cloze 个人意义}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.7
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.2
-:card-next-schedule: 2022-10-25T15:49:07.345Z
-:card-last-reviewed: 2022-10-11T23:49:07.345Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T01:05:45.965Z
+:card-last-score: 1
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:

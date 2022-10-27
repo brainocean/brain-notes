@@ -62,11 +62,11 @@
 #+END_SRC
 * Transduce操作的三个重要组成部分都是哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 30.91
-:card-repeats: 4
-:card-ease-factor: 2.78
-:card-next-schedule: 2022-10-25T04:57:49.633Z
-:card-last-reviewed: 2022-09-24T07:57:49.634Z
+:card-last-interval: 88.59
+:card-repeats: 5
+:card-ease-factor: 2.88
+:card-next-schedule: 2023-01-23T15:05:35.630Z
+:card-last-reviewed: 2022-10-27T01:05:35.630Z
 :card-last-score: 5
 :END:
 ** iteration -- 这个是由reduce API(由reducible thing实现)来负责
@@ -92,12 +92,12 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 13.7
-:card-repeats: 3
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-10-25T15:49:22.907Z
-:card-last-reviewed: 2022-10-11T23:49:22.907Z
-:card-last-score: 5
+:card-last-interval: 35.85
+:card-repeats: 4
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-12-01T21:06:36.381Z
+:card-last-reviewed: 2022-10-27T01:06:36.381Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (eduction xform* coll)
