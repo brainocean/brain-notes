@@ -11,12 +11,12 @@
 ** 请你每天早晨一起床就立刻说出这句话：“今天又是美好的一天！”并在说出这句话的同时，尽量去感受乐观和积极的心态。
 * 福格行为模型的ABC三步骤 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-28T16:00:00.000Z
-:card-last-reviewed: 2022-10-28T01:13:44.985Z
-:card-last-score: 1
+:card-last-interval: 7.31
+:card-repeats: 2
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-06T07:49:02.932Z
+:card-last-reviewed: 2022-10-30T00:49:02.933Z
+:card-last-score: 5
 :END:
 ** 1．Anchor 锚点 —— 锚点时刻提醒你去执行新的微行为的关键时点。例如，某个日常习惯（刷牙）或某件必然发生的事情（电话铃声响起）。
 ** 2．Behavior 行为 —— 新的微行为锚点出现后立刻去执行的微行为。这是新习惯的简化版，比如用牙线清洁一颗牙齿或做两个俯卧撑。
@@ -56,12 +56,12 @@
 ** 无法单独起作用
 * 行为设计的步骤？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.42
-:card-next-schedule: 2022-10-28T16:00:00.000Z
-:card-last-reviewed: 2022-10-28T01:13:18.794Z
-:card-last-score: 1
+:card-last-interval: 4.59
+:card-repeats: 2
+:card-ease-factor: 2.52
+:card-next-schedule: 2022-11-03T14:48:55.250Z
+:card-last-reviewed: 2022-10-30T00:48:55.250Z
+:card-last-score: 5
 :END:
 ** 选择
 *** 明确愿望或成果
@@ -126,12 +126,12 @@
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计正确提示的步骤有哪些？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-score: 3
-:card-repeats: 2
-:card-next-schedule: 2022-10-29T00:59:58.792Z
-:card-last-interval: 4
-:card-ease-factor: 2.66
-:card-last-reviewed: 2022-10-25T00:59:58.792Z
+:card-last-score: 5
+:card-repeats: 3
+:card-next-schedule: 2022-11-10T00:53:04.001Z
+:card-last-interval: 11.04
+:card-ease-factor: 2.76
+:card-last-reviewed: 2022-10-30T00:53:04.001Z
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来

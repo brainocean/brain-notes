@@ -113,11 +113,11 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 3.71
-:card-repeats: 2
-:card-ease-factor: 2.72
-:card-next-schedule: 2022-10-28T18:00:04.397Z
-:card-last-reviewed: 2022-10-25T01:00:04.397Z
+:card-last-interval: 11.28
+:card-repeats: 3
+:card-ease-factor: 2.82
+:card-next-schedule: 2022-11-10T06:51:07.864Z
+:card-last-reviewed: 2022-10-30T00:51:07.864Z
 :card-last-score: 5
 :END:
 ** 更多奖励和正面情绪

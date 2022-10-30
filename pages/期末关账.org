@@ -64,12 +64,12 @@
 *** 当您执行期末关账时，系统会生成关账分录的建议列表。您可以分别接受每项建议。
 * 期间的状态有哪些？ #card #B1
 :PROPERTIES:
-:card-last-interval: 11.28
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.82
-:card-next-schedule: 2022-10-28T07:00:07.261Z
-:card-last-reviewed: 2022-10-17T01:00:07.261Z
-:card-last-score: 5
+:card-next-schedule: 2022-10-30T16:00:00.000Z
+:card-last-reviewed: 2022-10-30T00:48:20.236Z
+:card-last-score: 1
 :END:
 ** 已解锁
 ** 除销售外均已解锁

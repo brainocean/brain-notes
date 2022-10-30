@@ -16,11 +16,11 @@
 ** 开放式问题要求描述性的答案，从而提升觉察
 ** 创建觉察和责任感最有效的问题应以什么词语开始？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.71
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-10-28T17:48:42.052Z
-:card-last-reviewed: 2022-10-24T00:48:42.052Z
+:card-last-interval: 28.87
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-27T20:49:46.654Z
+:card-last-reviewed: 2022-10-30T00:49:46.655Z
 :card-last-score: 5
 :END:
 *** 寻求量化或收集事实的词语开始，比 如“什么”“何时”“谁”“多少”。
@@ -46,11 +46,11 @@
 *** 最好表达成“是什么原因......”
 ** 什么词语可以替换必要的“如何”问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 23.53
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-10-28T12:54:57.616Z
-:card-last-reviewed: 2022-10-05T00:54:57.616Z
+:card-last-interval: 92.25
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-01-30T06:48:32.951Z
+:card-last-reviewed: 2022-10-30T00:48:32.953Z
 :card-last-score: 5
 :END:
 *** 用“做这件事情的步骤是......”来替代。
