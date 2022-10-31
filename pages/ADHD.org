@@ -1,5 +1,13 @@
 * Dr. Russel Barkley
 * ADHD是一个什么障碍？#card #ADHD
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-31T16:00:00.000Z
+:card-last-reviewed: 2022-10-31T01:16:47.338Z
+:card-last-score: 1
+:END:
 ** 发育障碍(developmental disability/disorder of self regulation)
 * self-regulation -- the ability to consciously, willfully choose to inhibit you behavior and then engage in a series of self-directed actions
 ** self-regulation is for your own long term welfare

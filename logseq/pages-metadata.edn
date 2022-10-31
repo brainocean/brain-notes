@@ -6,7 +6,7 @@
   :block/updated-at 1648432117503}
  {:block/name "adhd",
   :block/created-at 1660288316944,
-  :block/updated-at 1666919737230}
+  :block/updated-at 1667179007413}
  {:block/name "b",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -21,7 +21,7 @@
   :block/updated-at 1652434745269}
  {:block/name "b1主要组成模块",
   :block/created-at 1651654529767,
-  :block/updated-at 1657155386924}
+  :block/updated-at 1667091163416}
  {:block/name "b1交货流程",
   :block/created-at 1652413386501,
   :block/updated-at 1652413386501}
@@ -123,7 +123,7 @@
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1664494346840}
+  :block/updated-at 1667179173906}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
   :block/updated-at 1662686555266}
@@ -230,30 +230,12 @@
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
- {:block/name "oct 23rd, 2022",
-  :block/created-at 1666532095329,
-  :block/updated-at 1666532095329}
- {:block/name "oct 24th, 2022",
-  :block/created-at 1666541037436,
-  :block/updated-at 1666541037436}
- {:block/name "oct 25th, 2022",
-  :block/created-at 1666627282790,
-  :block/updated-at 1666627282790}
- {:block/name "oct 26th, 2022",
-  :block/created-at 1666713911321,
-  :block/updated-at 1666713911321}
- {:block/name "oct 27th, 2022",
-  :block/created-at 1666800164972,
-  :block/updated-at 1666800164972}
- {:block/name "oct 28th, 2022",
-  :block/created-at 1666886449248,
-  :block/updated-at 1666886449248}
- {:block/name "oct 29th, 2022",
-  :block/created-at 1666972854424,
-  :block/updated-at 1666972854424}
  {:block/name "oct 30th, 2022",
   :block/created-at 1667059374505,
   :block/updated-at 1667059374505}
+ {:block/name "oct 31st, 2022",
+  :block/created-at 1667151942637,
+  :block/updated-at 1667151942637}
  {:block/name "regex",
   :block/created-at 1648611187118,
   :block/updated-at 1648611187118}
@@ -263,9 +245,6 @@
  {:block/name "sep 29th, 2022",
   :block/created-at 1664457087663,
   :block/updated-at 1664457087663}
- {:block/name "sep 30th, 2022",
-  :block/created-at 1664471842006,
-  :block/updated-at 1664471842006}
  {:block/name "sicp",
   :block/created-at 1654651732077,
   :block/updated-at 1654739481111}
@@ -406,7 +385,7 @@
   :block/updated-at 1662534104531}
  {:block/name "尾递归",
   :block/created-at 1648521091819,
-  :block/updated-at 1662687134627}
+  :block/updated-at 1667178983521}
  {:block/name "常用的正则表达式例子",
   :block/created-at 1648611187120,
   :block/updated-at 1666659110226}
@@ -478,7 +457,7 @@
   :block/updated-at 1662444680215}
  {:block/name "教练grow模型",
   :block/created-at 1663840956152,
-  :block/updated-at 1666919728831}
+  :block/updated-at 1667091249213}
  {:block/name "教练问题工具包",
   :block/created-at 1663840955599,
   :block/updated-at 1663840955599}
@@ -490,7 +469,7 @@
   :block/updated-at 1666572843669}
  {:block/name "数据结构-树",
   :block/created-at 1666532095307,
-  :block/updated-at 1666532095307}
+  :block/updated-at 1667179178361}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
   :block/updated-at 1662861629399}
@@ -502,7 +481,7 @@
   :block/updated-at 1666832906319}
  {:block/name "期末关账",
   :block/created-at 1652846785421,
-  :block/updated-at 1666572382283}
+  :block/updated-at 1667090900275}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
   :block/updated-at 1658107624784}
@@ -538,7 +517,7 @@
   :block/updated-at 1652435360492}
  {:block/name "物料可用性检查",
   :block/created-at 1652413385157,
-  :block/updated-at 1664239144012}
+  :block/updated-at 1667179190518}
  {:block/name "物料组",
   :block/created-at 1652775659718,
   :block/updated-at 1652775659718}
@@ -565,7 +544,7 @@
   :block/updated-at 1649488676073}
  {:block/name "福格行为模型",
   :block/created-at 1663840956153,
-  :block/updated-at 1666919625049}
+  :block/updated-at 1667091184076}
  {:block/name "福格行为设计工具箱",
   :block/created-at 1664457086221,
   :block/updated-at 1664457086221}
@@ -622,7 +601,7 @@
   :block/updated-at 1666572595279}
  {:block/name "采购订单",
   :block/created-at 1651818174591,
-  :block/updated-at 1664239155154}
+  :block/updated-at 1667091131368}
  {:block/name "重复交易",
   :block/created-at 1652413385861,
   :block/updated-at 1652413385861}
@@ -648,5 +627,8 @@
   :block/created-at 1655641119713,
   :block/updated-at 1666919718727}
  {:block/name "高绩效教练",
-  :block/created-at 1662444490012, 
-  :block/updated-at 1666659423917}]
+  :block/created-at 1662444490012,
+  :block/updated-at 1667090986678}
+ {:block/name "，在syntax-quote之中，自动生成一个新的符号，例如",
+  :block/created-at 1667136794282, 
+  :block/updated-at 1667136794282}]

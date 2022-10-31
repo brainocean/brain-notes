@@ -22,12 +22,12 @@
 ** 不影响会计核算，收到货物之后才会影响会计核算
 * 添加采购订单如何影响库存？ #card #B1
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.82
-:card-next-schedule: 2022-10-30T16:00:00.000Z
-:card-last-reviewed: 2022-10-30T00:52:11.346Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.92
+:card-next-schedule: 2022-11-04T01:20:12.049Z
+:card-last-reviewed: 2022-10-31T01:20:12.050Z
+:card-last-score: 5
 :END:
 ** 库存会显示“已订购”状态的物料，即增加订购量
 ** 由于我们在库存中有 10 台打印机，在订单中有 5 台打印机，因此，尽管实际库存中只有 10 台，但是我们可以向客户承诺 15 台。
