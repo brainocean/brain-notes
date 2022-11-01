@@ -1,10 +1,10 @@
 * 什么是科目表？ #card #B1
 :PROPERTIES:
-:card-last-interval: 106.38
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-01T10:29:39.793Z
-:card-last-reviewed: 2022-07-18T01:29:39.793Z
+:card-last-interval: 820.71
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2025-01-30T16:12:13.970Z
+:card-last-reviewed: 2022-11-01T23:12:13.971Z
 :card-last-score: 5
 :END:
 ** 科目表是企业所使用的所有[[总账科目]]的索引。

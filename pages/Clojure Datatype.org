@@ -20,12 +20,12 @@
 #+END_SRC
 * 如何创建一个datatype的实例？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 37.41
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.06
-:card-next-schedule: 2022-10-31T17:07:03.562Z
-:card-last-reviewed: 2022-09-24T08:07:03.562Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-02T16:00:00.000Z
+:card-last-reviewed: 2022-11-01T23:10:01.748Z
+:card-last-score: 1
 :END:
 ** #+BEGIN_SRC clojure
 (def vault (->CryptoVault "vault-file" "keystore" "toomanysecrets"))

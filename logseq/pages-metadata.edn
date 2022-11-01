@@ -117,7 +117,7 @@
   :block/updated-at 1662862022117}
  {:block/name "clojure中的多态",
   :block/created-at 1649985696319,
-  :block/updated-at 1666832815686}
+  :block/updated-at 1667179232095}
  {:block/name "clojure中的异常处理",
   :block/created-at 1648521461425,
   :block/updated-at 1648526195757}
@@ -227,6 +227,9 @@
   "names are the most common means of creating indirection",
   :block/created-at 1650806477886,
   :block/updated-at 1650809529511}
+ {:block/name "nov 1st, 2022",
+  :block/created-at 1667232158907,
+  :block/updated-at 1667232158907}
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -241,7 +244,7 @@
   :block/updated-at 1648611187118}
  {:block/name "sbnrr",
   :block/created-at 1662442949110,
-  :block/updated-at 1666832868479}
+  :block/updated-at 1667179255997}
  {:block/name "sep 29th, 2022",
   :block/created-at 1664457087663,
   :block/updated-at 1664457087663}
@@ -481,7 +484,7 @@
   :block/updated-at 1666832906319}
  {:block/name "期末关账",
   :block/created-at 1652846785421,
-  :block/updated-at 1667090900275}
+  :block/updated-at 1667179203563}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
   :block/updated-at 1658107624784}
@@ -601,7 +604,7 @@
   :block/updated-at 1666572595279}
  {:block/name "采购订单",
   :block/created-at 1651818174591,
-  :block/updated-at 1667091131368}
+  :block/updated-at 1667179212072}
  {:block/name "重复交易",
   :block/created-at 1652413385861,
   :block/updated-at 1652413385861}

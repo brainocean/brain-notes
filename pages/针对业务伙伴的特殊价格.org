@@ -1,10 +1,10 @@
 * 什么是针对业务伙伴的特殊价格？ #card #B1
 :PROPERTIES:
-:card-last-interval: 106.38
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-01T10:25:52.435Z
-:card-last-reviewed: 2022-07-18T01:25:52.435Z
+:card-last-interval: 820.71
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2025-01-30T16:11:24.485Z
+:card-last-reviewed: 2022-11-01T23:11:24.485Z
 :card-last-score: 5
 :END:
 ** 某些业务伙伴凭借和公司的特殊关系取得的特殊物料价格

@@ -61,12 +61,12 @@
 :END:
 ** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
 :PROPERTIES:
-:card-last-interval: 26.14
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.52
-:card-next-schedule: 2022-10-31T03:39:02.636Z
-:card-last-reviewed: 2022-10-05T00:39:02.636Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-02T16:00:00.000Z
+:card-last-reviewed: 2022-11-01T23:06:29.572Z
+:card-last-score: 1
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
@@ -80,12 +80,12 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.96
-:card-next-schedule: 2022-11-01T15:15:11.346Z
-:card-last-reviewed: 2022-10-28T01:15:11.346Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-02T16:00:00.000Z
+:card-last-reviewed: 2022-11-01T23:13:24.680Z
+:card-last-score: 1
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
 *** 这些提出的问题要求有 {{cloze 高度的专注}}，才能获得高质量的细节输入。
@@ -153,11 +153,11 @@
 * 你将会做什么
 ** 意愿阶段分哪两步？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-01T01:15:28.755Z
-:card-last-reviewed: 2022-10-28T01:15:28.755Z
+:card-last-interval: 13.91
+:card-repeats: 3
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-11-15T20:10:48.198Z
+:card-last-reviewed: 2022-11-01T23:10:48.199Z
 :card-last-score: 5
 :END:
 *** 第一步:责任担当的建立。定义行动计划、时间表和衡量任务的完成机制。

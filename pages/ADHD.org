@@ -1,12 +1,12 @@
 * Dr. Russel Barkley
 * ADHD是一个什么障碍？#card #ADHD
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-31T16:00:00.000Z
-:card-last-reviewed: 2022-10-31T01:16:47.338Z
-:card-last-score: 1
+:card-last-interval: 3.66
+:card-repeats: 2
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-05T14:09:38.603Z
+:card-last-reviewed: 2022-11-01T23:09:38.604Z
+:card-last-score: 5
 :END:
 ** 发育障碍(developmental disability/disorder of self regulation)
 * self-regulation -- the ability to consciously, willfully choose to inhibit you behavior and then engage in a series of self-directed actions
@@ -163,12 +163,12 @@
 ** small chunks with frequent breaks
 * 怎样开始一个活动-transition planning #card #ADHD
 :PROPERTIES:
-:card-last-interval: 13.2
-:card-repeats: 3
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-10-31T04:33:57.870Z
-:card-last-reviewed: 2022-10-18T00:33:57.870Z
-:card-last-score: 5
+:card-last-interval: 39.94
+:card-repeats: 4
+:card-ease-factor: 3.16
+:card-next-schedule: 2022-12-11T21:07:53.568Z
+:card-last-reviewed: 2022-11-01T23:07:53.569Z
+:card-last-score: 3
 :END:
 ** stop other activities
 ** review 2-3 rules this child need to follow in the next activity

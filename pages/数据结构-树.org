@@ -1,10 +1,10 @@
 * 树的边的数量和它的顶点数量是 {{cloze 同阶}}的 #card #DSA
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-31T04:06:20.890Z
-:card-last-reviewed: 2022-10-20T00:06:20.890Z
+:card-last-interval: 53.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-25T03:07:18.974Z
+:card-last-reviewed: 2022-11-01T23:07:18.975Z
 :card-last-score: 5
 :END:
 ** $$e = \sum_{r \in V} degree(r) = n - 1 = \Theta(n) $$
@@ -20,22 +20,22 @@
 ** 兄弟节点之间定义了次序的树
 * 什么是真二叉树？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-10-31T04:05:53.997Z
-:card-last-reviewed: 2022-10-20T00:05:53.997Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-02T16:00:00.000Z
+:card-last-reviewed: 2022-11-01T23:06:40.315Z
+:card-last-score: 1
 :END:
 ** 所有节点的出度为偶数(0或者2)的二叉树
 ** 真二叉树可以帮助简化算法的实现和理解
 * 为什么二叉树可以描述多叉树？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-10-31T04:06:07.195Z
-:card-last-reviewed: 2022-10-20T00:06:07.195Z
+:card-last-interval: 53.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-25T03:06:55.055Z
+:card-last-reviewed: 2022-11-01T23:06:55.056Z
 :card-last-score: 5
 :END:
 ** 使用firstChild-nextSibling(长子-兄弟)表示法的多叉树就是一个二叉树
