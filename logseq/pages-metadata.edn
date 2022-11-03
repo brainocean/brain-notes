@@ -6,7 +6,7 @@
   :block/updated-at 1648432117503}
  {:block/name "adhd",
   :block/created-at 1660288316944,
-  :block/updated-at 1667179007413}
+  :block/updated-at 1667344178624}
  {:block/name "b",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -57,7 +57,7 @@
   :block/updated-at 1651197917183}
  {:block/name "clojure agent",
   :block/created-at 1650527831550,
-  :block/updated-at 1662945866324}
+  :block/updated-at 1667344194441}
  {:block/name "clojure atom",
   :block/created-at 1650527840302,
   :block/updated-at 1655702334410}
@@ -69,10 +69,10 @@
   :block/updated-at 1663400878506}
  {:block/name "clojure core.async",
   :block/created-at 1651645059637,
-  :block/updated-at 1666832947083}
+  :block/updated-at 1667344414706}
  {:block/name "clojure datatype",
   :block/created-at 1650540986942,
-  :block/updated-at 1662945901652}
+  :block/updated-at 1667344201826}
  {:block/name "clojure list",
   :block/created-at 1648712976320,
   :block/updated-at 1663400917640}
@@ -102,7 +102,7 @@
   :block/updated-at 1663400845508}
  {:block/name "clojure zipper",
   :block/created-at 1660871656667,
-  :block/updated-at 1666832879908}
+  :block/updated-at 1667344213621}
  {:block/name "clojure 和 java 的互操作 interop",
   :block/created-at 1648521091084,
   :block/updated-at 1664494341338}
@@ -123,7 +123,7 @@
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1667179173906}
+  :block/updated-at 1667344169282}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
   :block/updated-at 1662686555266}
@@ -180,7 +180,7 @@
   :block/updated-at 1648432376392}
  {:block/name "datalog",
   :block/created-at 1654672833261,
-  :block/updated-at 1663465221312}
+  :block/updated-at 1667344142558}
  {:block/name "datom",
   :block/created-at 1654672916734,
   :block/updated-at 1661387838350}
@@ -230,6 +230,12 @@
  {:block/name "nov 1st, 2022",
   :block/created-at 1667232158907,
   :block/updated-at 1667232158907}
+ {:block/name "nov 2nd, 2022",
+  :block/created-at 1667343963272,
+  :block/updated-at 1667343963272}
+ {:block/name "nov 3rd, 2022",
+  :block/created-at 1667405057719,
+  :block/updated-at 1667405057719}
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -310,7 +316,7 @@
   :block/updated-at 1661129509496}
  {:block/name "使用零宽断言来匹配特定的文本位置",
   :block/created-at 1648611187284,
-  :block/updated-at 1662687577577}
+  :block/updated-at 1667344366022}
  {:block/name "供应商",
   :block/created-at 1652413386461,
   :block/updated-at 1652413386461}
@@ -322,7 +328,7 @@
   :block/updated-at 1649993008493}
  {:block/name "借方和贷方",
   :block/created-at 1652695133961,
-  :block/updated-at 1658531670689}
+  :block/updated-at 1667344328107}
  {:block/name "催款",
   :block/created-at 1652933011236,
   :block/updated-at 1652933236369}
@@ -388,7 +394,7 @@
   :block/updated-at 1662534104531}
  {:block/name "尾递归",
   :block/created-at 1648521091819,
-  :block/updated-at 1667178983521}
+  :block/updated-at 1667344161909}
  {:block/name "常用的正则表达式例子",
   :block/created-at 1648611187120,
   :block/updated-at 1666659110226}
@@ -460,7 +466,7 @@
   :block/updated-at 1662444680215}
  {:block/name "教练grow模型",
   :block/created-at 1663840956152,
-  :block/updated-at 1667091249213}
+  :block/updated-at 1667344404755}
  {:block/name "教练问题工具包",
   :block/created-at 1663840955599,
   :block/updated-at 1663840955599}
@@ -472,7 +478,7 @@
   :block/updated-at 1666572843669}
  {:block/name "数据结构-树",
   :block/created-at 1666532095307,
-  :block/updated-at 1667179178361}
+  :block/updated-at 1667344038997}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
   :block/updated-at 1662861629399}
@@ -487,7 +493,7 @@
   :block/updated-at 1667179203563}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
-  :block/updated-at 1658107624784}
+  :block/updated-at 1667344295435}
  {:block/name "正则表达式",
   :block/created-at 1648611187289,
   :block/updated-at 1648611187289}
@@ -496,7 +502,7 @@
   :block/updated-at 1661387816500}
  {:block/name "正则表达式引擎",
   :block/created-at 1648611187287,
-  :block/updated-at 1663465170123}
+  :block/updated-at 1667344127371}
  {:block/name "正念",
   :block/created-at 1662443054911,
   :block/updated-at 1662443054911}
@@ -556,7 +562,7 @@
   :block/updated-at 1664457087251}
  {:block/name "科目表",
   :block/created-at 1652768901790,
-  :block/updated-at 1658107779814}
+  :block/updated-at 1667344333991}
  {:block/name "算法复杂度分析",
   :block/created-at 1660616751936,
   :block/updated-at 1666659552662}
@@ -610,7 +616,7 @@
   :block/updated-at 1652413385861}
  {:block/name "针对业务伙伴的特殊价格",
   :block/created-at 1652672872042,
-  :block/updated-at 1658107552464}
+  :block/updated-at 1667344284562}
  {:block/name "销售报价",
   :block/created-at 1652413385652,
   :block/updated-at 1652413385652}
@@ -628,7 +634,7 @@
   :block/updated-at 1666572775142}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713,
-  :block/updated-at 1666919718727}
+  :block/updated-at 1667344374590}
  {:block/name "高绩效教练",
   :block/created-at 1662444490012,
   :block/updated-at 1667090986678}

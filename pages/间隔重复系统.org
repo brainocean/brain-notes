@@ -150,12 +150,12 @@
 *** 因为它只关心一个细节
 ** 对于事实性卡片，经常可以添加 {{cloze 为什么它是真的}}的卡片，可以强化和增加它的内涵 #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-11-02T16:00:00.000Z
-:card-last-reviewed: 2022-11-01T23:08:21.425Z
-:card-last-score: 1
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-11-07T10:18:12.580Z
+:card-last-reviewed: 2022-11-03T00:18:12.581Z
+:card-last-score: 5
 :END:
 * 「清单」类知识
 :PROPERTIES:
@@ -187,12 +187,12 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: 15.07
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.4
-:card-next-schedule: 2022-11-02T01:33:07.150Z
-:card-last-reviewed: 2022-10-18T00:33:07.150Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-03T16:00:00.000Z
+:card-last-reviewed: 2022-11-03T00:16:01.186Z
+:card-last-score: 1
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
@@ -390,12 +390,12 @@
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.2
-:card-next-schedule: 2022-11-02T16:00:00.000Z
-:card-last-reviewed: 2022-11-01T23:11:18.473Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.06
+:card-next-schedule: 2022-11-07T00:19:16.541Z
+:card-last-reviewed: 2022-11-03T00:19:16.541Z
+:card-last-score: 3
 :END:
 * 「开放式清单」和「启明卡」—— 知识的应用
 ** 开放式清单和封闭清单的区别？ #card #SRS

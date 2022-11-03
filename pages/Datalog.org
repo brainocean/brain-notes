@@ -42,12 +42,12 @@
 ** 用来为查询提供输入参数 input parameter
 * Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-11-02T16:00:00.000Z
-:card-last-reviewed: 2022-11-01T23:09:02.535Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 3.4
+:card-next-schedule: 2022-11-07T06:18:01.169Z
+:card-last-reviewed: 2022-11-03T00:18:01.169Z
+:card-last-score: 5
 :END:
 ** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询
 ** #+BEGIN_SRC clojure

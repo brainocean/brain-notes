@@ -112,12 +112,12 @@
 *** 身体语言
 ** 为什么总结谈话的要点很重要？ #card #教练
 :PROPERTIES:
-:card-last-interval: 28.3
-:card-repeats: 4
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-11-02T07:18:15.467Z
-:card-last-reviewed: 2022-10-05T00:18:15.467Z
-:card-last-score: 3
+:card-last-interval: 84.1
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-01-26T02:16:36.789Z
+:card-last-reviewed: 2022-11-03T00:16:36.789Z
+:card-last-score: 5
 :END:
 *** 保证正确的理解
 *** 让教练对象放心地知道，他被完全地听到和理解了

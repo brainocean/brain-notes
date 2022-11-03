@@ -61,12 +61,12 @@
 :END:
 ** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-02T16:00:00.000Z
-:card-last-reviewed: 2022-11-01T23:06:29.572Z
-:card-last-score: 1
+:card-last-interval: 4.28
+:card-repeats: 2
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-11-07T06:18:56.761Z
+:card-last-reviewed: 2022-11-03T00:18:56.762Z
+:card-last-score: 5
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
@@ -80,12 +80,12 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-11-02T16:00:00.000Z
-:card-last-reviewed: 2022-11-01T23:13:24.680Z
-:card-last-score: 1
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-11-07T10:18:35.682Z
+:card-last-reviewed: 2022-11-03T00:18:35.682Z
+:card-last-score: 5
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
 *** 这些提出的问题要求有 {{cloze 高度的专注}}，才能获得高质量的细节输入。
@@ -140,11 +140,11 @@
 *** “超级某某会如何做呢?”
 ** 怎样处理选项的列表？ #card #教练
 :PROPERTIES:
-:card-last-interval: 14.05
-:card-repeats: 3
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-11-02T01:45:06.570Z
-:card-last-reviewed: 2022-10-19T00:45:06.571Z
+:card-last-interval: 37.06
+:card-repeats: 4
+:card-ease-factor: 3.06
+:card-next-schedule: 2022-12-10T01:16:14.936Z
+:card-last-reviewed: 2022-11-03T00:16:14.937Z
 :card-last-score: 5
 :END:
 *** 随机罗列，避免过早的划分优先级
