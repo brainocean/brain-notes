@@ -1,10 +1,10 @@
 * 创建一个map的常用方法有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 20.06
-:card-repeats: 4
-:card-ease-factor: 2.2
-:card-next-schedule: 2022-11-03T01:38:07.285Z
-:card-last-reviewed: 2022-10-14T00:38:07.285Z
+:card-last-interval: 48.67
+:card-repeats: 5
+:card-ease-factor: 2.3
+:card-next-schedule: 2022-12-22T15:58:54.609Z
+:card-last-reviewed: 2022-11-03T23:58:54.610Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

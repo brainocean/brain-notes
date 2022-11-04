@@ -14,11 +14,11 @@
 * 关于目标设定
 ** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 9.84
-:card-repeats: 3
-:card-ease-factor: 2.38
-:card-next-schedule: 2022-11-03T21:01:36.037Z
-:card-last-reviewed: 2022-10-25T01:01:36.037Z
+:card-last-interval: 23.71
+:card-repeats: 4
+:card-ease-factor: 2.48
+:card-next-schedule: 2022-11-27T17:00:09.814Z
+:card-last-reviewed: 2022-11-04T00:00:09.814Z
 :card-last-score: 5
 :END:
 *** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？

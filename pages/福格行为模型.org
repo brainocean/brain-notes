@@ -56,11 +56,11 @@
 ** 无法单独起作用
 * 行为设计的步骤？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-03T14:48:55.250Z
-:card-last-reviewed: 2022-10-30T00:48:55.250Z
+:card-last-interval: 13.31
+:card-repeats: 3
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-11-17T06:59:28.329Z
+:card-last-reviewed: 2022-11-03T23:59:28.329Z
 :card-last-score: 5
 :END:
 ** 选择

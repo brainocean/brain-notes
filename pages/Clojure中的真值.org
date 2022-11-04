@@ -10,11 +10,11 @@
 ** 除了 {{cloze false和nil}} ，其他一切都是true
 * Clojure中空集合是真值吗？#card #clojure
 :PROPERTIES:
-:card-last-interval: 3.66
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-03T16:19:33.888Z
-:card-last-reviewed: 2022-10-31T01:19:33.889Z
+:card-last-interval: 2.79
+:card-repeats: 2
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-11-06T17:59:53.986Z
+:card-last-reviewed: 2022-11-03T23:59:53.986Z
 :card-last-score: 5
 :END:
 ** 空集合 #{} {} [] () 都是true
