@@ -1,10 +1,10 @@
 * 邻接和关联的区别？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-11-04T04:53:51.395Z
-:card-last-reviewed: 2022-10-24T00:53:51.395Z
+:card-last-interval: 53.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-29T04:47:21.622Z
+:card-last-reviewed: 2022-11-06T00:47:21.623Z
 :card-last-score: 5
 :END:
 ** 邻接adjacency是指两个顶点之间有边连接
@@ -13,11 +13,11 @@
 *** 关联矩阵的行和列一个是顶点，一个是边，矩阵元素存贮顶点和边是否相连
 * 图的广度优先搜索和树的层次遍历之间是什么关系？ #card #DSA
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-11-04T04:54:03.652Z
-:card-last-reviewed: 2022-10-24T00:54:03.652Z
+:card-last-interval: 53.17
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2022-12-29T04:47:44.340Z
+:card-last-reviewed: 2022-11-06T00:47:44.340Z
 :card-last-score: 5
 :END:
 ** 广搜其实等同于图的以搜索起点为根的支撑树(spanning tree)的层次遍历

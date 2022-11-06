@@ -58,11 +58,11 @@
 #+END_SRC
 * 匹配空白的Unicode Property是什么？ #card #regex
 :PROPERTIES:
-:card-last-interval: 51.84
-:card-repeats: 4
-:card-ease-factor: 3.6
-:card-next-schedule: 2022-11-05T20:01:08.869Z
-:card-last-reviewed: 2022-09-15T00:01:08.869Z
+:card-last-interval: 202.61
+:card-repeats: 5
+:card-ease-factor: 3.7
+:card-next-schedule: 2023-05-27T14:50:09.291Z
+:card-last-reviewed: 2022-11-06T00:50:09.291Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC javascript

@@ -30,7 +30,7 @@
   :block/updated-at 1653019007159}
  {:block/name "b1整体业务流程",
   :block/created-at 1651654901621,
-  :block/updated-at 1666919675912}
+  :block/updated-at 1667695593103}
  {:block/name "b1配置数据",
   :block/created-at 1651735941615,
   :block/updated-at 1651735941615}
@@ -72,7 +72,7 @@
   :block/updated-at 1667344414706}
  {:block/name "clojure datatype",
   :block/created-at 1650540986942,
-  :block/updated-at 1667344201826}
+  :block/updated-at 1667434685350}
  {:block/name "clojure list",
   :block/created-at 1648712976320,
   :block/updated-at 1663400917640}
@@ -102,7 +102,7 @@
   :block/updated-at 1663400845508}
  {:block/name "clojure zipper",
   :block/created-at 1660871656667,
-  :block/updated-at 1667344213621}
+  :block/updated-at 1667519950717}
  {:block/name "clojure 和 java 的互操作 interop",
   :block/created-at 1648521091084,
   :block/updated-at 1664494341338}
@@ -123,7 +123,7 @@
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1667344169282}
+  :block/updated-at 1667519994064}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
   :block/updated-at 1662686555266}
@@ -156,7 +156,7 @@
   :block/updated-at 1657847480823}
  {:block/name "clojure持久化map",
   :block/created-at 1648795267998,
-  :block/updated-at 1664238971894}
+  :block/updated-at 1667519934635}
  {:block/name "clojure持久化set",
   :block/created-at 1648775576084,
   :block/updated-at 1662861965611}
@@ -180,7 +180,7 @@
   :block/updated-at 1648432376392}
  {:block/name "datalog",
   :block/created-at 1654672833261,
-  :block/updated-at 1667344142558}
+  :block/updated-at 1667434681191}
  {:block/name "datom",
   :block/created-at 1654672916734,
   :block/updated-at 1661387838350}
@@ -236,6 +236,15 @@
  {:block/name "nov 3rd, 2022",
   :block/created-at 1667405057719,
   :block/updated-at 1667405057719}
+ {:block/name "nov 4th, 2022",
+  :block/created-at 1667491219975,
+  :block/updated-at 1667491219975}
+ {:block/name "nov 5th, 2022",
+  :block/created-at 1667583662433,
+  :block/updated-at 1667583662433}
+ {:block/name "nov 6th, 2022",
+  :block/created-at 1667664027491,
+  :block/updated-at 1667664027491}
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -316,7 +325,7 @@
   :block/updated-at 1661129509496}
  {:block/name "使用零宽断言来匹配特定的文本位置",
   :block/created-at 1648611187284,
-  :block/updated-at 1667344366022}
+  :block/updated-at 1667434634151}
  {:block/name "供应商",
   :block/created-at 1652413386461,
   :block/updated-at 1652413386461}
@@ -328,7 +337,7 @@
   :block/updated-at 1649993008493}
  {:block/name "借方和贷方",
   :block/created-at 1652695133961,
-  :block/updated-at 1667344328107}
+  :block/updated-at 1667434671502}
  {:block/name "催款",
   :block/created-at 1652933011236,
   :block/updated-at 1652933236369}
@@ -466,7 +475,7 @@
   :block/updated-at 1662444680215}
  {:block/name "教练grow模型",
   :block/created-at 1663840956152,
-  :block/updated-at 1667344404755}
+  :block/updated-at 1667520009835}
  {:block/name "教练问题工具包",
   :block/created-at 1663840955599,
   :block/updated-at 1663840955599}
@@ -478,10 +487,10 @@
   :block/updated-at 1666572843669}
  {:block/name "数据结构-树",
   :block/created-at 1666532095307,
-  :block/updated-at 1667344038997}
+  :block/updated-at 1667434721660}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
-  :block/updated-at 1662861629399}
+  :block/updated-at 1667434623108}
  {:block/name "日记账分录",
   :block/created-at 1652769336025,
   :block/updated-at 1652838192509}
@@ -526,7 +535,7 @@
   :block/updated-at 1652435360492}
  {:block/name "物料可用性检查",
   :block/created-at 1652413385157,
-  :block/updated-at 1667179190518}
+  :block/updated-at 1667695606065}
  {:block/name "物料组",
   :block/created-at 1652775659718,
   :block/updated-at 1652775659718}
@@ -553,7 +562,7 @@
   :block/updated-at 1649488676073}
  {:block/name "福格行为模型",
   :block/created-at 1663840956153,
-  :block/updated-at 1667091184076}
+  :block/updated-at 1667519968409}
  {:block/name "福格行为设计工具箱",
   :block/created-at 1664457086221,
   :block/updated-at 1664457086221}
@@ -565,7 +574,7 @@
   :block/updated-at 1667344333991}
  {:block/name "算法复杂度分析",
   :block/created-at 1660616751936,
-  :block/updated-at 1666659552662}
+  :block/updated-at 1667434614392}
  {:block/name "自动总账科目确定",
   :block/created-at 1652776077606,
   :block/updated-at 1652776425665}
@@ -634,10 +643,10 @@
   :block/updated-at 1666572775142}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713,
-  :block/updated-at 1667344374590}
+  :block/updated-at 1667519975760}
  {:block/name "高绩效教练",
   :block/created-at 1662444490012,
-  :block/updated-at 1667090986678}
+  :block/updated-at 1667434596809}
  {:block/name "，在syntax-quote之中，自动生成一个新的符号，例如",
   :block/created-at 1667136794282, 
   :block/updated-at 1667136794282}]

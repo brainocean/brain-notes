@@ -1,10 +1,10 @@
 * Clojure中都有哪些是真值？#card #clojure
 :PROPERTIES:
-:card-last-interval: 3.66
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-05T14:09:29.261Z
-:card-last-reviewed: 2022-11-01T23:09:29.262Z
+:card-last-interval: 7.03
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-11-13T00:49:50.671Z
+:card-last-reviewed: 2022-11-06T00:49:50.672Z
 :card-last-score: 5
 :END:
 ** 除了 {{cloze false和nil}} ，其他一切都是true

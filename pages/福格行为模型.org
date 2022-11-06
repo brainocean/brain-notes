@@ -101,11 +101,11 @@
 * 重复，让执行更容易
 * 福格原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 10.74
-:card-repeats: 3
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-04T18:01:16.228Z
-:card-last-reviewed: 2022-10-25T01:01:16.228Z
+:card-last-interval: 31.15
+:card-repeats: 4
+:card-ease-factor: 2.62
+:card-next-schedule: 2022-12-07T03:48:16.556Z
+:card-last-reviewed: 2022-11-06T00:48:16.557Z
 :card-last-score: 5
 :END:
 ** 福格原则1，即帮助人们做他们已经想做的事。

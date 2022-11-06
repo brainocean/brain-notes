@@ -1,11 +1,11 @@
 * Dr. Russel Barkley
 * ADHD是一个什么障碍？#card #ADHD
 :PROPERTIES:
-:card-last-interval: 3.66
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-05T14:09:38.603Z
-:card-last-reviewed: 2022-11-01T23:09:38.604Z
+:card-last-interval: 7.03
+:card-repeats: 3
+:card-ease-factor: 2.7
+:card-next-schedule: 2022-11-13T00:50:01.657Z
+:card-last-reviewed: 2022-11-06T00:50:01.658Z
 :card-last-score: 5
 :END:
 ** 发育障碍(developmental disability/disorder of self regulation)
