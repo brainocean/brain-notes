@@ -1,10 +1,10 @@
 * SBNRR是用来做什么的？ #card #正念
 :PROPERTIES:
-:card-last-interval: 39.41
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-06T09:18:57.499Z
-:card-last-reviewed: 2022-09-28T00:18:57.499Z
+:card-last-interval: 219.47
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-06-14T11:05:09.704Z
+:card-last-reviewed: 2022-11-07T00:05:09.704Z
 :card-last-score: 5
 :END:
 ** Use The ‘SBNRR’ Technique To Handle Stressful Moments Mindfully

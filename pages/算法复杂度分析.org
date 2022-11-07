@@ -144,12 +144,12 @@ for(int i=0; i<n; i<<1)
 *** 一般性求解得出[[Master Theorem]]
 *** 常见递推式和复杂度的解 #card #DSA
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 1.62
-:card-next-schedule: 2022-11-06T16:00:00.000Z
-:card-last-reviewed: 2022-11-06T00:48:06.121Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 1.72
+:card-next-schedule: 2022-11-11T00:06:27.670Z
+:card-last-reviewed: 2022-11-07T00:06:27.670Z
+:card-last-score: 5
 :END:
 **** | 递推式 | 解 | 实例 |
 | $T(n)=T(n-1)+1$ | $O(n)$ | 向量求和的线性递归版 |

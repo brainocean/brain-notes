@@ -26,21 +26,21 @@
 *** 寻求量化或收集事实的词语开始，比 如“什么”“何时”“谁”“多少”。
 ** 为什么不建议使用“为什么”，“如何”来开始问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 39.41
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-06T09:19:42.118Z
-:card-last-reviewed: 2022-09-28T00:19:42.118Z
+:card-last-interval: 219.47
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-06-14T11:05:27.211Z
+:card-last-reviewed: 2022-11-07T00:05:27.211Z
 :card-last-score: 5
 :END:
 *** 因为它经常意味着批评并会引发防御心理。
 ** 什么词语可以替换必要的“为什么”问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 39.41
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-06T09:19:29.637Z
-:card-last-reviewed: 2022-09-28T00:19:29.637Z
+:card-last-interval: 219.47
+:card-repeats: 5
+:card-ease-factor: 3
+:card-next-schedule: 2023-06-14T11:05:18.959Z
+:card-last-reviewed: 2022-11-07T00:05:18.959Z
 :card-last-score: 5
 :END:
 *** 最好表达成“是什么原因......”

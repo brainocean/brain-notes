@@ -6,7 +6,7 @@
   :block/updated-at 1648432117503}
  {:block/name "adhd",
   :block/created-at 1660288316944,
-  :block/updated-at 1667344178624}
+  :block/updated-at 1667695801678}
  {:block/name "b",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -123,7 +123,7 @@
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1667519994064}
+  :block/updated-at 1667695790690}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
   :block/updated-at 1662686555266}
@@ -245,6 +245,9 @@
  {:block/name "nov 6th, 2022",
   :block/created-at 1667664027491,
   :block/updated-at 1667664027491}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667751551064,
+  :block/updated-at 1667751551064}
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -403,10 +406,10 @@
   :block/updated-at 1662534104531}
  {:block/name "尾递归",
   :block/created-at 1648521091819,
-  :block/updated-at 1667344161909}
+  :block/updated-at 1667695784510}
  {:block/name "常用的正则表达式例子",
   :block/created-at 1648611187120,
-  :block/updated-at 1666659110226}
+  :block/updated-at 1667695758123}
  {:block/name "库存盘点",
   :block/created-at 1652587081029,
   :block/updated-at 1652665257578}
@@ -484,7 +487,7 @@
   :block/updated-at 1663115953971}
  {:block/name "数据结构-图",
   :block/created-at 1666532095266,
-  :block/updated-at 1666572843669}
+  :block/updated-at 1667695664416}
  {:block/name "数据结构-树",
   :block/created-at 1666532095307,
   :block/updated-at 1667434721660}
@@ -499,7 +502,7 @@
   :block/updated-at 1666832906319}
  {:block/name "期末关账",
   :block/created-at 1652846785421,
-  :block/updated-at 1667179203563}
+  :block/updated-at 1667695620124}
  {:block/name "期间和数量折扣",
   :block/created-at 1652672857579,
   :block/updated-at 1667344295435}
@@ -508,7 +511,7 @@
   :block/updated-at 1648611187289}
  {:block/name "正则表达式unicode property",
   :block/created-at 1650004288555,
-  :block/updated-at 1661387816500}
+  :block/updated-at 1667695809313}
  {:block/name "正则表达式引擎",
   :block/created-at 1648611187287,
   :block/updated-at 1667344127371}
@@ -562,7 +565,7 @@
   :block/updated-at 1649488676073}
  {:block/name "福格行为模型",
   :block/created-at 1663840956153,
-  :block/updated-at 1667519968409}
+  :block/updated-at 1667695696581}
  {:block/name "福格行为设计工具箱",
   :block/created-at 1664457086221,
   :block/updated-at 1664457086221}
@@ -574,7 +577,7 @@
   :block/updated-at 1667344333991}
  {:block/name "算法复杂度分析",
   :block/created-at 1660616751936,
-  :block/updated-at 1667434614392}
+  :block/updated-at 1667695686144}
  {:block/name "自动总账科目确定",
   :block/created-at 1652776077606,
   :block/updated-at 1652776425665}
@@ -619,7 +622,7 @@
   :block/updated-at 1666572595279}
  {:block/name "采购订单",
   :block/created-at 1651818174591,
-  :block/updated-at 1667179212072}
+  :block/updated-at 1667695629268}
  {:block/name "重复交易",
   :block/created-at 1652413385861,
   :block/updated-at 1652413385861}
@@ -643,7 +646,7 @@
   :block/updated-at 1666572775142}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713,
-  :block/updated-at 1667519975760}
+  :block/updated-at 1667695768645}
  {:block/name "高绩效教练",
   :block/created-at 1662444490012,
   :block/updated-at 1667434596809}
