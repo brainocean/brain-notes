@@ -150,11 +150,11 @@
 *** 因为它只关心一个细节
 ** 对于事实性卡片，经常可以添加 {{cloze 为什么它是真的}}的卡片，可以强化和增加它的内涵 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-11-07T10:18:12.580Z
-:card-last-reviewed: 2022-11-03T00:18:12.581Z
+:card-last-interval: 14.49
+:card-repeats: 3
+:card-ease-factor: 3.16
+:card-next-schedule: 2022-11-22T12:21:29.111Z
+:card-last-reviewed: 2022-11-08T01:21:29.111Z
 :card-last-score: 5
 :END:
 * 「清单」类知识
@@ -187,12 +187,12 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: 3.58
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.5
-:card-next-schedule: 2022-11-07T12:59:35.734Z
-:card-last-reviewed: 2022-11-03T23:59:35.735Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-08T16:00:00.000Z
+:card-last-reviewed: 2022-11-08T01:22:03.877Z
+:card-last-score: 1
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
@@ -326,11 +326,11 @@
 *** 关键词：重要的条件、动词、形容词副词、主语宾语
 ** “程序”中步骤转移之间，什么是必须要知道的？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 13.04
-:card-repeats: 3
-:card-ease-factor: 3.26
-:card-next-schedule: 2022-11-07T00:59:35.325Z
-:card-last-reviewed: 2022-10-25T00:59:35.325Z
+:card-last-interval: 48.44
+:card-repeats: 4
+:card-ease-factor: 3.36
+:card-next-schedule: 2022-12-26T11:20:18.696Z
+:card-last-reviewed: 2022-11-08T01:20:18.697Z
 :card-last-score: 5
 :END:
 *** 步骤启动、停止的条件或者启发式
@@ -390,12 +390,12 @@
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 2.06
-:card-next-schedule: 2022-11-07T00:19:16.541Z
-:card-last-reviewed: 2022-11-03T00:19:16.541Z
-:card-last-score: 3
+:card-last-interval: 8.64
+:card-repeats: 3
+:card-ease-factor: 2.16
+:card-next-schedule: 2022-11-16T16:20:13.617Z
+:card-last-reviewed: 2022-11-08T01:20:13.617Z
+:card-last-score: 5
 :END:
 * 「开放式清单」和「启明卡」—— 知识的应用
 ** 开放式清单和封闭清单的区别？ #card #SRS

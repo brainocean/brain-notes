@@ -138,12 +138,12 @@
 ** 步骤3，利用“最后动作”优化锚点
 * 确定锚点需要考虑的三个方面 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.66
-:card-next-schedule: 2022-11-07T16:00:00.000Z
-:card-last-reviewed: 2022-11-07T00:07:29.557Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.76
+:card-next-schedule: 2022-11-12T01:22:19.064Z
+:card-last-reviewed: 2022-11-08T01:22:19.065Z
+:card-last-score: 5
 :END:
 ** 匹配物理位置、匹配频率、匹配主题/目的
 ** 重点是“匹配”二字，让新习惯的嵌入摩擦力更低、更自然

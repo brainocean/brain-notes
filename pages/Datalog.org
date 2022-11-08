@@ -42,11 +42,11 @@
 ** 用来为查询提供输入参数 input parameter
 * Datalog查询中的输入参数如何匹配一个collection? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 3.4
-:card-next-schedule: 2022-11-07T06:18:01.169Z
-:card-last-reviewed: 2022-11-03T00:18:01.169Z
+:card-last-interval: 11.6
+:card-repeats: 3
+:card-ease-factor: 3.5
+:card-next-schedule: 2022-11-19T15:20:36.777Z
+:card-last-reviewed: 2022-11-08T01:20:36.777Z
 :card-last-score: 5
 :END:
 ** 下面的匹配会依次匹配?title，形成一个逻辑*或*的查询

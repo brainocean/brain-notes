@@ -61,11 +61,11 @@
 :END:
 ** 我们的语汇越是 {{cloze 具体}}和 {{cloze 富有描述性}}，带有的 {{cloze 批判}}可能就越少，教练也会越起作用  #card #教练
 :PROPERTIES:
-:card-last-interval: 4.28
-:card-repeats: 2
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-11-07T06:18:56.761Z
-:card-last-reviewed: 2022-11-03T00:18:56.762Z
+:card-last-interval: 11.2
+:card-repeats: 3
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-11-19T05:20:45.319Z
+:card-last-reviewed: 2022-11-08T01:20:45.319Z
 :card-last-score: 5
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
@@ -80,11 +80,11 @@
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
 ** 探索现状问题的原则？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-11-07T10:18:35.682Z
-:card-last-reviewed: 2022-11-03T00:18:35.682Z
+:card-last-interval: 14.49
+:card-repeats: 3
+:card-ease-factor: 3.16
+:card-next-schedule: 2022-11-22T12:21:55.393Z
+:card-last-reviewed: 2022-11-08T01:21:55.393Z
 :card-last-score: 5
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
@@ -187,12 +187,12 @@
 *** 如何验证做的结果？我们怎么才能知道你做了？ 谁需要知道？
 ** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
-:card-last-interval: 39.41
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-11-07T09:29:52.698Z
-:card-last-reviewed: 2022-09-29T00:29:52.698Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-08T16:00:00.000Z
+:card-last-reviewed: 2022-11-08T01:21:12.666Z
+:card-last-score: 1
 :END:
 *** 删除不愿做的事情
 *** 书面记录并分享

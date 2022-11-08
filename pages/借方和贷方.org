@@ -13,11 +13,11 @@
 * 借贷两字直接借用自日文。本来在日文中，借贷两字就是有完全不同的含义，英文中的credit和debit也是有完全不同的含义，就是刚刚我说的终点与起点的区别。可是翻译成中文后，却成了无意义的记账符号，害苦了做会计的人，从此要死记硬背。
 * 公司价值的核心公式是什么？ #card #B1
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-11-07T10:17:51.482Z
-:card-last-reviewed: 2022-11-03T00:17:51.482Z
+:card-last-interval: 15.73
+:card-repeats: 3
+:card-ease-factor: 3.2
+:card-next-schedule: 2022-11-23T18:21:21.833Z
+:card-last-reviewed: 2022-11-08T01:21:21.833Z
 :card-last-score: 5
 :END:
 ** 资产(asset)=所有者权益(equity)+负债(liability)+收入(income)-费用(cost)，进而导出
