@@ -92,11 +92,11 @@
 ** 所以和自己说话不是internalization，而是privatization，即抑制动作的实际公开发生，而是局限在大脑中
 * 如何弥补执行功能缺陷？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 11.28
-:card-repeats: 3
-:card-ease-factor: 2.82
-:card-next-schedule: 2022-11-08T07:15:37.209Z
-:card-last-reviewed: 2022-10-28T01:15:37.209Z
+:card-last-interval: 43.42
+:card-repeats: 4
+:card-ease-factor: 2.92
+:card-next-schedule: 2022-12-22T10:57:39.265Z
+:card-last-reviewed: 2022-11-09T00:57:39.266Z
 :card-last-score: 5
 :END:
 ** 外化(externalize)重要的信息

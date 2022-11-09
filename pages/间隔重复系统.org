@@ -187,12 +187,12 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.5
-:card-next-schedule: 2022-11-08T16:00:00.000Z
-:card-last-reviewed: 2022-11-08T01:22:03.877Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 3.6
+:card-next-schedule: 2022-11-13T00:58:36.148Z
+:card-last-reviewed: 2022-11-09T00:58:36.149Z
+:card-last-score: 5
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
 :PROPERTIES:
@@ -296,12 +296,12 @@
 :END:
 ** 一个卡片正确的聚焦粒度，取决于什么认知因子？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 75.49
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-08T11:37:08.100Z
-:card-last-reviewed: 2022-08-25T00:37:08.101Z
-:card-last-score: 3
+:card-last-interval: 197.71
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-05-25T17:57:59.401Z
+:card-last-reviewed: 2022-11-09T00:57:59.401Z
+:card-last-score: 5
 :END:
 *** 你已经内化的概念颗粒度(aka组块大小)
 * 程序性的知识

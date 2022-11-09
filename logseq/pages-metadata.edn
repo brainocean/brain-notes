@@ -72,7 +72,7 @@
   :block/updated-at 1667344414706}
  {:block/name "clojure datatype",
   :block/created-at 1650540986942,
-  :block/updated-at 1667434685350}
+  :block/updated-at 1667870485486}
  {:block/name "clojure list",
   :block/created-at 1648712976320,
   :block/updated-at 1663400917640}
@@ -180,7 +180,7 @@
   :block/updated-at 1648432376392}
  {:block/name "datalog",
   :block/created-at 1654672833261,
-  :block/updated-at 1667434681191}
+  :block/updated-at 1667870436799}
  {:block/name "datom",
   :block/created-at 1654672916734,
   :block/updated-at 1661387838350}
@@ -251,6 +251,9 @@
  {:block/name "nov 8th, 2022",
   :block/created-at 1667843575956,
   :block/updated-at 1667843575956}
+ {:block/name "nov 9th, 2022",
+  :block/created-at 1667923216184,
+  :block/updated-at 1667923216184}
  {:block/name "now",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -331,7 +334,7 @@
   :block/updated-at 1661129509496}
  {:block/name "使用零宽断言来匹配特定的文本位置",
   :block/created-at 1648611187284,
-  :block/updated-at 1667434634151}
+  :block/updated-at 1667870377400}
  {:block/name "供应商",
   :block/created-at 1652413386461,
   :block/updated-at 1652413386461}
@@ -343,7 +346,7 @@
   :block/updated-at 1649993008493}
  {:block/name "借方和贷方",
   :block/created-at 1652695133961,
-  :block/updated-at 1667434671502}
+  :block/updated-at 1667870481911}
  {:block/name "催款",
   :block/created-at 1652933011236,
   :block/updated-at 1652933236369}
@@ -481,7 +484,7 @@
   :block/updated-at 1662444680215}
  {:block/name "教练grow模型",
   :block/created-at 1663840956152,
-  :block/updated-at 1667779477853}
+  :block/updated-at 1667870515415}
  {:block/name "教练问题工具包",
   :block/created-at 1663840955599,
   :block/updated-at 1663840955599}
@@ -493,7 +496,7 @@
   :block/updated-at 1667695664416}
  {:block/name "数据结构-树",
   :block/created-at 1666532095307,
-  :block/updated-at 1667434721660}
+  :block/updated-at 1667870550519}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
   :block/updated-at 1667434623108}
@@ -568,7 +571,7 @@
   :block/updated-at 1649488676073}
  {:block/name "福格行为模型",
   :block/created-at 1663840956153,
-  :block/updated-at 1667779649582}
+  :block/updated-at 1667870539090}
  {:block/name "福格行为设计工具箱",
   :block/created-at 1664457086221,
   :block/updated-at 1664457086221}
@@ -646,13 +649,13 @@
   :block/updated-at 1652413385649}
  {:block/name "销售订单",
   :block/created-at 1652413385152,
-  :block/updated-at 1666572775142}
+  :block/updated-at 1667870545724}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713,
-  :block/updated-at 1667695768645}
+  :block/updated-at 1667870523897}
  {:block/name "高绩效教练",
   :block/created-at 1662444490012,
-  :block/updated-at 1667779527286}
+  :block/updated-at 1667870432842}
  {:block/name "，在syntax-quote之中，自动生成一个新的符号，例如",
   :block/created-at 1667136794282, 
   :block/updated-at 1667136794282}]

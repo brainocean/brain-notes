@@ -187,12 +187,12 @@
 *** 如何验证做的结果？我们怎么才能知道你做了？ 谁需要知道？
 ** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-08T16:00:00.000Z
-:card-last-reviewed: 2022-11-08T01:21:12.666Z
-:card-last-score: 1
+:card-last-interval: 6.78
+:card-repeats: 2
+:card-ease-factor: 3
+:card-next-schedule: 2022-11-15T18:58:31.883Z
+:card-last-reviewed: 2022-11-09T00:58:31.884Z
+:card-last-score: 5
 :END:
 *** 删除不愿做的事情
 *** 书面记录并分享

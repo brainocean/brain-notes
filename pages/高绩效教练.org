@@ -59,8 +59,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-11-08T16:00:00.000Z
-:card-last-reviewed: 2022-11-08T01:20:32.816Z
+:card-next-schedule: 2022-11-09T16:00:00.000Z
+:card-last-reviewed: 2022-11-09T00:58:22.413Z
 :card-last-score: 1
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
