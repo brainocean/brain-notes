@@ -56,12 +56,12 @@
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-09T16:00:00.000Z
-:card-last-reviewed: 2022-11-09T00:58:22.413Z
-:card-last-score: 1
+:card-last-interval: 4.43
+:card-repeats: 2
+:card-ease-factor: 3.1
+:card-next-schedule: 2022-11-16T13:42:12.093Z
+:card-last-reviewed: 2022-11-12T03:42:12.093Z
+:card-last-score: 5
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
@@ -124,11 +124,11 @@
 *** 让教练对象有第2次机会核实他所说的真实性
 ** 哪些技巧可以表明你正在专心倾听并建立觉察？ #card #教练
 :PROPERTIES:
-:card-last-interval: 27.07
-:card-repeats: 4
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-10T01:40:03.243Z
-:card-last-reviewed: 2022-10-14T00:40:03.244Z
+:card-last-interval: 84.49
+:card-repeats: 5
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-02-04T14:43:13.488Z
+:card-last-reviewed: 2022-11-12T03:43:13.488Z
 :card-last-score: 5
 :END:
 *** {{cloze 重述/镜像}} —— 重述对方的原话

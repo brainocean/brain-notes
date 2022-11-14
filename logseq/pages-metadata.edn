@@ -6,7 +6,7 @@
   :block/updated-at 1648432117503}
  {:block/name "adhd",
   :block/created-at 1660288316944,
-  :block/updated-at 1667695801678}
+  :block/updated-at 1668386571803}
  {:block/name "b",
   :block/created-at 1648432117503,
   :block/updated-at 1648432117503}
@@ -90,7 +90,7 @@
   :block/updated-at 1656292957585}
  {:block/name "clojure seq library",
   :block/created-at 1650961906219,
-  :block/updated-at 1663465048681}
+  :block/updated-at 1668386536562}
  {:block/name "clojure transducers",
   :block/created-at 1650875440857,
   :block/updated-at 1666832796401}
@@ -99,31 +99,31 @@
   :block/updated-at 1667779629904}
  {:block/name "clojure vector",
   :block/created-at 1648691310540,
-  :block/updated-at 1663400845508}
+  :block/updated-at 1668386474015}
  {:block/name "clojure zipper",
   :block/created-at 1660871656667,
   :block/updated-at 1667519950717}
  {:block/name "clojure 和 java 的互操作 interop",
   :block/created-at 1648521091084,
-  :block/updated-at 1664494341338}
+  :block/updated-at 1668386393742}
  {:block/name "clojure中的keyword关键字",
   :block/created-at 1648607979825,
   :block/updated-at 1663400906787}
  {:block/name "clojure中的quoting",
   :block/created-at 1648521091670,
-  :block/updated-at 1664494337605}
+  :block/updated-at 1668386499035}
  {:block/name "clojure中的symbol符号",
   :block/created-at 1648609012055,
   :block/updated-at 1662862022117}
  {:block/name "clojure中的多态",
   :block/created-at 1649985696319,
-  :block/updated-at 1667179232095}
+  :block/updated-at 1668386616478}
  {:block/name "clojure中的异常处理",
   :block/created-at 1648521461425,
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1667779602305}
+  :block/updated-at 1668386567639}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
   :block/updated-at 1662686555266}
@@ -227,6 +227,21 @@
   "names are the most common means of creating indirection",
   :block/created-at 1650806477886,
   :block/updated-at 1650809529511}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668009768515,
+  :block/updated-at 1668009768515}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668098967192,
+  :block/updated-at 1668098967192}
+ {:block/name "nov 12th, 2022",
+  :block/created-at 1668182436615,
+  :block/updated-at 1668182436615}
+ {:block/name "nov 13th, 2022",
+  :block/created-at 1668268802113,
+  :block/updated-at 1668268802113}
+ {:block/name "nov 14th, 2022",
+  :block/created-at 1668361601453,
+  :block/updated-at 1668361601453}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667232158907,
   :block/updated-at 1667232158907}
@@ -268,7 +283,7 @@
   :block/updated-at 1648611187118}
  {:block/name "sbnrr",
   :block/created-at 1662442949110,
-  :block/updated-at 1667779509724}
+  :block/updated-at 1668386642864}
  {:block/name "sep 29th, 2022",
   :block/created-at 1664457087663,
   :block/updated-at 1664457087663}
@@ -412,7 +427,7 @@
   :block/updated-at 1662534104531}
  {:block/name "尾递归",
   :block/created-at 1648521091819,
-  :block/updated-at 1667695784510}
+  :block/updated-at 1668386554153}
  {:block/name "常用的正则表达式例子",
   :block/created-at 1648611187120,
   :block/updated-at 1667695758123}
@@ -484,7 +499,7 @@
   :block/updated-at 1662444680215}
  {:block/name "教练grow模型",
   :block/created-at 1663840956152,
-  :block/updated-at 1667870515415}
+  :block/updated-at 1668386510964}
  {:block/name "教练问题工具包",
   :block/created-at 1663840955599,
   :block/updated-at 1663840955599}
@@ -499,7 +514,7 @@
   :block/updated-at 1667870550519}
  {:block/name "数据结构和算法绪论",
   :block/created-at 1660265991106,
-  :block/updated-at 1667434623108}
+  :block/updated-at 1668386580013}
  {:block/name "日记账分录",
   :block/created-at 1652769336025,
   :block/updated-at 1652838192509}
@@ -571,7 +586,7 @@
   :block/updated-at 1649488676073}
  {:block/name "福格行为模型",
   :block/created-at 1663840956153,
-  :block/updated-at 1667870539090}
+  :block/updated-at 1668386429873}
  {:block/name "福格行为设计工具箱",
   :block/created-at 1664457086221,
   :block/updated-at 1664457086221}
@@ -583,7 +598,7 @@
   :block/updated-at 1667344333991}
  {:block/name "算法复杂度分析",
   :block/created-at 1660616751936,
-  :block/updated-at 1667779587739}
+  :block/updated-at 1668224611358}
  {:block/name "自动总账科目确定",
   :block/created-at 1652776077606,
   :block/updated-at 1652776425665}
@@ -598,7 +613,7 @@
   :block/updated-at 1662253238164}
  {:block/name "计量单位",
   :block/created-at 1652435360492,
-  :block/updated-at 1666659440127}
+  :block/updated-at 1667955436839}
  {:block/name "试算表",
   :block/created-at 1652772094615,
   :block/updated-at 1662861301953}
@@ -652,10 +667,10 @@
   :block/updated-at 1667870545724}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713,
-  :block/updated-at 1667870523897}
+  :block/updated-at 1668386651655}
  {:block/name "高绩效教练",
   :block/created-at 1662444490012,
-  :block/updated-at 1667870432842}
+  :block/updated-at 1668224593511}
  {:block/name "，在syntax-quote之中，自动生成一个新的符号，例如",
   :block/created-at 1667136794282, 
   :block/updated-at 1667136794282}]

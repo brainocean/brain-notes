@@ -87,11 +87,11 @@
 ** 做到这个行为的难易程度
 * 黄金行为的标准 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-11-12T07:51:30.993Z
-:card-last-reviewed: 2022-10-11T23:51:30.993Z
+:card-last-interval: 210.08
+:card-repeats: 5
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-06-12T01:38:44.334Z
+:card-last-reviewed: 2022-11-14T00:38:44.335Z
 :card-last-score: 5
 :END:
 ** 这个行为能让你实现愿望（影响）
@@ -126,35 +126,35 @@
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计正确提示的步骤有哪些？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-11-10T00:53:04.001Z
-:card-last-interval: 11.04
+:card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-11-14T16:00:00.000Z
+:card-last-interval: -1
 :card-ease-factor: 2.76
-:card-last-reviewed: 2022-10-30T00:53:04.001Z
+:card-last-reviewed: 2022-11-14T00:40:16.422Z
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来
 ** 步骤3，利用“最后动作”优化锚点
 * 确定锚点需要考虑的三个方面 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 4
+:card-last-interval: 3.71
 :card-repeats: 2
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-12T01:22:19.064Z
-:card-last-reviewed: 2022-11-08T01:22:19.065Z
+:card-ease-factor: 2.86
+:card-next-schedule: 2022-11-17T17:40:29.848Z
+:card-last-reviewed: 2022-11-14T00:40:29.848Z
 :card-last-score: 5
 :END:
 ** 匹配物理位置、匹配频率、匹配主题/目的
 ** 重点是“匹配”二字，让新习惯的嵌入摩擦力更低、更自然
 * 为什么锚点必须要精确？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-11-12T07:51:36.772Z
-:card-last-reviewed: 2022-10-11T23:51:36.772Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-14T16:00:00.000Z
+:card-last-reviewed: 2022-11-14T00:38:56.314Z
+:card-last-score: 1
 :END:
 ** 精确才能让最后动作形成一个明确、清晰的信号
 ** 让锚点具体、清晰、易于察觉
@@ -196,12 +196,12 @@
 ** 以及你刚刚完成新习惯的时刻
 * 庆祝的原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 31.36
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.8
-:card-next-schedule: 2022-11-12T07:51:18.500Z
-:card-last-reviewed: 2022-10-11T23:51:18.500Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-14T16:00:00.000Z
+:card-last-reviewed: 2022-11-14T00:38:23.775Z
+:card-last-score: 1
 :END:
 ** “及时又简单”
 * 庆祝的方式

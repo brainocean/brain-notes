@@ -1,11 +1,11 @@
 * Dr. Russel Barkley
 * ADHD是一个什么障碍？#card #ADHD
 :PROPERTIES:
-:card-last-interval: 7.03
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-11-13T00:50:01.657Z
-:card-last-reviewed: 2022-11-06T00:50:01.658Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-12-15T08:42:51.786Z
+:card-last-reviewed: 2022-11-14T00:42:51.786Z
 :card-last-score: 5
 :END:
 ** 发育障碍(developmental disability/disorder of self regulation)
@@ -75,11 +75,11 @@
 * Inhibition - pause/stop before you respond to the stimuli, which is unique to human
 * 五个执行功能的障碍 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 15.37
-:card-repeats: 4
-:card-ease-factor: 1.96
-:card-next-schedule: 2022-11-09T08:58:06.952Z
-:card-last-reviewed: 2022-10-25T00:58:06.952Z
+:card-last-interval: 24.11
+:card-repeats: 5
+:card-ease-factor: 1.82
+:card-next-schedule: 2022-12-06T05:41:59.536Z
+:card-last-reviewed: 2022-11-12T03:41:59.537Z
 :card-last-score: 3
 :END:
 ** 1. 抑制行为的能力 inhibit your behavior
@@ -121,11 +121,11 @@
 *** 重点是physical工具
 * 给执行意志力油箱加油 #card #ADHD
 :PROPERTIES:
-:card-last-interval: 11.28
-:card-repeats: 3
-:card-ease-factor: 2.82
-:card-next-schedule: 2022-11-10T06:51:07.864Z
-:card-last-reviewed: 2022-10-30T00:51:07.864Z
+:card-last-interval: 43.42
+:card-repeats: 4
+:card-ease-factor: 2.92
+:card-next-schedule: 2022-12-25T13:43:21.887Z
+:card-last-reviewed: 2022-11-12T03:43:21.888Z
 :card-last-score: 5
 :END:
 ** 更多奖励和正面情绪

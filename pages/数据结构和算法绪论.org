@@ -35,11 +35,11 @@
 * 图灵机
 ** 图灵机的纸带tape的作用是 {{cloze 在每个单元格中存贮一个字符}} #card #DSA
 :PROPERTIES:
-:card-last-interval: 27.02
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-11-13T00:56:50.123Z
-:card-last-reviewed: 2022-10-17T00:56:50.124Z
+:card-last-interval: 80.21
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-02-02T05:42:59.932Z
+:card-last-reviewed: 2022-11-14T00:42:59.933Z
 :card-last-score: 5
 :END:
 ** 图灵机读写头head的作用是 {{cloze 读写所在位置的单元格的字符}}，每过一个节拍，能够 {{cloze 向左或者向右移动一格}} #card #DSA

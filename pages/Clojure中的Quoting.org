@@ -33,11 +33,11 @@
 #+END_SRC
 * unquote的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 43.56
-:card-repeats: 4
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-11-12T12:32:17.537Z
-:card-last-reviewed: 2022-09-29T23:32:17.537Z
+:card-last-interval: 133.68
+:card-repeats: 5
+:card-ease-factor: 3.4
+:card-next-schedule: 2023-03-27T16:39:48.154Z
+:card-last-reviewed: 2022-11-14T00:39:48.154Z
 :card-last-score: 5
 :END:
 ** unquote的语法是~，是在*syntax-quote*体之内，强制对它修饰的form进行求值，例如
@@ -50,12 +50,12 @@
 #+END_SRC
 * splicing unquote的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 38.7
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.06
-:card-next-schedule: 2022-11-12T16:22:51.165Z
-:card-last-reviewed: 2022-10-05T00:22:51.166Z
-:card-last-score: 3
+:card-next-schedule: 2022-11-14T16:00:00.000Z
+:card-last-reviewed: 2022-11-14T00:41:38.958Z
+:card-last-score: 1
 :END:
 ** splicing unquote的语法是 ~@，是指把被unquote的list form(即被求值的list form)进行in-place展开，例如
 ** #+BEGIN_SRC clojure
@@ -67,11 +67,11 @@
 #+END_SRC
 * auto-gensym的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 43.56
-:card-repeats: 4
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-11-12T12:31:56.600Z
-:card-last-reviewed: 2022-09-29T23:31:56.601Z
+:card-last-interval: 133.68
+:card-repeats: 5
+:card-ease-factor: 3.4
+:card-next-schedule: 2023-03-27T16:39:36.143Z
+:card-last-reviewed: 2022-11-14T00:39:36.144Z
 :card-last-score: 5
 :END:
 ** auto-gensym的语法是foo#，在syntax-quote之中，自动生成一个新的符号，例如

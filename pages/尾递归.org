@@ -1,10 +1,10 @@
 * Clojure中的尾递归如何书写？#card #clojure
 :PROPERTIES:
-:card-last-interval: 7.03
-:card-repeats: 3
-:card-ease-factor: 2.7
-:card-next-schedule: 2022-11-13T00:49:44.435Z
-:card-last-reviewed: 2022-11-06T00:49:44.436Z
+:card-last-interval: 31.36
+:card-repeats: 4
+:card-ease-factor: 2.8
+:card-next-schedule: 2022-12-15T08:42:34.132Z
+:card-last-reviewed: 2022-11-14T00:42:34.132Z
 :card-last-score: 5
 :END:
 ** 在结尾位置(tail position)使用 recur，重新绑定参数值，递归到最近的函数顶部或者loop

@@ -14,11 +14,11 @@
 | 灵活性高 | 效率高 |
 * 怎样实现一个Protocol？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 13.84
-:card-repeats: 3
-:card-ease-factor: 3.46
-:card-next-schedule: 2022-11-13T21:20:32.017Z
-:card-last-reviewed: 2022-10-31T01:20:32.017Z
+:card-last-interval: 50.69
+:card-repeats: 4
+:card-ease-factor: 3.56
+:card-next-schedule: 2023-01-03T16:43:36.450Z
+:card-last-reviewed: 2022-11-14T00:43:36.450Z
 :card-last-score: 5
 :END:
 ** | 方式 | 函数/宏 | 常用于 |

@@ -1,10 +1,10 @@
 * Clojure 如何 访问 Java 类的静态成员？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 43.56
-:card-repeats: 4
-:card-ease-factor: 3.3
-:card-next-schedule: 2022-11-12T12:32:21.323Z
-:card-last-reviewed: 2022-09-29T23:32:21.323Z
+:card-last-interval: 133.68
+:card-repeats: 5
+:card-ease-factor: 3.4
+:card-next-schedule: 2023-03-27T16:39:53.720Z
+:card-last-reviewed: 2022-11-14T00:39:53.721Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

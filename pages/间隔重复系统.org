@@ -127,12 +127,12 @@
 *** 提取练习依赖于从记忆中回忆答案
 ** 有效卡片的属性是 #card #SRS
 :PROPERTIES:
-:card-last-interval: 34.97
-:card-repeats: 5
-:card-ease-factor: 2.06
-:card-next-schedule: 2022-11-11T01:16:29.572Z
-:card-last-reviewed: 2022-10-07T02:16:29.573Z
-:card-last-score: 3
+:card-last-interval: 87.07
+:card-repeats: 6
+:card-ease-factor: 2.16
+:card-next-schedule: 2023-02-07T04:44:03.397Z
+:card-last-reviewed: 2022-11-12T03:44:03.397Z
+:card-last-score: 5
 :END:
 *** {{cloze 聚焦的}}、 {{cloze 精确的}}、 {{cloze 一致的}}、 {{cloze 可控的}}和 {{cloze 费功夫的}}
 * 简单事实类的知识
@@ -187,11 +187,11 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 2
-:card-ease-factor: 3.6
-:card-next-schedule: 2022-11-13T00:58:36.148Z
-:card-last-reviewed: 2022-11-09T00:58:36.149Z
+:card-last-interval: 14.8
+:card-repeats: 3
+:card-ease-factor: 3.7
+:card-next-schedule: 2022-11-28T19:43:03.707Z
+:card-last-reviewed: 2022-11-14T00:43:03.707Z
 :card-last-score: 5
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
@@ -206,11 +206,11 @@
 *** 可以编造一个助记词
 ** 给卡片中的文本增加 {{cloze 图片}}，可以引发精细编码 #card #SRS
 :PROPERTIES:
-:card-last-interval: 50.34
-:card-repeats: 4
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-11-13T16:00:48.400Z
-:card-last-reviewed: 2022-09-24T08:00:48.400Z
+:card-last-interval: 143.75
+:card-repeats: 5
+:card-ease-factor: 3.3
+:card-next-schedule: 2023-04-06T18:43:08.274Z
+:card-last-reviewed: 2022-11-14T00:43:08.274Z
 :card-last-score: 5
 :END:
 ** 好的助记词会让人在情感上感觉如何？ #card #SRS
@@ -225,21 +225,21 @@
 *** 生动形象
 ** 通过什么方法让助记词变的生动？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 12.08
-:card-repeats: 3
-:card-ease-factor: 3.02
-:card-next-schedule: 2022-11-14T00:12:54.571Z
-:card-last-reviewed: 2022-11-01T23:12:54.571Z
+:card-last-interval: 34.34
+:card-repeats: 4
+:card-ease-factor: 2.88
+:card-next-schedule: 2022-12-18T08:44:11.632Z
+:card-last-reviewed: 2022-11-14T00:44:11.633Z
 :card-last-score: 3
 :END:
 *** 通过视觉、个人经历、幽默、讨厌的东西，重点是唤起情感关联
 ** 应该把助记词放在卡片的哪个部分？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 50.34
-:card-repeats: 4
-:card-ease-factor: 3.2
-:card-next-schedule: 2022-11-13T16:01:15.650Z
-:card-last-reviewed: 2022-09-24T08:01:15.650Z
+:card-last-interval: 143.75
+:card-repeats: 5
+:card-ease-factor: 3.3
+:card-next-schedule: 2023-04-06T18:43:16.594Z
+:card-last-reviewed: 2022-11-14T00:43:16.594Z
 :card-last-score: 5
 :END:
 *** 挨着答案(用括号等标注出来)

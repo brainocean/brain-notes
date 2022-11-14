@@ -128,12 +128,12 @@
 **** “如果你知道答案/拥有足够资源?事情会怎样?”
 ** 跳出熟悉视角的拓展创造力的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 13.91
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.86
-:card-next-schedule: 2022-11-12T21:53:13.537Z
-:card-last-reviewed: 2022-10-30T00:53:13.537Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-14T16:00:00.000Z
+:card-last-reviewed: 2022-11-14T00:41:50.942Z
+:card-last-score: 1
 :END:
 *** “如果你是领导者，你会怎么做?”
 *** “想想你最敬佩的领导者，他们会怎么做?”
@@ -175,11 +175,11 @@
 *** 将对话转化为在完成目标日期内的具体的决定和行动步骤
 ** 建立责任担当的关键问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 13.31
-:card-repeats: 3
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-11-12T07:53:31.795Z
-:card-last-reviewed: 2022-10-30T00:53:31.795Z
+:card-last-interval: 27.79
+:card-repeats: 4
+:card-ease-factor: 2.72
+:card-next-schedule: 2022-12-11T18:39:06.737Z
+:card-last-reviewed: 2022-11-14T00:39:06.738Z
 :card-last-score: 5
 :END:
 *** 你将要做什么? —— 明确的方案
