@@ -51,20 +51,20 @@
 ** 所以缺失了做好准备的能力，造成一个接一个的危机
 * 大脑可以分成前后两个部分，后部是 {{cloze 学习知识}}的，而前部是 {{cloze 应用知识}}的，ADHD割裂了这两部分，从而导致 {{cloze 执行功能的低下}}，所以重点不在多学更多的知识和技能，而是 {{cloze 如何应用}}(put more time on point of performance) #card #ADHD
 :PROPERTIES:
-:card-last-interval: 27.95
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-11-16T22:04:59.228Z
-:card-last-reviewed: 2022-10-20T00:04:59.228Z
+:card-last-interval: 80.21
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-02-06T05:58:53.852Z
+:card-last-reviewed: 2022-11-18T00:58:53.853Z
 :card-last-score: 5
 :END:
 * increase {{cloze accountability}}, increase {{cloze frequency}}, {{cloze immediacy}}, the {{cloze salience}} and {{cloze timing}} of consequences #card #ADHD
 :PROPERTIES:
-:card-last-interval: 31.81
-:card-repeats: 4
-:card-ease-factor: 2.82
-:card-next-schedule: 2022-11-17T19:57:59.652Z
-:card-last-reviewed: 2022-10-17T00:57:59.652Z
+:card-last-interval: 135.89
+:card-repeats: 5
+:card-ease-factor: 2.92
+:card-next-schedule: 2023-04-02T22:00:40.948Z
+:card-last-reviewed: 2022-11-18T01:00:40.949Z
 :card-last-score: 5
 :END:
 * 那些代币之类的外部设施的目的是在自然环境中，为这些延迟(delays)布置人工的后果(consequence)，来增强accountability，类比：假肢
@@ -177,11 +177,11 @@
 ** review the activity: what do you think, how did you do,  how can we do better
 * 如果孩子不在身边如何管理？ #card #ADHD
 :PROPERTIES:
-:card-last-interval: 27.95
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-11-16T22:05:08.094Z
-:card-last-reviewed: 2022-10-20T00:05:08.094Z
+:card-last-interval: 80.21
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-02-06T05:58:58.444Z
+:card-last-reviewed: 2022-11-18T00:58:58.445Z
 :card-last-score: 5
 :END:
 ** behavior monitoring card

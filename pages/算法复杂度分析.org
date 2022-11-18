@@ -1,11 +1,11 @@
 * 算法复杂度分析的常用方法 #card #DSA
 :PROPERTIES:
-:card-last-interval: 57.86
-:card-repeats: 4
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-16T20:55:19.228Z
-:card-last-reviewed: 2022-09-20T00:55:19.229Z
-:card-last-score: 5
+:card-last-interval: 102.48
+:card-repeats: 5
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-02-28T11:58:43.079Z
+:card-last-reviewed: 2022-11-18T00:58:43.080Z
+:card-last-score: 3
 :END:
 ** 迭代/循环算法——级数求和
 ** 递归
@@ -68,11 +68,11 @@
 *** $$h(n) = 1+1/2+1/3+ \dots + 1/n = \Theta(logn)$$
 ** 对数级数 #card #DSA
 :PROPERTIES:
-:card-last-interval: 57.86
-:card-repeats: 4
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-16T20:54:58.741Z
-:card-last-reviewed: 2022-09-20T00:54:58.741Z
+:card-last-interval: 273.94
+:card-repeats: 5
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-08-18T22:58:17.100Z
+:card-last-reviewed: 2022-11-18T00:58:17.100Z
 :card-last-score: 5
 :END:
 *** $$log1 + log2 + \dots + logn = log(n!) = \Theta(nlogn)$$

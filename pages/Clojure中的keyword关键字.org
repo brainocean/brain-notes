@@ -1,11 +1,11 @@
 * Clojure中的关键字和namespace的关系是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 43.56
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3.3
-:card-next-schedule: 2022-11-17T13:22:14.878Z
-:card-last-reviewed: 2022-10-05T00:22:14.878Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-18T16:00:00.000Z
+:card-last-reviewed: 2022-11-18T00:59:53.487Z
+:card-last-score: 1
 :END:
 ** #+BEGIN_SRC clojure
 user=> (namespace :kw)

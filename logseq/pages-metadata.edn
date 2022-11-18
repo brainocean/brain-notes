@@ -84,7 +84,7 @@
   :block/updated-at 1661129560290}
  {:block/name "clojure ref",
   :block/created-at 1650527802723,
-  :block/updated-at 1666659509577}
+  :block/updated-at 1668732860467}
  {:block/name "clojure repl",
   :block/created-at 1650438306488,
   :block/updated-at 1656292957585}
@@ -111,7 +111,7 @@
   :block/updated-at 1663400906787}
  {:block/name "clojure中的quoting",
   :block/created-at 1648521091670,
-  :block/updated-at 1668386499035}
+  :block/updated-at 1668473013424}
  {:block/name "clojure中的symbol符号",
   :block/created-at 1648609012055,
   :block/updated-at 1662862022117}
@@ -123,13 +123,13 @@
   :block/updated-at 1648526195757}
  {:block/name "clojure中的真值",
   :block/created-at 1648521091751,
-  :block/updated-at 1668386567639}
+  :block/updated-at 1668472980808}
  {:block/name "clojure中的解构destructing",
   :block/created-at 1648526250934,
   :block/updated-at 1662686555266}
  {:block/name "clojure元数据",
   :block/created-at 1648609787956,
-  :block/updated-at 1656292994391}
+  :block/updated-at 1668733009808}
  {:block/name "clojure关键字参数",
   :block/created-at 1648534394172,
   :block/updated-at 1648534394172}
@@ -242,6 +242,18 @@
  {:block/name "nov 14th, 2022",
   :block/created-at 1668361601453,
   :block/updated-at 1668361601453}
+ {:block/name "nov 15th, 2022",
+  :block/created-at 1668472964286,
+  :block/updated-at 1668472964286}
+ {:block/name "nov 16th, 2022",
+  :block/created-at 1668534818376,
+  :block/updated-at 1668534818376}
+ {:block/name "nov 17th, 2022",
+  :block/created-at 1668621160322,
+  :block/updated-at 1668621160322}
+ {:block/name "nov 18th, 2022",
+  :block/created-at 1668704268211,
+  :block/updated-at 1668704268211}
  {:block/name "nov 1st, 2022",
   :block/created-at 1667232158907,
   :block/updated-at 1667232158907}
@@ -418,7 +430,7 @@
   :block/updated-at 1660007512979}
  {:block/name "定价",
   :block/created-at 1652665356328,
-  :block/updated-at 1662595792674}
+  :block/updated-at 1668732889912}
  {:block/name "客户",
   :block/created-at 1652413385921,
   :block/updated-at 1652413385921}
@@ -499,7 +511,7 @@
   :block/updated-at 1662444680215}
  {:block/name "教练grow模型",
   :block/created-at 1663840956152,
-  :block/updated-at 1668386510964}
+  :block/updated-at 1668732990492}
  {:block/name "教练问题工具包",
   :block/created-at 1663840955599,
   :block/updated-at 1663840955599}
@@ -586,7 +598,7 @@
   :block/updated-at 1649488676073}
  {:block/name "福格行为模型",
   :block/created-at 1663840956153,
-  :block/updated-at 1668386429873}
+  :block/updated-at 1668732874881}
  {:block/name "福格行为设计工具箱",
   :block/created-at 1664457086221,
   :block/updated-at 1664457086221}
@@ -667,7 +679,7 @@
   :block/updated-at 1667870545724}
  {:block/name "间隔重复系统",
   :block/created-at 1655641119713,
-  :block/updated-at 1668386651655}
+  :block/updated-at 1668732995448}
  {:block/name "高绩效教练",
   :block/created-at 1662444490012,
   :block/updated-at 1668224593511}

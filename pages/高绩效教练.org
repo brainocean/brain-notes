@@ -56,12 +56,12 @@
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 2
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-11-16T13:42:12.093Z
-:card-last-reviewed: 2022-11-12T03:42:12.093Z
-:card-last-score: 5
+:card-last-interval: 13.48
+:card-repeats: 3
+:card-ease-factor: 2.96
+:card-next-schedule: 2022-12-01T11:57:33.691Z
+:card-last-reviewed: 2022-11-18T00:57:33.692Z
+:card-last-score: 3
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练

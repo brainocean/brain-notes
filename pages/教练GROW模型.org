@@ -153,11 +153,11 @@
 * 你将会做什么
 ** 意愿阶段分哪两步？ #card #教练
 :PROPERTIES:
-:card-last-interval: 13.91
-:card-repeats: 3
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-11-15T20:10:48.198Z
-:card-last-reviewed: 2022-11-01T23:10:48.199Z
+:card-last-interval: 52.04
+:card-repeats: 4
+:card-ease-factor: 2.96
+:card-next-schedule: 2023-01-09T00:56:30.472Z
+:card-last-reviewed: 2022-11-18T00:56:30.472Z
 :card-last-score: 5
 :END:
 *** 第一步:责任担当的建立。定义行动计划、时间表和衡量任务的完成机制。
@@ -187,12 +187,12 @@
 *** 如何验证做的结果？我们怎么才能知道你做了？ 谁需要知道？
 ** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
-:card-last-interval: 6.78
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 3
-:card-next-schedule: 2022-11-15T18:58:31.883Z
-:card-last-reviewed: 2022-11-09T00:58:31.884Z
-:card-last-score: 5
+:card-next-schedule: 2022-11-18T16:00:00.000Z
+:card-last-reviewed: 2022-11-18T00:56:24.873Z
+:card-last-score: 1
 :END:
 *** 删除不愿做的事情
 *** 书面记录并分享
