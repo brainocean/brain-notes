@@ -10,11 +10,11 @@
 ** 除了 {{cloze false和nil}} ，其他一切都是true
 * Clojure中空集合是真值吗？#card #clojure
 :PROPERTIES:
-:card-last-interval: 11.2
-:card-repeats: 3
-:card-ease-factor: 2.8
-:card-next-schedule: 2022-11-18T04:06:42.232Z
-:card-last-reviewed: 2022-11-07T00:06:42.232Z
+:card-last-interval: 56.93
+:card-repeats: 4
+:card-ease-factor: 2.9
+:card-next-schedule: 2023-01-18T22:49:02.742Z
+:card-last-reviewed: 2022-11-23T00:49:02.742Z
 :card-last-score: 5
 :END:
 ** 空集合 #{} {} [] () 都是true
@@ -22,11 +22,11 @@
 * 判断一个collection是否为空的惯用法是？ #card #clojure
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-11-19T10:43:00.768Z
-:card-last-interval: 4.43
-:card-ease-factor: 3.4
-:card-last-reviewed: 2022-11-15T00:43:00.769Z
+:card-repeats: 3
+:card-next-schedule: 2022-12-03T18:52:13.394Z
+:card-last-interval: 10.76
+:card-ease-factor: 3.5
+:card-last-reviewed: 2022-11-23T00:52:13.394Z
 :END:
 ** #+BEGIN_SRC clojure
 (seq [1 2 3])

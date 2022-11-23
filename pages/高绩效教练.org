@@ -67,11 +67,11 @@
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 5
-:card-next-schedule: 2022-11-20T12:46:35.220Z
-:card-last-interval: 27.54
-:card-ease-factor: 2.66
-:card-last-reviewed: 2022-10-24T00:46:35.220Z
+:card-repeats: 6
+:card-next-schedule: 2023-07-13T02:54:16.230Z
+:card-last-interval: 232.11
+:card-ease-factor: 2.76
+:card-last-reviewed: 2022-11-23T00:54:16.230Z
 :END:
 *** 总体原则是应该跟随^^教练对象的兴趣和思路^^而不是教练的来提出问
 题。

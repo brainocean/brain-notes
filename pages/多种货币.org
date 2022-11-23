@@ -1,11 +1,11 @@
 * SAP Business One 可以用两种并行货币来处理会计核算：本币和系统货币。
 * 什么是本币(local currency)？ #card #B1
 :PROPERTIES:
-:card-last-interval: 118.13
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-20T04:16:35.212Z
-:card-last-reviewed: 2022-07-25T01:16:35.212Z
+:card-last-interval: 908.8
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2025-05-19T19:53:37.587Z
+:card-last-reviewed: 2022-11-23T00:53:37.588Z
 :card-last-score: 5
 :END:
 ** 本币是公司记账时法定要求使用的货币。

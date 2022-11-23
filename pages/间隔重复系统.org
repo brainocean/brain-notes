@@ -150,11 +150,11 @@
 *** 因为它只关心一个细节
 ** 对于事实性卡片，经常可以添加 {{cloze 为什么它是真的}}的卡片，可以强化和增加它的内涵 #card #SRS
 :PROPERTIES:
-:card-last-interval: 14.49
-:card-repeats: 3
-:card-ease-factor: 3.16
-:card-next-schedule: 2022-11-22T12:21:29.111Z
-:card-last-reviewed: 2022-11-08T01:21:29.111Z
+:card-last-interval: 42.51
+:card-repeats: 4
+:card-ease-factor: 3.26
+:card-next-schedule: 2023-01-04T12:55:34.182Z
+:card-last-reviewed: 2022-11-23T00:55:34.182Z
 :card-last-score: 5
 :END:
 * 「清单」类知识

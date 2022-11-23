@@ -1,11 +1,11 @@
 * 英文：Balance Sheet
 * 资产负债表的用途？ #card #B1
 :PROPERTIES:
-:card-last-interval: 118.13
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-20T04:16:42.301Z
-:card-last-reviewed: 2022-07-25T01:16:42.302Z
+:card-last-interval: 908.8
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2025-05-19T19:53:43.256Z
+:card-last-reviewed: 2022-11-23T00:53:43.256Z
 :card-last-score: 5
 :END:
 ** 显示企业的财务状况，即公司的价值

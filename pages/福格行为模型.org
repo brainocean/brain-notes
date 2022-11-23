@@ -45,11 +45,11 @@
 ** 3．检查有没有行为动机。
 * 动机的问题是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 30.47
-:card-repeats: 4
-:card-ease-factor: 2.76
-:card-next-schedule: 2022-11-19T11:04:42.457Z
-:card-last-reviewed: 2022-10-20T00:04:42.457Z
+:card-last-interval: 106.03
+:card-repeats: 5
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-03-09T00:52:43.089Z
+:card-last-reviewed: 2022-11-23T00:52:43.089Z
 :card-last-score: 5
 :END:
 ** 不够稳定可靠——复杂、易失、易变、模糊难以量化
@@ -59,8 +59,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 2.62
-:card-next-schedule: 2022-11-18T16:00:00.000Z
-:card-last-reviewed: 2022-11-18T00:59:23.659Z
+:card-next-schedule: 2022-11-23T16:00:00.000Z
+:card-last-reviewed: 2022-11-23T00:50:58.076Z
 :card-last-score: 1
 :END:
 ** 选择
@@ -76,12 +76,12 @@
 ** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
 * 行为的焦点地图的两个维度是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 27.07
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.52
-:card-next-schedule: 2022-11-21T02:01:26.348Z
-:card-last-reviewed: 2022-10-25T01:01:26.349Z
-:card-last-score: 3
+:card-next-schedule: 2022-11-23T16:00:00.000Z
+:card-last-reviewed: 2022-11-23T00:55:02.478Z
+:card-last-score: 1
 :END:
 ** 对愿望的影响程度的高低
 ** 做到这个行为的难易程度
@@ -127,11 +127,11 @@
 * 设计正确提示的步骤有哪些？ #card #习惯 #行为设计
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 2
-:card-next-schedule: 2022-11-21T20:54:34.849Z
-:card-last-interval: 3.84
-:card-ease-factor: 2.86
-:card-last-reviewed: 2022-11-18T00:54:34.849Z
+:card-repeats: 3
+:card-next-schedule: 2022-12-06T23:55:29.238Z
+:card-last-interval: 13.97
+:card-ease-factor: 2.96
+:card-last-reviewed: 2022-11-23T00:55:29.239Z
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来
@@ -149,11 +149,11 @@
 ** 重点是“匹配”二字，让新习惯的嵌入摩擦力更低、更自然
 * 为什么锚点必须要精确？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 5.22
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-20T05:43:58.767Z
-:card-last-reviewed: 2022-11-15T00:43:58.768Z
+:card-last-interval: 25.66
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-12-18T15:54:02.862Z
+:card-last-reviewed: 2022-11-23T00:54:02.862Z
 :card-last-score: 5
 :END:
 ** 精确才能让最后动作形成一个明确、清晰的信号
@@ -196,11 +196,11 @@
 ** 以及你刚刚完成新习惯的时刻
 * 庆祝的原则 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 5.22
-:card-repeats: 2
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-20T05:43:25.213Z
-:card-last-reviewed: 2022-11-15T00:43:25.214Z
+:card-last-interval: 25.66
+:card-repeats: 3
+:card-ease-factor: 3
+:card-next-schedule: 2022-12-18T15:53:48.976Z
+:card-last-reviewed: 2022-11-23T00:53:48.977Z
 :card-last-score: 5
 :END:
 ** “及时又简单”

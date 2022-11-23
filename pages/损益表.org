@@ -1,11 +1,11 @@
 * 英文：Profit and Loss Statement
 * 损益表的用途？ #card #B1
 :PROPERTIES:
-:card-last-interval: 118.13
-:card-repeats: 5
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-20T04:16:25.389Z
-:card-last-reviewed: 2022-07-25T01:16:25.389Z
+:card-last-interval: 908.8
+:card-repeats: 6
+:card-ease-factor: 3.1
+:card-next-schedule: 2025-05-19T19:53:31.183Z
+:card-last-reviewed: 2022-11-23T00:53:31.184Z
 :card-last-score: 5
 :END:
 ** 显示会计年度/选定期间企业的收益（或损失），并说明公司价值的变化情况。

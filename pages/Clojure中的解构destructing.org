@@ -14,12 +14,12 @@
 #+END_SRC
 * Clojure常用的map解构的语法和含义是怎样的？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 142.36
-:card-repeats: 6
-:card-ease-factor: 2.38
-:card-next-schedule: 2022-11-19T09:15:40.232Z
-:card-last-reviewed: 2022-06-30T01:15:40.234Z
-:card-last-score: 5
+:card-last-interval: 225.58
+:card-repeats: 7
+:card-ease-factor: 2.24
+:card-next-schedule: 2023-07-06T13:52:05.690Z
+:card-last-reviewed: 2022-11-23T00:52:05.691Z
+:card-last-score: 3
 :END:
 ** #+BEGIN_SRC clojure
 (let [guys-name-map {:f-name "Guy" :m-name "Lewis" :l-name "Steele"}
