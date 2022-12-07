@@ -110,12 +110,12 @@
 #+END_SRC
 * Datalog查询如何返回一个vector而不是set of vectors? #card #Datalog
 :PROPERTIES:
-:card-last-interval: 4.59
-:card-repeats: 2
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-11-27T14:50:07.955Z
-:card-last-reviewed: 2022-11-23T00:50:07.955Z
-:card-last-score: 3
+:card-last-interval: 13.38
+:card-repeats: 3
+:card-ease-factor: 3.16
+:card-next-schedule: 2022-12-20T09:55:04.811Z
+:card-last-reviewed: 2022-12-07T00:55:04.811Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (d/q

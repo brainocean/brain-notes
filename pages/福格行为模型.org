@@ -1,21 +1,21 @@
 * 微习惯策略的基本做法就是：选择你想要做到的行为，把它拆解成微习惯并融入生活，然后促进它的成长。如果你想做出持久的改变，那么最好从小改变着手。
 * “毛伊习惯”（Maui Habit） #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 43.66
-:card-repeats: 4
-:card-ease-factor: 2.9
-:card-next-schedule: 2022-11-24T14:48:59.457Z
-:card-last-reviewed: 2022-10-11T23:48:59.457Z
-:card-last-score: 5
+:card-last-interval: 85.72
+:card-repeats: 5
+:card-ease-factor: 2.76
+:card-next-schedule: 2023-03-02T17:53:15.624Z
+:card-last-reviewed: 2022-12-07T00:53:15.624Z
+:card-last-score: 3
 :END:
 ** 请你每天早晨一起床就立刻说出这句话：“今天又是美好的一天！”并在说出这句话的同时，尽量去感受乐观和积极的心态。
 * 福格行为模型的ABC三步骤 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 27.95
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-12-04T22:04:19.194Z
-:card-last-reviewed: 2022-11-07T00:04:19.196Z
+:card-last-interval: 80.04
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-02-25T01:30:34.839Z
+:card-last-reviewed: 2022-12-07T01:30:34.839Z
 :card-last-score: 5
 :END:
 ** 1．Anchor 锚点 —— 锚点时刻提醒你去执行新的微行为的关键时点。例如，某个日常习惯（刷牙）或某件必然发生的事情（电话铃声响起）。
@@ -23,22 +23,22 @@
 ** 3．Celebration 庆祝 —— 即时庆祝完成新的微行为后要立刻庆祝。任何能带来积极情绪的事情都可以，比如说出“我很棒”之类的话。
 * 福格行为模型三要素 B=MAP #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 43.66
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-11-24T14:48:53.967Z
-:card-last-reviewed: 2022-10-11T23:48:53.967Z
-:card-last-score: 5
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T00:52:53.309Z
+:card-last-score: 1
 :END:
 ** ^^B^^ehavior = ^^M^^otivation ^^A^^bility ^^P^^rompt
 * 解决行为问题的顺序是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 48.31
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.9
-:card-next-schedule: 2022-12-04T07:59:48.589Z
-:card-last-reviewed: 2022-10-17T00:59:48.589Z
-:card-last-score: 5
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T01:30:23.881Z
+:card-last-score: 1
 :END:
 ** 1．检查有没有行为提示。
 ** 2．检查有没有行为能力。
@@ -56,12 +56,12 @@
 ** 无法单独起作用
 * 行为设计的步骤？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.62
-:card-next-schedule: 2022-11-23T16:00:00.000Z
-:card-last-reviewed: 2022-11-23T00:50:58.076Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.48
+:card-next-schedule: 2022-12-11T00:51:16.878Z
+:card-last-reviewed: 2022-12-07T00:51:16.879Z
+:card-last-score: 3
 :END:
 ** 选择
 *** 明确愿望或成果
@@ -76,12 +76,12 @@
 ** 参考 [[file:./教练GROW模型.org][教练GROW模型]]
 * 行为的焦点地图的两个维度是什么？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-23T16:00:00.000Z
-:card-last-reviewed: 2022-11-23T00:55:02.478Z
-:card-last-score: 1
+:card-last-interval: 4
+:card-repeats: 2
+:card-ease-factor: 2.38
+:card-next-schedule: 2022-12-11T00:50:57.935Z
+:card-last-reviewed: 2022-12-07T00:50:57.936Z
+:card-last-score: 3
 :END:
 ** 对愿望的影响程度的高低
 ** 做到这个行为的难易程度
@@ -126,23 +126,23 @@
 *** 只要一直将新习惯锚定在既有习惯上，就能毫不费力地不断插入新习惯
 * 设计正确提示的步骤有哪些？ #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-score: 5
-:card-repeats: 3
-:card-next-schedule: 2022-12-06T23:55:29.238Z
-:card-last-interval: 13.97
+:card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-interval: -1
 :card-ease-factor: 2.96
-:card-last-reviewed: 2022-11-23T00:55:29.239Z
+:card-last-reviewed: 2022-12-07T01:31:22.309Z
 :END:
 ** 步骤1，确定你的锚点
 ** 步骤2，用不断的尝试将锚点与黄金行为联系起来
 ** 步骤3，利用“最后动作”优化锚点
 * 确定锚点需要考虑的三个方面 #card #习惯 #行为设计
 :PROPERTIES:
-:card-last-interval: 13.48
-:card-repeats: 3
-:card-ease-factor: 2.96
-:card-next-schedule: 2022-12-01T12:00:27.620Z
-:card-last-reviewed: 2022-11-18T01:00:27.621Z
+:card-last-interval: 43.99
+:card-repeats: 4
+:card-ease-factor: 3.06
+:card-next-schedule: 2023-01-19T23:59:30.288Z
+:card-last-reviewed: 2022-12-07T00:59:30.288Z
 :card-last-score: 5
 :END:
 ** 匹配物理位置、匹配频率、匹配主题/目的

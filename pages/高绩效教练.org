@@ -16,11 +16,11 @@
 ** 开放式问题要求描述性的答案，从而提升觉察
 ** 创建觉察和责任感最有效的问题应以什么词语开始？ #card #教练
 :PROPERTIES:
-:card-last-interval: 28.87
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-27T20:49:46.654Z
-:card-last-reviewed: 2022-10-30T00:49:46.655Z
+:card-last-interval: 102.15
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-03-19T03:58:03.953Z
+:card-last-reviewed: 2022-12-07T00:58:03.953Z
 :card-last-score: 5
 :END:
 *** 寻求量化或收集事实的词语开始，比 如“什么”“何时”“谁”“多少”。
@@ -56,12 +56,12 @@
 *** 用“做这件事情的步骤是......”来替代。
 ** 什么样的词语能够帮助提出深入和聚焦细节的问题？ #card #教练
 :PROPERTIES:
-:card-last-interval: 13.48
-:card-repeats: 3
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.96
-:card-next-schedule: 2022-12-01T11:57:33.691Z
-:card-last-reviewed: 2022-11-18T00:57:33.692Z
-:card-last-score: 3
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T00:59:19.434Z
+:card-last-score: 1
 :END:
 *** “然后呢？”， “还有呢？”， “还能”、“真正”、“到底”、“确切地说”、“具体地说”……
 ** 教练如何判断一个问题的哪些方面是重要的呢，特别是在不熟悉的领域？ #card #教练
@@ -90,11 +90,11 @@
 * 积极倾听
 ** 为什么要对教练对象的回答保持关注？ #card #教练
 :PROPERTIES:
-:card-last-interval: 50.95
-:card-repeats: 4
-:card-ease-factor: 2.86
-:card-next-schedule: 2022-12-06T22:58:35.957Z
-:card-last-reviewed: 2022-10-17T00:58:35.957Z
+:card-last-interval: 100.76
+:card-repeats: 5
+:card-ease-factor: 2.96
+:card-next-schedule: 2023-03-17T19:31:12.047Z
+:card-last-reviewed: 2022-12-07T01:31:12.047Z
 :card-last-score: 5
 :END:
 *** 如果这种关注不发生，信任就会消失，教练也就不会知道接下来的好问题是什么。

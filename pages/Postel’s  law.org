@@ -1,0 +1,5 @@
+* RFC760 [97] “The implementation of a protocol must be robust. Each implementation must expect to interoperate with others created by diﬀerent individuals. While the goal of this speciﬁcation is to be explicit about the protocol, there is the possibility of diﬀering interpretations. In general, an implementation should be conservative in its sending behavior, and liberal in its receiving behavior.”
+* “Be conservative in what you do, be liberal in what you accept from others.”
+** 严于律己，宽以待人
+* For maximum ﬂexibility the range of outputs of a part should be quite small and well deﬁned—much smaller than the range of acceptable inputs for any part that might receive that output.
+* the outputs are always better than the acceptable inputs of the next stage, so that noise is suppressed.

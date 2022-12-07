@@ -50,11 +50,11 @@
 #+END_SRC
 * splicing unquote的语法和含义是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 13.04
-:card-repeats: 3
-:card-ease-factor: 3.26
-:card-next-schedule: 2022-12-06T00:52:34.831Z
-:card-last-reviewed: 2022-11-23T00:52:34.831Z
+:card-last-interval: 50.11
+:card-repeats: 4
+:card-ease-factor: 3.36
+:card-next-schedule: 2023-01-26T03:30:59.148Z
+:card-last-reviewed: 2022-12-07T01:30:59.149Z
 :card-last-score: 5
 :END:
 ** splicing unquote的语法是 ~@，是指把被unquote的list form(即被求值的list form)进行in-place展开，例如

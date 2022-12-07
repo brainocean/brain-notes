@@ -92,12 +92,12 @@
 #+END_SRC
 * eduction的功能是什么？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 35.85
-:card-repeats: 4
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-12-01T21:06:36.381Z
-:card-last-reviewed: 2022-10-27T01:06:36.381Z
-:card-last-score: 3
+:card-last-interval: 91.78
+:card-repeats: 5
+:card-ease-factor: 3.16
+:card-next-schedule: 2023-03-08T19:02:41.210Z
+:card-last-reviewed: 2022-12-07T01:02:41.211Z
+:card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure
 (eduction xform* coll)

@@ -63,12 +63,12 @@
 * 大O记号
 ** 大O记号的目的 #card #DSA
 :PROPERTIES:
-:card-last-interval: 66.64
-:card-repeats: 4
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-11-27T16:01:20.759Z
-:card-last-reviewed: 2022-09-22T01:01:20.759Z
-:card-last-score: 5
+:card-last-interval: 108.95
+:card-repeats: 5
+:card-ease-factor: 2.96
+:card-next-schedule: 2023-03-25T22:55:54.892Z
+:card-last-reviewed: 2022-12-07T00:55:54.892Z
+:card-last-score: 3
 :END:
 *** 为了把握时间随问题规模增长的大趋势，而不是细节的起伏
 *** 是对增长趋势的悲观估计(上界)
@@ -101,11 +101,11 @@
 * [[../assets/big-o-omega-theta.png]]
 * 算法复杂度的刻度 #card #DSA
 :PROPERTIES:
-:card-last-interval: 65.88
-:card-repeats: 5
-:card-ease-factor: 2.52
-:card-next-schedule: 2022-11-30T22:24:10.722Z
-:card-last-reviewed: 2022-09-26T01:24:10.722Z
+:card-last-interval: 158.5
+:card-repeats: 6
+:card-ease-factor: 2.62
+:card-next-schedule: 2023-05-14T12:59:06.450Z
+:card-last-reviewed: 2022-12-07T00:59:06.451Z
 :card-last-score: 5
 :END:
 ** 最高效算法的复杂度：$O(1) 和 O(\log{n})$

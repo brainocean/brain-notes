@@ -14,12 +14,12 @@
 * 关于目标设定
 ** 目标的层级有哪些？ #card #教练
 :PROPERTIES:
-:card-last-interval: 23.71
-:card-repeats: 4
-:card-ease-factor: 2.48
-:card-next-schedule: 2022-11-27T17:00:09.814Z
-:card-last-reviewed: 2022-11-04T00:00:09.814Z
-:card-last-score: 5
+:card-last-interval: 45.76
+:card-repeats: 5
+:card-ease-factor: 2.34
+:card-next-schedule: 2023-01-21T18:56:09.377Z
+:card-last-reviewed: 2022-12-07T00:56:09.377Z
+:card-last-score: 3
 :END:
 *** 梦想目标 —— 目的和意义，期望的未来或愿景，为什么存在？
 *** 终极目标 —— 一个清晰的目标，梦想的具体表现，怎么存在？
@@ -37,12 +37,12 @@
 *** 尽量让教练对象自主选择和制定目标，或至少提供一定的选择和自主权
 ** 目标的SMART原则包括什么？ #card #教练
 :PROPERTIES:
-:card-last-interval: 28.87
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-27T20:49:35.897Z
-:card-last-reviewed: 2022-10-30T00:49:35.897Z
-:card-last-score: 5
+:card-last-interval: 38.43
+:card-repeats: 4
+:card-ease-factor: 2.86
+:card-next-schedule: 2023-01-14T10:57:49.391Z
+:card-last-reviewed: 2022-12-07T00:57:49.392Z
+:card-last-score: 3
 :END:
 *** Specific —— 具体的
 *** Measurable —— 可衡量的
@@ -70,11 +70,11 @@
 :END:
 ** 什么是跟随教练对象议程？ #card #教练
 :PROPERTIES:
-:card-last-interval: 28.87
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-27T20:50:51.784Z
-:card-last-reviewed: 2022-10-30T00:50:51.785Z
+:card-last-interval: 102.15
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-03-19T03:58:14.492Z
+:card-last-reviewed: 2022-12-07T00:58:14.493Z
 :card-last-score: 5
 :END:
 *** 跟随 {{cloze 教练对象}}的兴趣或是思路，同时密切关注它们 {{cloze 在整体上与主题的关联}}，被称为跟随教练对象的议程。这是最基本的教练技能之一。
@@ -83,8 +83,8 @@
 :card-last-interval: -1
 :card-repeats: 1
 :card-ease-factor: 3.16
-:card-next-schedule: 2022-11-23T16:00:00.000Z
-:card-last-reviewed: 2022-11-23T00:56:04.942Z
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T00:50:47.085Z
 :card-last-score: 1
 :END:
 *** 对答案的要求对于迫使 {{cloze 教练对象}}思考、检查、观看、感受和参与至关重要。
@@ -93,11 +93,11 @@
 *** 给予的答案必须有 {{cloze 足够的品质以及完备性}}，能提供给教练一个 {{cloze 反馈回路}}。
 ** 一个很少失败的有价值的现状问题是？ #card #教练
 :PROPERTIES:
-:card-last-interval: 28.87
-:card-repeats: 3
-:card-ease-factor: 3
-:card-next-schedule: 2022-11-27T20:54:09.140Z
-:card-last-reviewed: 2022-10-30T00:54:09.140Z
+:card-last-interval: 102.15
+:card-repeats: 4
+:card-ease-factor: 3.1
+:card-next-schedule: 2023-03-19T03:58:24.094Z
+:card-last-reviewed: 2022-12-07T00:58:24.094Z
 :card-last-score: 5
 :END:
 *** “到目前为止你已经采取了哪些行动?”
@@ -187,12 +187,12 @@
 *** 如何验证做的结果？我们怎么才能知道你做了？ 谁需要知道？
 ** 如何增强教练对象对行动计划的承诺？ #card #教练
 :PROPERTIES:
-:card-last-interval: 3.84
-:card-repeats: 2
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.86
-:card-next-schedule: 2022-11-26T20:50:24.620Z
-:card-last-reviewed: 2022-11-23T00:50:24.620Z
-:card-last-score: 3
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T00:54:51.450Z
+:card-last-score: 1
 :END:
 *** 删除不愿做的事情
 *** 书面记录并分享

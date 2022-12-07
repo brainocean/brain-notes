@@ -79,12 +79,12 @@
 :END:
 ** 如果卡片产生不一致的答案，未被提取到的记忆将会被 {{cloze 抑制}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 38.7
-:card-repeats: 4
-:card-ease-factor: 3.06
-:card-next-schedule: 2022-11-26T16:45:37.273Z
-:card-last-reviewed: 2022-10-19T00:45:37.273Z
-:card-last-score: 3
+:card-last-interval: 91.78
+:card-repeats: 5
+:card-ease-factor: 3.16
+:card-next-schedule: 2023-03-08T18:54:39.604Z
+:card-last-reviewed: 2022-12-07T00:54:39.605Z
+:card-last-score: 5
 :END:
 ** SRS期望你在隔上多久之后，依然能在重复时正确回答卡片？ #card #SRS
 :PROPERTIES:
@@ -108,11 +108,11 @@
 *** 范围窄和精确的卡片能够让难易程度不同的知识点对应不同的重复频率
 ** 精准：太多细节的卡片倾向于激发 {{cloze 不完全的}}提取 #card #SRS
 :PROPERTIES:
-:card-last-interval: 47.46
-:card-repeats: 4
-:card-ease-factor: 3.4
-:card-next-schedule: 2022-12-05T11:45:10.337Z
-:card-last-reviewed: 2022-10-19T00:45:10.337Z
+:card-last-interval: 130.66
+:card-repeats: 5
+:card-ease-factor: 3.5
+:card-next-schedule: 2023-04-16T16:30:46.895Z
+:card-last-reviewed: 2022-12-07T01:30:46.896Z
 :card-last-score: 5
 :END:
 ** 为何不能让你从卡面直接推导出答案？ #card #SRS
@@ -187,11 +187,11 @@
 *** 允许你不加回忆的推断出答案
 ** 精细编码：如果你能够让信息 {{cloze 与其他记忆产生联系}}，信息会更加容易回忆 #card #SRS
 :PROPERTIES:
-:card-last-interval: 14.8
-:card-repeats: 3
-:card-ease-factor: 3.7
-:card-next-schedule: 2022-11-28T19:43:03.707Z
-:card-last-reviewed: 2022-11-14T00:43:03.707Z
+:card-last-interval: 57.76
+:card-repeats: 4
+:card-ease-factor: 3.8
+:card-next-schedule: 2023-02-02T18:58:29.305Z
+:card-last-reviewed: 2022-12-07T00:58:29.306Z
 :card-last-score: 5
 :END:
 ** 当信息不容易与其他关联时，如果制造精细编码？ #card #SRS
@@ -367,12 +367,12 @@
 :END:
 ** 举例说明因果关系卡 #card #SRS
 :PROPERTIES:
-:card-last-interval: 37.81
-:card-repeats: 4
-:card-ease-factor: 3.02
-:card-next-schedule: 2022-12-03T20:04:44.553Z
-:card-last-reviewed: 2022-10-27T01:04:44.554Z
-:card-last-score: 5
+:card-last-interval: 88.59
+:card-repeats: 5
+:card-ease-factor: 2.88
+:card-next-schedule: 2023-03-05T15:29:58.428Z
+:card-last-reviewed: 2022-12-07T01:29:58.428Z
+:card-last-score: 3
 :END:
 *** 高汤是「做什么」的？
 *** 什么让它「实现那个效果」？
@@ -390,12 +390,12 @@
 :END:
 ** 写概念性卡片的五种视角是 {{cloze 特征与趋向}}、 {{cloze 整体和部分}}、 {{cloze 异同点}}、 {{cloze 因果关系}}、 {{cloze 重要性和影响}} #card #SRS
 :PROPERTIES:
-:card-last-interval: 16.32
-:card-repeats: 4
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.02
-:card-next-schedule: 2022-12-04T07:57:51.005Z
-:card-last-reviewed: 2022-11-18T00:57:51.005Z
-:card-last-score: 3
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T01:30:06.882Z
+:card-last-score: 1
 :END:
 * 「开放式清单」和「启明卡」—— 知识的应用
 ** 开放式清单和封闭清单的区别？ #card #SRS
@@ -494,11 +494,11 @@
 ** 当第一次将一段困难的内容制卡的时候，Andy建议你专注在哪些东西上面？ #card #SRS
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-11-25T16:37:04.614Z
-:card-last-interval: 38.7
-:card-ease-factor: 3.06
-:card-last-reviewed: 2022-10-18T00:37:04.614Z
+:card-repeats: 5
+:card-next-schedule: 2023-03-08T18:53:22.755Z
+:card-last-interval: 91.78
+:card-ease-factor: 3.16
+:card-last-reviewed: 2022-12-07T00:53:22.756Z
 :END:
 *** 可以在上面搭建内容的基础细节
 ** 如果写卡时感觉到要完整的强迫感，要记住 {{cloze 以后总能写更多的}} #card #SRS
@@ -512,12 +512,12 @@
 :END:
 ** 为什么回头再写可能会写出更好的卡片？ #card #SRS
 :PROPERTIES:
-:card-last-interval: 84.1
-:card-repeats: 5
+:card-last-interval: -1
+:card-repeats: 1
 :card-ease-factor: 2.76
-:card-next-schedule: 2022-11-23T03:53:17.904Z
-:card-last-reviewed: 2022-08-31T01:53:17.904Z
-:card-last-score: 5
+:card-next-schedule: 2022-12-07T16:00:00.000Z
+:card-last-reviewed: 2022-12-07T00:50:04.600Z
+:card-last-score: 1
 :END:
 *** 有意义的事情激发你回头来写卡片，例如新的连接、一个问题、一个缺失
 * 我相信最重要的、可以「优化」SR 练习的方面，莫过于 {{cloze 复习环节本身}} 与 {{cloze 复习内容}} 之间产生的 {{cloze 情绪联系}} #card #SRS

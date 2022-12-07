@@ -46,12 +46,12 @@
 ** root, node, children, lefts, rights, branch?, path
 * 在Zipper中在树中移动的函数有哪些？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 29.59
-:card-repeats: 4
-:card-ease-factor: 2.72
-:card-next-schedule: 2022-12-01T13:10:13.600Z
-:card-last-reviewed: 2022-11-01T23:10:13.600Z
-:card-last-score: 3
+:card-last-interval: 89.7
+:card-repeats: 5
+:card-ease-factor: 2.82
+:card-next-schedule: 2023-03-06T16:59:34.130Z
+:card-last-reviewed: 2022-12-07T00:59:34.130Z
+:card-last-score: 5
 :END:
 ** down, up, left, right, leftmost, rightmost, root
 * 在Zipper中修改当前节点的函数有哪些？ #card #clojure
@@ -84,11 +84,11 @@ insert-child ;;leftmost
 #+END_SRC
 * 在Zipper中如何深度优先遍历一棵树？ #card #clojure
 :PROPERTIES:
-:card-last-interval: 27.95
-:card-repeats: 3
-:card-ease-factor: 3.1
-:card-next-schedule: 2022-12-01T21:59:10.693Z
-:card-last-reviewed: 2022-11-03T23:59:10.693Z
+:card-last-interval: 80.04
+:card-repeats: 4
+:card-ease-factor: 3.2
+:card-next-schedule: 2023-02-25T01:02:46.588Z
+:card-last-reviewed: 2022-12-07T01:02:46.589Z
 :card-last-score: 5
 :END:
 ** #+BEGIN_SRC clojure

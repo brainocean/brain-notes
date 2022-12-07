@@ -28,12 +28,12 @@
 ** 或准备转储到另一个仓库的数量
 * 什么是订购数量Ordered Quantity？ #card #B1
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 3.02
-:card-next-schedule: 2022-11-23T16:00:00.000Z
-:card-last-reviewed: 2022-11-23T00:48:09.487Z
-:card-last-score: 1
+:card-last-interval: 4.14
+:card-repeats: 2
+:card-ease-factor: 2.88
+:card-next-schedule: 2022-12-11T03:50:17.317Z
+:card-last-reviewed: 2022-12-07T00:50:17.319Z
+:card-last-score: 3
 :END:
 ** 即您的公司已下订单采购但尚未交货的数量，
 ** 或是生产订单上订购内部生产物料的数量，

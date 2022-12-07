@@ -9,11 +9,11 @@
 * 退货单/退货凭证的影响是什么？ #card #B1
 :PROPERTIES:
 :card-last-score: 5
-:card-repeats: 4
-:card-next-schedule: 2022-11-30T19:54:14.434Z
-:card-last-interval: 37.81
-:card-ease-factor: 3.02
-:card-last-reviewed: 2022-10-24T00:54:14.434Z
+:card-repeats: 5
+:card-next-schedule: 2023-04-16T04:58:50.317Z
+:card-last-interval: 130.2
+:card-ease-factor: 3.12
+:card-last-reviewed: 2022-12-07T00:58:50.317Z
 :END:
 ** 货物从仓库发出，库存增加或减少
 ** 如果使用永续盘存，则创建相关会计过帐，更新库存价值
