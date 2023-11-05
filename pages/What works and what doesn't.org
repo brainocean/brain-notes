@@ -1,0 +1,29 @@
+* [[../assets/Dunlosky-et-al-2013-What-Works-What-Doesnt_1699184195280_0.pdf][Dunlosky-et-al-2013-What-Works-What-Doesnt.pdf]]
+* What does work
+** Self testing
+*** ((65478239-5e34-4396-a58e-dbf71b6461a5))
+*** ((654780dc-ac7d-4678-8973-a24eda04bd2b))
+*** ((6547819e-09b8-456f-b391-3d4278c7c76a))
+** Distributed practice
+*** ((6547824f-02d6-4d05-8ad2-ecabc08e5f65))
+*** ((65478309-d049-4308-b8d9-476d45c5971d))
+*** ((65478321-6606-4d7b-bf4e-ba852d1bd706))
+*** ((6547837f-1216-4e41-914c-0bffc0f0ef2e))
+** Elaborative interrogation
+*** ((6547859b-afc2-4881-b2f8-e890ff18f692))
+*** Use case: ((654785b5-fac2-4edb-bc6f-cf5c0051eafa))
+*** ((654785f0-b11b-49e6-a87b-3987df5cb5c9))
+*** ((65478668-c3ac-4ae9-98ed-4496ee02cae5))
+** Self-explanation
+*** ((6547863d-f437-4410-a6a9-f0147cd11fcb))
+** Interleaved practice
+*** ((65478699-584c-4302-84af-7f141a342ce9))
+*** ((654786da-230c-41e8-827d-cfeda1f42b35))
+*** ((65478a3e-f571-4988-8597-e40c96252afb))
+* What doesn't work
+** Highlighting
+*** works only ((65478820-b091-405a-aa54-9da5edfd4d0b))
+** Rereading
+*** ((654788b8-50f2-48a5-ae65-6b7486fa1851))
+***
+**

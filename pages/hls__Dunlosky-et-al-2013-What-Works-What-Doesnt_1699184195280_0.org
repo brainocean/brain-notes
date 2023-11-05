@@ -1,0 +1,153 @@
+#+file-path: ../assets/Dunlosky-et-al-2013-What-Works-What-Doesnt_1699184195280_0.pdf
+:PROPERTIES:
+:file: [[../assets/Dunlosky-et-al-2013-What-Works-What-Doesnt_1699184195280_0.pdf][Dunlosky-et-al-2013-What-Works-What-Doesnt_1699184195280_0.pdf]]
+:file-path: ../assets/Dunlosky-et-al-2013-What-Works-What-Doesnt_1699184195280_0.pdf
+:END:
+
+* practice tests are done by students on their own, outside of class
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 654780dc-ac7d-4678-8973-a24eda04bd2b
+:END:
+* practice testing triggers a mental search of long-term memory that activates related information
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 65478167-9b10-47d3-92ab-a0e15aed588b
+:END:
+* forming multiple memory pathways
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 65478170-3085-4985-8794-03be660da7eb
+:END:
+* Short, frequent exams are most effective, especially when test takers receive feedback on the correct answers.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 6547819e-09b8-456f-b391-3d4278c7c76a
+:END:
+* flash cards
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 654781d7-459c-4e3c-a896-ea723e29c56e
+:END:
+* Cornell system
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 65478202-9e29-47fb-8f62-2ce0d18b1683
+:END:
+* Quizzing Yourself Gets High Marks
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 65478239-5e34-4396-a58e-dbf71b6461a5
+:END:
+* For Best Results, Spread Your Study over Time
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: yellow
+:id: 6547824f-02d6-4d05-8ad2-ecabc08e5f65
+:END:
+* You will have to plan ahead and overcome the common student tendency to procrastinate
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 65478309-d049-4308-b8d9-476d45c5971d
+:END:
+* Longer intervals are generally more effective
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 65478321-6606-4d7b-bf4e-ba852d1bd706
+:END:
+* peak performance came when sessions were spaced at about 10 to 20 percent of the retention interval.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 6547837f-1216-4e41-914c-0bffc0f0ef2e
+:END:
+* earners produce explanations for facts, such as “Why does it make sense that…?” or “Why is this true?”
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 6547859b-afc2-4881-b2f8-e890ff18f692
+:END:
+* earning factual information—particularly if you already know something about the subject
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: yellow
+:id: 654785b5-fac2-4edb-bc6f-cf5c0051eafa
+:END:
+* may not be useful for material more complex than a factual list.
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 654785f0-b11b-49e6-a87b-3987df5cb5c9
+:END:
+* Students generate explanations of what they learn, reviewing their mental processing with questions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 6547863d-f437-4410-a6a9-f0147cd11fcb
+:END:
+* no conclusive information about how long the gains in learning persist
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 65478668-c3ac-4ae9-98ed-4496ee02cae5
+:END:
+* Mixing Apples and Oranges
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 65478699-584c-4302-84af-7f141a342ce9
+:END:
+* students alternate a variety of types of information or problems
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: yellow
+:id: 654786da-230c-41e8-827d-cfeda1f42b35
+:END:
+* if the marked information is then turned into flash cards or self-tests
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 65478820-b091-405a-aa54-9da5edfd4d0b
+:END:
+* Most of the benefit of rereading appears to accrue from the second reading, with diminishing returns from additional repetitions
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: yellow
+:id: 654788b8-50f2-48a5-ae65-6b7486fa1851
+:END:
+* When the types of problems are similar, perhaps because juxtaposing them makes it easier to see what is different about them
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: yellow
+:id: 65478a3e-f571-4988-8597-e40c96252afb
+:END:
