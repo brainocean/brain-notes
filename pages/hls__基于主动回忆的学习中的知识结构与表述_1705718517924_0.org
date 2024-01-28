@@ -1,4 +1,224 @@
+#+file-path: ../assets/基于主动回忆的学习中的知识结构与表述_1705718517924_0.pdf
 :PROPERTIES:
 :file: [[../assets/基于主动回忆的学习中的知识结构与表述_1705718517924_0.pdf][基于主动回忆的学习中的知识结构与表述_1705718517924_0.pdf]]
 :file-path: ../assets/基于主动回忆的学习中的知识结构与表述_1705718517924_0.pdf
+:END:
+
+* 助记术的基本原理是尽可能多地从以前存储的记忆痕迹中建⽴记忆表象
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: blue
+:id: 65ab7085-585f-4c10-955e-1dcc760b246f
+:hl-stamp: 1705734294266
+:END:
+* 最⼤限度地减少存储记忆所涉及的突触连接数量，是在较⻓时期内最⼤限度地保留记忆的关键
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: blue
+:id: 65ab70f0-7d6d-4141-98de-e4404dbeba27
+:END:
+* 不符合最⼩突触模式复杂性的问答项，在重复的过程中，将逐渐丢失其组成成分。换句话说，记忆将完成对核⼼突触模式的⾃然选择并消除所有在重复时没有得到均匀刺激的额外连接。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 2
+:hl-color: blue
+:id: 65ab71ee-b06c-4d85-8f87-1830c49db9d0
+:END:
+* 循序渐进必须从基本概念通过基础到更复杂的细节问题
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: blue
+:id: 65ab72a8-1d37-44a1-b756-3cf38b958bc0
+:END:
+* 当学⽣⼀下⼦被抛⼊深渊时，显然会⼤⼤降低理解能⼒
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: blue
+:id: 65ab7300-40a8-40de-8f25-bab883e69a2a
+:END:
+* 在第⼀遍课程中，学⽣只记住那些已经理解的部分，并希望在第⼆遍中消除理解上的差距，插⼊现象能够消除理解空⽩
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: blue
+:id: 65ab73ab-7aaa-445c-9166-92e207ab98fe
+:END:
+* 从基础到细节的⽅法可以与最适⽤的⽅法成功结合
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 3
+:hl-color: blue
+:id: 65ab73dc-5a56-4824-9f60-e25eb0781eb3
+:END:
+* 同时应⽤名称与概念的联想能⼒，以及概念与名称的联想能⼒
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: blue
+:id: 65ab7530-8d88-42c9-9137-86cc6dee8829
+:END:
+* 基本概念的难点在于，它们太基本了，以⾄于不能⽤更基本的术语来要求它们
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 4
+:hl-color: blue
+:id: 65ab75a5-d656-47a8-87a5-4e08ce7dfb1f
+:END:
+* 有效知识表述最重要的原则是最⼤限度地降低参与存储记忆痕迹的突触模式的复杂性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: blue
+:id: 65ab778a-3b93-457f-8216-008829357304
+:END:
+* 保持问答项的内容简单、具体、形象、⼀致、可理解和单义
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: blue
+:id: 65ab7797-5156-4519-be8f-57da57cf32ac
+:END:
+* 在重复的过程中，由于模式提取的结果，突触模式应该有最⼩的变化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: blue
+:id: 65ab77be-d52c-4be7-a889-86771c4bd78b
+:END:
+* ⾼智商的⼈的⼤脑活动要⽐低智商学⽣的情况低得多
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 5
+:hl-color: blue
+:id: 65ab7981-0dd1-4026-991b-9b6c0d78dd54
+:END:
+* 枚举是遵守最⼩信息原则中最棘⼿的障碍之⼀
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 6
+:hl-color: blue
+:id: 65ab7b5f-c672-45e4-80c6-71480d72aba0
+:END:
+* 通过例⼦缩⼩范围是⼀种⾮常有效的⽅法，可以使与问题有关的刺激更具体，从⽽更成功地留下持久的记忆
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 7
+:hl-color: blue
+:id: 65ab7c27-64e7-447c-abcc-86f0d0d0f0dc
+:END:
+* 重⽤以前形成的记忆是尽量降低突触模式复杂性的关键
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: blue
+:id: 65ab7c3a-1884-41e7-b1aa-9c69721341ca
+:END:
+* 利⽤已有的记忆，甚⾄利⽤先天的神经结构，形成稳定的记忆痕迹
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: blue
+:id: 65ab7cfe-467e-4d9a-abba-911e0fcdbb55
+:END:
+* ⽣动法则利⽤了与负责产⽣情感冲动的回路相关的记忆的⼒量
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 8
+:hl-color: blue
+:id: 65ab7dc6-5591-4d97-8efc-6cd5413e64da
+:END:
+* 视觉记忆的稳定性远远⾼于语⾔记忆
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: blue
+:id: 65ab7e07-8e2b-442d-acd9-2072f2d5ae12
+:END:
+* 最基本原则之⼀是避免枚举
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 9
+:hl-color: blue
+:id: 65ab7e1a-8820-4ae7-9de3-b4dc7c5dc98e
+:END:
+* 由于基于⼤脑⽪层的视觉处理能⼒，图⽚遮挡是⼀种强⼤的知识表述⼯具，以期在重复的过程中尽量减少模式提取
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: blue
+:id: 65ab7edd-85f3-4d8b-81f5-e66512f077c6
+:END:
+* 如果枚举式挖空不改变题中枚举要素出现的顺序，尽管在回忆时很少强调位置，但其空间位置会强烈地印在学⽣的记忆中。这样就更容易将枚举的内容图⽚化。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 10
+:hl-color: blue
+:id: 65ab7f1c-13d0-48c9-9bfc-a9fa60afb90f
+:END:
+* 很多时候，最终的解决⽅案来⾃于引⼊适合于分别描述所有⼦成分的新术语
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: blue
+:id: 65abd2c2-e47e-4d47-9961-20ce518c55bb
+:END:
+* 它们存在的主要原因并不是任何固有的属性，⽽是缺乏或不需要专⻔的术语，⽽这些术语可能会起到分离较⼩单位的作⽤
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 11
+:hl-color: blue
+:id: 65abd2e4-2a3c-4722-8d14-fba6e668e772
+:END:
+* 良好的术语是将复杂概念有效拆解为简单问答项的关键
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 12
+:hl-color: blue
+:id: 65abd32a-0084-495c-95d7-20d109be8d21
+:END:
+* 问答项的单义性并不是要把突触模式复杂性降到最低，⽽是要确保不同问答项使⽤不相⼲的模式
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 14
+:hl-color: blue
+:id: 65ac9121-052c-40f2-b5b6-96f939aa17f9
+:END:
+* 冗余的主要功能不是让问答项容易记忆，⽽是保证遗忘⼀个问答项不会影响整个知识图的关联结构
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 15
+:hl-color: blue
+:id: 65ac92ef-dbbf-44a6-a5cb-d64b64d8f441
+:END:
+* 将其数学解题知识的各个组成部分联系起来的能⼒
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: blue
+:id: 65ac9345-c2ec-4105-8a76-74e25d2757ea
+:END:
+* 智能思维的核⼼知识是最抽象、最普遍适⽤的数学推导规则
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: blue
+:id: 65ac9392-45ad-427b-9038-41dd3b7ceb1d
+:END:
+* 只要有可能，只要合理，就把⼀般问题的特定解法的推导步骤背下来
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 16
+:hl-color: blue
+:id: 65ac940a-10b3-4215-aa1a-9c587489bde8
+:END:
+* 重要的是，推导步骤要⾜够短，以符合最⼩突触模式复杂性原则
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 17
+:hl-color: blue
+:id: 65ac9491-38f5-450e-8084-3476b1f2233e
 :END:
