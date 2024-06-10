@@ -1,0 +1,48 @@
+#+file-path: ../assets/把你的英语用起来_1717902661305_0.pdf
+:PROPERTIES:
+:file: [[../assets/把你的英语用起来_1717902661305_0.pdf][把你的英语用起来_1717902661305_0.pdf]]
+:file-path: ../assets/把你的英语用起来_1717902661305_0.pdf
+:END:
+
+* input输入假说。Dr.Krashen认为，英文学习的根本在于input输入，缺乏输入就不可能学好任何一门外语。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 66651d7a-6a02-4fbf-8f55-c32280542ca9
+:END:
+* 进行输入练习时，一定要遵守i+1的原则，“i”即你现在的水平，“1”即比你现在稍微高一点点的难度。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 66651d95-7c79-44ac-b484-3f3bb8548607
+:END:
+* narrow input假说。输入的材料类型和难度级别在一定时间
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 26
+:hl-color: yellow
+:id: 66651dc3-aa7f-4a66-809a-decf5e5d9465
+:END:
+* 情绪机制。学习的材料和环境应该是有趣的、轻松自如的，才能实现效果的最大化
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 66651de5-bcd2-408b-906a-1dabb49e2c5f
+:END:
+* 英文学习必须建立一个系统化量化流程，规定好整个学习周期的时间，彻底突破
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 27
+:hl-color: yellow
+:id: 66651df8-8659-4121-bdaa-32843c8a2c14
+:END:
+* 一般意义上的跟读分成三种方法：• 丢开课本，播放一句，暂停，然后跟读。如果跟不了，倒带反复。• 翻开课本，不暂停，跟着录音反复朗读，一气呵成。• 丢开课本，不暂停，跟着录音反复朗读，一气呵成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:hl-color: yellow
+:id: 6665504d-61fb-4b98-b1ff-da1353a32638
+:END:

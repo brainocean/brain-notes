@@ -144,3 +144,332 @@
 :hl-color: blue
 :id: 65ad277d-5267-4cb8-bda6-55997e6326ef
 :END:
+* 只有陈述句才能对思维的对象，即一切事物情况做出肯定或否定的陈述，因而才能直接表达判断而成为命题
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 40
+:hl-color: blue
+:id: 65b656a1-30ab-4945-961c-29b9692f0fee
+:END:
+* 一个方面是判断作为一种思维形式，其本身的组成、结构必须做到恰当
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: blue
+:id: 65b657b9-768e-4a69-a3a7-3c95ae2a8564
+:END:
+* 而作为工具，自然就存在着人们对这种工具的应用是否得当的问题，所以判断的应用也必须是恰当的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 44
+:hl-color: blue
+:id: 65b657d4-2f1c-431a-99a3-fb037be3a4d5
+:END:
+* 这类判断都是断定某对象具有（或不具有）某种性质的判断，故亦称性质判断，传统上称之为直言判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65809-4de9-4d41-b2e7-b18820c0df84
+:END:
+* 直言判断是由主项、谓项、联想和量项构成
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65811-aba7-40ef-8314-1683af8031a7
+:END:
+* 主项是反映判断对象的概念
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65835-934a-4feb-9347-b0842372e85e
+:END:
+* 谓项是反映判断对象具有或不具有某种性质的概念
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b6583d-714e-4e6a-80e9-68cd176f09f1
+:END:
+* 联项是联结主项和谓项的概念
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65847-5afb-4641-9153-c8f7b74fd33e
+:END:
+* 量项是反映判断对象数量的概念
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b6584c-5133-49bf-9e5c-f3b6dd8eb427
+:END:
+* 特称量项
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65850-7dcb-49b9-ba02-14a8595e972b
+:END:
+* 全称量项
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65853-b930-4c6f-a2e3-6683042b946c
+:END:
+* 关系判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b6585d-ad43-4516-afeb-068a17125eeb
+:END:
+* 断定对象之间具有（或不具有）某种关系的判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 45
+:hl-color: blue
+:id: 65b65864-51c0-44f8-b27e-dd5be4e57e07
+:END:
+* 复合判断，它是包含了其他判断的一种判断，它用逻辑联结词把一个或几个判断（一般是简单判断，但也可能是复合判断）联结而成。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: blue
+:id: 65db00b9-62b9-493f-9240-b026c11fa997
+:END:
+* 联言判断，即断定事物若干情况同时存在的判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: blue
+:id: 65db00c4-ddbd-4f06-9683-3ca8a313bdb5
+:END:
+* 选言判断，即断定事物若干可能情况的判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: blue
+:id: 65db00c9-e5b3-4bef-94de-0082784677c0
+:END:
+* 假言判断，即断定事物情况之间条件关系的判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: blue
+:id: 65db00d0-6bed-4f57-b8d1-11600df35fb6
+:END:
+* 负判断，即通过否定某个判断而得到的判断
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 46
+:hl-color: blue
+:id: 65db00de-0094-4b31-a84a-aebdf232657e
+:END:
+* 关于直言判断自身构成是否恰当的问题，也就是有关作为判断组成要素的各个词项之间的结构是否恰当的问题
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: blue
+:id: 65db03e2-d14f-4047-a0d9-b016d765b823
+:END:
+* 首先就必须要求其主项与谓项是相应相配
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 47
+:hl-color: blue
+:id: 65db03ea-b9b7-4bb1-9c77-d9d50fc69d9e
+:END:
+* 全称量项（每个、任何、没有）与特称量项（有的）
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 50
+:hl-color: blue
+:id: 65db04cd-5df6-4808-9658-fdc5506a5db9
+:END:
+* 这类错用的情况常常是发生在误用多重否定和反诘句的情况下
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:hl-color: blue
+:id: 65db0739-e0fe-4533-804c-a28d78d56158
+:END:
+* 不要把联言判断的联结词误用为选言判断的联结词，或把选言判断的联结词误用为联言判断的联结词；在运用假言判断时，不要把充分条件假言判断的联结词与必要条件假言判断的联结词相互混用
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 51
+:hl-color: blue
+:id: 65db0782-7c5d-469f-96ca-c50b51ee804b
+:END:
+* 语境指人们在交际过程中表达思想感情的语言环境，它包括说话者、听话者、说话的时间、地点以及交际者共同具有的知识等因素。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: blue
+:id: 65db0864-a8a8-4c0e-9cab-dfabd7e72b3e
+:END:
+* 狭义的语境，即书面语言的上下文或口头语言的前言后语
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: blue
+:id: 65db086c-8a87-413b-862d-3dee0584412d
+:END:
+* 广义的语境还包括表达思想时的社会环境
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: blue
+:id: 65db0871-3d6a-4c2e-99a2-9b24c561767d
+:END:
+* 只有在一定的语境中，我们才能判定一个判断是恰当的还是不恰当的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 55
+:hl-color: blue
+:id: 65db0894-0c86-4d7e-8484-b11b876392c5
+:END:
+* 所谓预设是人们在交际过程中，交际双方共同接受的事实和命题
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 56
+:hl-color: blue
+:id: 65db08e2-86d1-4663-b4c6-d74b47cca602
+:END:
+* 如果我们以S表示某一特定语句（表达一特定判断），非S表示对 S的否定，S’表示它们的预设，那么当S真时S’真，非S真时S’也真，即无论S是真还是假，都预设了S’。这是预设的一个重要的性质。因此，一个陈述句及其所表达的判断，如果是有意义的，恰当的，其预设就必须是真的，否则该陈述句及其所表达的判断就是没有意义的，因而也就不可能是恰当的。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 57
+:hl-color: blue
+:id: 65db094f-2928-4743-a3ae-dc70044ef6a7
+:END:
+* 判断（以及表达判断的命题）必须是真的，其中也包括作为判断成立的前提的预设必须首先是真的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 58
+:hl-color: blue
+:id: 65db0a3d-4135-477a-8ea7-b165b4eb07be
+:END:
+* 判断（或者表达判断的命题）的断定含义必须清晰、明确、无歧义
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:hl-color: blue
+:id: 65db0a92-4d6b-41c5-aec6-76ee758c5839
+:END:
+* 首先，作为判断组成部分的概念（或表达概念的词项）必须是明确、清晰而无歧义的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 59
+:hl-color: blue
+:id: 65db0a9e-108f-43a5-858e-fa898db83bba
+:END:
+* 分析判断所面对的具体实践要求以明确判断的目的和任务
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 60
+:hl-color: blue
+:id: 65db0b09-05d7-4273-9e39-3c849d2c3767
+:END:
+* 推理是由一个或几个已知的命题推出一个新命题的思维形式
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: blue
+:id: 65e323e9-5b1f-4df2-9971-dbce36fdbfed
+:END:
+* 作为推理依据的命题
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: blue
+:id: 65e32407-efea-4582-a8b9-6c4ef7c2d494
+:END:
+* 称为推理的前提
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: blue
+:id: 65e3240d-2e0c-4180-a06c-7f92a442886f
+:END:
+* 前提推出的命题
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: blue
+:id: 65e32419-87bd-45c5-b997-5896032db277
+:END:
+* 称为推理的结论。
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 64
+:hl-color: blue
+:id: 65e3241d-2dd1-4361-ad1b-9c3df5b8ef11
+:END:
+* 所谓推理就是由前提推出结论的一种思维形式
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 65
+:hl-color: blue
+:id: 65e32427-1047-4880-88e8-cdb865d68a8f
+:END:
+* 逻辑学所要研究的是推理形式的有效性
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: blue
+:id: 65e3250a-8e87-46e4-a2ea-630d732a9dc8
+:END:
+* 逻辑学对推理的要求必然是而且也只能是推理要合乎逻辑
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: blue
+:id: 65e32513-0fb9-4db5-9004-901195bf84e3
+:END:
+* 演绎推理，也就是前提能蕴涵结论的推理
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: blue
+:id: 65e32533-dd3e-43ba-b32d-40a893201adb
+:END:
+* 必然性推理
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 67
+:hl-color: blue
+:id: 65e3253f-0c9e-4443-acca-5f986f48dda9
+:END:
+* 由真前提并不能必然推出真结论的推理称为非必然性推理，亦即或然性推理
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: blue
+:id: 65e32581-b9cf-45b0-9a72-8c921bdd2947
+:END:
+* 归纳推理
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 68
+:hl-color: blue
+:id: 65e3258c-4f8e-4d86-8f50-e74665be6e85
+:END:
+* 逻辑学家传统上认为归纳推理的合理性可以通过前提的数目及其所涉及范围的大小来确定的
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: blue
+:id: 65e325bf-bdd7-4752-af13-a408f324f642
+:END:
+* 当概率越大时，结论的可信度越高，该归纳推理就越合理
+:PROPERTIES:
+:ls-type: annotation
+:hl-page: 69
+:hl-color: blue
+:id: 65e325d2-cf28-4b59-80bf-9a9d1e5eae3d
+:END:
