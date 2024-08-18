@@ -1,0 +1,10 @@
+- UI with interaction turn to
+	- UI as readonly interface to observer
+	- Chat with AI to change the data
+	- Reflect the change on UI
+	- Then we can forget all UI controls and their interaction approach
+		- Essentially what users do with the "controls"?
+			- Change data
+				- checkbox, radio, options -- just select one(or multiple) from a list
+			- Invoke command -- command line text
+	- This making a language(DSL) very crucial
